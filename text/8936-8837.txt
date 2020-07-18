@@ -1,0 +1,467 @@
+ 
+
+ 
+
+ 
+
+Desenvolvimento de um Protótipo de Identificação do Nível de 
+Escrita para Dispositivos Móveis: uma Ferramenta de 
+Sondagem no Ensino 
+
+Claudemir J Lima1, Elidiene G. Oliveira, Gustavo Callou, Gilberto A. de A. 
+Cysneiros F.1 
+
+1Departamento de Informática – Universidade Federal Rural de Pernambuco (UFRPE) – 
+Recife – PE – Brasil 
+
+{claudemir.jlima, gustavo.callou, gilberto.cysneiros}@ufrpe.br, 
+elidienegomes@gmail.com 
+ 
+
+Abstract.The poll of the student's writing level is very important for the teacher 
+to direct his practices with activities that promote the advancement of writing. 
+There are few applications that perform poll of the writing level, so this article 
+describes  the  creation  of  an  NEA  (Alphabetic  Writing  Level)  prototype  to 
+perform a poll of the writing level in the  literacy process that is based on the 
+Psychogenesis  of  written  language.  The  partial  results  of  the  prototype, 
+according to the teacher member of a municipal school of the public network of 
+Recife,  contributed  to  the  construction  of  an  instrument  for  the  diagnostic 
+evaluation  of  the  students'  writing  level.  The  partnership  between  the 
+professional  in  the  pedagogical  and  technological  area  for  creating  the 
+educational application is essential. 
+ 
+
+Resumo. A sondagem do nível de escrita do estudante é muito importante para 
+o professor direcionar suas práticas com atividades que promovam o avanço da 
+escrita.   Há poucos aplicativos que realizam a sondagem do nível de  escrita, 
+dessa  forma,  esse  artigo  descreve  a  criação  de  um  protótipo  NEA  (Nível  de 
+Escrita Alfabética) para realização de sondagem do nível de escrita no processo 
+de  alfabetização  que  é  embasado  na  Psicogênese  da  língua  escrita.  Os 
+resultados  parciais  do  protótipo,  segundo  o  professor  participante  de  uma 
+escola municipal da rede pública do Recife, contribuíram para a construção de 
+um instrumento de avaliação diagnóstica do nível de escrita dos estudantes. A 
+parceria  do  profissional  na  área  pedagógica  e  tecnológica  para  criação  do 
+aplicativo educacional está sendo essencial.  
+
+1. Introdução 
+
+É notória a necessidade da inserção tecnológica na escola como meio que contribui para 
+ação pedagógica no processo de ensino e aprendizagem. A importância da intervenção 
+dessas ações é fundamental para realização de um trabalho mais estratégico e eficaz na 
+instituição  de  ensino.  São  diversos  recursos  tecnológicos  que  facilitam  o  acesso  ao 
+conhecimento  e  cada  vez  mais  a  sociedade  está  imersa  nesses  meios  (DEMO  2010b, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SILVA,  2017).  Assim  sendo,  com  o  aumento  da  convergência  multididática  em 
+tecnologias móveis, juntamente com a parceira multidisciplinar de profissionais na área 
+da educação e tecnologia, ampliam-se as possibilidades de construção de aplicativos que 
+auxiliem as diversas necessidades educacionais. 
+
+ 
+O conhecimento tecnológico para desenvolvimento de aplicativos para Android 
+vem crescendo para serem utilizados nos dispositivos móveis como tablets e celulares. 
+Muitas escolas utilizam o tablet em suas atividades pedagógicas em sala de aula, além 
+disso os estudantes vêm apresentando cada vez mais habilidades no uso de aplicativos 
+Android. 
+
+ 
+
+ 
+ Dentro desse objetivo essa pesquisa visa conhecer a linguagem de programação 
+Kotlin,  analisar  a  funcionalidade  do  aplicativo  com  parceria  do  conhecimento  de  um 
+professor  alfabetizador,  validar  a  aplicabilidade  e  possíveis  melhorias  do  aplicativo.  A 
+metodologia  da  pesquisa  incidirá  a  partir  de  um  Estudo  de  Caso  de  caráter  descritivo 
+numa  abordagem  qualitativa  a  partir  de  um  estudo  teórico,  do  aplicativo  em 
+desenvolvimento,  da  observação  estruturada  de  participantes  e  através  de  entrevistas 
+semi-estruturadas.  Os  participantes  serão  o  professor  alfabetizador  e  estudantes  em 
+processo de alfabetização dos anos iniciais do ensino fundamental.  
+
+2. Tecnologia na Educação 
+
+As  Tecnologias  de  Informação  e  Comunicação  (TICs),  contribuem  na  educação, 
+ampliando as possibilidades no processo de ensino e aprendizagem.  Para  Kenski (2008) 
+e Moran (2007) os recursos tecnológicos são significativos para o processo de ensino e 
+aprendizagem se forem utilizados de forma planejada, lógica e organizada. 
+
+ 
+Segundo Moran (2004) “as tecnologias sozinhas não mudam a escola, mas trazem 
+mil possibilidades de apoio ao professor e de  interação com  e entre os alunos”. Dessa 
+forma,  é  preciso  do  apoio  do  professor  juntamente  com  o  estudante  para  conhecer  as 
+necessidades  educacionais  da  escola,  utilizando  os  recursos  de  forma  mais  eficaz  e 
+significativa.  Assim  sendo,  surgem  crescentemente  recursos  digitais  como  aplicativos 
+educacionais  com  diferentes  visões  metodológicas  para  atender  diversas  necessidades 
+educacionais.  
+
+ 
+É necessário dessa maneira, conhecer os aplicativos e recursos disponíveis para 
+que  se  possam  usá-los  com  a  estratégia  mais  adequada  de  interação  entre  estudante, 
+professor  e  as  (TICs).  Nesse  contexto,  o  desenvolvedor  de  aplicativos  necessita  se 
+articular com a equipe pedagógica para que de forma multidisciplinar possa desenvolver 
+pesquisas com o uso das tecnologias da informação, de forma que atenda às necessidades 
+educacionais contribuindo na construção do conhecimento. 
+
+3. Sondagem do Sistema de Escrita Alfabética 
+
+Há uma necessidade para que o professor possa avaliar o nível de escrita alfabética da 
+criança, jovens ou adultos em processo de alfabetização. Esse sistema de escrita alfabética 
+é baseado em teorias que classificam o nível de escrita. Essas teorias contribuem para a 
+prática  dos  professores  alfabetizadores  adequando  suas  metodologias  e  estratégias 
+baseada na sondagem de escrita do estudante e analisando o raciocínio que a criança faz 
+para escrever e compreender o processo de construção do sistema de escrita  alfabética 
+(SEA). 
+
+Uma das teorias da escrita é embasada segundo a teoria da Psicogênese da língua 
+
+escrita desenvolvida por Ferreiro e Teberosky (1999). A autora Emília Ferreiro classifica 
+os  níveis  de  escrita  em:  pré-silábico,  silábico,  silábico-  alfabético  e  alfabético.  Artur 
+Moraes  em  concordância  com  Magda  Soares  também  classifica  a  fases  de  escrita 
+alfabética.  Morais et al. (2012) afirmam que para analisar o nível de escrita das crianças 
+é preciso: 
+
+Um dos programas desenvolvido pelo MEC que é o Pacto Nacional da Educação 
+ 
+na Idade Certa com Artur Morais, Telma Ferraz. Outros municípios também trabalham 
+com o projeto do Alfaletrar com Magda Soares todos voltados para o avanço na educação 
+se  baseando  na  teoria  da  Psicogênese  da  língua  escrita  desenvolvida  por  Ferreiro  e 
+Teberosky (1999). 
+
+Fonte: https://slideplayer.com.br/slide/5634849/ 
+
+Como  se  observa  na  imagem  do  projeto  ALFALETRAR,  desenvolvido  por 
+ 
+Magda Soares as crianças passam por algumas fases de escrita na qual o professor precisa 
+realizar  avaliações diagnósticas, para  acompanhar  a evolução do estudante  e organizar 
+atividades para o avanço da fase de escrita. 
+
+ 
+Dessa forma essa pesquisa propõe o desenvolvimento de tecnologia aplicada para 
+colaborar com a prática pedagógica do professor na realização dessa sondagem do nível 
+do sistema de escrita alfabética (SEA).  
+Baseado nessa necessidade foi realizado um 
+protótipo de um aplicativo para Android com a linguagem de programação Kotlin para 
+sondagem do nível de escrita do estudante chamado de NEA- Nível de Escrita Alfabética. 
+Entretanto,  foi  pesquisado  alguns  artigos,  aplicativos  para  dispositivo  móveis  e 
+aplicativos para web. Tais pesquisas foram abordadas no seguinte tópico. 
+
+4. Trabalhos relacionados ao protótipo do aplicativo NEA 
+
+São poucos os trabalhos encontrados sobre aplicativos para sondagem do nível de escrita 
+até o momento dessa pesquisa, no entanto, foi possível ler os artigos publicados e entender 
+a aplicabilidade e funcionalidades dos aplicativos. Dentre eles, esse artigo se baseou nos 
+seguintes trabalhos: Psicogênese da escrita infantil – PEI, ROSSETTO (2017), Aplicativo 
+para Auxiliar Professores nas Avaliações de Psicogênese da Escrita, MOMBACH et al. 
+(2017)  e  o  Aplicativo  Sondagem  Descomplicada:  sistema  de  informação  aplicado  à 
+alfabetização, BORGES et al. (2016). A busca por trabalhos baseados nessa tese no Portal 
+de Publicações da CEIE mostra que o tema ainda precisa de maior relevância na área de 
+Informática  na  Educação  no  Brasil,  visto  que  a  quantidade  de  pesquisas  é  limitada 
+(MOMBACH et al. 2017). Dentre eles foram citados os seguintes artigos: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1. Psicogênese da escrita infantil – PEI , ROSSETTO (2017), Alessandra. 
+
+A pesquisadora desse primeiro protótipo do aplicativo PEI contou com o apoio de uma 
+plataforma gratuita  Fábrica de Aplicativos (2017).  No entanto,  a mesma necessitou do 
+auxílio de um programador para dar continuidade ao protótipo pois a plataforma Fábrica 
+de  Aplicativos  não  oferecia  condições  de  avançar  para  evolução  do  aplicativo.  Dessa 
+forma a ferramenta online Marvell App e Google  Firebase, Software Development Kit 
+(SDK),  ou  seja,  um  conjunto  de  ferramentas  foram  utilizadas.  As  seguintes  atividades 
+foram realizadas: 
+
+▪  Projetar as telas, definir cores; 
+▪  Criar os módulos que fariam parte de cada aba do aplicativo; 
+▪  Criar a logomarca; 
+▪  Desenvolver os algoritmos que se aproximariam ao máximo da leitura real da 
+
+escrita das crianças; 
+Inserir a parte auditiva; 
+
+▪ 
+▪  Buscar por imagens e áudios compatíveis com o campo semântico escolhido. 
+
+4.2 Aplicativo para Auxiliar Professores nas Avaliações de Psicogênese da Escrita, 
+MOMBACH et al. (2017) 
+
+ 
+O  presente  aplicativo  foi  desenvolvido  com  apoio  dos  recursos  da  Unified 
+Modeling  Language  (UML)  e  do  Massachusetts  Institute  of  Technology  (MIT)  App 
+Inventor 3 para o sistema Android 4. Tal aplicativo permite: 
+
+▪  Que os professores avaliem a habilidade de escrita dos alunos; 
+▪  Que os professores adicionem novas atividades de acordo com o nível de escrita 
+
+do estudante; 
+
+▪  Analisar o progresso dos alunos com base em testes previamente aplicados. 
+
+4.3 Sondagem Descomplicada: sistema de informação aplicado à alfabetização, 
+BORGES et al. (2016) 
+ 
+Esse  aplicativo  utilizou  como  armazenamento  o  banco  de  dados  do  Android 
+(SQLite)  e também o auxílio do Google Vision para pode detectar conjuntos de objetos 
+em suas imagens chamada tecnologia Optical Character Recognition (OCR), a partir de 
+flores,  animais  ou  transporte  pois  o  Google  Vision  detecta  e  extrai  o  texto  dentro  da 
+imagem,  para  uma  grande  variedade  de  línguas,  juntamente  com  suporte  para  a 
+identificação  automática  de  idiomas  (GOOGLE,  2016,  online  apud    BORGES  et  al., 
+2016). Nele houve a inserção dos seguintes dados:  
+
+▪  Palavras escritas do estudante (monossílaba, dissílaba, trissílaba e polissílaba) e 
+uma frase com uma das palavras escritas para cadastro de sondagem e sugestão 
+da fase de escrita do estudante;  
+
+▪  Automatização na separação de sílabas; 
+▪  Captura e armazenamento de imagens das escritas; 
+▪  Gráficos de evolução de cada aluno no processo de sondagem, consulta, alteração 
+
+e remoção de registros; 
+▪  Consultas de sondagens; 
+▪  Modelos de sondagens de acordo com o campo semântico de imagens que faz 
+
+parte da mesma categoria, exemplo: lista de animais, lista de doces. 
+ 
+
+4.4 Protótipo NEA 
+
+Para o desenvolvimento do protótipo utilizando a ferramenta Android Studio, com 
+as  linguagens  de  programação  Java  e  Kotlin.  Para  o  armazenamento  dos  dados  foi 
+utilizado o Firebase da Google. O protótipo permite: 
+
+Inserir a logomarca; 
+
+▪ 
+▪  Desenvolver uma função que se aproxima ao máximo da hipótese de escrita da 
+
+escrita das crianças; 
+Inserir imagens vinculadas com lista de palavras do mesmo campo semântico 
+
+▪ 
+▪  Exibir feedback para cada palavra respondida pelo estudante 
+▪  Exibir sugestão da hipótese do nível de escrita do estudante 
+
+5. Metodologia 
+
+Sendo  de  caráter  descritivo,  essa  pesquisa  dispõe-se  a  interagir  com  o  professor 
+participante para uma melhor compreensão da sondagem do nível de escrita do estudante 
+em processo de alfabetização, independente da faixa etária. O professor nessa versão, faz 
+a  simulação  de  algumas  possibilidades  de  hipótese  de  escrita  do  estudante  para  o 
+aplicativo sugerir o nível de escrita. Após a simulação e análise do professor, organizou-
+se uma lógica de programação para o desenvolvimento do aplicativo NEA.  Portanto, é 
+essencial compreender a realidade com suas especificidades e influências em diferentes 
+fenômenos  que  não  podem  ser  calculados  e  sim  compreendidos  aproximando  mais  a 
+realidade com o objeto de investigação. (ZANETTE, 2017, p. 157). 
+
+Reunião com o 
+professor 
+participante 
+
+Levantamento 
+dos requisitos 
+funcionais 
+
+Desenvolvimento 
+do APP. 
+
+Simulação da 
+hipótese de 
+escrita 
+
+Figura 1. Etapas da metodologia 
+
+5.1-  Reunião  com  o  professor  formador:  Foi  realizado  reunião  para  entendimento  da 
+dinâmica no tocante ao método utilizado para avaliar o nível da escrita.  
+
+5.2- Levantamento dos requisitos funcionais: Nesta  etapa foi identificado os requisitos 
+funcionais do aplicativo e formatado a ordem de desenvolvimento das telas do aplicativo. 
+
+5.3- Desenvolvimento do app (protótipo): Para o desenvolvimento foi utilizado o Android 
+Studio,  com  as  linguagens  de  programação  Java  e  Kotlin.  Para  o  armazenamento  dos 
+dados utilizamos o Firebase da Google.  
+
+5.4-  Simulação  da  hipótese  de  escrita:  Após  o  protótipo  desenvolvido  o  professor 
+alfabetizador realizou a instalação do app no dispositivo móvel. Em seguida, simulou a 
+escrita dos estudantes nas fases de hipótese disponíveis no aplicativo NEA tais como: pré-
+silábico,  silábico  sem  valor  sonoro,  silábico  com  valor  sonoro,  silábico-alfabético  e 
+alfabético. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Resultados Preliminares 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Tela 01 
+
+ 
+
+        Tela 02 
+
+ 
+
+             Tela 03 
+
+                                  Tela 04 
+
+Figura 2. Telas do aplicativo 
+
+ 
+Após o modelo criado pelo professor simulando as possibilidades de hipótese de 
+escrita  do  estudante  para  cada  palavra  inserida,  percebeu-se  qual  seriam  os  requisitos 
+funcionais para o desenvolvimento do protótipo. O professor solicitou que fossem listadas 
+palavras do mesmo campo semântico sendo exibida uma imagem em  cada formulário, 
+representando a palavra analisada pelo app, como mostrado na terceira e quarta tela da 
+Figura  2.  Para  facilitar  a  visualização  foi  solicitado  o  uso  de  imagens  reais  para  cada 
+palavra.  A  primeira  tela  da  Figura  2  exibe  um  menu  contendo  os  itens:  “Início”, 
+“Cadastrar  palavras”  e  “Sobre”.  A  segunda  tela  da  Figura  2  permite  que  o  usuário 
+professor, cadastre imagens e palavras que serão utilizadas para a avaliação do nível de 
+escrita. Após a inserção da palavra o professor digitará logo abaixo as possíveis respostas 
+e classificará o seu nível da escrita, assim o aplicativo irá comparar com o digitado pelo 
+aluno como mostra na terceira tela da Figura 2.  
+
+ 
+Após  concluir  o  cadastro  das  palavras  o  professor  clicará  no  menu  iniciar  e 
+aparecerá a terceira tela mostrada na Figura 2, quando o aluno digitar a palavra e clicar 
+no botão Avançar o app  irá para a próxima tela com uma nova  imagem  e campo para 
+inserção  da  digitação  pelo  aluno.  Após  a  digitação  e  validação  de  todas  as  palavras,  o 
+aplicativo irá sugerir o resultado da sondagem conforme mostrado na quarta tela da Figura 
+2. Após a análise do funcionamento do aplicativo quando o professor fez a simulação da 
+hipótese  de  escrita  do  estudante,  o  professor  percebeu  que  o  aplicativo  necessitava  de 
+ajuste para classificar alguns níveis corretamente. 
+
+7. Considerações Finais 
+
+O diálogo com o professor alfabetizador sobre a necessidade de criação de um aplicativo 
+para apoiá-lo na sondagem de escrita alfabética foi essencial.  Os testes realizados por ele 
+no  app  foram  significativos  para  analisar  se  a  sugestão  dos  mesmos  classificava 
+corretamente o nível de escrita do estudante para buscar futuros ajustes. Desta forma, foi 
+possível fazer uma parceira multidisciplinar com profissional da educação e da tecnologia 
+no desenvolvimento do aplicativo  e validar a aplicabilidade com possíveis melhorias e 
+
+posteriormente serem testadas com os estudantes. Para continuidade do desenvolvimento 
+do protótipo sugere-se que o resultado também armazene em banco de dados  Firebase 
+um histórico (portfólio) de respostas de cada estudante. Assim sendo, contribuindo para 
+auxiliar o professor na hipótese de escrita de cada estudante. Com isso essa pesquisa busca 
+contribuir  para  futuros  estudos  envolvendo  o  desenvolvimento  de  aplicativos  para 
+dispositivos móveis com a finalidade de fazer sondagem da hipótese de escrita alfabética, 
+ampliando  as  possibilidades  de  recursos  pedagógicos  com  o  uso  das  tecnologias  na 
+educação.   
+
+Referências 
+
+BORGES,  Fábio  Ferreira;  Oliveira,  PATRICK  Mendonça;  PIRES,  Daniel  Facciolo.  
+Sondagem Descomplicada: sistema de informação aplicado à alfabetização. Revista 
+Eletrônica  de  Sistema  de  Informação  e  Gestão  Tecnológica.  Vol.07,n.01-2016. 
+Disponível  em:  http://periodicos.unifacef.com.br/index.  php/resiget/issue/view/130 
+Acesso em: 16 de junho de 2018 
+
+KENSKI,  Vani  Moreira.  A  urgência  de  propostas  inovadoras  para  a  formação  de 
+professores para todos os níveis de ensino. Rev. Diálogo Educ., Curitiba, v. 15, n. 
+45, p. 423-441, maio/ago. 2015. 
+
+MORAN, José Manuel. A educação que desejamos: novos desafios e como chegar lá. 
+
+2. ed.Campinas, SP: Papirus, 2007. 174p. 
+
+MORAN, José Manuel. OS NOVOS ESPAÇOS DE ATUAÇÃO DO PROFESSOR 
+COM AS TECNOLOGIAS. Revista Diálogo Educacional, Curitiba, v. 4, n.12, p.13-
+21, maio/ago. 2004. 
+
+VI  Congresso  Brasileiro  de  Informática  na  Educação  (CBIE  2017).  Anais  do  XXVIII 
+Simpósio  Brasileiro  de  Informática  na  Educação  (SBIE  2017).  Aplicativo  para 
+Auxiliar  Professores  nas  Avaliações  dePsicogênese  da  Escrita.  MOMBACH, 
+Jaline; SOUZA Paulo Silas; LEAL, Lara. 
+
+BRASIL.  Secretaria  de  Educação  Básica.  Diretoria  de  Apoio  à  Gestão  Educacional. 
+Pacto  nacional  pela  alfabetização  na  idade  certa  :  planejamento  escolar  : 
+alfabetização  e  ensino  da  língua  portuguesa  :  ano  1  :  unidade  2  /  Ministério  da 
+Educação, Secretaria de Educação Básica, Diretoria de Apoio à Gestão Educacional. -
+- 
+Disonível 
+em:<http://www.piraquara.pr.gov.br/aprefeitura/secretariaseorgaos/educacao/upload
+Address/Unidade_03_Ano_01_%5B3634%5D.pdf> . Acesso em : 05 de maio. 2018 
+
+Brasília 
+
+MEC, 
+
+2012. 
+
+SEB, 
+
+: 
+
+ROSSETTO, Alessandra Dedéco Furtado. PSICOGÊNESE DA ESCRITA INFANTIL 
+– PEI. Universidade Tecnológica Federal do Paraná – Campus Londrina Programa de 
+Pós-Graduação Em Ensino de Ciências Humanas, Sociais e da Natureza – Ppgen. 2017 
+
+ZANETTE, M. S. Pesquisa qualitativa no contexto da Educação no Brasil. Educar em 
+Revista,  Curitiba,  Brasil,  v.  33,  n.  65,  p.  149-166,  jul./set.  2017.  Disponível  em:< 
+revistas.ufpr.br/educar/article/download/47454/33236>. Acesso em: 22 maio. 2018. 
+
+ 
+
+ 
+
+ 
+
+

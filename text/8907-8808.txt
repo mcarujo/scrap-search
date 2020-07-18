@@ -1,0 +1,451 @@
+Tecnologia Digital na Aprendizagem Baseada em Projetos em 
+Curso de Graduação em Enfermagem 
+
+Danielle Christine Moura dos Santos1, Raphaela Delmondes do Nascimento1, Jael 
+Maria de Aquino1, Walmir Soares da Silva Júnior1, Marize Conceição Ventin 
+Lima1, Gabrielle Leite Pacheco Lisbôa1, Isabella Almeida1 
+
+Faculdade de Enfermagem Nossa Senhora das Graças (FENSG) – Universidade de 
+Pernambuco (UPE) – Recife – Pernambuco - Brasil 
+
+danielle.moura@upe.br, raphaela.delmondes@upe.br, jael.aquino@upe.br, 
+walmir.soares@upe.br, marizeventin@hotmail.com, 
+gabizinha_lcpacheco@hotmail.com, isabellajsa@gmail.com 
+
+Abstract.  Project-Based  Learning  (PBL)  is  a  teaching  strategy  that  enables 
+students  to  confront  the  issues  and  problems  of  a  reality  they  consider 
+significant. The aim of this paper is to report the use of digital technologies in 
+project-based  learning  in  undergraduate  nursing.  The  teaching  activities 
+presented compose the contents of scientific methodology of the first period. The 
+results of the activities are presented at a public event organized by students 
+that collaboratively develop the skills expected for the 21st century. 
+
+Resumo.  A  Aprendizagem  Baseada  em  Projetos  (ABP)  é  uma  estratégia  de 
+ensino que consiste em possibilitar que os alunos confrontem as questões e os 
+problemas  de  uma  realidade  que  consideram  significativos.  O  objetivo  deste 
+trabalho é relatar a utilização de tecnologias digitais na aprendizagem baseada 
+em projetos em curso de graduação em enfermagem. As atividades de ensino 
+apresentadas  compõem  os  conteúdos  de  metodologia  científica  do  primeiro 
+período.  Os  resultados  das  atividades  são  apresentados  em  evento  público 
+organizado  pelos  estudantes  que  de  modo  colaborativo  desenvolvem  as 
+habilidades esperadas para o século XXI.  
+
+1. Introdução 
+
+ 
+Nas últimas décadas, tem-se discutido a necessidade de mudanças no processo de 
+ensino  e  aprendizagem  no  ensino  superior.  No  entanto,  em  sala  de  aula,  o  professor, 
+habitualmente, reproduz as mesmas estratégias de ensino às quais foi submetido, em um 
+paradigma tradicional da transmissão [VOSGERAU et al., 2018] 
+
+ 
+Inovações  têm  surgido  no  contexto  dos  métodos  de  ensino-aprendizagem,  sob 
+influência  de  pesquisas  e  modelos  comportamentais  provenientes  da  educação,  da 
+neurociência  e  da  psicologia.  Desataca-se  neste  cenário,  os  métodos  de  aprendizagem 
+ativa, em que o papel do professor passa a ser de um mediador do aprendizado, enquanto 
+o  aluno  assume  o  papel  de  protagonista  do  processo  de  aquisição  de  seu  próprio 
+conhecimento [HENRIQUE; PRADO; VIEIRA, 2014] 
+
+ 
+A  aprendizagem  ativa  (Active  Learning)  é  um  termo  genérico  que  expressa  as 
+atividades que envolvem os alunos em fazer as coisas e pensar sobre as coisas que eles 
+
+ 
+
+estão  fazendo  nos  processos  de  aprendizagem.  É  um  método  de  pedagogia  de 
+engajamento,  onde  busca-se  o  comprometimento  dos  alunos  na  aprendizagem 
+[BONNELL; EISON, 1991]. Ela reúne inúmeras estratégias e métodos de ensino onde se 
+pretende  ativar  ou  desenvolver  o  pensamento  crítico  dos  alunos  no  processo  de 
+aprendizagem. Como exemplos de metodologias ativas pode-se citar: aprendizagem entre 
+pares,  discussões  em  grupo,  estudos  de  caso  (case  studies),  Flipped  Classroom, 
+aprendizagem colaborativa (Cooperative learning), aprendizagem baseada em problemas 
+(PBL – Problem Based Learning), aprendizagem baseada em equipe (TBL – Team Based 
+Learning), aprendizaegm baseada em projetos e inquiry-based learning [GUIMARÃES 
+et al., 2018]. 
+
+Neste contexto, a Aprendizagem Baseada em Projetos (ABP) é uma estratégia de 
+ 
+ensino que consiste em possibilitar que os alunos confrontem as questões e os problemas 
+de uma realidade que consideram significativos, determinando como abordá-los e, então, 
+agindo de forma cooperativa em busca de soluções [BENDER, 2014; TAVARES et al, 
+2001]. 
+
+ 
+A  busca  de  soluções,  de  modo  cooperativo,  pode  ser  realizado  utilizando 
+tecnologias digitais. A inserção da tecnologia nas práticas pedagógicas foi conquistando 
+espaço  nos  últimos  anos,  por  suas  demonstrações  e  benefícios  apresentados.  Assim,  a 
+integração  de  aulas  presenciais  com  o  uso  de  tecnologias,  vem  propiciando  o 
+desenvolvimento da educação em qualquer lugar e a qualquer tempo [ZANOTTO et al, 
+2014]. 
+
+ 
+A  utilização  das  Tecnologias  de  Informação  e  Comunicação  (TIC’s)  é  uma 
+interessante  metodologia  alternativa,  unindo  o  aprendizado  e  a  obtenção  de  novas 
+informações à boa recepção, por parte dos estudantes com a utilização de ferramentas que 
+aos  poucos  vem  conquistando  seu  espaço  dentro  das  salas  de  aula  para  fins  didáticos 
+[LAURILLARD, 2012]. 
+
+ 
+O uso das TIC’s na sala de aula  exerce um papel cada vez mais importante na 
+comunicação, aprendizado e vivência ao discente. Moran (2015) reforça a necessidade de 
+uma busca constante de transformar o universo educacional em ambientes motivadores e 
+significativos  ao  aprendizado,  acrescentando  ao  estudante  a  necessidade  de  ser: 
+pesquisador, crítico e tomador de decisão pautado nos conhecimentos científicos. 
+
+ 
+Neste  sentido,  a  Diretriz  Curricular  Nacional  do  curso  de  graduação  em 
+enfermagem pauta que é necessário utilizar metodologias ativas de ensino-aprendizagem 
+e abordagens inovadoras que  estimulem a  aprendizagem significativa, como o uso das 
+diversas  tecnologias  em  favor  da  educação  em  saúde.  Buscando  elaborar  projetos 
+educativos de forma participativa com os sujeitos da ação e que contemplem o diagnóstico 
+das necessidades destes, fortalecendo a integração ensino-serviço-comunidade [BRASIL, 
+2001]. 
+
+ 
+De  tal  modo,  o  objetivo  deste  trabalho  é  relatar  a  experiência  de  um  curso  de 
+graduação em enfermagem na aplicação de metodologias ativas, destacando a utilização 
+de tecnologias digitais na aprendizagem baseada em projetos. 
+
+Relato  de  experiência  da  proposta  pedagógica  do  módulo  I  (primeiro  período),  do 
+currículo de enfermagem, da Universidade de Pernambuco, Recife. O currículo  passou 
+por uma reforma, e desde 2010 possui estrutura integrada e modular, constituindo-se por 
+
+2. Método 
+
+ 
+
+10 semestres. São desenvolvidas aulas teóricas e práticas, em turno integral, pautado na 
+pedagogia histórico-crítica, com turmas compostas por 60 alunos. 
+
+ 
+O módulo I tem como objetivo de aprendizagem: compreender a situação de saúde 
+de uma população e a elaborar medidas de organização da atenção básica pela perspectiva 
+do  direito  à  saúde,  da  justiça  social  e  da  equidade,  bem  como  o  desenvolvimento  de 
+habilidades para o exercício da profissão de enfermagem. Ao final de cada semestre são 
+apresentados  Trabalhos  de  Conclusão  de  Módulo  (TCM)  que  atendam  aos  objetivos 
+traçados.  
+
+ 
+Uma das Unidades temáticas responsáveis pelo TCM é Metodologia Científica, 
+que  desde  2014,  por  meio  da  Aprendizagem  Baseada  em  Projetos,  aborda  os 
+conhecimentos  básicos  sobre  elaboração  de  projetos  e  relatório  de  pesquisa  buscando 
+integrar todos os conhecimentos desenvolvidos no módulo I nas suas diversas unidades 
+temáticas. 
+
+Nas aulas de metodologia científica são utilizadas as ferramentas do G Suite for 
+
+ 
+Education da empresa Google: docs, maps, planilhas e apresentações. 
+
+ 
+As  atividades  são  fundamentadas  na  aprendizagem  colaborativa  conforme 
+apresentado por Dillenbourg (1999),  é uma situação de aprendizagem na qual duas ou 
+mais  pessoas  aprendem  ou  tentam  aprender  algo  juntas,  por  meio  de  atividades 
+presenciais ou virtuais, síncronas ou assíncronas, em um esforço totalmente em conjunto 
+ou  com  divisão  de  tarefas.  Assim,  espera-se  que  ocorra  a  aprendizagem  como  efeito 
+colateral de uma interação entre pares que trabalham em sistema de interdependência na 
+resolução  de  problemas  ou  na  realização  de  uma  tarefa  proposta  pelo  professor 
+(TORRES; IRALA, 2014) 
+
+As  turmas  com  60  estudantes,  geralmente  são  divididas  em  grupos  de  até  10 
+ 
+alunos para as atividades práticas nas comunidades. Esses grupos também são os mesmos 
+para as atividades da unidade temática de metodologia científica e informática em saúde. 
+
+3. Resultados e Discussão 
+
+Ao longo do semestre é realizada  a construção do diagnóstico da situação de saúde de 
+uma  população  residente  em  um  território  da  cidade  do  Recife.  A  cada  semestre,  é 
+selecionado um novo local, uma comunidade, onde serão realizadas as aulas práticas do 
+módulo. Ao final do módulo, são produzidos relatórios no formato textual e audiovisual 
+com os dados que são coletados nas aulas práticas, e analisados nas aulas de informática 
+em  saúde  e  metodologia  científica.  Ao  final  do  semestre,  serão  apresentados  em  um 
+seminário de integração ensino-serviço.  
+
+ 
+Essas  atividades  compõem  o  planejamento  de  ensino  pautado  nas  fases  da 
+Aprendizagem Baseada em Problemas: 1. Criação e planejamento (onde há a definição 
+de  um  problema  central,  a  formulação  da  questão  motriz,  a  seleção  das  âncoras);  2. 
+Desenvolvimento  (envolver  a  turma  no  processo,  estimular  pesquisas,  realização  do 
+brainstorming); 3. Monitoramento e avaliação (acompanhar e registrar o desenvolvimento 
+dos  alunos,  verificar  os  ajustes  necessários  ao  longo  do  processo);  4.  Encerramento 
+(avaliação  se  os  objetivos  traçados  foram  alcançados,  divulgação  dos  resultados⁄ 
+artefatos). (BENDER, 2014). 
+
+O  objetivo  das  atividades  das  aulas  em  campo  de  prática  são  realizar  o 
+ 
+levantamento,  processamento  e  descrição  da  situação  de  saúde  e  da  organização  do 
+trabalho em saúde da família. Todos os dados coletados e analisados são apresentados em 
+
+ 
+
+formato de relatório de pesquisa e pôster que são entregues aos trabalhadores da unidade 
+de saúde da família no Seminário de Integração Ensino e Serviço. Os relatórios colaboram 
+com o planejamento das equipes de saúde, pois apresenta a situação sociodemográfica e 
+de saúde da população local. 
+
+ 
+Para  tal,  são  realizados  nas  comunidades  selecionadas:  1.  Mapeamento  do 
+território;  2.  Visitas  Domiciliares,  junto  com  profissionais  de  saúde  locais,  para  o 
+preenchimento das fichas de cadastramento familiar e individual.  Utiliza-se o prontuário 
+familiar  da  unidade  de  saúde,  e  instrumentos  do  Ministério  da  Saúde  do  sistema  de 
+informação da Atenção Básica, o e-SUS; 3.  Há entrevistas com as lideranças locais para 
+a  compreensão  do  processo  histórico  da  organização  do  espaço;  4.  Realização  de 
+atividade  de  educação  em  saúde,  planejada  após  a  coleta  dos  dados  e  identificação  da 
+temática a partir do diagnóstico realizado.  
+
+ 
+Assim,  através  de  exercícios  que  fomentem  o  pensamento  científico,  crítico  e 
+criativo na unidade de metodologia científica e informática em saúde, é lançado o desafio 
+para  a  turma:  Qual  a  situação  de  saúde  da  população  alvo?  Quais  os  determinantes  e 
+condicionantes do processo de saúde-doença? Essas são as questões motrizes do projeto 
+que será desenvolvido no semestre.  
+
+Neste  sentido,  a  trilha  de  aprendizagem  é  traçada  considerando  os  conteúdos 
+ 
+abordados  em  metodologia  científica:  construção  de  projetos  de  pesquisa,  técnica  de 
+coleta,  análise  e  apresentação  de  dados  e  informações.  Todos  os  conteúdos  são 
+contextualizados a partir do que eles observaram nas visitas realizadas à comunidade. O 
+objetivo é que esses conteúdos sejam significativos e que estimulem o protagonismo dos 
+alunos na resolução dos problemas. 
+
+As atividades de metodologia científica e informática em saúde são pautadas nas 
+ 
+habilidades  do  século  XXI,  onde  os  estudantes  exercitarão  o  trabalho  em  equipe 
+colaborativo, o raciocínio lógico, a comunicação e o manuseio de tecnologias digitais no 
+processo investigativo. É planejado um ambiente de aprendizagem centrado nos alunos, 
+onde utiliza-se pequenos grupos com aprendizagem ativa em que os professores atuem 
+como facilitadores [BENDER, 2014]. 
+
+ 
+Uma das primeiras atividades é a territorialização. A Territorialização é um dos 
+pressupostos básicos do trabalho das equipes de saúde da família. Este processo busca a 
+demarcação  de  limites  de  atuação  das  equipes  e  o  reconhecimento  do  território  e  sua 
+dinâmica  social.  Os  estudantes  ao  percorrerem  as  ruas  da  comunidade,  registram 
+informações  que  posteriormente  serão  analisadas  e  apresentadas  utilizando  o  Google 
+maps.  
+
+ 
+Existem  vários  sites  que  disponibilizam  aplicações  envolvendo  mapas  digitais. 
+Talvez o mais conhecido seja o Google Maps, que a grande maioria das pessoas já utilizou 
+e que serve de base cartográfica para empresas de GPS. O Google Earth é um aplicativo 
+gratuito e fácil de usar, que pode ser de  grande utilidade para produção de informação 
+espacial, inclusive nos Programas de Atenção Primária da Saúde. 
+
+Para a elaboração dos mapas é utilizado o recurso “My Maps” que possibilita criar 
+ 
+mapas personalizados, adicionar pontos ou desenhar formas, criar os mapas com base em 
+planilhas  instantaneamente,  personalizar  o  estilo  com  ícones  e  cores,  adicionar  fotos  e 
+vídeos a qualquer lugar, e tudo isso pode ser criado de modo colaborativo. Assim, a turma 
+dividida  em  pequenos  grupos,  elabora  os  mapas  da  comunidade  em  estudo.  Como 
+apresentado na figura 1, a seguir. 
+
+ 
+
+ 
+
+Figura 1 – Mapa de acesso da microárea 05 da abrangência da Equipe de Saúde 
+da Família Córrego da Fortuna, Recife-PE. 
+
+ 
+
+ 
+
+Durante as visitas domiciliares as famílias dos territórios, os estudantes realizam 
+a aplicação de dois formulários que são utilizados no processo de trabalho das equipes de 
+saúde: as fichas e-SUS de cadastro domiciliar e individual. 
+
+O  e-SUS  é  uma  das  estratégias  do  Ministério  da  Saúde  para  desenvolver, 
+reestruturar  e  garantir  a  integração  dos  sistemas,  de  modo  a  permitir  um  registro  da 
+situação  de  saúde  individualizado  por  meio  do  Cartão  Nacional  de  Saúde.  O  cadastro 
+domiciliar  identifica  as  características  sociossanitárias  dos  domicílios  no  território  das 
+equipes de AB, este cadastro busca identificar, ainda, situações de populações de rua. Já 
+o  cadastro  individual  identifica  as  características  sociodemográficas,  problemas  e 
+condições de saúde dos usuários no território das equipes de AB [BRASIL, 2018]. 
+
+Após  a  coleta,  os  dados  são  consolidados  em  planilhas,  utiliza-se  o  Google 
+planilhas (sheets) para esta atividade, e que de modo compartilhado e colaborativo cada 
+grupo preenche as informações necessárias no banco de dados. É uma planilha eletrônica 
+de acesso online, que auxilia nas atividades de cálculos e estruturação de dados, a qual 
+permite  a  acesso  e  edição  dos  dados  por  várias  pessoas  de  modo  simultâneo. 
+[MALLMANN; AHLER, 2018]. 
+
+O Google planilhas permite acessar, criar e editar planilhas no smartphone, tablet 
+ou computador em qualquer lugar, mesmo que não haja uma conexão. E isso facilita o 
+processo  de  consolidação  dos  dados,  onde 
+juntos  e 
+simultaneamente  na  mesma  planilha,  inclusive  do  acompanhamento  dos  professores. 
+Outra  vantagem  desta  ferramenta  é  a  sua  compatibilidade  com  o  Excel,  software  da 
+Microsoft [GOOGLE, 2019]. 
+
+todos  podem 
+
+trabalhar 
+
+ 
+
+Os dados são analisados e são elaborados gráficos e tabelas a partir das variáveis 
+consolidadas. É realizada a produção de relatórios que são apresentados de modo textual 
+segundo as normas da Associação Brasileira de Normas e Técnicas (ABNT), e artístico- 
+culturais, por meio de produções audiovisuais.  
+
+Para  a  elaboração  do  material  textual  os  estudantes  utilizam  o  Google  docs  de 
+modo  compartilhado  nos  pequenos  grupos  e  também  um  relatório  final  que  consolida 
+todos os relatórios de grupos. Para a apresentação dos dados no Seminário, é elaborado 
+material visual utilizando o Google apresentações.  
+
+ 
+
+ 
+
+Figura  2  –  Relatório  consolidado  sobre  a  situação  de  saúde  da  população  do 
+Córrego da Fortuna, Recife-PE. 
+
+Durante  a  elaboração  dos  trabalhos,  há  uma  assistência  estruturada  que  é 
+rotineiramente proporcionada pelos professores, com a colaboração de tutores (estudantes 
+de  mestrado  e  doutorado  da  instituição).  Essa  atividade  consiste  nas  orientações 
+realizadas  em  sala  de  aula,  em  laboratório  de  informática  e  monitoramento  dos 
+documentos compartilhados pelos estudantes.  
+
+Os  documentos  são  organizados  no  Google  drive  compartilhado  com  todos  da 
+turma.  O  Google  drive  é  destinado  ao  armazenamento  pastas  e  arquivos  na  nuvem, 
+permite o compartilhamento destes com demais pessoas, e em diferentes níveis de acesso. 
+Nele  são  visualizados  os  documentos  em  construção  [MALLMANN;  AHLER,  2018]. 
+Assim, os professores e tutores realizam ajustes, orientações, sugestões de novas fontes 
+de  pesquisas,  participam  dos  chats  de  discussão  com  os  grupos,  assim  é  realizado  o 
+feedback e revisões necessárias. 
+
+É  estimulado  que  os  estudantes  criem  vídeos  com  a  história  da  organização  do 
+território  em  análise.  Essa  atividade  tem  boa  recepção  pelos  alunos,  pois  ela  envolve 
+criatividade  e  apresentações  persuasivas.  São  criados  vídeos  digitais  publicados  na 
+plataforma  YouTube.  Para  o  desenvolvimento  de  um  vídeo  coeso,  com  um  bom 
+storyboard, são necessárias habilidades semelhantes as da produção textual.  
+
+Ao  final  do  semestre,  o  trabalho  elaborado  sobre  a  descrição  de  saúde  da 
+população da comunidade visitada é apresentado em um Seminário de Integração Ensino 
+e  Serviço  de  Saúde,  que  conta  com  a  presença  de  professores  de  outros  módulos, 
+representantes  da  secretaria  de  saúde  de  Recife,  trabalhadores  da  unidade  de  saúde  da 
+comunidade, familiares e amigos dos estudantes.  
+
+ 
+
+Os  projetos  de  ABP  pretendem  ser  exemplos  dos  tipos  de  problemas  que  os 
+ 
+estudantes enfrentam no mundo real, de modo que a apresentação pública dos resultados 
+seja fundamental nesse processo [BENDER, 2014]. Demostrar o produto final, não só os 
+incentiva  em  melhorar  a  qualidade  do  que  é  elaborado,  como  também  possibilita 
+desenvolver a liderança, a comunicação interpessoal e a oratória, competências essenciais 
+para o mundo do trabalho. 
+
+ 
+Os  estudantes  formam  uma  comissão  organizadora  do  evento,  que  possui 
+cerimonial  para  a  organização  do  coffee-break,  apresentação  do  relatório  final, 
+apresentações  artístico-culturais  (dança,  música,  cordel,  vídeos...),  homenagens  a 
+membros da comunidade, da unidade de saúde, a professores. Eles são apenas orientados 
+durante o processo, mas as ideias para o planejamento e execução partem da turma. O 
+objetivo é desenvolver esse protagonismo do estudante nas atividades acadêmicas. 
+
+ 
+O evento reúne em média 150  pessoas a cada semestre, e é o encerramento da 
+unidade temática de metodologia científica e de todo o módulo I. Os relatórios produzidos 
+são  entregues  aos  representantes  da  Secretaria  de  Saúde  e  Unidade  de  Saúde  da 
+comunidade,  assim  como  as  demais  produções  como  banner,  cartazes,  cordel,  entre 
+outros.  
+
+4. Considerações Finais 
+
+O uso das tecnologias digitais na Aprendizagem Baseada em Projetos proporciona maior 
+integração e colaboração entre os estudantes e professores, pois possibilita a aplicação de 
+ferramentas  que  otimizam  atividades  como  o  compartilhamento  de  documentos,  assim 
+como a associação de trabalho síncrono com assíncrono. 
+
+As  novas  tecnologias  com  as  suas  funcionalidades  de  acesso  remoto  e 
+ 
+colaborativo não presencial possibilitam novas formas de  ensino. Um dos desafios é  a 
+atualização  de  professores,  por  meio  de  formação  continuada  nas  instituições,  para  a 
+utilização  destas  ferramentas,  num  contexto  onde  os  estudantes  que  ingressam  nas 
+Universidades  já  são  nativos  digitais  e  possuem  em  seu  cotidiano  a  inserção  dessas 
+ferramentas na organização de suas atividades.  
+
+ 
+O estudo suscita  a necessidade  estudos futuros acerca do impacto da utilização 
+das ferramentas digitais no processo de formação dos futuros profissionais de saúde em 
+instituições que vêm desenvolvendo metodologias ativas em suas propostas de ensino. 
+
+Bender, W. N. Aprendizagem baseada em projetos: educação diferenciada para o século 
+
+XXI. Porto Alegre, Penso, 2014. 
+
+Brasil.  Ministério  da  Saúde.  Secretaria  de  Atenção  à  Saúde.  e-SUS  Atenção  Básica: 
+Manual do Sistema com Prontuário Eletrônico do Cidadão PEC – Versão 3.1 [recurso 
+eletrônico]  /  Ministério  da  Saúde,  Secretaria  de  Atenção  à  Saúde,  Secretaria-
+Executiva. – Brasília: Ministério da Saúde, 2018 
+
+Bonnell,  C.  C.;  Eison,  J.  A.  Active  learning:  Creating  excitement  in  the  classroom. 
+
+Washington: George Washington University Press, 1991. 
+
+ 
+
+ 
+
+Referências 
+
+ 
+
+Guimarães DA, Silva ES. Formação em ciências da saúde: diálogos em saúde coletiva e 
+
+a educação para a cidadania. Ciência saúde colet. 2010;15(5):2551-62. 
+
+Google. 
+
+Planilhas  Google.  Disponível 
+
+em  <https://www.google.com/intl/pt-
+
+BR/sheets/about/>. Acesso em 22 de junho de 2019. 
+
+Henriques, V.; Prado, C.; Vieira, A. Editorial convidado: aprendizagem ativa. Rev. Bras. 
+
+Ensino Fís. vol.36 no.4 São Paulo Oct./Dec. 2014. 
+
+Laurillard, D. Teaching as a design science: building pedagogical patterns for learning 
+
+and technology. New York: Routledge, 2012. 
+
+Tavares, O. L. et al. Ambiente de Apoio à Mediação da Aprendizagem: Uma bordagem 
+Orientada por Processos e Projetos. Revista Brasileira de Informática na Educação 
+- Volume 9 - 2001 
+
+Torres,  Patrícia  Lupion;  Irala,  Esrom  Adriano  F.  Aprendizagem  colaborativa:  teoria  e 
+prática.  Complexidade:  redes  e  conexões  na  produção  do  conhecimento.  Curitiba: 
+Senar, p. 61-93, 2014. 
+
+Vosgerau,  Dilmeire  Sant’Anna  R.,  et  al.  Caminhos  na  preparação  do  professor 
+incentivar  práticas  de  aprendizagem  ativa.  Metodologias 
+universitário  para 
+pedagógicas  inovadoras:  contextos  da  educação  básica  e  da  educação  superior  / 
+Eduardo  Fofonca  (Coord.);  Glaucia  da  Silva  Brito,  Marcelo  Estevam,  Nuria  Pons 
+Villardel Camas (Orgs.). Curitiba: Editora IFPR, 2018. 183 p. v. 2 
+
+Mallmann, R.; AHLER, E.M. Avaliação das ferramentas colaborativas G Suite no meio 
+acadêmico  e  o  papel  do  docente  frente  às  novas  tecnologias  de  aprendizagem 
+colaborativa. Revista Tecnologias na Educação – Ano 10 – Número/Vol.25 –Julho 
+2018 
+
+Moran, J. Mudando a Educação com Metodologias Ativas. In: Coleção Mídias 
+
+Contemporâneas. Convergências Midiáticas, Educação e Cidadania: aproximações 
+jovens. Vol. II] Carlos Alberto de Souza e Ofelia Elisa Torres Morales (orgs.). PG: 
+Foca Foto-PROEX/UEPG, 2015.  
+
+Zanotto, M. A. C; Bianchi, P. C, F; Silva, A. P. R.; Reali, A. M. M. R. Hibridização do 
+ensino  em  uma  IES:  delineamento  de  ações  pedagógicas  para  adoção  de  20%  a 
+distância em cursos de graduação presenciais, das autoras. In. Simpósio Internacional 
+de Educação a Distância.  Universidade Federal de São Carlos. 
+
+ 
+
+ 
+
+

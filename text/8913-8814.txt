@@ -1,0 +1,500 @@
+Pensamento Computacional e Gênero: Avaliando 
+Competências em Séries do Ensino Fundamental II 
+
+Silvana da Silva Serafim Luiz¹, Vanessa Farias de Dantas² 
+
+¹Centro de Ciências Aplicadas e Educação – Universidade Federal da Paraíba (UFPB) 
+
+58297-000 – Rio Tinto – PB – Brasil 
+silvana.silva@dce.ufpb.br,vanessa@dce.ufpb.br 
+
+Abstract. Computational  thinking is a way of  thinking about problem solving 
+so that the expression of that solution is understood by a human or machine. 
+This paper proposes an evaluation of the pillars of Computational Thinking in 
+the  early  grades  of  Elementary  School  II  making  comparisons  and 
+observations  according  to  grades  and  genres.  Given  the  data  and  analysis 
+performed  it  could  be  concluded  that  there  are  no  significant  differences  in 
+skills  between  the  grades  and  genders  of  the  participating  students,  but  the 
+result was not conclusive due to  the size of the sample and the need  to cross 
+other data that come to influence the results. 
+
+Resumo. O pensamento Computacional é uma maneira de pensar em soluções 
+de problemas de modo que a expressão dessa solução seja entendida por um 
+humano  ou  máquina.  Este  artigo  propõe  uma  avaliação  dos  pilares  do 
+Pensamento  Computacional  nas  séries  iniciais  do  Ensino  Fundamental  II 
+fazendo  comparações  e  observações  de  acordo  com  séries  e  gêneros.  Diante 
+dos  dados  e  análises  realizadas  poderia  se  chegar  à  conclusão  que,  não 
+existem diferenças significativas nas habilidades entre as séries e gêneros dos 
+alunos  participantes,  porém  o  resultado  não  foi  conclusivo  devido  à  o 
+tamanho  da  amostra  e  a  necessidade  do  cruzamento  de  outros  dados  que 
+venham a influenciar os resultados.  
+
+1. Introdução 
+
+Com  o  rápido  crescimento  computacional  e  tecnológico  ocorrido  no  mundo  moderno, 
+surge  a  necessidade  de  ensinar,  desde  a  educação  básica,  conceitos  fundamentais  da 
+Ciência da Computação como forma de melhorar o aprendizado escolar dos indivíduos 
+e  possibilitar  o  uso  mais  eficaz  dessas  tecnologias  em  benefício  da  sociedade,  e  ainda 
+desenvolver  a  capacidade  de  resolver  problemas  pelos  estudantes,  além  de  apoiar  e 
+relacionar-se com outras ciências (França, 2015). 
+
+Para  Brackmann  (2017),  o  Pensamento  Computacional  é  uma  abordagem  de 
+ensino que usa diversas técnicas oriundas da Ciência da Computação e vem gerando um 
+novo foco educacional no quesito inovação nas escolas mundiais como um conjunto de 
+competências  de  solução  de  problemas  que  devem  ser  compreendidas  por  uma  nova 
+geração  de  estudantes  em  conjunto  com  as  novas  competências  do  século  XXI,  sendo 
+uma habilidade básica, assim como ler e escrever.  
+
+Atividades que desenvolvem o Pensamento Computacional vêm proporcionando 
+a  estudantes  a  capacidade  de  adquirir  habilidades  analíticas,  despertando  também  o 
+
+ 
+
+interesse  pela  área  de  Computação.  Esse  ganho  de  profissionais  vem  sendo  bastante 
+vantajoso  para  as  indústrias  de  tecnologia,  porém  ainda  é  notória  a  reduzida  presença 
+feminina,  que  pode  estar  ligada  a  estereótipos  pré-definidos  pela  sociedade.  Um  deles 
+seria a crença de que meninas teriam menos habilidade para as Ciências Exatas do que 
+os meninos. 
+
+Silva (2017) relata que essa disparidade de gênero é evidente em cursos técnicos 
+e de graduação na área da Computação e tecnologia em geral, e gera reflexos no mundo 
+do  trabalho,  sobretudo  no  número  de  profissionais  formados  na  área.  Neste  sentido,  é 
+preciso elaborar ações que busquem incentivar a figura feminina a  exercer funções da 
+área  de  Exatas,  sendo  possível  formar  progressivamente  mais  profissionais  na  área, 
+posto que a Ciência da Computação, enquanto mercado em expansão, se destaca como 
+um dos atuais pilares econômicos da sociedade, exigindo uma gama cada vez maior de 
+profissionais (Silva apud Ashcraft, 2012). 
+
+Brackmann (2017, apud National Research Council 2011, p. 5) destaca um outro 
+desafio  como  sendo  a  falta  de  metodologia  adequada  para  avaliação  do  Pensamento 
+Computacional em escolas primárias. Relata ainda que, até o momento, são escassos os 
+trabalhos  e  propostas  neste  domínio  da  avaliação  das  aprendizagens  no  quadro  do 
+Pensamento Computacional. Dentre os citados em seu trabalho, destaca a metodologia 
+proposta por Román-Gonzáles, em que seu teste de Pensamento Computacional passou 
+por  um  rigoroso  processo  de  validação  e  que  culminou  em  uma  tese  de  doutorado 
+(Román-González, 2016).  
+
+Por se tratar de um teste validado, este foi o escolhido para a presente pesquisa, 
+buscando  assim  obter  resultados  mais  consistentes  que  possam  ser  comparados  com 
+outros  trabalhos.  Os  aspectos  principais  deste  trabalho  são  “avaliação  de  pensamento 
+computacional”  e  “gênero”,  definidos  como  tópicos  relevantes,  atuais  e  importantes 
+para a educação em Computação.  
+
+O trabalho está estruturado da seguinte maneira: a seção 2 trata sobre como vem 
+sendo  avaliado  o  Pensamento  Computacional.  Na  seção  3,  é  discutida  a  participação 
+feminina  na  Computação,  seja  no  mercado  de  trabalho  ou  nas  escolas.  A  seção  4 
+apresenta  a  metodologia  utilizada  na  pesquisa,  e  a  seção  5  detalha  a  aplicação  dos 
+testes. Na seção 6 são analisados os resultados obtidos, e na seção 7 são discutidas as 
+conclusões e possíveis trabalhos futuros. 
+
+2. Avaliação do Pensamento Computacional 
+
+Araújo  (2016)  traz  a  avaliação  como  fator  crucial  quando  se  propõem  práticas 
+pedagógicas, sendo necessária para levantar dados mensuráveis capazes de verificar se 
+uma  prática  pedagógica  é  mais  eficiente  que  outra  para  estimular  certa  habilidade  em 
+um grupo de alunos. Destaca  ainda que, se forem utilizados instrumentos inadequados 
+ou de baixa qualidade para avaliar os alunos, corre-se o risco de não saber de fato qual a 
+influência que a atividade provocou.  
+
+A  respeito  da  Avaliação  do  Pensamento  Computacional,  encontram-se  na 
+literatura  relatos  que  dizem  que  é  um  ponto  bastante  discutido,  porém  sem  consenso 
+acadêmico,  citando-se  a  necessidade  de  uma  devida  avaliação  e  definição  de  atributos 
+que  permitam  aos  professores  avaliar  o  que  os  estudantes  aprenderam,  contribuindo 
+assim para um caminho de sucesso do Pensamento Computacional no currículo escolar. 
+Relacionando-se o que já existe de avaliação, foram encontradas pesquisas que utilizam 
+uma linguagem de programação (e.g. Python) e programação visual (e.g. Scratch), sem 
+
+ 
+
+ênfase  na  Programação  Desplugada  (Brackmann,  2017  apud  Boucinha,  2017;  Grover, 
+2013). 
+
+Para a avaliação do Pensamento Computacional, França (2013) em seu projeto, 
+que se tratava de uma oficina de Scratch, avalia os  principais artefatos desenvolvidos, 
+analisando  a  coleção  de  trabalhos  construídos  ao  longo  do  tempo,  levando  em 
+consideração  a  natureza  evolutiva,  e  o  desenvolvimento  de  um  portfólio  dos  pares  de 
+aprendizes, em vez de, por exemplo, analisar um único projeto desenvolvido ao final do 
+curso e a correta utilização de conceitos computacionais na sua implementação. 
+
+Brackmann (2017) traz em seu trabalho um instrumento avaliativo denominado 
+Teste  do  Pensamento  Computacional  desenvolvido  pelo  pesquisador  espanhol  Román 
+González e traduzido para o Português (Brasil). É composto por 28 questões que tentam 
+identificar  competências  de  formação  e  solução  de  problemas,  baseando-se  nos 
+conceitos  fundamentais  da  Computação,  além  de  utilizar  sintaxes  lógicas  usadas  nas 
+linguagens  de  programação,  e  inclui  conceitos  dos  quatro  pilares  do  Pensamento 
+Computacional: Abstração, Decomposição, Reconhecimento de Padrões  e Algoritmos. 
+As questões contidas nos testes são do tipo múltipla escolha, sendo quatro alternativas a 
+serem consideradas com apenas uma correta. 
+
+3. Participação feminina na Computação 
+
+Segundo  dados  do  último  Censo  do  Instituto  Brasileiro  de  Geografia  e 
+Estatísticas  (IBGE),  cerca  de  78%  dos  ingressantes  nos  cursos  de  Computação  são 
+estudantes  do  sexo  masculino  e  apenas  22%  são  do  sexo  feminino  (Silva,  2015).  E 
+ainda,  segundo  dados  da  PNAD  divulgados  em  2016,  a  maioria  das  mulheres  que 
+ingressam  no  ensino  superior  em  áreas  tecnológicas,  abandonam  o  curso  no  primeiro 
+ano. Em relação aos ingressantes em cursos de Computação, o percentual fica em torno 
+de 10% a 12% em universidades como Unicamp, UFRJ e UFMG (Brackmann, 2017). 
+Nota-se,  a  partir  destes  dados,  que  mesmo  as  mulheres  tendo  conquistado  um  espaço 
+mais  uniforme  em  meio  à  sociedade  atual,  a  desigualdade  de  gênero  é  ainda  muito 
+presente nesta área.   
+
+Em  uma  pesquisa  que  buscou  identificar  as  dificuldade  de  ingresso  e 
+permanência do público feminino no curso de Engenharia e Ciências da Computação no 
+estado  da  Bahia,  chamam  atenção  alguns  resultados:  enquanto  32%  dos  alunos  já 
+tiveram  algum  contato  com  a  programação,  apenas  17%  das  alunas  declararam  ter 
+experiência  anterior;  a  aprovação  na  disciplina  de  Introdução  à  Programação  é  maior 
+para  os  alunos  (66%)  do  que  para  as  alunas  (56%);  e  61%  das  alunas  declararam  ter 
+inibição para questionar em aula, contra apenas 29% dos alunos (Sales, 2014). 
+
+ Um  outro  aspecto  levado  em  consideração  em  várias  pesquisas  relacionadas  à 
+participação feminina na área de Exatas é o estereótipo que se cria de que Matemática é 
+coisa de menino. Silva (2008) destaca que a Ciência e  a Matemática são apresentadas 
+como  atividades  predominantemente  masculinas,  criando  entre  os  profissionais  da 
+educação estereótipos sobre a masculinidade e a feminilidade, gerando expectativas em 
+relação ao desempenho escolar masculino e feminino, respectivamente. 
+
+Esta situação tornou-se preocupante para  muitos pesquisadores, principalmente 
+porque hoje se fala muito em desigualdade social que esteja ligada a raça, sexualidade, 
+gênero,  e  um  dos  principais  objetivos  destes  pesquisadores  é  tornar  a  sociedade  mais 
+inclusiva  e  uniforme  de  maneira  que  venha  beneficiar  a  todos  de  modo  igualitário, 
+dando os mesmos salários e oportunidades em cargos de liderança, ajudando também o 
+mercado tecnológico a criar produtos mais diversificados.    
+
+ 
+
+4. Metodologia 
+
+Entende-se  que  este  trabalho  se  trata  de  um  estudo  quantitativo  baseado  em  análises 
+descritivas, pois para interpretação dos dados coletados utilizou-se estatística descritiva 
+como  médias  e  somatórios,  fazendo-se  inferência  a  esses  números.  A  pesquisa  teve 
+como público-alvo alunos e alunas do Ensino Fundamental II de uma escola da cidade 
+X.  Quanto  à  escolha  da  amostra,  todos  os  alunos  das  turmas  foram  convidados  a 
+resolver  o  teste,  sendo  assim  não  houve  seleção  de  discentes,  porém  nem  todos 
+participaram. Também é importante destacar que os alunos não tiveram nenhum contato 
+anterior com atividades do Pensamento Computacional.  
+
+Para identificar trabalhos que abordassem Pensamento Computacional e gênero, 
+foi feita uma pesquisa bibliográfica,  e verificou-se  que podem existir outros trabalhos, 
+mas são desconhecidos. Os achados fazem breves destaques sobre a concepção do tema, 
+como por exemplo Brackmann (2017) que, após tabulação e análise dos dados colhidos 
+em sua pesquisa no Brasil e na  Espanha, buscou avaliar competências do Pensamento 
+Computacional, e constatou que, na Espanha, houve uma melhoria mais significativa no 
+gênero  masculino,  ao  contrário  do  Brasil,  em  que  o  gênero  feminino  revelou  maior 
+destaque com relação à melhoria de desempenho.  
+
+A pesquisa bibliográfica também ajudou a identificar o instrumento avaliativo a 
+ser  utilizado  nesta  pesquisa:  o  Teste  do  Pensamento  Computacional  proposto  por 
+Román González (2016) e  traduzido para o Português (Brasil) por Brackmann (2017). 
+Previamente descrito na seção 2 deste artigo, o teste mostrou-se adequado para a faixa 
+etária escolhida e poderia ser aplicado sem necessidade de internet. 
+
+5. Aplicação do Teste  
+
+O Teste do Pensamento Computacional foi aplicado com alunos das turmas iniciais do 
+Ensino  Fundamental  II,  sendo  6°  e  7°  ano  da  Escola  Estadual  X,  localizada  em  uma 
+aldeia  indígena  no  município  Y.  Os  alunos  são,  em  sua  grande  maioria,  filhos  de 
+agricultores, trabalhadores rurais e pescadores.  
+
+De início, o teste seria aplicado em papel, com folhas contendo as 28 questões e 
+uma  folha  resposta,  mas,  devido  a  problemas  de  impressão  e  da  má  resolução  das 
+imagens, foi necessário usar uma estratégia diferente. Optou-se então por disponibilizar 
+o documento do teste em formato PDF nas dez máquinas do laboratório de informática 
+da  escola,  e  entregar  uma  folha  resposta  a  cada  aluno.  Devido  ao  número  pequeno  de 
+computadores, as turmas foram divididas em grupos de dez alunos para que assim fosse 
+possível aplicar o teste individualmente.  
+
+Cada  turma  levou  de  45  a  50  minutos  para  responder  o  teste  completo.  A 
+
+distribuição dos sujeitos participantes da pesquisa pode ser observada na Tabela 1. 
+
+Tabela 1: Distribuição dos participantes da pesquisa 
+
+Ano 
+
+Idade Média 
+
+Sexo 
+
+Masculino 
+
+Feminino 
+
+6° 
+
+7° 
+
+13,11 
+
+13,08 
+
+Total  
+
+ 
+
+9 
+
+6 
+
+15 
+
+8 
+
+6 
+
+14 
+
+Total 
+
+17 
+
+12 
+
+29 
+
+ 
+
+Após a aplicação do teste nas turmas, procurou-se analisar o resultado através da 
+obtenção  de  uma  média  aritmética  simples,  levando-se  em  consideração  as  respostas 
+que  foram  marcadas  corretamente.  Houve  também  uma  separação  desses  dados  por 
+série  e  sexo,  para  que  os  resultados  fossem  analisados  também  individualmente, 
+procurando assim observar diferenças significativas nesses grupos.  
+
+6. Resultados e discussões 
+
+Foi  feita  uma  média  aritmética  simples  da  amostra  obtida  a  partir  do  teste  do 
+Pensamento  Computacional,  que  pode  ser  observada  na  Tabela  2,  sendo  a  média  de 
+acertos considerando o total de questões do teste, ou seja, as 28 questões.   
+
+ Tabela 2: Média aritmética simples da amostra 
+
+Ano 
+
+Média 
+
+6° 
+
+7° 
+
+9,1 
+
+10,5 
+
+Total  
+
+9,8 
+
+Média por Sexo 
+
+Masculino 
+
+Feminino 
+
+9,5 
+
+11,5 
+
+10,5 
+
+8,7 
+
+9,5 
+
+9,1 
+
+Além disso, os resultados foram agrupados de acordo com cada turma, e nessas 
+turmas  foram  observados  também  os  dados  obtidos  por  habilidades  e  entre  os  sexos. 
+Após  a  realização  dessas  análises,  foram  criados  três  gráficos  para  cada  série:  um 
+primeiro  gráfico  para  mostrar  a  quantidade  de  respostas  corretas  de  cada  questão  do 
+teste;  um  segundo  gráfico  para  evidenciar  o  aspecto  sexo  (gênero)  na  análise  do 
+primeiro gráfico; e um terceiro gráfico para mostrar o total de pontos obtidos agrupados 
+por  habilidades,  seguindo  o  quadro  de  habilidades  proposto  por  Brackmann  (2017). 
+Esses pontos foram calculados fazendo-se a soma do total de acertos de cada questão de 
+acordo com a(s) habilidade(s) que a mesma avalia.  Todos os gráficos e resultados são 
+detalhados nas seções a seguir. 
+
+6.1 Resultados do 6° ano 
+
+Nesta turma, responderam ao teste um total de 17 alunos, sendo 9 meninos e 8 meninas, 
+como já indicado na Tabela 1. De acordo com o Gráfico 1, percebe-se que as questões 
+que tiveram pelo menos cinco acertos foram as questões, 4, 5, 10, 11, 12, 16, 18 e 20, e 
+as que tiveram de 10 a 14 acertos, o maior número alcançado, foram as questões 1, 2, 3, 
+6, 9, 21 e 26. As questões 8 e 22 não tiveram nenhum acerto nesta turma.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 1: Quantidade de acertos por sexo – 6º ano 
+
+Quando se observa o Gráfico 2, é possível notar que, comparando-se os acertos 
+entre os sexos, os meninos alcançaram um número maior, com exceção da questão 26. 
+Quando se observa as médias aritméticas simples já apresentadas na Tabela 2, também é 
+possível notar uma pequena diferença favorável aos meninos. 
+
+ 
+
+6.2 Resultados do 7° ano 
+
+Gráfico 2: Quantidade de acertos por questões – 6º ano 
+
+Participaram do teste um total de 12 alunos, sendo 6 meninos e 6 meninas. No quadro 
+geral  de  notas  do  teste  do  Pensamento  Computacional,  a  média  geral  foi  10,5.  Os 
+meninos obtiveram uma média de 11,5 e as meninas de 9,5, o que dá um total de dois 
+pontos de diferença, um número que chamou a atenção devido à quantidade de amostras 
+serem iguais.  
+
+No  Gráfico  3,  pode-se  observar  que  o  maior  número  de  acertos  foi  de  12 
+
+questões, e as questões 8 e 22 ninguém conseguiu acertar.   
+
+ 
+
+Gráfico 3: Quantidade de acertos por questões – 7° ano          
+
+No Gráfico 4, é possível fazer comparações dos acertos de cada questão entre os 
+sexos.  Nesta  turma,  observa-se  que  as  meninas  conseguiram  um  maior  número  de 
+acertos  em  relação  aos  meninos  nas  questões  6,  12,  18,  26  e  28,  mas  também  houve 
+questões em que não conseguiram nenhum acerto, como em 7, 19, 23 e 24. Assim como 
+ocorreu com a turma de 6º ano, não houve acertos para as questões 8 e 22. 
+
+  
+
+    
+
+           
+
+7. Conclusão e Trabalhos Futuros 
+
+O  Pensamento  Computacional  vem  se  consolidando  como  um  importante  diferencial 
+para  aqueles  que  desejam  se  destacar  no  mercado  de  trabalho,  e  também  como  um 
+importante  conteúdo  a  ser  explorado  nas  escolas  em  geral  desde  as  séries  iniciais. 
+Porém, ainda não há uma quantidade razoável de estudos que se preocupem em medir o 
+Pensamento  Computacional  no  Ensino  Fundamental.  Especialmente,  não  há 
+conhecimento  sobre  trabalhos  considerando  aspectos  específicos  como  gênero  nessas 
+medições,  para 
+identificar  se  algumas  das  crenças  comumente  propagadas 
+culturalmente, como a de que as meninas seriam menos aptas às carreiras das áreas de 
+Ciências Exatas que os meninos, realmente têm algum fundamento estatístico. 
+
+Dessa  forma,  o  presente  trabalho  procurou  avaliar  os  quatro  pilares  do 
+Pensamento Computacional, sendo eles, Abstração, Decomposição, Reconhecimento de 
+
+ 
+
+Gráfico 4: Quantidade de acertos por sexo – 7º ano                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+Padrões  e  Algoritmo,  dos  estudantes  participantes,  verificando  e  comparando  os 
+resultados  obtidos  entre  séries  e  entre  gêneros.  A  execução  da  pesquisa  também 
+possibilitou aos envolvidos o contato com uma nova maneira de pensar e observar para 
+responder  a  um  teste,  e  o  entusiasmo  e  a  curiosidade  dos  mesmos  ao  responder  as 
+questões foi notável.     
+
+Quanto  aos  resultados  obtidos,  é  possível  notar  que  na  turma  do  6°  ano,  os 
+meninos, no geral, conseguiram acertar um maior  número de questões. Já na turma do 
+7°  ano,  ambos  os  sexos  acertaram  a  mesma  quantidade  de  itens,  o  que  sugere  uma 
+equivalência  de  competências.  Porém,  devido  à  amostra  ser  muito  pequena,  os 
+resultados ainda não podem ser considerados do ponto de vista da relevância estatística, 
+e estudos mais amplos e aprofundados são necessários para que se possa afirmar se esse 
+padrão se repete.  
+
+Também é possível notar que não houve uma evolução das habilidades nos anos 
+letivos  participantes  da  amostra,  sendo  necessário  um  estudo  mais  aprofundado  para 
+identificar  as  razões  pelas  quais  discentes  de  7º  ano  chegam  a  ter  desempenhos 
+inferiores aos de 6º ano. No geral, o número de questões corretas respondidas no teste 
+foi entre 4 e 14, em um total de 28 questões, com uma média total de 9,8. As questões 
+mais acertadas foram as mais simples do teste, e também as questões mais próximas do 
+exemplo  I  do  teste.  Algumas  até  trabalhavam  laços  de  repetição,  mas  questões 
+envolvendo laços de repetição aninhados foram as menos acertadas.   
+
+   Como trabalho futuro, planeja-se analisar uma quantidade maior de alunos em 
+relação à amostra atual como também se viu a necessidade de cruzar mais dados sobre a 
+amostra,  como  por  exemplo,  outras  características,  além  do  gênero,  que  podem 
+influenciar  no  desempenho  dos  alunos,  como  habilidade  com  Matemática.  Diante  dos 
+fatos levantados, também seria necessário fazer um  trabalho que buscasse estimular as 
+habilidades  dos  alunos,  com  aulas  de  Pensamento  Computacional,  buscando  assim 
+contribuir para a melhoria do processo de ensino aprendizagem nas escolas, e para mais 
+evidências  de  que  o  PC  é  uma  abordagem  de  ensino  eficiente  no  ambiente  escolar, 
+buscando sempre desenvolver as habilidades necessárias para a sociedade. 
+
+Referências 
+
+BRACKMANN,  C.  P.  Desenvolvimento  do  Pensamento  Computacional  através  de 
+atividades  desplugadas  na  educação  básica.  Programa  de  Pós-Graduação  em 
+Informática na Educação (PPGIE). UFRGS, 2017. 
+
+FRANÇA,  R.  S.;  TESDECO,  P.  C.  A.  Desafios  e  oportunidades  ao  ensino  do 
+pensamento  computacional  na  educação  básica  no  Brasil.  Anais  dos  Workshops  do 
+IV Congresso Brasileiro de Informática na Educação (CBIE 2015). 
+
+SALES,  A.;  CALADO,  B.;  SILVA,  D.  R.  D.;  MATTOS  G.  O.;  MOREIRA,  J.  A. 
+dificuldades para o ingresso e permanência na ciência e engenharia da computação: 
+um  olhar  feminino.  XXXIV  Congresso  da  sociedade  brasileira  de  computação  – 
+CBIE 2014.  
+
+SBC  –  Sociedade  Brasileira  de  Computação.  Trabalho  sobre  Pensamento 
+em: 
+
+Computacional 
+<http://www.sbc.org.br/noticias/10-slideshow-noticias/2071-trabalho-sobre-
+pensamento-computacional-e-destaque-na-globo> Acesso em: agosto de 2018.  
+
+Disponível 
+
+destaque 
+
+Globo. 
+
+2018. 
+
+na 
+
+é 
+
+SCHOEFFEL,  P.;  MOSER,  Paolo.;  VARELA,  G.  M.;  DURIGON,  L.  R.; 
+ALBUQUERQUE,  G.  C.;  NIQUELATI,  S.  Uma  Experiência  no  Ensino  de 
+
+ 
+
+Pensamento  Computacional  e  Fomento  à  Participação  na  Olimpíada  Brasileira  de 
+Informática  com  Alunos  do  Ensino  Fundamental.  IV  Congresso  Brasileiro  de 
+Informática na Educação (CBIE 2015).  
+
+SILVA,  A.  P.  S.;  FRANCO,  J.  S.  S.;  JUNIOR,  J.  C.  L.  Desenvolvimento  do 
+Pensamento  Computacional  e  discussões  sobre 
+feminina  na 
+Computação:  um  estudo  de  caso.    VI  Congresso  Brasileiro  de  Informática  na 
+Educação (CBIE 2015). 
+
+representação 
+
+SILVA, C. P. Silvério. Diferenças de desempenho em matemática: Um olhar a partir da 
+perspectiva  de  gênero.  2º  SIPEMAT-Simpósio  Internacional  de  Pesquisa  em 
+Educação Matemática (2008). 
+
+SILVA,  V.;  SOUZA,  A.;  MORAIS,  D.  Pensamento  Computacional:  Um  relato  de 
+práticas  pedagógicas  para  o  ensino  de  Computação  em  escolas  públicas.  Revista 
+Tecnologias  na  Educação.  Ano  8.    Número/Vol.16.  Edição  Temática.  Congresso 
+Regional  sobre  Tecnologias  na  Educação  (Ctrl+E  2016).  Disponível  em: 
+2018.
+<tecnologiasnaeducacao.pro.br>  Acesso 
+
+agosto 
+
+em 
+
+23 
+
+de 
+
+de 
+
+ 
+
+ 
+
+

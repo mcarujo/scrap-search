@@ -1,0 +1,634 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Impacto das Mídias Sociais no Futuro da Educação Superior 
+no Brasil: um Estudo Prospectivo 
+
+Patrícia Cristina Moser, Joelson Isidro da Silva Araújo, Erika Carlos 
+Medeiros 
+
+Centro de Informática (CIn) – Universidade Federal de Pernambuco (UFPE) – 
+Pós-graduação em Ciência da Computação  
+50740-560 – Cidade Universitária, Recife – PE– Brasil 
+
+{pcm3,jisa,ecm4}@cin.ufpe.br 
+
+Abstract. The objective of this work is to propose a prospective study about the 
+impact that social media will have on the future of higher education in Brazil. 
+This  study  used  the  Delphi  method,  where  a  consensus  was  sought  in  the 
+opinions regarding the use of social media in education. Although there was a 
+consensus among respondents about the social media trends presented, it is still 
+noticeable that a few panelists remain neutral to their views on the use of social 
+media and technologies applied to education by the year 2040. 
+
+Resumo. Como objetivo deste trabalho propõe-se um estudo prospectivo sobre 
+o impacto que as mídias sociais terão no futuro da educação superior no Brasil. 
+Este estudo utilizou o método Delphi, onde buscou-se um consenso nas opiniões 
+em relação ao uso das mídias sociais na educação. Apesar de ter havido um 
+consenso  entre  os  respondentes  em  relação  às  tendências  de  mídias  sociais 
+apresentadas,  ainda  percebe-se  que  alguns  poucos  painelistas  se  mantêm 
+neutros  às  suas  opiniões  em  relação  ao  uso  de  mídias  sociais  e  tecnologias  
+aplicadas à educação até o ano de 2040.   
+
+1.  Introdução 
+
+A  adoção  de  novas  tecnologias  e  desenvolvimentos  na  mídia  estão  transformando  o 
+cenário  da  sociedade  conectada,  impactando  na  forma  como  indivíduos,  grupos  e 
+sociedades se comunicam, trabalham, governam e, até mesmo, aprendem. Neste contexto, 
+os alunos devem tanto saber utilizar os recursos tecnológicos quanto ter o conhecimento 
+sobre as normas e práticas para o uso de forma apropriada no ambiente educacional. Este 
+avanço  e  a  diversidade  do  mundo  globalizado  impõem  habilidades  aos  alunos  para 
+interagir com o mundo conectado, a partir do uso de ferramentas tecnológicas, questões 
+cognitivas, uso criativo e reutilização de  mídias digitais,  entre outros tópicos (Meyers, 
+2013).   
+
+ 
+Como mídia digital, entende-se que é toda a comunicação feita através da Internet 
+utilizando os mais diversos dispositivos, entre eles outdoors digitais, smartphones, tablets, 
+TV digital, totens externos (Dotta, 2011). Em relação às mídias sociais, Andreas Kaplan 
+e Michael Haenlein as definem como um grupo de aplicações para Internet construídas 
+com  base  nos  fundamentos  ideológicos  e  tecnológicos  da  Web  2.0,  e  que  permitem  a 
+criação  e  troca  de  conteúdo  gerado.  Ou  seja,  mídia  social  pode  ser  definida  como  o 
+
+ 
+ambiente  online  onde  as  diversas  informações  possam  ser  compartilhadas,  utilizando 
+mídias digitais diversas. Dessa forma, para este estudo, estamos usando o termo “midias 
+sociais” como algo mais amplo, de acordo com a definição de Dotta (2011).  
+
+ 
+O uso de tecnologias é amplamente considerado como um atributo essencial para 
+o sucesso acadêmico e profissional. Em um ambiente de educação superior cada vez mais 
+regulado e baseado em padrões, no entanto, há uma falta de orientação clara sobre o que 
+constitui  a  natureza  do  nível  apropriado  de  alfabetização  digital  que  os  graduados 
+precisam  demonstrar.  Apesar  dessa  afirmação,  a  capacidade  dos  alunos  de  usar  a 
+tecnologia de maneira apropriada é parte integrante da expectativa do contexto de uso de 
+artefatos tecnológicos, incluindo competências para o consumo crítico de informações e 
+a atenção da mídia gerenciada (McMahon, 2014).   
+
+ 
+Além  disso,  deve-se  considerar  que  o  aluno  mudou.  E  em  parte,  em  função  da 
+rápida difusão da tecnologia digital nas últimas décadas do século XX. Em um estudo 
+realizado em 2001, Prensky afirmou que os estudantes daquela época representavam as 
+primeiras gerações que cresceram com esta nova tecnologia. Tais estudantes passaram a 
+vida inteira cercados e usando computadores, vídeo games, software de música digitais, 
+câmeras de vídeo, telefones celulares, e todos os outros brinquedos e ferramentas da era 
+digital. Este estudo indicou que, em média, um aluno graduado passou menos de 5.000 
+horas de sua vida lendo, mas acima de 10.000 horas jogando vídeo games (sem contar as 
+20.000  horas  assistindo  à  televisão).  Os  jogos  de  computadores,  e-mail,  a  Internet,  os 
+telefones celulares e as mensagens instantâneas são partes integrais de suas vidas. Como 
+resultado deste ambiente onipresente e o grande volume de interação com a tecnologia, 
+os  alunos  de  hoje  pensam  e  processam  as  informações  bem  diferentes  das  gerações 
+anteriores.  
+
+ 
+Dado  todo  este  contexto,  torna-se  relevante  investigar  o  impacto  das  mídias 
+sociais no futuro da educação superior no Brasil. A janela temporal para este trabalho foi 
+definida com base em um dos estudos que sustentam essa pesquisa, o qual será abordado 
+na seção 2.   
+
+ 
+Este artigo está estruturado da seguinte forma: além desta introdução, a seção 2 
+aborda o referencial teórico para sustentar o presente estudo; a seção 3 apresenta o método 
+de pesquisa utilizado; os resultados obtidos estão descritos na seção 4; as considerações 
+finais na seção 5 e as referências estão presentes na seção 6. 
+
+2.  Referencial Teórico 
+
+O  atual  contexto  social  e  cultural  em  que  a  sociedade  está  inserida  desde  as  últimas 
+décadas  do  século  XX,  caracterizado  pela  reorganização  da  produção  em  diferentes 
+territórios  e  em  forma  de  redes,  tendo  as  novas  tecnologias  da  comunicação  e  da 
+informação como centro organizativo, coloca a globalização, a sociedade da informação 
+e as tecnologias como elementos centrais no contexto social e cultural da atualidade. Tais 
+elementos são percebidos e sentidos pela sociedade através de diferentes canais, e estão 
+na base das alterações da educação (Meyers, 2013). 
+ 
+Esta seção aborda tal contexto, apresentando um breve discurso sobre a educação 
+e tecnologia e em seguida faz uma síntese das tecnologias emergentes capazes de impactar 
+o ensino. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2.1 Educação e tecnologia 
+
+Estudos indicam que a tecnologia informática pode ajudar a apoiar o aprendizado e que é 
+especialmente útil no desenvolvimento de habilidades de alto nível de pensamento crítico, 
+análise e pesquisa científica. Porém, não é apenas o uso de computadores em salas de aula 
+que  permitirá  esse  suporte  no  aprendizado.    Para  isso  é  necessário  que  múltiplas 
+perspectivas e ideologias sejam levadas em consideração (Roschelle, 2000). 
+
+ 
+O suporte ao aprendizado engloba um conjunto de habilidades, que incorpora o 
+esquema  cognitivo  e  social,  fornecendo  a  base  estrutural  para  a  organização  de 
+conhecimento  e  habilidades  digitais,  as  quais  vão  determinar  a  eficácia  do  método 
+(McMahon,  2014).  Para  Yirula  (2011),  não  há  dúvidas  quanto  ao  envolvimento  dos 
+alunos com todas as ferramentas tecnológicas disponíveis, mas existem pontos positivos 
+e  negativos  a  serem  analisados.  Como  negativos,  a  autora  destaca:    a)  a  gama  de 
+informação é muito grande fazendo com que os alunos consumam apenas tópicos e não 
+se aprofundem em determinados temas; b) há uma tendência de não checar a veracidade 
+da informação, fazendo com que o aluno consuma determinado tópico e possa assumir a 
+afirmativa  como  verdade  absoluta;  c)  como  há  a  tendência  de  o  aluno  assumir 
+determinadas afirmações como verdades, isto pode comprometer seu senso crítico. 
+
+ 
+Além destes pontos negativos, há alguns desafios a serem vencidos pelo professor 
+que quiser fazer uso das mídias sociais no seu processo de ensino: a) vencer a dispersão 
+que algumas mídias sociais (como as redes sociais) podem provocar no aluno; b) fazer 
+com que o uso de algumas mídias sociais (como as redes sociais) não torne o aluno um 
+ser isolado, fazendo-o discutir menos com meio que o cerca; c) fazer com que a linguagem 
+própria  criada  em  algumas  mídias  sociais  (como  as  redes  sociais)  não  prejudique  a 
+qualidade da escrita e vocabulário dos alunos (Yirula, 2011).  
+
+ 
+Alguns pontos abordados pela autora tendem a ser relevantes dentro do cenário 
+do uso de mídias sociais associada a métodos de ensino. É desejável que o aluno tenha 
+pensamentos rápidos, o que os faria profissionais com a capacidade de resolver problemas 
+do dia a dia de forma mais instantânea. A dinâmica (quase instantânea das mídias sociais) 
+criou  no  aluno  o  hábito  de  reações  rápidas  favorecendo  a  velocidade  de  pensamento, 
+qualidade apreciada no mundo profissional.  
+
+ 
+Dessa forma, é necessário entender os processos de ensino e aprendizagem e as 
+tecnologias atuais e futuras, de forma a compreender como as tecnologias são capazes de 
+impactar o ensino. Isto será abordado na próxima seção. 
+
+2.2 Tecnologias emergentes capazes de impactar o ensino 
+
+Nesta  seção  são  apresentadas  e  analisadas  algumas  tecnologias  capazes  de  impactar  o 
+ensino no futuro, mencionadas em três estudos: a) o infográfico de Zappa (2012) sobre o 
+futuro  da  tecnologia  educacional  até  o  ano  de  2040;  b)  as  tecnologias  apresentadas  na 
+edição K-12 da NMC Horizon Report (2014); e c) o trabalho realizado por Peter Stone 
+(2016)  em  conjunto  com  um  grupo  de  pensadores  acadêmicos  da  Universidade  de 
+Stanford.  
+
+ 
+Conforme  Zappa  (2012),  apesar  do  desenvolvimento  tecnológico  provocar 
+mudanças  na  educação,  na  prática  da  sala  de  aula,  as  mudanças  não  ocorrem  na 
+velocidade que se espera. Em uma das suas produções mais populares, ele produziu um 
+infográfico sobre o futuro da educação que foi considerado um dos mais importantes de 
+2012 e tendências indicadas neste artefato já podem ser observadas. Tal infográfico pode 
+
+ 
+
+ 
+
+ 
+ser visualizado em https://bit.ly/2U1JOCw.  Nele, foi traçada uma linha de tempo que vai 
+até 2040  e contendo seis  temas  centrais: 1)  tecnologia é fixa no  laboratório ou sala de 
+aula; 2) utilização universal e móvel da tecnologia; 3) alunos livres para colaborar com 
+pares de todo o mundo; 4) salas de aula físicas tendem a ser substituídas por oficinas ou 
+ambientes virtuais; 5) avaliação tradicional é substituída por análise de desempenho em 
+projetos e em portfólios e 6) educação como esforço contínuo interligado, que permite 
+lidar com o mundo em perpétua mudança. Tais temas se subdividem, se entrelaçam e se 
+apresentam em três espaços distintos: 1) as salas de aula, 2) as oficinas e 3) os ambientes 
+virtuais.  
+
+Com a previsão de Zappa para 2040, ensinar e aprender, bem como o ambiente de 
+ 
+sala de aula, será bastante diferente da forma como é hoje. Haverá uma adoção em massa 
+de várias formas de  tecnologia para alavancar recursos especializados e conectividade. 
+Um  número  significativo  de  atividades  de  aprendizado  está  se  movendo  para 
+aprendizagens  individualizadas,  just-in-time  e  abordagens  colaborativas.  Haverá  uma 
+transição da sala de aula centrada no professor para aprendizado híbrido ou combinado, 
+que  mistura  componentes  de  e-learning  com  reuniões  de  classe  face  a  face  menos 
+frequentes.  A  avaliação  da  aprendizagem  levará  em  conta  resultados  e  capacidades  de 
+aprendizagem mais orientados individualmente e que sejam relevantes para o domínio do 
+sujeito e a competência global. Os professores terão um papel importante como designer 
+de  aprendizado  -  incorporando  os  recursos  disponíveis  em  ambientes  virtuais  de 
+aprendizagem. 
+
+ 
+O segundo estudo vem da série "Horizon Reports”, do New Media Consortium 
+(NMC),  um  empreendimento  de  pesquisa  abrangente,  estabelecido  em  2002.  O  estudo 
+identifica  e  descreve  tecnologias  emergentes  suscetíveis  de  ter  um  grande  impacto  no 
+ensino, aprendizagem e investigação criativa dentro do ambiente de ensino nos próximos 
+anos.  
+
+O  trabalho,  desenvolvido  por  Johnson,  Becker,  Estrada,  and  Freeman  (2014), 
+ 
+afirma que o desenvolvimento da tecnologia na educação para os próximos anos permeará 
+sobre  Bring  Your  Own  Devices  (BYOD),  Cloud  Computing,  Games  e  Gamification, 
+Learning Analytics, The Internet of Things e Wearable Technology. Porém, a partir dos 
+tantos  desenvolvimentos  previstos  pelo  NMC  no  ensino  e  na  aprendizagem,  apenas 
+alguns  estão  sendo  utilizados,  implementados  ou  integrados  no  processo  de  ensino,  os 
+demais citados são tendências para os próximos anos. 
+
+O  terceiro  estudo  é  coordenado  por  um  painel  de  pensadores  acadêmicos  e 
+ 
+industriais, que olhou para 2030 para prever como  os avanços na inteligência artificial 
+(IA) podem afetar áreas diversas, entre elas, a educação. Intitulado Artificial Intelligence 
+and Life in 2030, esta investigação é o primeiro produto do One Hundred Year Study on 
+Artificial Intelligence (AI100). O estudo fornece uma base realista para discutir como as 
+tecnologias de IA podem afetar a sociedade (Stone at al, 2016).  
+
+ 
+As escolas e as universidades estão lentas em adotar as tecnologias da IA, mesmo 
+que  isso  possa  impulsionar  a  aprendizagem  online,  fazendo  com  que  os  professores 
+multipliquem as salas de aula, e se tornem capazes  de trabalhar com as necessidades e 
+estilos de aprendizagem de forma individual. Isso se deve à falta de fundos e à falta de 
+evidências sólidas desse suporte no aprendizado dos alunos. A expectativa é que o uso de 
+tutores inteligentes e outras tecnologias de IA se expandam significativamente, bem como 
+a aprendizagem baseada em apps de realidade virtual. 
+
+ 
+
+ 
+
+ 
+ 
+As  tecnologias  citadas  nesta  seção  e  apresentadas  por  Zappa  (2012),  NMC 
+Horizon Report (2014) e Stone (2016), embasam este estudo prospectivo. A metodologia 
+para este trabalho está detalhada na próxima seção.  
+
+3.  Método 
+
+Para condução deste estudo, foi empregado um método prospectivo, denominado Delphi. 
+Conforme  Oliveira,  Costa  e  Wille  (2008),  este  método  é  empregado  para  conhecer  a 
+probabilidade de eventos futuros e é usado em um número significativo de pesquisas em 
+diversas áreas. Este método faz o uso de painéis que são  construídos para buscar uma 
+estruturação de conceitos e para projetar futuros (Sáfadi, 2001). 
+
+ 
+Durante o seu processo busca-se um consenso para representar a consolidação do 
+julgamento intuitivo de um grupo de peritos sobre tendências e eventos futuros. Para isso, 
+o método se baseia no uso estruturado do conhecimento, da experiência e da criatividade 
+de  um  painel  de  especialistas,  pressupondo-se  que  o  julgamento  coletivo,  quando 
+organizado  adequadamente,  é  melhor  que  a  opinião  de  um  só  indivíduo  (Wright  e 
+Giovinazzo, 2000). As características essenciais deste método são a troca de informações 
+e opiniões entre os respondentes, o anonimato das respostas e a possibilidade de revisão 
+de  visões  individuais  sobre  o  futuro,  diante  das  previsões  e  argumentos  dos  demais 
+respondentes (Wright e Giovinazzo, 2000).  
+
+Conforme mencionado anteriormente, este estudo prospectivo se baseou em três 
+ 
+trabalhos  que  analisaram  tecnologias  capazes  de  impactar  o  ensino  no  futuro:  a)  o 
+infográfico de Zappa (2012); b) as tecnologias apresentadas pela Horizon Report (2014); 
+e c) o trabalho realizado por Peter Stone (2016). Dessa forma, a janela temporal definida 
+neste estudo foi limitada pelo trabalho apresentado por Zappa (2012), que apresenta uma 
+visão para até 2040.  
+
+A  seguir,  serão  apresentadas  mais  detalhes  sobre  cada  uma  das  fases  adotadas 
+
+ 
+neste estudo.  
+
+3.1 A escolha dos especialistas e elaboração do questionário 
+
+De acordo com o contexto explorado neste estudo, o grupo de painelistas selecionados 
+foi formado por professores universitários de uma IES em Pernambuco, especialistas em 
+mídias sociais e que fazem o uso da tecnologia em sala de aula.  
+
+ 
+  Ao  todo,  16  potenciais  respondentes  foram  convidados  e  informados  sobre  o 
+objetivo  e  importância  do  estudo.  Destes,  9  aceitaram  o  convite  para  participar  da 
+pesquisa.  Em  seguida,  os  questionários  foram  enviados  por  email  individualmente, 
+preservando o anonimato dos demais participantes. Dentre os 9 participantes, obtivemos 
+a  resposta  de  7.  De  posse  das  respostas,  passamos  à  tabulação  e  análise,  procurando 
+associar  os  principais  argumentos  às  diferentes  tendências  das  respostas.  Após  esta 
+análise, surgiu a necessidade de realizar uma 2ª rodada. Os 7 especialistas receberam um 
+novo  questionário  e  destes,  6  profissionais  responderam.  A  tabulação  e  resultado  das 
+respostas será apresentada na seção 4.  
+
+ 
+Embora  não  haja  regras  rígidas  quanto  ao  formato  das  questões  de  um 
+questionário Delphi, algumas recomendações podem ser seguidas para se evitar erros na 
+sua elaboração (Martino, 1993). Estes erros podem fazer com que os painelistas percam 
+muito tempo para transmitir as informações ou deixem de responder a alguma questão 
+por falta de entendimento.  
+
+ 
+
+ 
+
+ 
+ 
+Seguindo  as  recomendações  propostas  por  Martino  (1993),  o  questionário 
+elaborado  para  esta  pesquisa  foi  baseado  nos  estudos  de  Zappa  (2012),  NMC  Horizon 
+Report (2014) e Stone (2016) sobre tecnologias para a educação até o ano de 2040. Para 
+cada questão, foi apresentada uma síntese das principais informações conhecidas sobre o 
+assunto  e,  eventualmente,  extrapolações  para  o  futuro,  de  forma  a  homogeneizar 
+linguagens e facilitar o raciocínio orientado para o futuro.  
+
+Para a 1ª rodada, foram apresentadas 08 questões, onde seis delas eram abertas, 
+ 
+exigindo justificativa e sem delimitação de espaço para a argumentação. Na 2ª rodada, 
+foram apresentadas 18 questões, todas elas fechadas. 
+
+ 
+
+ 
+
+3.2 A aplicação e tabulação do questionário 
+
+Na primeira rodada, um questionário A foi elaborado de modo a obter informações sobre 
+sobre  o  uso  das  mídias  sociais  na  educação.  Após  a  análise  das  respostas,  surgiu  a 
+necessidade de realizar uma 2ª rodada (sendo aplicado um questionário B), a fim de se 
+chegar a um consenso entre os especialistas. Ressalta-se, neste momento, que podem ser 
+rodados tantos questionários quanto necessários, até que se consiga uma convergência de 
+opiniões sobre o assunto pesquisado (Oliveira, Costa e Wille, 2008). 
+
+ 
+A segunda rodada do questionário apresentou, obrigatoriamente, os resultados do 
+primeiro  questionário,  possibilitando  que  cada  respondente  pudesse  rever  sua  posição 
+face à previsão e argumentação do grupo, em cada pergunta. O questionário B foi gerado 
+a  partir  das  respostas  obtidas  no  primeiro,  devidamente  analisadas  e  agrupadas  pela 
+similaridade  de  conteúdo,  com  base  em  palavras  chaves;  as  mesmas  questões  foram 
+utilizadas, desta vez já  trazendo alternativas que representavam o consenso da  maioria 
+dos  pesquisadores.  Por  incluir  os  resultados  da  rodada  anterior  e,  ocasionalmente,  as 
+novas questões que foram levantadas, o questionário B foi mais extenso que o primeiro. 
+
+A  tabulação  mereceu  cuidado  especial,  principalmente  na  primeira  etapa 
+ 
+(questionário  A),  que  exigiu  uma  interpretação  das  respostas  às  questões  abertas.  No 
+questionário  B,  usou-se,  para  as  respostas,  a  escala  de  likert.  As  respostas  obtidas  na 
+segunda  etapa  evidenciaram  grande  convergência  de  opiniões  e,  tendo  atingido  um 
+consenso, não houve a necessidade de uma terceira rodada. 
+
+4. Análise dos Resultados 
+
+Os resultados aqui descritos estão de acordo com os dados obtidos através do questionário 
+B,  da  2ª  rodada.  Os  questionários  utilizados  podem  ser  consultados  em  https:// 
+https://bit.ly/2OVg8Wq  (questionário  A)  e  https://  https://bit.ly/31CIHsY  (questionário 
+B). Como um dos estudos base desta pesquisa traça uma linha de tempo que vai até 2040 
+(Zappa,  2012),  as  questões  do  questionário  levam  em  consideração  décadas  distintas 
+(2020, 2030 e 2040). Para facilitar o entendimento, serão apresentados os contextos das 
+perguntas aplicadas e, em seguida, uma análise dos dados. Por questões de limitação de 
+espaço,  não  apresentamos  todos  os  gráficos  produzidos  com  os  resultados  do 
+questionário. 
+
+ 
+A  questão  1  do  questionário  refere-se  às  habilidades  do  professor,  onde  foi 
+solicitado que o respondente marcasse, dentre as alternativas, qual o grau de concordância 
+em relação às habilidades que poderão ser necessárias ao professor. A distribuição dos 
+resultados obtidos estão descritos na Figura 1. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1: Habilidades necessárias ao professor. Fonte: Autores 
+
+ 
+A maioria dos respondentes concordam com a necessidade de o professor possuir 
+habilidades  com  tecnologia.  Nenhum  respondente  discorda  totalmente  sobre  a 
+necessidade  dos  professores  adquirirem  as  quatro  habilidades.  Nota-se  que  a 
+convergências  nas  respostas  é  forte  em  relação  a  necessidade  de  o  professor  possuir 
+habilidades com tecnologia em um futuro próximo, a fim de que a educação possa sair do 
+tradicionalismo. 
+
+A  questão  2  refere-se  ao  uso  de  plataformas  móveis  para  as  próximas  duas 
+ 
+décadas, a fim de tornar  a comunicação constante no processo de ensino-aprendizagem. 
+Houve  confirmação,  por  parte  dos  respondentes,  em  acreditar  que  todos  os  aparatos 
+tecnológicos citados no estudo serão necessários para tornar a uso da tecnologia universal 
+e móvel. Os resultados estão descritos na Figura 2. 
+
+ 
+
+ Figura 2: Tecnologias associadas à educação. Fonte: Autores 
+
+ 
+As questões 3 e 4 foram direcionadas à colaboração. Houve um consenso de que 
+os  alunos  serão  livres  para  colaborar  com  pares  de  todo  o  mundo  até  2020,  e  que  a 
+colaboração  é  um  processo  inerente  à  educação.  Nenhum  respondente  discorda  desta 
+tendência. 
+
+ 
+As questões 6 e 7 referem-se a ambientes virtuais de aprendizagem e à evolução 
+constante da conectividade e o uso crescente da internet, trazendo opções que justifiquem 
+a tendência de que as salas de aula físicas sejam substituídas por oficinas ou ambientes 
+virtuais de aprendizagem até 2030. Verificou-se que há um consenso entre os painelistas 
+sobre esta tendência, ou que estes recursos estejam cada vez mais presentes no dia a dia 
+das  escolas  e  universidades.  Isso  se  justifica  pela  evolução  constante  da  conectividade 
+anywhere,  além  do  uso  crescente  da  Internet,  de  dispositivos  móveis,  bem  como  de 
+aplicativos para colaboração. Nenhum respondente discorda da tendência. 
+
+ 
+As questões 9 e 10 abordam formas de avaliação. Uma das questões que mais se 
+percebe como desfavorável à medição da evolução e aprendizagem do aluno é a forma de 
+avaliação  tradicional.  Há  uma  tendência  até  2030  que  o  uso  das  mídias  digitais  na 
+educação sugere a substituição das avaliações tradicionais pela avaliação em projetos ou 
+portfólios. Pelas respostas, 83% dos painelistas acreditam nesta tendência. A avaliação 
+por projetos pode retratar a vida profissional no mundo acadêmico, uma forma de trazer 
+
+ 
+a  prática  para  a  academia  e  haver  uma  evolução  no  modelo  de  avaliação.  Importante 
+ressaltar que nenhum respondente discordou desta tendência. 
+
+A questão 12 refere-se à educação como esforço constante. Há uma tendência de 
+ 
+que até 2040 a educação poderá ser vista como esforço contínuo, interligado, que permite 
+lidar  com  o  mundo  em  perpétua  mudança.  67%  dos  respondentes  acreditam  nesta 
+tendência. Apesar de 33% dos painelistas se manterem neutros, não houve discorância 
+quanto a esta tendência.   
+
+ 
+A questão 13 diz respeito  ao fato de que o acesso à informação está facilitado, 
+podendo tornar o processo de aprendizado contínuo e atemporal, levando a aprendizagem 
+a  ser  um  processo  distribuído  ao  longo  do  dia.  100%  dos  respondentes  concordam 
+totalmente com esta tendência.  
+
+ 
+As  questões  15  e  16  referem-se  ao  uso  da  inteligência  artificial  e  neurociência 
+como  forma  de  gerar  indicadores  para  direcionar  o  aprendizado,  podendo  entender  o 
+comportamento de cada aluno em sala de aula até 2040, possibilitando que os conteúdos 
+sejam  entregues  de  acordo  com  a  personalidade  do  estudante,  potencializado  a 
+aprendizagem.  Tais  tecnologias  poderiam  possibilitar  uma  melhor  estratificação  dos 
+dados, favorecendo o processo de educação como um todo. Os painelistas acreditam que 
+tanto  a  inteligência  artificial  quando  a  neurociência  serão  tecnologias  facilitadoras  na 
+estratificação de dados, permitindo a personalização do ensino. 
+
+A questão 18 se refere à tecnologias que podem impactar na educação até 2030. 
+ 
+Uma pequena parte dos respondentes discordam que em relação à BYOD, IoT e Weareble 
+Technology,  mas  a  maioria  concorda  que  todas  as  tecnologias  listadas  permearão  a 
+educação até 2030, sendo destaques Cloud Computing e Games e Gamification. Isto pode 
+ser observado na Figura 3. 
+
+ 
+
+ 
+
+Figura 3: Tecnologias que podem impactar na educação até 2030. Fonte: 
+Autores 
+
+ 
+As  questões  5,  8,  11,  14  e  17  apontavam  justificativas  para  o  caso  de  haver 
+discordância por parte dos especialistas em relação às tendências apresentadas. Como não 
+foram obsevadas discordâncias, tais questões não foram analisadas.  
+
+ 
+Com  base  nas  análises  dos  resultados,  pode-se  constatar  que  houve  uma 
+convergência de opiniões, na percepção dos respondentes, sobre a tendência da utilização 
+mídias sociais, utilizando tecnologias de mídia digitais,  associadas à educação no Brasil 
+até 2040.  
+
+ 
+
+ 
+
+ 
+
+ 
+5. Conclusão 
+
+O  presente  trabalho  teve  como  objetivo  a  realização  de  um  estudo  prospectivo  para 
+investigar o impacto das mídias sociais no futuro da educação superior no Brasil, até o 
+ano de 2040. Foram apresentadas as principais tendências de tecnologias de mídias sociais 
+que podem impactar na educação. Empregamos o método Delphi como forma de obter 
+um consenso por parte de um grupo de especialistas. Os três estudos brevemente descritos 
+na Subseção 2.2 ofereceram suporte ao questionário aplicado. 
+
+ 
+Como  resultados,  há  uma  convergência  forte  das  respostas  em  relação  a 
+necessidade de o professor possuir habilidades com tecnologia em um futuro próximo, a 
+fim  de  que  a  educação  possa  sair  do  tradicionalismo.  Bem  como,  sobre  o  uso  de 
+plataformas móveis para as próximas duas décadas, tornando a comunicação constante 
+no processo de ensino-aprendizagem. O mesmo se observa para o uso de dispositivos para 
+tornar  a  uso  da  tecnologia  universal  e  móvel.  Além  disso,  há  um  consenso  de  que  os 
+alunos  serão  livres  para  colaborar  com  pares  de  todo  o  mundo  até  2020,  e  que  a 
+colaboração é um processo inerente à educação. 
+
+ 
+A  evolução  constante  da  conectividade  anywhere,  além  do  uso  crescente  da 
+Internet, de dispositivos móveis, bem como de aplicativos para colaboração, justificam a 
+tendência  de  que  até  2030  as  salas  de  aula  físicas  sejam  substituídas  por  oficinas  ou 
+ambientes  virtuais  de  aprendizagem,  indicando  que  pode  haver  a  substituição  das 
+avaliações tradicionais pela avaliação em projetos ou portfólios, de forma trazer a prática 
+para a academia e haver uma evolução no modelo de avaliação. Além disso, até 2040 a 
+educação  poderá  ser  vista  como  esforço  contínuo,  e  a  aprendizagem,  um  processo 
+distribuído ao longo do dia, tornando o processo de aprendizado contínuo e atemporal. 
+
+ 
+O uso da inteligência artificial e neurociência podem gerar indicadores acerca do 
+comportamento  de  cada  aluno  em  sala,  permitindo  a  estratificação  dos  dados  e  a 
+personalização  do  ensino,  potencializado  a  aprendizagem.  Observa-se,  também,  que 
+existe  uma  tendência  de  que  o  desenvolvimento  da  tecnologia  na  educação  permeará 
+sobre diversas tecnologias, destacando-se Cloud Computing e Games e Gamification.  
+
+ 
+Apesar  de  ter  havido  um  consenso  entre  os  painelistas,  ainda  percebe-se  que 
+alguns poucos especialistas se mantêm neutros às suas opiniões. Apesar de não ter havido 
+discordância,  mas  dado  que  a  metodologia  empregada  busca  a  convergência  das 
+respostas, é sugerível uma nova rodada de questionários, para que as respostas tenham 
+uma convergência total em relação ao impacto das mídias sociais na educação até 2040.  
+
+Referências 
+
+Dotta,  S.  (2011).  Uso  de  uma  Mídia  Social  como Ambiente Virtual  de Aprendizagem. 
+Congresso  Brasileiro  de  Informática  na  Educação.  Disponível  em:<http://br-
+ie.org/pub/index.php/sbie/article/view/1623> Acesso em: 20 nov. 2017.  
+
+Johnson, L.; Adams, B.S.; Estrada, V.; Freeman, A.(2014). NMC Horizon Report: 2014 
+
+K-12 Edition. Austin, Texas: The New Media Consortium. 
+
+KAPLAN, A. M; HAENLEIN, M. (2010). Users of the world, unite! The challenges and 
+
+opportunities of Social Media. Business horizons. Elsevier. 
+
+Martino, J. P. (1993). Technological forecasting for decision making. 3. ed.  New York: 
+
+Mc Graw-Hill Inc. 
+
+McMahon, M. (2014). Ensuring the development of Digital Literacy in higher education 
+
+ 
+
+curricula.  Proceedings  of  Annual  Conference  of  the  Australasian  Society  for 
+Computers in Learning in Tertiary Education. Dunedin, New Zealand. 
+
+Meyers, E. M.; Erickson, I.; Small, R.V. (2013). Digital  literacy and informal learning 
+
+environments: an introduction. Learning, Media and Technology. 
+
+NMC  Horizon  Report. 
+
+< 
+https://www.nmc.org/publication/nmc-horizon-report-2014-k-12-edition>.  Acesso 
+em: 20 nov. 2017.  
+
+(2014).  K-12 
+
+ Disponível 
+
+Edition. 
+
+em: 
+
+Oliveira,  J.S.P;  Costa,  M.M,  Wille,  M.F.C.  (2008).  Introdução  ao  método  Delphi. 
+
+Curitiba: Mundo Material. 
+
+Prensky, M. (2001). Digital Natives, Digital Immigrants Part 1. On the Horizon, Vol. 9 
+Issue: 5, https:// doi.org/10.1108/10748120110424816 Acesso em: 20 nov. 2017.  
+
+Roschelle, J.M; Pea, R.D.; Hoadley, C.M.; Gordin, D.N; Means, B.M. (2000). Changing 
+How  and  What  Children  Learn  in  School  with  Computer-Based  Technologies,  The 
+Future of Children, Children and Computer Technology. 
+
+Sáfadi, C.M.Q. (2001). Delphi: um estudo sobre sua aceitação. In: V SEMEAD, 2001. 
+
+São Paulo: Anais... SEMEAD FEA-USP. 
+
+Stone, P. at al. (2016). Artificial Intelligence and Life in 2030. One Hundred Year Study 
+
+on Artificial Intelligence: Report of the 2015-2016 Study Panel.  
+
+Wright,  J.;  Giovinazzo,  R.  (2000).  Delphi:  uma  ferramenta  de  apoio  ao  planejamento 
+
+prospectivo. Caderno de Pesquisas em Administração. 
+
+Yirula, C.P. (2011), Os 10 Grandes impactos das mídias sociais na educação. Disponível 
+em:    <https://cadernodia.wordpress.com/2011/07/23/redes-sociais-e-educacao-uma-
+relacao-de-amor-e-odio/> Acesso em: 20 nov. 2017.  
+
+Zappa, M. (2012). Inforgráfico: FutureWork – Trends and Challenges for Work in 21st 
+em: 
+
+Century. 
+<http://www.webaula.com.br/index.php/pt/acontece/noticias/2781-infografico-
+apresenta-o-futuro-das-tecnologias-na-educacao/>. Acesso em: 20 nov. 2017.  
+
+Disponível 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

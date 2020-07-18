@@ -1,0 +1,467 @@
+ 
+
+Modelagem Manual e Digital de Personagens como 
+Ferramenta Lúdica e Auxiliar no Ensino-Aprendizagem de 
+Anatomia Humana 
+
+Arthur Eduardo de Oliveira Morais¹, Vitória Facundo Macedo¹ 
+
+¹Sistemas e Mídias Digitais – Universidade Federal do Ceará (UFC) 
+
+R. Pernambuco, 2986-3030 - Demócrito Rocha, 60440-140 - Fortaleza - CE - Brasil 
+
+arthuredu15@gmail.com, vitoriafacundom@gmail.com 
+
+Abstract.  This  article  aims  to  demonstrate  the  process  of  application  of  the 
+workshop  'Manual  Modeling  of  Characters',  that  results  in  the  production  of 
+anatomical  models  made  in  modeling  clay  or  plasticine.  In  addition, 
+demonstrate the advantages of working playfulness  in the process of teaching 
+more  complex  content  and  the  potential  of  the  proposed  methodology  for 
+teaching students with hearing and visual impairment.. The human anatomy is 
+especially impaired by the application of traditional methods of teaching that 
+are based on memorization in an arbitrary way. In this way, this work seeks to 
+encourage the replication of the process demonstrating the adopted procedure 
+and the possibilities of expansion for the digital medium. 
+
+ 
+
+Resumo. Este artigo tem por objetivo demonstrar o processo de aplicação da 
+oficina  ‘Modelagem  Manual  de  Personagens’,  que  resulta  na  produção  de 
+modelos  anatômicos  feitos  em  massa  de  modelar  ou  plastilina.  Além  disso, 
+demonstrar as vantagens de se trabalhar a ludicidade no processo de ensino de 
+conteúdos de maior complexidade e o potencial da metodologia proposta para 
+o  ensino  de  alunos  com  deficiência  auditiva  e  visual.  A  anatomia  humana  é 
+especialmente  prejudicada  diante  da  aplicação  dos  tradicionais  métodos  de 
+ensino que têm como base a memorização de forma arbitrária. Desta forma, este 
+incentivar  a  replicação  do  processo  demonstrando  o 
+trabalho  busca 
+procedimento adotado e as possibilidades de expansão para o meio digital.     
+
+1. Introdução  
+
+Apesar das divergências sobre qual seria o melhor método de ensino, atualmente há uma 
+crescente  concordância  a  respeito  das  falhas  do  tradicional  método  de  Aprendizagem 
+Mecânica (AUSUBEL, 1978) em transmitir conteúdo aos alunos de forma efetiva. Esse 
+método consiste na incorporação de um conhecimento novo de forma arbitrária, onde o 
+
+ 
+
+ 
+
+ 
+ 
+
+aluno precisa aprender sem antes entender do que se trata ou compreender o significado 
+do porquê (BRAATHEN, 2012). Esse conceito se traduz para a nossa realidade através 
+de  professores  que  costumam  escrever  na  lousa  uma  série  de  definições  e  conceitos  e 
+esperam  que  os  alunos  anotem  e  memorizem  de  forma  automática,  o  que  resulta  em 
+conteúdos soltos ou ligados à estrutura mental de forma fraca (AUSUBEL, 1978). 
+
+Alguns conteúdos são especialmente prejudicados por esse método de abordagem, 
+como é o caso da Anatomia Humana. Sua complexidade é comumente atribuída a grande 
+quantidade de conceitos e estruturas (SALBEGOI et al, 2015), podendo tornar o processo 
+de  aprendizagem  exaustivo  caso  não  haja  uma  estratégia  de  ensino  adequada.  Outro 
+obstáculo  relatado  pelos  estudantes  dessa  disciplina  é  a  dificuldade  na  visualização  de 
+estruturas  corporais,  comumente  representadas  por  imagens  bidimensionais  nos  livros 
+didáticos  (SILVEIRA  e  IDERIHA,  2013).  Em  função  disso,  a  visualização  e  contato 
+direto com uma representação tridimensional representa uma forte aliada no processo de 
+aprendizagem. 
+
+Ao tratar do  tema tecnologia aplicado na  educação, é  importante explicitar seu 
+significado.  ‘Tecnologia’  tem  origem  no  grego  "tekhne"  que  significa  "técnica,  arte, 
+ofício"  (Dicionário  Etimológico,  2019).  Também  pode  ser  definida  de  acordo  com  o 
+dicionário  Michaelis  (2015)  como  um  conjunto  de  processos,  métodos,  técnicas  e 
+ferramentas  relativos  a  arte,  indústria,  educação  etc.  Aprofundando  nesse  significado 
+percebemos  que  a  aplicação  da  tecnologia  como  ferramenta  de  aprendizado  vai  muito 
+além de apenas introduzir recursos digitais nas salas de aula, podendo também acontecer 
+através  da  inserção  de  novos  métodos  de  ensino  prático.  Aliado  a  isso  a  teoria  da 
+Aprendizagem  Significativa  proposta  por  Ausubel  (1963)  incentiva  os  docentes  na 
+proposição  de  atividades  que  favoreçam  o  aprendizado,  criando  momentos  capazes  de 
+potencializar a construção do conhecimento.  
+
+A Educação  Lúdica consiste em um recurso que insere jogos e brincadeiras no 
+auxílio  da 
+transmissão  do  conteúdo  (SANT’ANNA  e  NASCIMENTO,  2011). 
+Atualmente, a aplicação desse método como base de processos de aprendizagem está em 
+voga. Porém é importante ressaltar que ele vai  além da inclusão de jogos relacionados 
+com os temas abordados em sala de aula. Atividades Lúdicas são aquelas que possibilitam 
+momentos de prazer, entrega e integração dos envolvidos, propiciando uma experiência 
+de  plenitude,  em  que  nos  envolvemos  por  inteiro,  estando  flexíveis  e  saudáveis 
+(LUCKESI, 2003). 
+
+No curso de Sistemas e Mídias Digitais (SMD) da Universidade Federal do Ceará 
+(UFC) existe a possibilidade de entrelaçar diferentes ramos do conhecimento na proposta 
+de soluções para problemáticas apresentadas ao longo das experiências dentro e fora da 
+universidade. Dentre estas experiências está o Projeto de Extensão da UFC, Media Day, 
+que tem como proposta levar conhecimentos de diferentes áreas do curso para os alunos 
+de Escolas Estaduais de Educação Profissional (EEEP) localizadas em cidades do Ceará. 
+Nessas unidades é ofertado o Ensino Médio integrado à Educação Profissional, os alunos 
+têm em média entre 14 e 17 anos de idade e seguem o currículo da base nacional comum 
+além da formação profissional. 
+
+ 
+ 
+
+Para o Projeto foi desenvolvida a oficina ‘Modelagem Manual de Personagens’ 
+que  tem  como  objetivo  auxiliar  no  processo  de  ensino-aprendizagem  dos  alunos  na 
+compreensão da anatomia humana através da concepção de modelos tridimensionais de 
+plastilina ou massinha de modelar, com enfoque na estrutura óssea da cabeça humana. 
+Promovendo a absorção do conteúdo, exploração da criatividade e a ludicidade associada 
+ao  processo  de  dar  forma  a  um  personagem  significativo  para  o  contexto  pessoal  do 
+indivíduo.  
+
+Como  recurso  complementar,  os  alunos  são  encorajados  a  replicar  o  processo 
+manual por meio de ferramentas digitais. Isso ocorre através da indicação de softwares 
+gratuitos  de  modelagem  tridimensional,  como  Blender  e  Sculptris,  ou  aqueles  com 
+versões gratuitas para teste, como Zbrush. Além disso, são indicados tutoriais online para 
+facilitar a modelagem. Com essa transição para o digital, os estudantes podem expandir 
+as possibilidades de aplicação da obra para outras mídias e aplicações, como a animação.  
+
+2. Modelagem Manual como Base do Processo 
+
+O  método  de  modelagem  manual  traz  como  principal  diferencial  a  possibilidade  de 
+estender o canal de aprendizado entre o aluno e o conteúdo para o meio tátil. Uma vez 
+que tradicionalmente essa comunicação ocorre de forma oral e visual. A exploração da 
+memória sensorial no processo de aprendizagem é um recurso fundamental pois além de 
+fortalecer a memorização do conteúdo, dá margem para a inclusão de diferentes tipos de 
+alunos, fomentando a acessibilidade como pilar do processo de ensino. No caso da oficina 
+proposta, a memória tátil beneficiaria diretamente deficientes visuais. 
+
+Além  disso,  alunos  com  surdez  também  são  beneficiados,  pois  o  método 
+representa uma alternativa ao ensino oral-auditivo.   Mesmo com o auxílio de intérpretes, 
+os  alunos  têm  dificuldade  para  entender  o  que  o  professor  está  explicando 
+(BELTRAMIN; GÓIS, 2012). Aliado a isso, a comunidade surda requer especial atenção 
+no uso de recursos visuais a serem aplicados no seu processo de ensino-aprendizagem 
+(CARVALHO, 2016). 
+
+Sobre aprendizagem significativa, David Ausubel define: 
+
+“O  processo  ideal  ocorre  quando  uma  nova  ideia  se  relaciona  aos 
+conhecimentos prévios do indivíduo. Motivado por uma situação que faça 
+sentido,  proposta  pelo  professor,  o  aluno  amplia,  avalia,  atualiza  e 
+em 
+reconfigura 
+nova.”.(AUSUBEL, 1963) 
+
+transformando-a 
+
+informação 
+
+anterior, 
+
+a 
+
+Esse processo é adotado na oficina, tendo a proposta representada na construção 
+do modelo da figura humana, o aluno avalia a escultura obtida e reconfigura as definições 
+de cada parte corporal à medida que reconfigura a forma do seu objeto, para que esse se 
+adeque ao seu personagem. 
+
+O método de modelagem adotado consiste na blocagem das partes, isto é, modelar 
+separadamente  cada  um  dos  elementos  da  estrutura  corporal.  Tal  processo  facilita  a 
+introdução  das  nomenclaturas  científicas  adequadas  ao  estudo  da  anatomia  e, 
+simultaneamente,  o  próprio  ato  de  modelar,  uma  vez  que  após  a  confecção  de  cada 
+componente o aluno deve mesclá-los para formar o todo. 
+
+ 
+ 
+
+O incentivo para estender a prática manual para o meio digital se dá para facilitar 
+o contato constante do aluno com sua obra e estimular a manutenção do conhecimento 
+adquirido  durante  a  oficina,  uma  vez  que  o  material  utilizado  na  prática  é  limitado  e 
+reutilizado,  torna-se  inviável a aquisição do  modelo físico. Dessa forma, o aluno pode 
+visualizar na tela determinada parte do corpo modelada através de diferentes ângulos, da 
+mesma forma realizada com o modelo físico. Esse tipo de interação ocorrendo no meio 
+virtual  se relaciona, ainda que de forma primária, com a definição de Moore (1995) para 
+Ambientes  de  Realidade  Virtual    Desktop,  caracterizada  como  a  extensão  de  uma 
+interação envolvendo imagens tridimensionais acrescida de uma experiência de interação 
+multimídia.  Sem  necessariamente  ser  considerada  imersiva  (MOORE,  1995).  Tais 
+ambientes  representam  ferramentas  poderosas  no  processo  de  aprendizagem,  uma  vez 
+que,  dentro  de  uma  das  interpretações  do  método  de  Aprendizagem  Construtivista 
+atribuído  a  Piaget  (MCINERNEY  AND  MCINERNEY,  1994;  SLAVIN,  1994), 
+propiciam  o  engajamento  através  de  um  processo  de  exploração  ativa  (DALGARNO, 
+2002). Dessa forma, indo adiante do que acontece durante a oficina, onde é necessária a 
+presença de um tutor, na passagem para o meio digital, e consequentemente na exploração 
+do modelo anatômico, estimula-se a independência do aluno no seu próprio processo de 
+aprendizagem. 
+
+Existe ainda uma grande vantagem em em expandir os modelos tridimensionais 
+para o ambiente virtual: uso de impressoras 3D. Essas se apresentam como fortes aliadas 
+para  alunos  com  deficiência  visual,  pois  permite  a  confecção  de  peças  com  diferentes 
+relevos,  texturas  e  contrastes.  A  diferenciação  de  superfícies  do  tipo  liso/áspero, 
+fino/espesso,  propiciam  a  distinção  adequada,  expandindo  as  possibilidades  de  partes 
+anatômicas  que  podem  ser  reproduzidas  (FROSCH,  2018).  O  professor  e  pesquisador 
+Renato Frosch desenvolveu um projeto de modelagem 3D para a construção de modelos 
+pedagógicos  acessíveis  e,  sabendo  da  escassez  de  materiais  voltado  à  impressão  3D, 
+disponibiliza 
+internet1, 
+possibilitando a autonomia dos educadores na utilização dos recursos. Além disso, por se 
+tratar  de  uma  matéria  prima  de  baixo  custo,  o  material  produzido  pode  ser  distribuído 
+para  os  alunos  levarem  para  casa  e  usarem  como  material  de  estudo,  diferente  do  que 
+ocorre na prática com a plastilina. 
+
+todos  os  materiais  produzidos  de  maneira  gratuita  na 
+
+3. Metodologia 
+
+            Os  materiais  básicos  para  a  realização  da  oficina  são  massa  de  modelar, 
+preferencialmente plastilina de cor única e alguma ferramenta para realizar marcações na 
+peça, como lápis ou palitos. Como material complementar, existem estecas ou espátulas 
+específicas voltadas para modelagem manual e que, apesar de não serem fundamentais 
+para  a  realização  do  processo,  adicionam  um  nível  de  refinamento  que  contribui 
+diretamente para a fidelidade do produto final. 
+
+Inicialmente, é passada uma amostra do material para que os alunos tenham um 
+ 
+primeiro contato e possam explorá-lo livremente. Em seguida, cerca de 200g de plastilina 
+é  fornecida  para  cada  aluno  ou,  para  aqueles  que  sentirem-se  mais  confortáveis  em 
+
+1 Disponível em <https://www.thingiverse.com/search?q=Rfrosch&dwh=475d275407073cc>. 
+
+ 
+
+ 
+ 
+
+trabalhar em equipe, essa porção é fornecida para a modelagem de uma única peça por 
+um grupo de até 3 pessoas.  
+
+Figura 1 - Material disponibilizado 
+
+ 
+
+Para  inserir  a  ferramenta  lúdica  ao  procedimento  os  alunos  são  orientados  a 
+ 
+escolher  um  personagem  de  livro,  filme  ou  animação  de  seu  interesse  para  servir  de 
+modelo, tendo como única exigência que sejam humanos ou com traços humanóides. Se 
+possível,  pesquisar  imagens  de  referência  para  guiá-los  no  processo  de  modelagem. 
+Também é oferecida a possibilidade de ser um personagem criado pelo próprio aluno. No 
+passo seguinte, são dadas as primeiras definições teóricas anatômicas, juntamente com 
+imagens bidimensionais das partes que serão trabalhadas. O processo é iniciado com as 
+partes mais amplas da estrutura óssea da cabeça humana: Crânio e Maxilar Inferior. Para 
+a replicação com a plastilina os alunos observam um modelo, produzido na hora, de cada 
+uma das etapas do processo. 
+
+A priori, nessa primeira parte, incentivamos o aluno a manter a fidelidade com a 
+figura humana, independente do personagem. Isso se justifica pela falta de familiaridade 
+com  o  processo  manual  e  para  não  associar  equivocadamente  uma  forma  humana 
+anatomicamente definida à  modificação realizada através do  exagero ou deslocamento 
+dessa mesma forma na construção de seu personagem. 
+
+Ao longo da oficina é imprescindível que as partes trabalhadas sejam referidas 
+ 
+conforme os termos estudados na parte teórica. Isso auxilia no processo de absorção do 
+conteúdo. Outro processo que é contínuo e deve ser incentivado  é a  comparação  entre 
+modelo construído, modelo anatômico bidimensional e personagem escolhido. Apesar de 
+as adaptações à figura escolhida só ocorrerem na segunda parte da oficina, é importante 
+que  o  aluno  tenha  sempre  em  mente  seu  objetivo,  de  modo  que  possa  estar  à  todo 
+momento estudando sua obra e quais serão as mudanças de dimensão e posicionamento 
+que precisarão ser feitas na etapa de adaptação.  
+
+ 
+ 
+
+Figura 2 - Demonstração do processo 
+
+ 
+
+ 
+
+ 
+
+Figura 3 - Replicando o modelo 
+
+ 
+Uma  vez  que  a  cabeça  humana  esteja  completa,  os  alunos  podem  explorar  a 
+criatividade na remodelagem da peça, acrescentando características de seu personagem 
+referencial. Nessa etapa da prática são disponibilizados objetos diversos e diferentes cores 
+do material utilizado na modelagem. Aqui, o objetivo é deixá-los o mais livre possível. 
+
+ 
+ 
+
+ 
+
+Figura 4 - Explorando a criatividade 
+
+ 
+Existindo  a  possibilidade  da  replicação  dos  modelos  no  meio  digital,  novas 
+abordagens  são  necessárias.  Recomenda-se  o  uso  dos  softwares  Blender  ou  Zbrush. 
+Primeiramente  é  necessário  familiarizar  os  alunos  com  os  princípios  básicos  da 
+ferramenta. Existem modelos anatômicos tridimensionais prontos e disponibilizados de 
+forma gratuita na internet em sites como Turbosquid2. Utilizar esses modelos representa 
+uma vantagem por dois motivos. Primeiramente, por permitir que, caso o tutor presente 
+não tenha familiaridade com esses softwares de modelagem 3D, possa usar os próprios 
+modelos para estimular a interação e exploração dos alunos, visto que é possível encontrar 
+opções com diferentes níveis de complexidade e fidelidade com a figura humana. Outra 
+vantagem é que, sendo o tutor capaz de orientar os alunos a trabalhar tais softwares de 
+maneira satisfatória, ter um modelo como base acelera significativamente o processo de 
+construção  dos  personagens  no  meio  digital,  sendo  necessárias  apenas  adaptações  na 
+forma do modelo. 
+
+4. Resultados e Discussão 
+
+A oficina já foi realizada em 4 EEEPs localizadas em cidades do Ceará nos anos de 2018 
+e  2019,  sendo  elas  Beberibe,  Sobral,  Trairi  e  Nova  Russas.  Tendo  como  público  alvo 
+alunos do ensino médio. A quantidade de participantes variou entre 15 e 33 pessoas. 
+
+Como  principal  resultado  temos  a  aquisição  do  conhecimento  da  nomenclatura 
+ 
+científica, da representação bidimensional e tridimensional de cada parte da estrutura do 
+corpo  humano  proposta  na  oficina.  Esse  fato  é  observado  ainda  durante  o  processo, 
+quando  havendo  dúvidas  sobre  alguma  etapa  em  específico,  alunos  citam  tais 
+nomenclaturas para se referir à parte em questão. 
+
+ 
+A  ludicidade  contribui  diretamente  para  esse  resultado  visto  que  a  maioria  dos 
+alunos demonstram empolgação ao longo do processo, considerando a atividade divertida 
+
+2Disponível em <https://www.turbosquid.com/Search/3D-Models/free>. 
+
+ 
+
+ 
+ 
+
+e diferente da forma a qual estão habituados. Outro fato que reforça esse cenário é o apego 
+dos alunos à suas obras, evidenciado com postagens do processo e resultado em redes 
+sociais como Instagram, questionamentos sobre a possibilidade de levarem os modelos 
+para casa e pedidos de fotos ao final da oficina. 
+
+ 
+A experiência é um aprendizado de mão dupla, pois cada oficina em cada cidade 
+proporciona  contato  com  novos  alunos  e  não  raramente  agrega  novos  conhecimentos, 
+possibilidades e até mesmo técnicas. A valorização do conhecimento prévio do aluno é 
+propiciada  pois  a  modelagem  manual  é  um  processo  que  não  possui  apenas  um  modo 
+específico de se chegar a determinada representação. 
+
+É importante ressaltar o descobrimento pessoal de muitos alunos que não sabiam 
+ 
+possuir habilidades manuais até ter o primeiro contato com a modelagem. E para aqueles 
+que já demonstravam interesse pela parte artística do processo, acabam reconhecendo a 
+aquisição do conhecimento teórico sobre anatomia como um bônus. Também vale citar a 
+socialização  entre  os  indivíduos  ao  longo  do  processo  através  da  comparação  entre  as 
+modelos que estão sendo confeccionados bem como ao final com a exposição das obras 
+e troca de opiniões a respeito dos resultados de cada aluno. 
+
+ 
+É  necessário  pontuar  as  dificuldades  em  realizar  a  parte  digital  do  processo.  A 
+estrutura das escolas nem sempre conta com laboratórios suficientes e disponíveis para 
+comportar  diferentes  oficinas  simultaneamente,  visto  que  ao  longo  da  realização  do 
+Projeto  Media  Day,  prioriza-se  a  disponibilização  dos  laboratórios  existentes  para  o 
+ensino de conteúdos da área de sistemas, como programação. Porém, existem edições do 
+projeto  onde  é  ofertada  a  oficina  de  Modelagem  3D,  apresentando-se  como  possível 
+aliada para o seguimento desta etapa do processo. 
+
+ 
+Apesar de a oficina ter sido realizada com apenas um público alvo, sua efetividade 
+não se restringe a somente uma faixa etária. Estão documentados resultados positivos na 
+aplicação  de  métodos  semelhantes  com  alunos  universitários  do  curso  de  medicina  da 
+Universidade  do  Extremo  Sul  Catarinense  -  UNESC  no  estudo  da  Anatomia  da 
+Embriologia  Humana  (SILVEIRA  e  IDERIHA,  2013),  além  de  alunos  do  ensino 
+fundamental na Unidade Escolar Alexandre Costa, localizada na cidade de Caxias-MA 
+(CARVALHO, 2016). Isso demonstra que uma prática comumente associada ao público 
+infantil  e  ao  ato  de  brincar  pode  ser  resgatada  e  ressignificada  como  ferramenta  no 
+processo de aprendizagem.  
+
+5. Conclusão 
+
+ 
+A  oficina  ‘Modelagem  Manual  de  Personagens’  se  apresenta  como  forma  de 
+aprendizado  alternativa  para  conteúdos  complexos  como  Anatomia.  Mas  é  possível 
+expandir  sua  aplicação  para  outros  campos  da  ciência  que  tenham  níveis  parecidos  de 
+complexidade,  grande  quantidade  de  conceitos  e  de  difícil  visualização,  tais  como 
+Estrutura e Divisão Celular, Camadas Atmosféricas entre outros. 
+
+ 
+Além  disso,  apresenta-se  como  ferramenta  viável  para  aplicação  nas  escolas 
+devido ao seu baixo custo e metodologia simples, fatores que costumam ser as principais 
+barreiras na adoção de novos métodos de ensino por parte das escolas.  Pode ser oferecida 
+como método complementar às aulas teóricas. Dependendo do nível de complexidade, 
+recomenda-se a capacitação dos professores para que estejam aptos a representar a figura 
+
+ 
+ 
+
+anatômica de forma fiel nas primeiras etapas da oficina, visto que seu modelo poderá ser 
+utilizado  como  referência  pelos  alunos,  além  da  necessidade  de  recomendar  pequenos 
+ajustes  necessários  para  o  refinamento  dos  modelos  produzidos.  Não  havendo  a 
+disponibilidade  para  a  capacitação  do  professor,  a  oficina  'Modelagem  Manual  de 
+Personagens' pode ser aplicada nas escolas interessadas.  
+
+Outra  vantagem  está  na  possibilidade  de  replicar  os  procedimentos  do  manual 
+para  o  digital  não  apenas  para  visualizar  a  forma  da  estrutura  em  si,  mas  também  seu 
+funcionamento.  Através  da  animação  dos  modelos  tridimensionais  incluímos  a 
+possibilidade  de  representar  processos  morfológicos  relacionados  às  estruturas 
+construídas  como  por  exemplo  o  batimento  de  um  coração  ou  o  movimento  das 
+articulações entre os ossos. 
+
+Referências 
+
+AUSUBEL,  DAVID  P.  (1963).  A  psicologia  da  aprendizagem  verbal  significativa. 
+
+Oxford, Inglaterra: Grune & Stratton. 
+
+AUSUBEL, David P. Educational Pshychology: a cognitive view. 2ed. New York: Holt 
+
+Rinehart And Winston Inc, 1978. 662 p. 
+
+BRAATHEN,  Per  Christian. Aprendizagem  mecânica  e  aprendizagem  significativa  no 
+processo de ensino-aprendizagem de Química. Revista Eixo, Brasília, v. 1, n. 1, p.63-
+69, jun. 2012. 
+
+CARVALHO,  Franciellem  de  Sousa  et  al.  Utilização  de  Modelos  Didáticos 
+Tridimensionais no Processo de Ensino-aprendizagem de Alunos Surdos e Ouvintes 
+na  Disciplina  de  Ciências.  In:  Congresso  Nacional  de  Educação,  3.,  2016,  Natal. 
+Anais... . Natal: Conedu, 2016. p. 1 - 5. 
+
+DALGARNO,  B.  (2002).  The  Potential  of  3D  virtual  learning  environments:  A 
+constructivist analysis. Australasian Journal of Educational Technology, 5(2), 1-19 
+
+FROSCH, R. Utilização de fabricação digital com modelos 3D para apoio pedagógico à 
+deficientes  visuais..  In: ANPED  REGIONAL  SUDESTE,  2018,  CAMPINAS.  13a 
+REUNIÃO CIENTÍFICA DA ANPED. Rio de Janeiro: Anped, 2018. v. I.  
+
+LUCKESI, Cipriano Carlos. Educação, Ludicidade  e Prevenção das Neuroses Futuras: 
+uma  proposta  pedagógica  a  partir  da  Biossíntese.  2016.  Disponível  em: 
+<http://luckesi002.blogspot.com/2016/12/educacao-ludicidade-e-prevencao-
+das_58.html>. Acesso em: 2 dez. 2016. 
+
+MCINERNEY, Dennis & MCINERNEY, V (1994) Educational Psychology Constructing 
+
+Learning Sydney: Prentice Hall. 
+
+MICHAELIS.  Dicionário  Brasileiro  da  Língua  Portuguesa.  2015.  Disponível  em: 
+
+<https://michaelis.uol.com.br/moderno-portugues/busca/portugues-
+brasileiro/tecnologia/>. Acesso em: 29 jun. 2019. 
+
+MOORE,  P.  (1995).  Learning  and  teaching  in  virtual  worlds:  Implications  of  virtual 
+
+reality for education. Australian Journal of Educational Technology, 11(2). 
+
+SALBEGOI, Cléton et al. Percepções Acadêmicas sobre o Ensino e a Aprendizagem em 
+Anatomia  Humana.  Revista  Brasileira  de  EducaÇÃo  MÉdica,  Brasília,  v.  39,  n.  1, 
+p.23-31, jan. 2015. 
+
+SANT’ANNA, Alexandre; NASCIMENTO, Paulo  Roberto do. A história do  lúdico na 
+
+ 
+ 
+
+educação. Revemat, Florianópolis, v. 06, n. 2, p.19-36, 2011. 
+
+SILVEIRA, Sheila Recepute; IDERIHA, Nilce Marzola. Uso de modelo tridimensional 
+de argila no ensino-aprendizagem de Embriologia Humana. In: SEMINÁRIO UNESC 
+DE  HUMANIDADES  MÉDICAS,  1.,  2013,  Colatina.  Proceedings...  .  Colatina: 
+Mirabilia Medicinæ, 2013. p. 47 - 55. 
+
+SLAVIN, Robert E (1994) Educational Psychology Theory and Practice Allyn and Bacon, 
+
+Boston. 
+
+ 
+
+ 
+ 
+
+

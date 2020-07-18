@@ -1,0 +1,505 @@
+ 
+
+Metodologias Ativas à Luz de Comenius: uma Experiência na 
+Pós-Graduação 
+
+Andrea C. A. Almeida1, Carlos Ian B. Melo2, Myrcea S. S. Harvey2, Marcos 
+Vinicius A. Lima3, Pedro Jonatas S. Chaves5 
+
+1 Coordenação do Núcleo de Educação a Distância da Universidade de Fortaleza 
+(UNIFOR) / Programa de Pós-Graduação em Educação da Universidade Estadual do 
+Ceará (PPGE/UECE) 
+
+2 Programa de Pós-Graduação em Educação da Universidade Estadual do Ceará 
+(PPGE/UECE) 
+
+3 Universidade Federal do Ceará - Laboratório Interdisciplinar de Computação e 
+Engenharia de Software (LINCE) / Programa de Pós-Graduação em Educação da 
+Universidade Estadual do Ceará (PPGE/UECE) 
+
+4 Prefeitura Municipal de Itapipoca / Prefeitura Municipal de Uruburetama / Programa 
+de Pós-Graduação em Educação da Universidade Estadual do Ceará (PPGE/UECE) 
+
+{andreachagasalmeida@gmail.com, ian.melo@aluno.uece.br, 
+myrcea.harvey@aluno.uece.br, marcosvinicius.lima@aluno.uece, 
+pedro.jonatas@aluno.uece.br} 
+
+Abstract.  This  article  aims  to  relate  the  ideas  of  the  famous  educator  Jan  Amos 
+Comenius,  dating  from  the  17th  century,  to  the  theory  and  practice  of  active 
+methodologies, proposed to contemporary higher education. The main work of this 
+author, Didatica Magna, and current studies on active methodologies was used as 
+the  theoretical  basis.  Methodologically,  an  experience  report  was  carried  out, 
+confronting the concepts which were studied and the practice of an innovative class 
+in  higher  education.  As  a  conclusion,  we  point  out  that  Comenius'  postulates  are 
+imbricated  with  the  active  learning  methodologies,  since  they  demonstrate  their 
+potential  to  value  the  teacher’s  work  and  to  provide  the  student  with  a  more 
+meaningful learning experience. 
+
+Resumo. Este artigo tem por objetivo relacionar as ideias do educador Jan Amos 
+Comenius,  que  datam  do  século  XVII,  à  teoria  e  prática  das  metodologias  ativas, 
+propostas à educação superior contemporânea. Como fundamento teórico utilizou-
+se  da  principal  obra  desse  autor,  Didática  Magna,  e  de  estudos  atuais  sobre 
+metodologias ativas. Metodologicamente optou-se pela realização de um relato de 
+experiência,  entrecruzando  os  conceitos  estudados  e  a  prática  de  uma  aula 
+inovadora  no  ensino  superior.  Como  conclusões  apontamos  que  os  postulados  de 
+Comenius  estão  imbricados  com  as  metodologias  ativas,  pois  demonstram  o 
+
+ 
+
+potencial destas em valorizar o trabalho do professor e oportunizar o desempenho 
+do aluno, proporcionando uma experiência de aprendizagem significativa. 
+
+1. Introdução 
+
+A proposta deste trabalho surge a partir da disciplina Teorias da Educação e Formação 
+de Professores, componente curricular obrigatório dos cursos de Mestrado e Doutorado 
+Acadêmico do Programa de Pós-graduação em Educação da Universidade Estadual do 
+Ceará  (PPGE/UECE).  Tal  disciplina  teve  por  propósito  resgatar  as  contribuições  e 
+postulados  dos  maiores  teóricos  da  educação,  tendo  como  marco  inicial  Comenius, 
+considerado  o  pai  da  Didática,  passando  por  nomes  ilustres  como  Rousseau,  Piaget, 
+Dewey, Paulo Freire, Saviani, e outros, chegando à contemporaneidade. 
+
+Partindo  desse  contexto,  o  presente  estudo  busca  fazer  uma  explanação  acerca 
+das  ideias  do  educador  e  escritor  Jan  Amos  Comenius,  que  datam  do  século  XVII, 
+relacionando-as  à  teoria  e  prática  das  metodologias  ativas,  propostas  à  educação 
+superior  contemporânea.  Nos  interessa  compreender  como  as  ideias  desse  teórico, 
+associadas à didática e ao ensino, abordam e podem ser aplicadas às metodologias ativas 
+propostas em uma educação inovadora no ensino superior. 
+
+Para  tanto,  o  artigo  articula-se  como  um  relato  de  experiência,  no  qual  se  fará 
+uso  dos  escritos  de  e  sobre  Comenius,  e  dos  principais  conceitos  a  respeito  de 
+metodologias ativas e ensino inovador, costurando esta tessitura a partir da experiência 
+em uma aula ministrada sobre esse educador, ancorada em práticas não-tradicionais, na 
+disciplina mencionada. 
+
+2. Comenius e as metodologias ativas: qual a relação? 
+
+Pensar em  educação nos dias atuais tem sido um desafio, visto que esta vem sofrendo 
+mudanças  significativas  em  suas  principais  configurações,  bem  como  nos  paradigmas 
+que  a  fundamenta.  O  aprender  não  mais  vincula-se  apenas  às  aulas  presenciais  e 
+expositivas,  mas  sim  a  diversos  aspectos  sociais,  estruturais  e,  sobretudo,  funcionais, 
+que  demandam  ações  cada  vez  mais  inovadoras,  como  as  novas  metodologias, 
+instrumentos  de  avaliação,  estratégias  didáticas  e  recursos  tecnológicos,  para  que  seja 
+possível,  assim,  atender  um  público  cada  vez  mais  diverso  e  exigente,  no  que  tange  a 
+busca pela informação e conhecimento (MORAN, 2015). 
+
+É  válido  ressaltar  que  aprendemos  ativamente  e  a  todo  momento,  desde  o 
+nascimento  e  ao  longo  de  toda  vida.  E  esse  aprendizado  se  dá  por  meio  da  educação 
+formal  (salas  de  aulas  estruturadas  para  tal  atividade),  bem  como  com  a  educação 
+informal, isto é, aprendemos com os mais velhos, aprendemos em situações concretas e 
+em  situações  subjetivas,  aprendemos  quando  falamos  e  quando  ouvimos.  E  diante  das 
+novas  tecnologias,  aprendemos  também  com  vídeos,  músicas  e,  muito  especialmente, 
+com a própria internet. 
+
+Nesse sentido, no que  tange à educação formal, temos como principal meio de 
+aprendizado  a  transmissão  oral,  que  tem  como  protagonista  o  professor,  auxiliado  por 
+vezes de outros instrumentos. Entretanto, esse processo, que consolidou-se ao longo do 
+tempo devido a sua importância (afinal, foi graças à tradição oral que a história foi-nos 
+transmitida, e assim preservada), é, sobretudo, passivo. Passivo da perspectiva de que o 
+formato constitui-se essencialmente de um professor que fala e de um aluno que ouve. 
+
+E  diante  desse  cenário,  nos  últimos  anos  tem-se  ouvido  falar  com  mais 
+frequência  em  novas  abordagens  de  ensino,  combinando  as  metodologias  ativas  em 
+contextos  educacionais  formais,  e  isso  tem  acontecido,  devido  ao  novo  perfil  dos 
+
+ 
+
+estudantes  que  têm  se  modificado  de  maneira  significativa.  Nessa  perspectiva,  o 
+trabalho do professor em sala de aula passa a ser cada vez mais considerado concreto e 
+abstrato, como descrito por Almeida e Melo (2017): 
+
+Concreto,  em  virtude  da  sua  utilidade  em  ensinar,  transmitir,  repassar, 
+estudar,  pesquisar,  formar.  E  abstrato,  no  sentido  de  lidar  com  estilos  de 
+aprendizagem completamente diferentes, onde todos têm especificidades, as 
+quais tornam-se atividades com identidades muito próprias (p. 3). 
+
+Assim,  em  um  período  em  que  as  tecnologias  estão  em  voga,  nunca  se  falou 
+tanto  em  inovar nos processos educacionais, rever  práticas, formar professores, buscar 
+uma  educação  inovadora  e  colocar  o  aluno  como  protagonista  do  processo  de  ensino-
+aprendizagem. E é nesse ínterim, que surge a abordagem das metodologias ativas. Mas, 
+afinal, o que são metodologias ativas? 
+
+Segundo Berbel (2011, p. 29) as metodologias ativas “[...] baseiam-se em formas 
+de  desenvolver  o  processo  de  aprender,  utilizando  experiências  reais  ou  simuladas, 
+visando  às  condições  de  solucionar,  com  sucesso,  desafios  advindos  das  atividades 
+essenciais  da  prática  social,  em  diferentes  contextos”.  Para  Moran  (2015,  p.  5)  “nas 
+metodologias  ativas  de  aprendizagem,  o  aprendizado  se  dá  a  partir  de  problemas  e 
+situações  reais;  os  mesmos  que  os  alunos  vivenciarão  depois  na  vida  profissional,  de 
+forma antecipada, durante o curso”. 
+
+Nessa  perspectiva,  as  metodologias  ativas  são  utilizadas  hoje  como  estratégia 
+pedagógica com o foco do processo de ensino e aprendizagem no aprendiz. A proposta 
+é  criar  situações  educativas  nas  quais  os  estudantes  façam  coisas,  coloquem 
+conhecimentos em ação, pensem e conceituem o que fazem, ou seja, os alunos sejam os 
+protagonistas da sua educação.  
+
+De  acordo  com  Filatro  e  Cavalcanti  (2018,  p.  7),  “as  metodologias  ativas  se 
+ancoram em uma visão mais humanista, menos tecnicista da educação, e são inspiradas 
+por  teóricos  cujas  teses  foram  erguidas  em  contraposição  a  modelos  tradicionais 
+vigentes”. 
+
+Também  entre  as  diversas  estratégias  utilizadas  nas  metodologias  ativas 
+observa-se  a  inserção  do  ensino  híbrido,  que  de  acordo  com  Horn  e  Staker  (2015), 
+possibilita  atender  às  necessidades  da  geração  atual  de  estudantes  por  meio  de  um 
+sistema  de  ensino  centrado  neles,  fazendo-se  uso  da  personalização  e  aprendizagem 
+baseada  em  competências.  No  ensino  híbrido  a  sala  de  aula  é  expandida  e  o  aluno 
+aprenderá tanto de forma presencial como por meio do ensino on-line (ibid.).   
+
+Contudo, é possível perceber que, por mais que se discutam novas metodologias, 
+novas  propostas  avaliativas  e  até  novos  recursos,  a  base  teórica  e  pedagógica  dessas 
+iniciativas  tem  forte  influência  em  nomes  como  Dewey,  Vygotsky,  Piaget,  Freire  e 
+outros.  Buscam  beber  das  abordagens  teóricas  do  cognitivismo,  socioconstrutivismo  e 
+conectivismo, nas quais há uma  articulação entre os aspectos ação-reflexão, elementos 
+essenciais nas metodologias ativas. 
+
+Dado  o  cenário,  é  importante  constatar  a  possibilidade  de  estabelecer  relações 
+entre  os  postulados  e  ideias  defendidas  por  pensadores  da  antiguidade  e  as  propostas 
+inovadoras  em  educação.  Evidenciamos  aqui,  especificamente,  como  objeto  de  nossa 
+análise, os estudos de Jan Amos Comenius (1592-1670), a fim de inferirmos sobre suas 
+contribuições  para  a  discussão  no  campo  educacional,  servindo  como  bases 
+fundamentais para o que se desenha atualmente como metodologias ativas.  
+
+No  contexto  do  desenvolvimento  do  Sistema  Capitalista  na  Alemanha  e 
+perseguições ao protestantismo por parte da Igreja Católica, Comenius surge afirmando 
+
+ 
+
+que “[...] a  causa das guerras e das chagas da humanidade é a ignorância humana, e o 
+remédio para a cura será encontrado na educação de todos os povos” (DAMIS, 2012, p. 
+18). Com isso, propôs mudanças na escola da época, no ensino dogmático católico, na 
+religião que gera guerras e, consequentemente, na sociedade desigual.  
+
+Sua  mais  expressiva  contribuição  foi  a  obra  Didática  Magna:  tratado  da  arte 
+universal de ensinar tudo a todos, escrita em 16511, em plena guerra dos 30 anos. Nesta 
+obra, Comenius descreve a escola como um espaço onde os professores devem ensinar 
+menos e os alunos aprender mais. O autor também sugere que as escolas sejam cenários 
+de  menos  barulho,  aversão,  e  trabalho  sem  proveito,  mas  antes  seja  um  ambiente  de 
+mais lazer, alegria e sólido progresso. 
+
+Na introdução do seu livro, o autor define a didática ou discentia como a arte de 
+ensinar  tudo  a  todos  (COMENIUS,  2012).  De  fato,  essa  definição  pode  contemplar 
+várias interpretações pedagógicas e, à medida que lemos o livro Didática Magna, torna-
+se mais simples  compreender que uma das principais concepções da arte de  ensinar  é, 
+na  verdade,  a  busca  incessante  do  docente  em  envolver  o  aluno  e  fazer  com  que  este 
+aprenda. 
+
+Outra  interpretação  para  esse  trecho  implicaria  dizer  que  a  educação  carece  de 
+homens (docentes) com objetivos claros e seguros,  de maneira tal que o resultado não 
+seja diverso daquele objetivo planejado com emprego de métodos válidos e disponíveis. 
+Numa  interpretação  extensiva  e  numa  perspectiva  mais  atual,  entendemos  que 
+Comenius assevera aqui o papel fundamental que o professor possui como um formador 
+capacitado  e  com  expertise  adequada  -  daí  dizer  que  esse  “homem”,  o  docente,  deve 
+estar seguro (NUNES e NUNES, 2013). 
+
+Comenius (2012) esclarece ainda que todo aluno deve ter acesso à aprendizagem 
+ao seu tempo e o conteúdo deve ser ministrado a partir de explicações mais simples que 
+podem  gradualmente  tornar-se  mais  complexas,  partindo  do  concreto  para  o  abstrato. 
+Para  confirmar  essa  observação,  o  autor  faz  o  remate  com  a  assertiva  textual  que 
+descreve  que  não  devemos  esperar  que  o  aluno  aprenda  um  determinado  conteúdo  de 
+pronto, haja vista que nenhum  indivíduo possivelmente aprende da mesma maneira ou 
+ao  mesmo  passo  que  os  demais.  E  isso  é  esperado  no  processo  ensino-aprendizagem. 
+Nas  palavras  do  educador,  “a  semente  deve  brotar  e  crescer  gradualmente”2 
+(COMENIUS, 2012, tradução nossa). 
+
+Segundo  Nunes  e  Nunes  (2013),  as  transformações  pedagógicas  atuam  na 
+ressignificação dos conceitos da práxis do professorado, devendo, assim, acompanhar as 
+mudanças.  Diferentemente  de  uma  perspectiva  dogmática,  as  práticas  pedagógicas 
+devem  constantemente  ser  ressignificadas,  ideia  defendida  também  por  Comenius,  de 
+maneira avant-garde à sua época, na qual predominava uma prática monolítica.  
+
+Seu  objetivo  principal  é  criar  um  método  para  ensinar  todas  as  ciências, 
+costumes  e  piedade,  segundo  a  capacidade  de  cada 
+indivíduo.  Diante  das 
+transformações que o mundo passava naquele momento, a vida na cidade era diferente 
+do  meio  rural,  ou  seja,  novos  padrões  tinham  que  ser  criados,  uma  vez  que  no  feudo 
+tudo  era  produzido  e  consumido  de  forma  local.  Entretanto  o  capitalismo  e  os  estados 
+nacionais surgiam, a essa altura, como uma possibilidade de mudança dessa dinâmica.  
+
+ 
+
+1 Para levar a presente discussão a cabo, utilizamos a obra original intitulada Didática Magna de Comenius que 
+foi escrita pelo próprio autor em língua inglesa, cuja edição está no formato  e-book  (kindle) e  foi lançada em 
+2012, razão pela qual utilizaremos essa referência temporal à obra. 
+2 Posição 99 de 6597. 
+
+ 
+
+Para Comenius, mais importante do que “o que ensinar”  é o “como  e para que 
+ensinar”.  Ou  seja,  a  Didática  para  ele  concentra-se  no  “como  fazer”,  como  técnica 
+universal  de  ensino  em  todos  os  seus  aspectos  práticos  e  operacionais.  Esta  didática  é 
+instrumental, tendo como objetivo central “guiar, dirigir ou instrumentalizar o ensino e 
+aprendizagem,  embora  possua  preocupações  quanto  à  organização,  desenvolvimento, 
+avaliação e, principalmente, inovação técnica. 
+
+De  maneira  clara  e  apascentadora,  Comenius  resume  seus  ensinamentos 
+ressaltando  que  o  professor  que  de  fato  ensina  para  atingir  os  objetivos  de  aula,  e 
+envolver os alunos (o professor a que se refere parece-nos aquele professor profissional, 
+cuja  credencial  é  de  fato  essa  –  sua  profissão),  é  aquele  que  não  faz  apenas  uso  dos 
+recursos plausíveis disponíveis para  ensinar o conteúdo. Outrossim, é aquele professor 
+que busca com paciência, resiliência  e alegria todos os meios para ensinar e  transmitir 
+algo,  até  que  atinja  e  envolva  o  aluno.  Numa  leitura  mais  extensiva  e  interpretativa, 
+essas  parecem  ser  as  características  de  um  professor  virtuoso,  que  é  frequentemente 
+citado em seus escritos. 
+
+Isto posto, será possível estabelecer uma concreta relação entre esses postulados 
+do educador checo e as práticas contemporâneas de educação inovadora? É ao que nos 
+propomos fazer a seguir. 
+
+3.  Relato  de  experiência:  Comenius,  um  teórico  da  educação  apresentado 
+sob o olhar de práticas inovadoras 
+
+Reiterando, a disciplina na qual nasceu a proposta deste estudo, Teorias da Educação e 
+Formação de Professores, tem por intuito apresentar as ideias e contribuições para a área 
+dos  mais  renomados  e  conhecidos  educadores  clássicos.  Dentre  os  inúmeros  nomes 
+nesse  campo,  foram  escolhidos  para  aprofundamento,  totalizando  onze,  os  seguintes 
+teóricos: Jan A. Comenius, Jean-Jacques Rousseau, Jean Piaget, John Dewey, Antonio 
+Gramsci, Lev Vygostsky, e a nível nacional Lourenço Filho, Anísio Teixeira, Fernando 
+de Azevedo, Paulo Freire e Dermeval Saviani. 
+
+A  organização  da  disciplina  se  deu  por  meio  de  seminários,  realizado  por 
+equipes. No caso em questão, a equipe responsável pelo teórico Jan Amos Comenius foi 
+composta  por  três  mestrandos  e  dois  doutorandos  em  educação,  com  área  de 
+concentração em formação de professores. 
+
+A  partir  das  pesquisas  e  leituras  feitas  do  e  sobre  o  teórico  em  estudo,  e  das 
+discussões  entre  os  membros  da  equipe,  percebeu-se  de  pronto  as  relações  existentes 
+entre  as  ideias  de  Comenius  à  época  e  as  discussões  atuais  sobre  educação  inovadora. 
+Destarte,  foi  proposto  que  se  trabalhasse  o  seminário  por  meio  de  um  exemplo  de 
+metodologia  ativa:  a  sala  de  aula  invertida  ou  flipped  classroom,  que  faz  parte  do 
+modelo  de  rotação  existente  no  ensino  híbrido  (HORN  e  STAKER,  2015).  Nessa 
+proposta, o grande objetivo era apresentar aos alunos determinados saberes por meio de 
+estratégias diferenciadas, visto que esse tipo de metodologia tem sido muito difundida e 
+aplicada desde a Educação Básica ao Ensino Superior.  
+
+Mattar (2017) reforça que para que haja a inversão da sala de aula é necessário 
+considerar  que  a  aprendizagem  também  seja  invertida,  embasado  em  quatro  pilares: 
+ambiente  flexível,  cultura  da  aprendizagem,  conteúdo 
+intencional  e  educador 
+profissional. Quando se pensa em uma estratégia como essa é necessário “deixar  claro 
+para os alunos o que se espera que façam antes, durante e depois das aulas, os objetivos 
+de  cada  fase  do  estudo,  os  recursos  que  devem  acessar  [...]  e  assim  por  diante” 
+(MATAR, 2017, p. 34). 
+
+ 
+
+Para  que  esses  pilares  fossem  pensados  e  estruturados  e,  assim,  a  metodologia 
+fosse aplicada, foi criado um livreto intitulado Comenius e a Didática Magna, versando 
+sobre a vida e obra desse  educador,  com  as principais ideias e discussões teóricas que 
+viriam a embasar a aula, enviado com antecedência aos demais alunos da turma por e-
+mail  e  um  vídeo  animado  usando  a  ferramenta  Powtoon3,  permitindo  que  tivesse  um 
+resumo de todo o conteúdo de maneira lúdica e animada.  
+
+Esse envio antecedente é uma característica dessa metodologia, pois: 
+
+Na sala de aula invertida há uma inversão dos trabalhos desenvolvidos pelos os 
+alunos. Na metodologia tradicional o primeiro contato com o conteúdo é em 
+sala de aula através da exposição do tema pelo professor e depois, em casa, os 
+alunos  aprofundam  e  exercitam  o  tema.  Na  sala  de  aula  invertida  o  aluno 
+estuda o tema da aula em casa, por material disponibilizado pelo professor, e 
+no encontro o professor e os alunos socializam a aprendizagem (ALMEIDA; 
+MELO, 2017, p. 4). 
+
+A  leitura  antecipada  faz  com  que  o  momento  em  sala  de  aula  seja  melhor 
+aproveitado  e  que  haja  um  maior  debate  de  ideias  entre  os  participantes.  Comenius, 
+dentro da Didática Magna, aponta que o ensino deve implicar apreciação, envolvimento 
+de  ambos,  professores  e  alunos,  não  de  maneira  superficial,  mas  de  maneira  cabal, 
+contemplando  todos  os  aspectos  de  um  determinado  objeto.  Isso  talvez  acarrete  o 
+entendimento de que é necessário apresentar o conteúdo ao aluno mais de uma vez, de 
+várias e diferentes maneiras. 
+
+Outra estratégia usada foi que, além do material de envio aos demais alunos, no 
+dia da apresentação, a equipe montou a sala como um ambiente flexível, reorganizando 
+os  alunos  para  que  pudesse  acomodar  e  apoiar  o  trabalho  em  grupo.  Outrossim,  a 
+apresentação ocorreu com uma inversão da cultura de aprendizagem, na qual os alunos 
+também  participaram  e  debateram  sobre  a  vida  e  obra  do  teórico,  relacionando  suas 
+ideias com o âmbito educacional, com ênfase no ensino superior da contemporaneidade. 
+
+É possível nessa estratégia fazer uma correlação dos postulados de Comenius e 
+as  metodologias  ativas,  visto  que  o  autor  prezava  e  considera  que  os  ambientes  da 
+escola  fossem  um  espaço  onde  os  professores  ensinassem  menos  e  os  alunos 
+aprendessem  mais.  Com  base  nessa  ideia,  Diesel,  Baldez  e  Martins  (2017,  p.  268) 
+descrevem que “enquanto o método tradicional prioriza a transmissão de informações e 
+tem  sua  centralidade  na  figura  do  docente,  no  método  ativo,  os  estudantes  ocupam  o 
+centro das ações educativas e o conhecimento é construído de forma colaborativa”. 
+
+Ao final da aula, como técnica de fixação do conteúdo abordado, apresentou-se 
+uma estratégia diferenciada visando avaliar o nível de aprendizado, bem como reforçar 
+a aprendizagem centrada de maneira ativa  no aluno. A estratégia aplicada foi um  quiz, 
+utilizando  o  recurso  tecnológico  Kahoot!4,  aplicado  aos  grupos  formados  na  sala,  que 
+conteve  sete  questões  acerca  do  material  enviado  com  antecedência,  dos  debates 
+ocorridos na sala e das explanações dos alunos-apresentadores.  
+
+Esse  tipo  de  estratégia  também  vai  ao  encontro  das  ideias  da  sala  de  aula 
+invertida, pois, como reforça Mattar (2017, p. 38), “os alunos podem ser convidados a 
+realizar atividades e avaliações online depois das aulas, para verificar se os objetivos da 
+
+ 
+
+3 Software de animação, fundado em 2012 e baseado na Web, que permite aos usuários elaborar apresentações 
+animadas,  manipulando  objetos  pré-criados  e  imagens  importadas,  fornecendo  música  e  narrações  produzidas 
+pelo usuário. Essa ferramenta é disponibilizada na versão gratuita e paga. 
+4 Kahoot! é uma plataforma de elaboração de questionários, pesquisas e quizzes. Criado em 2013, baseado em 
+jogos com perguntas de múltipla escolha, permite aos  usuários (especialmente professores e alunos) investigar, 
+criar,  colaborar  e  compartilhar  conhecimentos,  funcionando  em  qualquer  dispositivo  tecnológico  conectado  à 
+Internet. 
+
+ 
+
+aula foram cumpridos e se estão dominando os conceitos praticados em aula”, além de 
+aplicar  os  princípios  da  gamificação,  de  forma  que  a  aula  fique  mais  dinâmica, 
+envolvente e divertida (COSTA et al., 2017). 
+
+Bem  como  também  se  correlaciona  com  Comenius  quando  ele  considera  que 
+educar para vida é relacionar os conteúdos escolares com o cotidiano, e ações como essa 
+fazem  com  que  os  alunos  associem  o  processo  de  ensino-aprendizagem  com  situações 
+do dia-a-dia, como um jogo, por exemplo, ritual praticado por muitos diariamente. 
+
+[...] Para gerações acostumadas a jogar, a linguagem de desafios, recompensas, 
+de  competição  e  cooperação  é  atraente  e  fácil  de  perceber.  Os  jogos 
+colaborativos  e  individuais,  de  competição  e  colaboração,  de estratégia,  com 
+etapas  e  habilidades  bem  definidas  se  tornam  cada  vez  mais  presentes  nas 
+diversas áreas de conhecimento e níveis de ensino (MORÁN, 2015, p. 18). 
+
+Percebe-se  assim,  que  a  personalização  que  foi  proposta  nesta  apresentação, 
+permitiu  que  a  equipe  e  alunos  pudessem  refletir  sobre  um  pensador  do  século  XV, 
+relacionando-o  aos  dias  atuais,  bem  como  permitiu  um  movimento  de  construção  de 
+conhecimento,  fazendo  sentido  para  cada  um.  Bacich  e  Moran  (2018)  reforçam  esse 
+pensamento quando descrevem que 
+
+A  ênfase  na  palavra  ativa  precisa  sempre  estar  associada  à  aprendizagem 
+reflexiva,  para  tornar  visíveis  os  processos,  os  conhecimentos  e  as 
+competências  do  que  estamos  aprendendo  com  cada  atividade.  Ensinar  e 
+aprender  tornam-se  fascinantes  quando  se  convertem  em  processos  de 
+pesquisa  constantes,  de  questionamento,  de  criação,  de  experimentação,  de 
+reflexão e de compartilhamento crescentes, em áreas de conhecimento mais 
+amplas e em níveis cada vez mais profundos (p. 3). 
+
+O professor é responsável por auxiliar e motivar o  aluno diante do processo de 
+aprender. Nessa perspectiva, pode-se verificar que a proposta de relacionar as ideias de 
+Comenius  com  as  metodologias  ativas  foi  muito  mais  do  que  teórica,  pois,  além  de 
+vislumbrar  as  relações  nos  escritos  antigos  e  atuais,  pode-se  aplicar  tipos  de 
+metodologias ativas, fazendo com que os alunos, em especial, nesse caso se tratando de 
+futuros professores, pudessem entender na prática como se dá a aplicação de um tipo de 
+metodologia ativa. 
+
+Comenius chama a atenção do leitor da Didática Magna antevendo que a busca 
+por recursos didáticos disponíveis nas artes, ciências, ou quaisquer outras áreas devem 
+acontecer em  todas as escolas, e principalmente nas universidades de onde  a produção 
+dos  grandes  avanços  humanos  e  culturais  deve  nascer  (COMENIUS,  2012).  Logo, 
+acreditando que ainda há muito o que fazer quando se fala em educação inovadora e em 
+processos  de  ensino-aprendizado  ativos,  criativos  e  invertidos,  devemos  estimular  o 
+emprego  de  metodologias  ativas,  a  fim  de  proporcionar  métodos  educativos  mais 
+efetivos. 
+
+4. Considerações Finais 
+
+Ao  final  dessa  discussão  é  iminente  notar,  ao  adentrar  no  campo  dos  teóricos  da 
+educação,  a  possibilidade  de  estabelecer  relações  concretas  entre  o  pensamento  já 
+manifesto  no  séc.  XVII  por  Comenius,  com  as  ideias  vigentes  e  discutidas  hoje  sobre 
+metodologias  ativas  e  a  necessidade  de  um  ensino  inovador.  Através  dessa  relação, 
+reafirma-se o quão necessário é discutir educação, formação de professores e didática, 
+sendo estes três pilares que se complementam e são debatidos desde um período em que 
+não se pensava estruturalmente acerca disso. 
+
+A aprendizagem por meio da transmissão é importante, mas a aprendizagem por 
+meio  de  questionamentos,  experimentação  e,  sobretudo,  construção  orientada  de 
+
+ 
+
+conhecimentos,  é  mais  relevante  ainda.  Especialmente  quando  se  tem  como  propósito 
+uma  compreensão  mais  ampla  e  profunda,  e  quando  se  discute  novas  abordagens  no 
+ensino superior (graduação e pós-graduação). 
+
+É fato que ainda existem muitos campos ainda a desvelar acerca das discussões 
+de  teóricos  como  Comenius,  bem  como  das  metodologias  ativas,  e  nessa  análise  foi 
+possível perceber que por mais que as ideias de ambos se relacionem, há também pontos 
+de  divergências,  que  merecem,  por  sua  vez,  análises.  Para  exemplificar,  segundo  este 
+autor,  o  ato  educativo  tinha  como  ponto  central  a  figura  do  professor.  Embora  este 
+agisse em função da formação do aluno, era a sua  prática a principal responsável pela 
+efetivação do aprendizado. No que tange às metodologias ativas, contudo, esse papel de 
+protagonista fica para o aluno, cabendo ao professor orientá-lo e direcioná-lo da melhor 
+maneira, a fim de que o mesmo atinja, construa e desenvolva seus conhecimentos com 
+autonomia. 
+
+Na realidade, considerando as aproximações e divergências que são próprias de 
+pensamentos  em  épocas  diferentes,  para  fins  de  fornecer  algumas  conclusões  a  partir 
+dessa discussão, é válido mencionar a importância  desse tipo de experiência no ensino 
+superior,  para  que  contribua  ativamente  na  formação  do  professor,  mostrando-lhe  a 
+concretude  das  metodologias  ativas  no  ensino.  Parece-nos  que  uma  das  melhores 
+maneiras  de  ensinar  ainda  é  pelo  exemplo,  i.e.  usar  as  metodologias  ativas  no  ensino 
+superior  e  não  experimentá-las  na  prática  debela  a  efetividade  das  manifestações  de 
+educação inovadora e inviabiliza, e até podem frustrar, o ensino-aprendizagem. 
+
+Finalmente, acredita-se que a experiência de empregar as metodologias ativas no 
+campo  das  teorias  da  educação,  foi  enriquecedora  e  com  considerável  potencial  de 
+transformação. 
+
+Referências 
+
+ALMEIDA, Andrea Chagas Alves de Almeida; MELO, Ana Flávia Beviláqua.  Flipped 
+Classroom  como  estratégia  metodológica  para  Educação  Superior:  Um  caso  da 
+AnBar Organização de Eventos. In: 23º CIAED - Congresso Internacional ABED 
+de Educação a Distância, 2017, Foz do Iguaçu - PR.  
+
+ARANHA,  Maria  Lúcia  de  Arruda.  História  da  Educação  e  da  Pedagogia:  geral  e 
+
+Brasil. – 3. ed. – rev e ampl. – São Paulo: Moderna, 2006. 
+
+BACICH,  Lilian;  MORÁN,  José.  Metodologias  ativas  para  uma  educação 
+
+inovadora: Uma abordagem teórico-prática. Porto Alegre: Penso, 2018. 
+
+BERBEL, Neusi Aparecida Navas. As metodologias ativas e a promoção da autonomia 
+de estudantes. Semina: Ciências Sociais e Humanas, Londrina, v. 32, n. 1, p. 25-40, 
+jan./jun. 2011. 
+
+COMENIUS,  Jon  Amós.  The  great  didactic  of  John  Amos  Comenius.    Editora: 
+Leaf.com  books.  Versão  Kindle.  Publicado  em  2012.  ISBN  versão  kindle: 
+B009XJ5E3W. ISBN versão impressa: 1169351085. 
+
+COSTA,  Alex  Felipe  Ferreira;  de  MELO,  Alex  Frederico  Mathias  Felix;  MOREIRA, 
+Gabriel  Gonçalves,  CARVALHO,  Marcos  de  Alencar;  LIMA,  Marcos  Vinícius  de 
+Andrade. Aplicação de Sala Invertida e Elementos de Gamificação para Melhoria do 
+Ensino-Aprendizagem em Programação Orientada a Objetos. In: TISE 2017 - XXII 
+Conferência Internacional sobre Informática na Educação, 2017, Fortaleza. 
+
+ 
+
+DAMIS,  Olga  Teixeira.  Didática  e  Ensino:  Relações  e  Pressupostos.  In:  VEIGA,  Ilma 
+Passos  Alencastro  (coord).  Repensando  a  Didática.  –  29ª  ed.  –  Campinas,  SP: 
+Papirus, 2012. 
+
+DIESEL,  Aline;  BALDEZ,  Alda  Leila  Santos;  MARTINS,  Silvana  Neumann.  Os 
+princípios  das  metodologias  ativas  de  ensino:  uma  abordagem  teórica.  Revista 
+Thema.  Instituto  Federal  de  Educação,  Ciências  e  Tecnologia  Sul-rio-grandense. 
+Pelotas, RS, Brasil, v. 14, n. 1, p. 268-288, 2017. 
+
+HORN, Michael B; STAKER, Heather. Blended: usando a inovação disruptiva para 
+
+aprimorar a educação. Porto Alegre: Penso Editora, 2015. 
+
+FILATRO,  Andrea;  CAVALCANTI,  Carolina  Costa.  Metodologias  Inov-ativas  na 
+educação  presencial,  a  distância  e  corporativa.  São  Paulo:  Saraiva  Educação, 
+2018. 
+
+NUNES,  Ana  Ignêz  Belém  Lima;  NUNES,  João  Batista  Carvalho.  Papel  dos 
+formadores,  modelos  e  estratégias  formativos  no  desenvolvimento  docente.  Série-
+Estudos (UCDB), v. 36, p. 91-108, 2013.  
+
+MATTAR,  João.  Metodologias  Ativas:  Para  a  educação  presencial,  blended  e  a 
+
+distância. São Paulo: Artesanato Educacional, 2017. 
+
+MORÁN,  José.  Mudando  a  educação  com  metodologias  ativas.  In:  SOUZA,  Carlos 
+Alberto  de;  MORALES,  Ofelia  Elisa  Torres 
+(orgs.).  Coleção  Mídias 
+Contemporâneas.  Convergências  Midiáticas,  Educação  e  Cidadania:  aproximações 
+jovens. Vol. II. PG: Foca Foto-PROEX/UEPG, 2015. 
+
+WALKER, Daniel. Comenius - O Criador da Didática Moderna. Edição do Kindle. 
+
+ 
+
+ 
+
+

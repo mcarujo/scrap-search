@@ -1,0 +1,477 @@
+ 
+ 
+
+ 
+
+Astroem para Professores e o Ensino de Matemática: 
+Iniciação à Linguagem da Programação por meio da Robótica 
+
+Claudia de Oliveira Lozada1, Claudia Celeste Celestino2, Wesley Góis3 
+ 
+1Instituto de Matemática  
+Universidade Federal de Alagoas (UFAL) – Maceió, AL - Brasil 
+2,3Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas  
+Universidade Federal do ABC – Santo André, SP - Brasil 
+ 
+
+cld.lozada@gmail.com, claudia.celeste@ufabc.edu.br, 
+wesley.gois@ufabc.edu.br
+
+in 
+
+logic  and  programming 
+
+language,  especially  given 
+
+Abstract.  In  this  work  we  report  on  the  importance  of  continuing  teacher 
+education 
+the 
+predictions  of  the  BNCC  for  Mathematics.  Even  if  the  school  has  resources 
+such as a computer lab, training is necessary, and many educational resources 
+can serve as a vehicle for programming language teaching, such as Robotics. 
+The  results  with  the  preliminary  use  of  Robomind  proved  to  be  satisfactory 
+and  were  corroborated  by  the  later  activities  with  Lego  NXT  and  Scratch, 
+later  stages  in  which  teachers  started  to  present  a  greater  command  of  the 
+programming language.  
+
+lógica  e 
+
+Resumo. Neste trabalho trazemos um relato sobre a importância da formação 
+continuada  de  professores  em 
+linguagem  da  programação, 
+principalmente dadas as previsões da BNCC para Matemática. Mesmo que a 
+escola disponha de recursos como laboratório de informática, a capacitação é 
+necessária,  e  muitos  recursos  educacionais  podem  servir  de  veículo  para  o 
+ensino  da  linguagem  da  programação,  como  é  o  caso  da  Robótica.  Os 
+resultados  acerca  da  utilização  preliminar  do  Robomind  mostraram-se 
+satisfatórios  e  sendo  corroborados  pelas  atividades  posteriores  com  o  Lego 
+NXT  e  o  Scratch,  etapas  posteriores  nas  quais  os  professores  passaram  a 
+apresentar maior domínio da linguagem da programação.  
+
+1. Introdução 
+
+Com o advento da tecnologia e sua utilização como ferramenta de ensino, por meio dos 
+diferentes  dispositivos  que  se  agrupam  nas  Tecnologias  Digitais  de  Informação  e 
+Comunicação  (TDICs),  a  didática,  a  metodologia,  o  espaço  da  sala  de  aula  e  os 
+processos  de  ensino  e  aprendizagem  vem  sofrendo  transformações.  Nesse  contexto 
+tecnológico, é que se indaga sobre  a importância da formação  continuada e da própria 
+formação inicial dos professores que ensinam Matemática. 
+
+ 
+
+Menezes, Braga e Seimetz (2018, p. 4) apontam que o uso das TDICs no ensino 
+de  Matemática  tornam  as  aulas  mais  dinâmicas,  motivadoras,  instigantes  para  alunos, 
+criando novas relações entre o aluno e o objeto de conhecimento, o que pode, segundo 
+os autores contribuir para diminuir o fracasso escolar. Os autores colocam ainda que na 
+formação  inicial  é  “preparar  um  profissional  que  enfrente  os  desafios  educacionais  de 
+seu tempo, o que inclui os aparatos tecnológicos”.  Para tanto, dentre os obstáculos que 
+apontam  para  a  inserção  das  TDICs,  destacamos  a  formação  docente  qualificada, 
+políticas educacionais para sistematização das TDIC no currículo escolar e a utilização 
+adequada  desses  recursos  considerando-se  as  concepções  pedagógica  relativas  ao  seu 
+emprego no contexto educativo. 
+
+Kalinke  (2014,  p.  25)  corrobora  o  que  foi  dito  anteriormente  afirmando  que, 
+“(...) para  acompanhar  essas transformações, o profissional do  magistério precisa  estar 
+atento a esse novo contexto tecnológico e preparado para enfrentar as novidades com as 
+quais se depara constantemente”. 
+
+Inclusive  é  importante  observar  que  o  Parecer  CNE/CP  009/2001  já  apontava 
+como  uma  das  competências  da  formação  para  a  atividade  docente,  “o  uso  de 
+tecnologias da informação e da comunicação e de metodologias, estratégias e materiais 
+de  apoio  inovadores”.  Mas,  de  2001  para  2019,  enfrenta-se  ainda  a  questão  de 
+reformulação  curricular das licenciaturas em Matemática  e também de Pedagogia, que 
+formam  os  professores  que  ensinam  Matemática  na  Educação  Básica,  para  acolher 
+disciplinas que efetivamente conciliem teoria e prática, com atividades voltadas para o 
+uso  das  TDICs,  de  modo  que  os  futuros  professores  sintam-se  ambientados  e  com 
+subsídios  para  a  aplicação  em  sala  de  aula.  Essas  ações  contribuem  para  a  inclusão 
+digital educativa dos futuros professores, bem como implicam numa contribuição para a 
+alfabetização digital, o letramento digital e a fluência digital, que amplificam a esfera do  
+conhecimento  especializado  do  conteúdo  [Ball,  Thames  e  Phelps,  2008]  acerca  do 
+pensamento  computacional.  Além  do  mais,  é  necessário  investimento      para  aquisição 
+dos  recursos  tecnólogicos  educativos  para  equipar  as  escolas  públicas  onde  a  maioria 
+desses  futuros  professores  atuará.  O  movimento  de  inovação  curricular  na  Educação 
+Básica  impulsionado  pela  reforma  do  Ensino  Médio  que  desencadeou  a  elaboração  e 
+publicação da Base Nacional Comum Curricular [BNCC] foi importante no sentido de 
+valorizar  o  desenvolvimento  do  pensamento  computacional.  A  BNCC  traz  como  uma 
+das competências gerais a cultura digital e  como decorrentes as competências 1, 2 e 5, 
+que inclui o pensamento computacional onde se situa a linguagem da programação. 
+
+Além do mais, a presença das empresas que trabalham com produtos educativos 
+tecnológicos  e  sua  exposição  em  feiras  nas  quais  as  escolas  privadas  são  os  seus 
+principais  públicos,  e  o  respectivo  marketing  dos  produtos  tecnológicos  educativos 
+disseminado  pelas  redes  sociais  e  canais  no  you  tube  trazendo  alternativas  de  TDICs 
+acessíveis  e  gratuitas,  sobretudo,  para  os  profissionais  de  escolas  públicas,  são 
+estratégias  que  têm  se  constituído  um  cenário  potencialmente  motivador  para  a 
+consolidação das TDICs no contexto educacional brasileiro, e certamente auxiliarão na 
+introdução do pensamento computacional nas aulas. Nesse sentido, trazemos um relato 
+de experiência sobre um módulo de um  curso de  extensão voltado para os professores 
+da  Educação  Básica,  que  visa  contribuir  com  a  formação  continuada  em  pensamento 
+computacional  e  linguagem  da  programação  por  meio  da  Robótica,  com  o  uso  do 
+Robomind. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+2. BNCC e a Linguagem da Programação 
+
+A Base Nacional Curricular Comum [BNCC] publicada em 2018 está estruturada em 10 
+competências gerais que abrangem todas as disciplinas, o que implica num ensino mais 
+globalizado  e  afinado  com  as  tendências  curriculares  atuais  que  envolvem  o 
+desenvolvimento  de  habilidades  socioemocionais,  conhecimento  num  contexto 
+tecnológico  e  multicultural,  criatividade,  cidadania,  criticidade,  profissionalidade  e  os 
+projetos de vida, resgatando muito do que Delors (2003) colocava quando enunciou os 
+quatro pilares da educação: aprender a ser, aprender a conviver, aprender a conhecer e 
+aprender a fazer. 
+
+O uso das TDICs aparece na BNCC como uma competência geral na Educação 
+Básica:  “Utilizar  tecnologias  digitais  de  comunicação  e  informação  de  forma  crítica, 
+significativa, reflexiva e ética nas diversas práticas do cotidiano (incluindo as escolares) 
+ao  comunicar,  acessar  e  disseminar  informações,  produzir  conhecimentos  e  resolver 
+problemas” [Brasil, 2018, p. 09]. Decorre da ascensão do desenvolvimento tecnológico 
+e  presença  de  dispositivos  tecnológicos  e  maior  acesso  a  eles,  assim  como  a 
+disseminação  de  um  grande  volume  de  informações  e  dados  por  meio  da  internet  e 
+formas  mais  dinâmicas  de  ser  comunicar  trazidas  pelas  redes  sociais  e  tecnologias 
+móveis. O algoritmo ganhou uma  enorme importância na Era da Big Data e se tornou 
+frequente  em  ações  cotidianas,  como  por  exemplo,  a  pesquisa  de  preços  de  um 
+determinado produto por meio de buscadores de sites, que além de selecionar o menor 
+preço, conseguem apontar a preferência do consumidor por outros produtos por meio da 
+inteligência artificial. Inclusive a BNCC, para o Ensino Médio, no itinerário formativo 
+“Matemática  e  suas  Tecnologias”  recomenda  que  se  façam  arranjos  curriculares  que 
+permitam estudos em “robótica, automação, inteligência artificial, programação e jogos 
+digitais” [Brasil, 2018, p. 477]. 
+
+Nas  competências  gerais  1  e  2  respectivamente,  a  BNCC  cita  a  valorização  e 
+utilização  dos  conhecimentos  historicamente  construídos  no  mundo  digital  e  a  criação 
+de  soluções  tecnológicas  [Brasil,  2018,  p.  09],  o  que  implica  imersão,  domínio  dos 
+conhecimentos  computacionais  e  habilidades  e  competências  para  aplicação  dos 
+recursos  digitais.  Por  outro  lado,  a  utilização  da  tecnologia  aparece  como  uma 
+competência  do  ensino  de  Matemática  do  Ensino  Fundamental:  “Utilizar  processos  e 
+ferramentas  matemáticas,  inclusive  tecnologias  digitais  disponíveis,  para  modelar  e 
+resolver  problemas  cotidianos,  sociais,  de  outras  áreas  do  conhecimento,  validando 
+estratégias e resultados [Brasil, 2018, p. 267].” Dessa forma, a  escola  e os professores 
+devem  viabilizar  o  ensino  de  Matemática  atrelado  à  resolução  de  problemas  e  ao 
+desenvolvimento do pensamento computacional e utilização das TDICs. 
+
+Para a utilização da tecnologia no dia a dia, é preciso que o aluno compreenda o 
+mecanismo de funcionamento dos dispositivos e sua linguagem específica. A linguagem 
+da  programação  mostra-se  como  um  desdobramento  do  pensamento  computacional 
+decorrente  das  tecnologias  digitais  mencionadas  na  BNCC,  o  que  implica  não  só  no 
+letramento  digital,  mas  também  na  representação  de  dados,  nos  algoritmos,  na 
+codificação e abstração. Assim, as tecnologias na BNCC não são apenas ferramentas de 
+aprendizagem  de  conteúdos,  mas  também  dispositivos  com  os  quais  os  alunos  se 
+deparam  e  utilizam  em  seu  cotidiano  e  que  exigem  certo  domínio.  Dessa  forma,  o 
+currículo  -    posto  em  ação  –  previsto  pela  BNCC,  demandará  não  só  recursos  para 
+equipar  as  escolas,  mas  também  a  capacitação  docente,  seja  pelas  secretarias  de 
+
+ 
+
+educação  ou  pelas  universidades  por  meio  de  cursos  de  atualização,  extensão  ou  pós- 
+graduação lato sensu. 
+
+2. Formação continuada: o Curso de Extensão Astroem para Professores 
+
+O curso de extensão Astroem para Professores foi realizado nos meses de junho e julho 
+de  2018  com  carga  horária  de  40h.  Foi  promovido  pela  Pró-Reitoria  de  Extensão  E 
+Cultura da Universidade Federal do ABC (UFABC) e executado pela equipe do Projeto 
+Astroem e convidado externo.  
+
+O  Projeto  Astroem  foi  idealizado  em  2013  por  pesquisadores  da  Engenharia 
+Aeroespacial  da  UFABC,  sendo  ofertado  anualmente  na  modalidade  presencial  para 
+alunos  da  Educação  Básica  (com  os  eixos  formativos  em  Astronáutica,  Aeronáutica, 
+Mecânica  Aplicada  e  Astronomia)  e  pela  primeira  vez  foi  ofertado  para  professores 
+também  na  modalidade  presencial  contemplando  as  temáticas  de  Astronáutica, 
+Aeronáutica,  Scratch  e  Robótica,  estas  últimas  decorrentes  da  previsão  da  inserção  da 
+linguagem da programação no currículo pela BNCC. O Scratch e a Robótica abrangiam 
+noções  de  liguagem  da  programação,  o  primeiro  por  blocos  e  a  segunda  por  meio  do 
+léxico  (com  as  funções  matemáticas  e  palavras  reservadas)  e  a  gramática  (com  seus 
+operadores).  
+
+No  entanto,  foi  necessário  preliminarmente  ensinar  as  noções  de  lógica  básica, 
+álgebra  booleana,  para  depois  abordar  algoritmos,  programação  e  especificamente  a 
+Robótica,  uma  vez  que  os  robôs  necessitavam  de  programação  para  se  movimentar, 
+assim  como  o  personagem  gato  do  Scratch.  Por  sua  vez,  muitos  dos  professores  não 
+possuíam  noções  de  lógica  e  nem  de  linguagem  da  programação.  Como  material  de 
+apoio foi fornecida uma apostila com o conteúdo teórico e os exercícios. 
+
+O  curso  foi  estruturado  em  duas  partes:  teórica  e  prática,  sendo  que  a  teórica 
+além  dos  conhecimentos  específicos  das  temáticas,  também  possuía  fundamentos 
+teóricos  sobre  a  utilização  das  TDICs  na  Educação.  O  curso  foi  ministrado  no 
+laboratório de informática da Universidade Federal do ABC, Campus Santo André, em 
+4 sábados, com carga horária total de 32 horas. 
+
+Um  dos  recursos  utilizados  no  curso  foi  o  software  Robomind.  A  pertinência 
+desta  ferramenta  educativa  é  auxiliar  na  introdução  da  linguagem  da  programação  por 
+meio  da  Robótica,  utilizando  o  léxico  e  a  gramática,  com  o  ensino  dos  movimentos 
+básicos  do  robô  que  são  ver,  pegar,  andar  e  pintar.  Em  seguida,  foram  propostos 
+desafios na movimentação do robô dentro de um cenário com obstáculos. Após a aula, 
+aplicamos um questionário  com a finalidade de verificar se os professores aprenderam 
+os  comandos  básicos  por  meio  da  linguagem  da  programação  e  se  acharam  que  a 
+ferramenta  Robomind  era  viável  nas  aulas.  Sete  professores  responderam  ao 
+questionário que possuía 12 questões, sendo 3 fechadas e as demais questões abertas.  
+
+A primeira questão era a seguinte: “Para que serve a lógica? Qual a importância 
+de  conhecê-la/dominá-la  considerando  os  avanços  tecnológicos?”  Dos  doze  alunos 
+matriculados no curso, 7 estavam presentes nesta aula e deram as seguintes respostas: 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Figura 1. Respostas da 1ª questão 
+
+ 
+
+Três professores ligaram a lógica à resolução de problemas, dois à execução de 
+comandos, um deles ao raciocínio lógico e outro à alfabetização científica e tecnológica. 
+Portanto,  a  maioria  dos  professores  presentes  no  curso  atrelou  a  lógica  à  resolução  de 
+problemas,  sendo  que  as  compreensões  expressas  pelos  demais  professores  são 
+complementares à noção que se tem de lógica, portanto, as respostas se complementam 
+e para uma abordagem inicial podem ser consideradas satisfatórias. 
+
+Na  2ª  questão,  colocou-se  uma  questão  usual  de  lógica,  problematizando: 
+“Leonardo, Caio  e Márcio são considerados suspeitos de praticar um crime. Ao serem 
+interrogados por um delegado, Márcio disse que era inocente e que Leonardo e Caio não 
+falavam  a  verdade.  Leonardo  disse  que  Caio  não  falava  a  verdade,  e  Caio  disse  que 
+Márcio  não  falava  a  verdade.  A  partir  das  informações  dessa  situação  hipotética,  é 
+correto afirmar que: (A) os três rapazes mentem. (B) dois rapazes falam a verdade. (C) 
+nenhuma  afirmação  feita  por  Márcio  é  verdadeira.  (D)  Márcio  mente,  e  Caio  fala  a 
+verdade. (E) Márcio é inocente e fala a verdade.” Os resultados foram estes mostrados 
+na figura 2: apenas 14,3%, ou seja, um docente, acertou esta questão, o que implica em 
+pouco contato dos docentes com questões de lógica. 
+
+Figura 2. Respostas da 2ª questão 
+
+ 
+
+ 
+
+Nas  questões  3  e  4  solicitou-se  aos  docentes  que  escrevessem  os  scripts  para 
+movimentar  o  robô  em  determinado  cenário,  representado  abaixo  pela  figura  3.  No 
+primeiro, deveriam escrever o script para que o robô saísse do  labirinto e  chegasse  ao 
+objeto, e no segundo deveriam escrever o script para instruir o robô a pintar o caminho 
+percorrido até o objeto de preto, não pintando os pontos brancos. 
+
+ 
+
+Figura 3. Telas da 3ª e 4ª questão 
+
+ 
+
+Apresentamos aqui  alguns scripts relativos à questão (figura 4), lembrando que 
+há escritas dos scripts do Robomind que são equivalentes e exercem a mesma função, e 
+que seria necessário que escrevessem lembrando que o script decorre da movimentação 
+do  robô  e  isto  deveria  ser  realizado  como  forma  de  comprovação  de  que  a 
+movimentação estaria correta. 
+
+ 
+
+   
+
+ 
+
+Figure 4. Respostas com os scripts 3ª questão 
+
+ 
+
+Percebe-se que alguns têm dificuldades em escrever os comandos e estruturas de 
+repetição,  outros  utilizam  os  condicionais,  alguns  escreveram  como  se  estivessem 
+digitando frases da língua portuguesa corrente  misturadas com  comandos, assim  como 
+outros  não  observaram  a  questão  de  se  escrever  cada  comando  em  uma  linha.  Na 
+questão  4,  os  scripts  eram  mais  elaborados  e  algumas  dificuldades  semelhantes  à 
+questão 3 no que diz respeito à escrita foram observadas, inclusive um dos docentes não 
+conseguiu escrever um dos comandos (figura 5): 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+           Figura 5. Resposta com os scripts 4ª questão 
+
+ 
+
+Na  questão  seguinte,  solicitou-se  que  propusessem  uma  atividade  utilizando  os 
+mapas (cenários) fornecidos colocando os comandos. A maioria apontou o mapa usado 
+e relatando as ações do robô, mas apenas um indicou o script do comando. Percebe-se 
+que  a  maioria  não  compreendeu  o  que  a  questão  pediu  e/ou  não  conseguiu  de  fato 
+escrever os comandos e deixou relatada a ação do robô, como vemos a seguir na figura 
+6: 
+
+ 
+
+ 
+
+ 
+
+Figura 6. Resposta da 5ª questão 
+
+ 
+
+Na  questão  seguinte  perguntou-se:  “Qual  a  importância  e  relevância  da 
+abordagem  da  Lógica  Básica  de  Programação  para  o  ensino  básico?”  Apenas  6  dos 
+participantes responderam como se pode ver na figura 7: 
+
+Figura 7. Resposta da 6ª questão 
+
+ 
+
+ 
+
+ 
+
+A maioria das respostas atrela a importância da lógica básica de programação na 
+Educação  Básica  ao  desenvolvimento  do  raciocínio  lógico,  importante  no  rol  de 
+competências e habilidades matemáticas, previstas na BNCC. 
+
+Na questão seguinte (questão 7), perguntou-se quais adaptações eles fariam nas 
+tarefas  do  Robomind.  A  maioria  afirmou  que  não  faria  adaptações  nas  atividades 
+propostas,  e  um  deles  apontou  a  necessidade  de  se  aprofundar  mais  a  respeito  do 
+Robomind.  Na  8ª  questão  perguntou-se  como  a  metodologia  utilizada  no  curso, 
+principalmente nas explicações e no momento de prática com o programa do Robomind, 
+poderia auxiliar na construção de uma proposta didático-pedagógica. As respostas dadas 
+estão  ligadas  às  aulas  mais  dinâmicas  e  motivação,  considerando-se  que  um  dos 
+docentes  pontuou  algo  importante  que  é  a  graduação  das  problematizações  e 
+questionamentos  propostos  nas  atividades,  de  modo  que  vão  dando  forma  ao 
+pensamento  relacionado  à  lógica  da  programação,  aspecto  fundamental,  uma  vez  que 
+muitos  alunos  podem  considerar  inicialmente  a  lógica  da  programação  algo  muito 
+abstrato,  e  pouco  se  envolverem  com  as  atividades,  e  com  a  graduação  do  nível  das 
+atividades  esse  fator  impeditivo  poderá  ser  descartado.  Vejamos  as  respostas  dadas 
+expostas pela figura 8: 
+
+ 
+
+Figura 8. Resposta da 8ª questão 
+
+Na  9a  questão,  indagou-se  os  docentes  se  consideravam  viável  o  uso  do 
+Robomind  como  ferramenta  de  ensino  nas  aulas  da  Educação  Básica,  e  85,7% 
+considerou viável, ou seja, apenas um dos 6 respondentes considerou “depende”, e sua 
+justificativa  foi  apresentada  na  questão  seguinte  na  qual  se  pediu  para  justificar  a 
+viabilidade ou não, considerando a escola onde o professor atua (figura 9): 
+
+Figura 9. Resposta da 9ª questão 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A  justificativa  apresentada  pelo  docente  sobre  o  “depende”  em  relação  à 
+viabilidade  é  direcionada  para  o  nível  de  compreensão  dos  alunos  em  relação  às 
+questões  de  localização  e  Matemática,  ou  seja,  movimentação  virtual  do  robô  num 
+cenário depende de comandos que podem ser um tanto abstratos para os alunos, ou seja, 
+são diferentes de se movimentar um objeto num espaço concreto e real. A isto, juntam-
+se  dificuldades  que  podem  ser  oriundas  das  defasagens  dos  alunos  em  conteúdos 
+matemáticos e o não contato com lógica. Abaixo na figura 10, estão as respostas: 
+
+Figura 10. Resposta da 11ª questão 
+
+Na  penúltima  questão,  pediu-se  para  os  docentes  indicarem  com  quais 
+disciplinas  eles  fariam  um  trabalho  interdisciplinar  com  o  Robomind  e  porque  a 
+interdisciplinaridade  é  importante  nas  práticas  pedagógicas.  As  respostas  dadas  foram 
+estas (figura 11): 
+
+ 
+
+ 
+
+ 
+
+Figura 11. Resposta da 12ª questão 
+
+Todos  os  docentes  conseguiram 
+
+indicar  disciplinas  com  quais  fariam 
+interdisciplinaridade,  mas  apenas  três  deles  justificaram  o  porquê  ela  é  importante  nas 
+práticas pedagógicas, relacionando em geral com a aprendizagem do conteúdo aplicado 
+às outras áreas do conhecimento e mobilização de diversos conhecimentos.   
+
+Por  fim,  indagou-se  quais  foram  as  dificuldades  encontradas  na  execução  das 
+atividades propostas com o Robomind, sendo que dois afirmaram não ter dificuldade e 
+os  demais  atrelaram  em  sua  maioria  dificuldades  em  relação  aos  comandos,  o  que 
+demonstra a necessidade de se ofertar mais cursos de formação continuada e se incluir 
+
+ 
+ 
+
+ 
+
+na formação inicial dos professores que ensinam Matemática, a lógica e a linguagem da 
+programação. Vejamos as respostas dadas expostas na figura 13:  
+
+ 
+
+ 
+
+ 
+
+Figura 13. Resposta da 13ª questão 
+
+3. Conclusão 
+
+Consideramos  a  participação  dos  docentes  neste  curso  de  extensão  de  extrema 
+importância,  assim  como  os  resultados  mostram-se  satisfatórios  com  o  uso  do 
+Robomind, sendo que nos módulos seguintes com o Lego NXT e Scratch, os docentes 
+apresentaram  maior  familiarização  e  domínio  da  linguagem  da  programação.  Os 
+comandos do Robomind são de fácil compreensão e necessitam de maior exploração por 
+parte  do  usuário  a  fim  de  fixá-los.  É  uma  forma  lúdica  de  abordar  a  linguagem  da 
+programação por meio da Robótica, o que torna as aulas mais dinâmicas e interativas. 
+
+Referências 
+
+Ball,  D.;  Thames,  M.  H.  and  Phelps,  G.  (2008).  “Content  Knowledge  for  Teaching: 
+
+What makes it special?” In: Journal of Teacher Education, pages 389–407. 
+
+Brasil 
+
+(2018). 
+
+Curricular”, 
+http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_si
+te.pdf, Agosto. 
+
+Nacional 
+
+Comum 
+
+“Base 
+
+Brasil  (2001).  “Parecer  CNE/CP  9/2001:  diretrizes  curriculares  nacionais  para  a 
+formação  de  professores  da  educação  básica,  em  nível  superior,  curso  de 
+licenciatura”, de graduação plena, http://portal.mec.gov.br/cne/arquivos/pdf/009.pdf, 
+Junho. 
+
+Delors, J. (2003). “Educação: um tesouro a descobrir”, Cortez, São Paulo. 
+
+Kalinke,  M.  A.  (2014).  “Tecnologias  no  Ensino:  a  linguagem  matemática  na  web”, 
+
+CVR, Curitiba. 
+
+Menezes,  J.  E.,  Braga,  M.  D.  e  Seimetz,  R.  (2018).  “O  ensino  na  licenciatura  em 
+matemática  mediado  pela  TDIC:  opiniões  e  perspectivas  de  alunos”, 
+http://cietenped.ufscar.br/submissao/index.php/2018/article/download/725/601/, 
+Junho.  
+
+ 
+
+ 
+
+

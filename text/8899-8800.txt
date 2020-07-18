@@ -1,0 +1,787 @@
+ 
+
+A Tecnologia Assistiva e a Inclusão de Educandos com 
+Deficiência Visual: um Mapeamento Sistemático da 
+Literatura 
+
+Ana Carolina Candido de Melo1, Ellen Polliana Ramos Souza1, José Vinícius 
+Vieira Lima2 
+
+1Universidade Federal Rural de Pernambuco - (UFRPE) 
+
+2Universidade de Pernambuco - (UPE) 
+
+{carolina.melo, ellen.ramos}@ufrpe.br, jvvl@ecomp.poli.br
+
+Abstract.  Assistive  Technology  (AT)  refers  to  resources  and  services  that 
+extend  the  functional  abilities  of  the  Person  with  Disability  (PwD),  aiming 
+their  social  inclusion.  Thus,  this  work  presents  the  results  of  a  systematic 
+mapping of the literature, whose aim is to investigate the advances in the use 
+of  resources  and  services  of  AT  for  the  inclusion  of  persons  with  visual 
+impairment in the educational scope, through manual and automatic searches 
+in  the  period  from  2009  to  2018,  proposing  at  the  end,  the  cataloging  and 
+disclosure of these resources. A total of 12.279 primary studies were returned, 
+which  30  were  included  in  the  mapping,  among  the  results,  highlighting 
+educational software as the type of solution proposed. 
+
+Resumo.  Tecnologia  Assistiva  (TA)  refere-se  a  recursos  e  serviços  que 
+ampliam as habilidades funcionais da Pessoa com Deficiência (PcD), visando 
+sua  inclusão  social.  Assim,  este  trabalho  apresenta  o  resultado  de  um 
+mapeamento  sistemático  da  literatura,  cujo  objetivo  é  investigar  os  avanços 
+no uso de recursos e serviços de TA para inclusão da PcD Visual no âmbito 
+educacional,  através  de  buscas  manual  e  automática  no  período  de  2009  a 
+2018, propondo ao final, a catalogação e divulgação destes recursos. Foram 
+retornados  12.279  estudos  primários,  dos  quais,  30  foram  incluídos  no 
+mapeamento. Dentre os resultados, destaque para softwares educativos como 
+tipo de solução proposta. 
+
+1. Introdução 
+
+Os  debates  acerca  da  inclusão  da  Pessoa  com  Deficiência  (PcD),  em  sua  maioria, 
+enfatizam o acesso desta comunidade a serviços essenciais, como exemplo a educação. 
+Com  isso,  pesquisadores  das  áreas  de  educação  e  informática,  têm  buscado  meios  de 
+oferecer recursos de apoio ao seu processo de ensino e aprendizagem. À PcD Visual, na 
+maioria das vezes, é inexiste uma reflexão mais aprofundada sobre o dever institucional 
+em contribuir para a sua inclusão educacional, sendo vários os obstáculos e problemas 
+enfrentados para alcançar sua formação básica e superior [Schweitzer 2007]. 
+
+ 
+De acordo com o último censo do Instituto Brasileiro de Geografia e Estatística 
+(IBGE) em 2010, 18,6% da população brasileira declararam ter deficiência visual, neste 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+total estão incluídas aquelas com deficiência congênita ou adquirida, cegueira ou baixa 
+visão.  Especificamente,  o  letramento  digital  a  deficientes  visuais  pode  torná-los  mais 
+independentes, visando a busca de informações para desenvolvimento das mais diversas 
+atividades, desde como resolver um problema matemático a como cozinhar determinado 
+prato.  Atrelado  a  isso,  várias  tecnologias  vêm  sendo  aprimoradas  para  melhor  atender 
+esse público. Dentre essas tecnologias, estão os teclados adaptados com mecanismos em 
+braille,  softwares  de  leitura  de  telas,  softwares  que  aumentam  o  tamanho  de  fontes  e 
+figuras, dentre outros [De Lima et al. 2018]. 
+
+A  Tecnologia  Assistiva  (TA)  inclui  auxílios  técnicos  personalizados  para 
+ 
+atender às necessidades da PcD. Bersch (2008) define TA como um termo utilizado para 
+identificar o arsenal de recursos e serviços que contribuem para ampliar as habilidades 
+funcionais  da  PcD  e  consequentemente  promover  vida  independente  e  inclusão.  Os 
+recursos  são  itens  ou  sistemas  fabricados  e  utilizados  com  o  objetivo  de  melhorar  as 
+capacidades funcionais da PcD. Enquanto que, os serviços são definidos como aqueles 
+que auxiliam diretamente a PcD a selecionar, adquirir ou utilizar os recursos de TA. 
+
+Em  consequência  disso,  no  universo  da  TA,  o  agrupamento  dos  estudos 
+ 
+primários  com  foco  no  desenvolvimento  de  recursos  para  este  segmento  mostra-se 
+crescente na academia, tendo em vista a quantidade de trabalhos disponíveis, tanto em 
+plataformas  de  artigos  nacionais  quanto  internacionais  [Wohlin  et  al.  2013].  Contudo, 
+para auxiliar no acesso dessas informações, existem os estudos secundários, que visam 
+analisar  estudos  primários  relativos  a  certas  questões  de  pesquisa,  promovendo  aos 
+pesquisadores uma visão geral de uma área de interesse [Kitchenham 2004]. 
+
+Através de um Mapeamento Sistemático da Literatura dos últimos 10 anos, este 
+ 
+trabalho tem como objetivo investigar os avanços no uso de recursos e serviços de TA 
+para  inclusão  da  PcD  Visual  no  âmbito  educacional,  bem  como  disponibilizar  um 
+catálogo  destes  recursos  em  uma  página  WEB  gratuita.  O  trabalho  está  estruturado  da 
+seguinte  forma:  a  Seção  2  apresenta  os  trabalhos  relacionados;  Na  Seção  3,  são 
+explanados os procedimentos metodológicos; A Seção 4 descreve os resultados; E, por 
+fim, a Seção 5 apresenta as considerações finais e a continuidade deste trabalho. 
+
+2. Trabalhos Relacionados 
+
+Aguiar  e  Alves  (2014)  publicaram  um  estudo  cujo  objetivo  foi  a  realização  de  um 
+mapeamento sistemático a fim de descobrir como a  TA e a  acessibilidade estão sendo 
+discutidas nos ambientes educacionais, considerando o período de 2010 a 2014. Como 
+principal resultado, em um total de 11 estudos primários considerados na pesquisa, foi 
+apontada uma predominância de soluções para PcD visual em ambientes educacionais. 
+
+ Neto  (2015)  realizou  uma  pesquisa  bibliográfica  manual  nos  anais  do  SBIE  e 
+ 
+WIE no período de 2001 a 2014, com o objetivo em identificar as soluções de TA que 
+auxiliam o processo de inclusão da PcD nas universidades e mercado de trabalho.  Ao 
+final, 40 estudos primários foram considerados, e como resultado, identificou soluções 
+em ferramentas e softwares educativos com foco na deficiência auditiva. 
+
+ 
+Freitas  e  Souza  (2018),  realizaram  uma  revisão  sistemática  da  literatura,  que 
+investigou  TAs  para  apoiar  o  ensino  e  aprendizagem  na  matemática  para  educandos 
+com deficiência visual, no qual estudos primários de qualquer ano foram considerados. 
+Os resultados apresentaram 59 tecnologias que possibilitam explorar diversos sentidos: 
+tátil, auditivo, háptico e multimodal em diversos conteúdos da Matemática. 
+
+ 
+Em contraste com os trabalhos relacionados, este trabalho realizou dois tipos de 
+busca:  manual  e  automática,  por  conseguinte  foram  consideradas  mais  fontes  de 
+pesquisa,  bem  como  maior  quantidade  de  questões  de  pesquisa.  Posteriormente, 
+realizou-se a catalogação dos recursos retornados da literatura, ilustrando a Tabela 1. 
+
+ 
+
+Tabela 1. Análise e comparação 
+
+Autor(es) 
+
+Período 
+
+Busca 
+
+Fontes 
+
+Aguiar e Alves 
+(2014) 
+
+2010 a 2014  Automática 
+
+ACM Digital Library – IEE Xplore 
+Digital Library - Scopus 
+
+Neto (2015) 
+
+2001 a 2014 
+
+Manual 
+
+SBIE - WIE 
+
+Freitas e Souza 
+(2018) 
+
+Sem restrição  Automática 
+
+IEE Xplore Digital Library – Scopus – 
+Web of Science 
+
+ 
+
+ 
+
+ 
+
+Este Trabalho 
+
+2009 a 2018 
+
+Manual e 
+Automática 
+
+SBIE – WIE – RBIE – RENOTE – 
+Portal do Períodicos CAPES – 
+SciELO – Google Scholar - SIBiUSP 
+
+3. Método 
+
+Neste  trabalho,  optou-se  pela  implementação  de  um  mapeamento  sistemático  da 
+literatura,  sendo  este  um  estudo  secundário,  com  questões  de  caráter  exploratório, 
+permitindo  reunir  informações  relevantes  sobre  uma  área  específica  [Petersen  et  al. 
+2008]. O Método está organizado em cinco etapas, como mostra a Figura 1.   
+
+Figura 1. Etapas do mapeamento sistemático 
+
+ 
+
+ 
+Na primeira etapa, visando identificar e analisar evidências no uso de recursos e 
+serviços de TA para inclusão da PcD visual no meio educacional, foram elaboradas às 
+seguintes questões de pesquisa (QP): 
+
+QP1 - Qual a evolução do número de publicações de 2009 a 2018?  
+
+QP2 - Qual região do país tem predominância no estudo do tema?  
+
+QP3 - Quais os tipos de soluções propostas pelos autores nos estudos primários com o        
+uso da tecnologia assistiva?  
+
+QP4 - Qual a distribuição dos estudos em relação ao nível de ensino? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QP5-  Quais  benefícios  e  problemas  foram  observados  com  o  uso  das  tecnologias 
+assistivas na escola? 
+
+ 
+Em seguida, foram definidas as fontes e  string de busca. Considerando a busca 
+manual, optou-se por eventos e revistas de destaque na área de informática na educação. 
+No processo da busca automática, as bibliotecas digitais foram escolhidas por possuírem 
+relevância  na  academia,  bem  como  disponibilidade  para  downloads  de  estudos 
+primários, em especial estudos escritos em língua portuguesa, como mostra a Tabela 2. 
+
+Na  Tabela  3,  é  apresentada  a  string  de  busca  utilizada  na  busca  automática. 
+ 
+Nela,  foram  incluídos  os  termos  “Tecnologia  Assistiva”  e  “Educacional”  com  seus 
+respectivos sinônimos para a seleção dos estudos primários. 
+
+ 
+Na sequência, foram definidos critérios de inclusão (CI) e de exclusão (CE) para 
+garantir  que  apenas  os  estudos  primários  relevantes  fossem  considerados  no 
+mapeamento para responder às questões da pesquisa. Os critérios definidos foram: 
+
+CI-1 Estudos primários publicados entre 2009 e 2018; 
+
+CI-2 Estudos primários escritos em língua portuguesa; 
+
+CI-3 Estudos primários que apresentem o uso de tecnologia assistiva na inclusão 
+educacional da pessoa com deficiência visual. 
+
+CE-1 O estudo primário não está disponível online; 
+
+CE-2 Estudos secundários (revisões e mapeamentos da literatura); 
+
+CE-3 O estudo primário é uma versão mais antiga de um outro estudo já considerado. 
+
+Tabela 2. Fontes de busca 
+
+Manual 
+
+Automática 
+
+Simpósio Brasileiro de Informática na Educação 
+(SBIE) 
+
+Portal de Períodicos CAPES 
+
+Workshop de Informática na Escola (WIE) 
+
+Google Scholar 
+
+Revista Brasileira de Informática na Educação 
+(RBIE) 
+
+Scientific Eletronic Library Online 
+(SciELO) 
+
+Revista Novas Tecnologias na Educação (RENOTE)  Portal de Busca Integrada (SIBiUSP) 
+
+ 
+
+Tabela 3. String de busca 
+
+String 
+
+AND 
+
+(“tecnologia assistiva” OR “tecnologia acessível” OR “tecnologia de apoio” OR 
+“ajuda técnica” OR “tecnologia de suporte” OR “tecnologia adaptativa”) 
+
+(“educacional” OR “educativo” OR “educação” OR “escola” OR “ensino”) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Na segunda etapa, correspondente à condução da pesquisa, foi realizada a busca 
+manual  pelos  estudos  através  do  acesso  manual  as  fontes  de  buscas.  Na  busca 
+automática, os estudos foram identificados aplicando a string nas bibliotecas digitais. 
+
+ 
+A  busca  inicial  resultou  em  12.279  estudos  primários,  em  seguida  foram 
+aplicados  os  critérios  de  inclusão  e  exclusão,  resultando  em  um  total  de  480  estudos 
+primários aprovados na etapa de pré-seleção, para serem selecionados nesta etapa, estes 
+tiveram  seus  títulos,  resumos  e  palavras-chave  analisados,  de  modo  a  verificar  sua 
+conformidade aos critérios de inclusão definidos.  Na etapa de seleção, todos os estudos 
+primários incluídos nesta lista tiveram o seu conteúdo analisado na íntegra, de modo que 
+nenhuma informação relevante fosse desconsiderada, como mostra a Tabela 4. 
+
+Tabela 4. Resultado da condução da pesquisa 
+
+ 
+
+Busca Manual 
+
+Busca Automática 
+
+SBIE  WIE  RBIE  RENOTE  CAPES  GOOGLE  SCIELO  SIBiUSP 
+
+Buscas  1.469  723 
+
+258 
+
+1.106 
+
+Pré-
+seleção 
+
+121 
+
+54 
+
+21 
+
+57 
+
+200 
+
+46 
+
+8.058 
+
+77 
+
+308 
+
+61 
+
+157 
+
+43 
+
+ 
+
+Total 
+
+12.279 
+
+480 
+
+ 
+
+3 
+
+13 
+
+34 
+
+20 
+
+Seleção 
+ 
+ 
+Na  última  etapa,  correspondente  a  extração  dos  dados,  buscou-se  obter 
+informações  para  responder  as  questões  de  pesquisa,  sendo  utilizada  uma  planilha 
+eletrônica  para  organizar  os  dados.  Ao  final,  30  estudos  primários  voltados  para  a 
+deficiência visual foram considerados para análise, estes disponíveis online1. 
+
+104 
+
+21 
+
+9 
+
+3 
+
+1 
+
+4. Resultados 
+
+Nesta seção, são apresentadas as respostas para as questões de pesquisa. 
+
+4.1. QP1 - Qual a evolução do número de publicações de 2009 a 2018? 
+
+A  Figura  2  ilustra  os  estudos  analisados  por  ano  de  publicação,  e  evidencia  que  o 
+número  de  publicações  era  crescente  em  anos  anteriores,  contudo,  apresentou  um 
+declínio nos últimos anos. Destaque para o ano de 2010, com um total de 6 publicações. 
+
+ 
+
+ 
+
+1 http://bit.ly/2UHSLNm 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 2. Evolução no número de publicações 
+
+4.2. QP2 - Qual região do país tem predominância no estudo do tema? 
+Nesta questão foi identificado como se distribuiu o número de publicações por região do 
+país.  As regiões Sul e Sudeste se destacaram das demais, cada uma com um total de 11 
+publicações. A Tabela 5 apresenta estes e os demais resultados.  
+
+Tabela 5. Estudos por região do país 
+
+Região  Quant. 
+
+Relação de Estudos 
+
+Sul 
+
+Sudeste 
+
+Nordeste 
+
+Norte 
+
+11 
+
+11 
+
+7 
+
+1 
+
+EP03, EP10, EP13, EP27, EP29, EP30, EP35, EP39, EP49, EP77, EP84 
+
+EP07, EP11, EP16, EP17, EP18, EP24, EP36, EP58, EP59, EP61, EP63 
+
+EP21, EP23, EP38, EP41, EP66, EP74, EP88 
+
+EP42 
+
+ 
+
+4.3. QP3 - Quais os tipos de soluções propostas pelos autores nos estudos primários 
+com o uso da tecnologia assistiva? 
+
+Nota-se  uma  variedade  de  soluções  a  esta  questão,  agrupadas  de  acordo  com  a 
+classificação definida pelo próprio autor do estudo, conforme mostra a Tabela 6. 
+
+Solução 
+
+Software 
+
+Ferramenta 
+
+Aplicativo 
+
+Estudo 
+
+Tabela 6. Estudos por solução 
+
+Quant. 
+
+Relação de Estudos 
+
+EP03, EP07, EP21, EP29, EP30, EP49, EP63, EP88 
+
+EP13, EP16, EP18, EP23, EP24, EP84 
+
+EP17, EP39, EP59, EP66, EP77 
+
+EP10, EP11, EP41, EP42, EP61 
+
+Ambiente de Aprendizagem 
+
+EP27, EP35, EP36, EP58 
+
+Objeto de Aprendizagem 
+
+EP74, EP78 
+
+8 
+
+6 
+
+5 
+
+5 
+
+4 
+
+2 
+
+ 
+Ainda nesta questão, foi possível identificar o DOSVOX como o recurso de TA 
+mais abordado entre os estudos, sendo este um software que se comunica com o usuário 
+através de síntese de voz, viabilizando, o uso de computadores por deficientes visuais. 
+Ademais, outros recursos foram citados, tal como o leitor de tela do Windows NVDA. 
+
+4.4. QP4 - Qual a distribuição dos estudos em relação ao nível de ensino? 
+
+Foi  possível  identificar  que  alguns  estudos  eram  voltados  para  um  nível  de  ensino  em 
+específico,  com  destaque  para  o  Ensino  Fundamental  e  Superior.  A  Tabela  7  mostra 
+estes e os demais resultados. 
+
+Tabela 7. Estudos por nível de ensino 
+
+Nível de Ensino 
+
+Quant. 
+
+Relação de Estudos 
+
+Ensino Fundamental 
+
+3 
+
+EP10, EP11, EP21 
+
+ 
+
+Ensino Superior 
+
+Sala de Recurso 
+
+Ensino Técnico 
+
+EP16, EP41, EP42 
+
+EP39, EP49 
+
+EP13, EP16 
+
+3 
+
+2 
+
+2 
+
+1 
+
+Atendimento Educacional Especializado 
+
+EP77 
+
+ 
+
+ 
+
+ 
+
+Nesta questão, foi possível identificar as disciplinas abordadas entre os estudos 
+
+ 
+primários, como mostra a Tabela 8. Apenas duas disciplinas foram identificadas. 
+
+Tabela 8. Estudos por disciplina 
+
+Disciplina 
+
+Quant. 
+
+Relação de Estudos 
+
+Informática 
+
+Matemática 
+
+6 
+
+6 
+
+EP13, EP16, EP24, EP30, EP41, EP42 
+
+EP17, EP36, EP38, EP49, EP74, EP84 
+
+4.5.  QP5  -  Quais  benefícios  e  problemas  foram  observados  com  o  uso  das 
+tecnologias assistivas na escola? 
+
+Os  relatos  dos  autores  em  alguns  dos  estudos  primários  analisados  citam  benefícios  e 
+problemas observados com o uso da TA em sala de aula, observações feitas pelo ponto 
+de vista dos educadores e educandos com deficiência visual, como ilustra a Tabela 9. 
+
+Tabela 9. Benefícios e problemas ao utilizar a TA 
+
+Benefícios 
+
+EP21, EP30, EP38 
+
+Dentre os resultados, identificou-se maior motivação por parte dos 
+alunos com deficiência em realizar as atividades. 
+
+EP03 
+
+O  uso  em  ambientes  escolares  segundo  os  depoimentos  dos 
+professores, demonstra avanços no aproveitamento escolar. 
+
+Problemas 
+
+Preocupação  com a falta  de responsabilidade  dos  jovens  com  os 
+próprios estudos, e na apropriação da tecnologia. 
+
+4.6. Catálogo Online 
+
+A  partir  do  mapeamento  sistemático,  foi  desenvolvido  um  catálogo  online.  O  mesmo 
+consiste em uma página WEB gratuita voltada para o meio educacional, com o objetivo 
+em  compartilhar  recursos  de  TA  para  a  PcD.  Os  recursos  foram  selecionados  dentre 
+aqueles  retornados  da  literatura.  Estes  podem  ser  utilizados  no  processo  de  ensino  e 
+aprendizagem,  fazendo  com  que  a  PcD  realize  suas  atividades  e  aprenda  de  forma 
+autônoma.  Os  recursos  são  organizados  por  deficiência,  possuindo  informações 
+pedagógicas e técnicas. O link para acesso ao catálogo encontra-se disponível2. 
+
+Estudos 
+
+ 
+
+Estudos 
+
+EP11 
+
+2 carolmelo.github.io/ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Figura 3 ilustra na primeira imagem sua página inicial, e ao lado, a área onde 
+
+ 
+é apresentado uma breve definição sobre a TA. 
+
+Figura 3. Páginas do catálogo 
+
+ 
+
+A  Figura  4  apresenta  a  página  que  oferta  os  recursos  de  TA  catalogados  e 
+
+ 
+disponíveis, estes estão organizados pelo seu nome e a deficiência que está voltado. 
+
+Figura 4. Página dos recursos 
+
+ 
+
+Ao  selecionar  um  destes  recursos,  será  aberta  uma  outra  página  contendo 
+
+ 
+informações pedagógicas e técnicas, como mostra a Figura 5. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Figura 5. Informações dos recursos 
+
+ 
+
+5. Considerações Finais e Trabalhos Futuros 
+
+5.1 Discussão dos Resultados 
+
+Este mapeamento sistemático da literatura foi realizado tendo como base os 30 estudos 
+primários voltados à deficiência visual. A partir da análise destes estudos, notou-se uma 
+variação no número de publicações no período de 2009 a 2018, com destaque para o ano 
+de  2010.  Logo  após,  destaque  para  o  estado  do  Rio  Grande  do  Sul  com  mais 
+publicações sobre o tema, um dos possíveis motivos é a UFRGS possuir um núcleo de 
+pesquisa na área de educação inclusiva. Em seguida, um total de seis soluções propostas 
+pelos  autores  foram  identificadas,  além  dos  níveis  de  ensino  e  disciplinas  abordadas 
+entre  os  estudos  primários.  Finalizando  com  os  benefícios  e  problemas  observados  e 
+relatados com o uso da TA em sala de aula. 
+
+ 
+Assim,  este  trabalho  apresentou  como  principal  contribuição  uma  visão  geral, 
+não  enviesada  e  passível  de  replicação  do  estado  da  arte  dos  recursos  digitais  de  TA 
+desenvolvidos para auxiliar na inclusão educacional da PcD, em especial aos educandos 
+com deficiência visual. Neste sentido, seus resultados são úteis tanto para os educadores 
+e PcD que necessitam fazer usos de tais recursos, como também para os pesquisadores 
+que desejam investigar e desenvolver outros tipos de tecnologias no âmbito educacional.  
+
+ 
+O  Catálogo  desenvolvido  com  os  recursos  digitais  de  TA  retornados  da 
+literatura,  estes  podem  ser  utilizados  no  processo  de  ensino  e  aprendizagem,  fazendo 
+com que a PcD realize suas atividades e aprenda de forma autônoma, estimulando suas 
+habilidades e competências, proporcionando sua inclusão nos desafios em sala de aula. 
+Ao  final,  se  torna  uma  informação  útil  para  quem  está  em  busca  de  uma  ferramenta 
+acessível e que nem sempre tem conhecimento das ferramentas que já existem. 
+
+5.2 Trabalhos Futuros 
+
+A  continuidade  deste  trabalho  prevê  a  execução  da  mesma  string  de  busca  em  outras 
+bibliotecas  digitais  conceituadas  para  identificação  de  mais  estudos  primários  e 
+posteriormente  de  mais  evidências  que  complementem  os  resultados  obtidos  até  o 
+momento.  Além  disso,  essa  atividade  prevê  a  busca  manual  em  outras  conferências  e 
+revistas específicas da área, como exemplo o Congresso sobre Tecnologias na Educação 
+(Ctrl+e), e o Workshop sobre Educação em Computação (WEI - CSBC). Também prevê 
+a análise de estudos primários publicados em língua inglesa. 
+
+ 
+
+ 
+
+ 
+
+ 
+Por  fim,  outras  discussões,  questões  de  pesquisa  e  deficiências  deverão  ser 
+abordadas  e  investigadas  para  ampliar  o  entendimento  do  uso  dos  serviços  e  recursos 
+digitais de TA para a inclusão educacional da PcD, bem como a ampliação e divulgação 
+do Catálogo desenvolvido, melhorando o mesmo nos aspectos de busca, organização e 
+inserção de novas informações. 
+
+Referências 
+
+Alves,  G.  M.  and  Aguiar,  Y.  P.  C.  (2014).  Acessibilidade  e  tecnologia  assistiva  no 
+ambiente  educacional:  Mapeamento  sistemático.  In  Anais  do  Workshop  de 
+Informática na Escola, volume 20, page 16. 
+
+Bersch, R. (2008). Introdução a tecnologia assistiva. Porto Alegre: CEDI, page 21. 
+
+De  Lima,  L.  B.  S.,  Dos  Santos,  L.  C.,  and  Moreira,  K.  C.  (2018).  O  início  de  uma 
+prática  de  letramento  digital  voltada  para  pessoas  com  deficiência  visual.  III 
+Congresso sobre Tecnologias na Educação. 
+
+Kitchenham,  B.  (2004).  Procedures  for  performing  systematic  reviews.  Keele,  UK, 
+
+Keele University, 33(2004):1–26. 
+
+Neto, L. and de Souza, H. (2015). Abordagens para inclusão educacional e em ambien- 
+tes de trabalho de pessoas com deficiência: um mapeamento sistemático em eventos 
+brasileiros. 
+
+Petersen,  K.,  Feldt,  R.,  Mujtaba,  S.,  and  Mattsson,  M.  (2008).  Systematic  mapping 
+
+studies in software engineering. In Ease, volume 8, pages 68–77. 
+
+Schweitzer, F. (2007). A sociedade e a informação para os deficientes visuais: relato de 
+pesquisa  the  society  and  the  information  for  to  the  deficient  appearances:  research 
+report p. 273-285. Revista ACB, 12(2):273–285. 
+
+Souza,  A.  and  Freitas,  D.  (2018).  Tecnologias  assistivas  para  apoiar  o  ensino  e 
+aprendizagem  de  pessoas  com  deficiência  visual  na  matemática:  Uma  revisão 
+sistemática  da  literatura.  In  Brazilian  Symposium  on  Computers  in  Education 
+(Simposio Brasileiro de Informatica na Educação-SBIE), volume 29, page 923. 
+
+Wohlin, C., Runeson, P., Neto, P. A. d. M. S., Engstrom, E., do Carmo Machado, I., and 
+De  Almeida,  E.  S.  (2013).  On  the  reliability  of  mapping  studies  in  software 
+engineering. Journal of Systems and Software, 86(10):2594–2610. 
+
+ 
+ 
+
+ 
+
+

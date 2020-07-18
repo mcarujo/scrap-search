@@ -1,0 +1,386 @@
+ 
+
+Benefícios de Mapas Mentais para Pessoas com Deficiência 
+Intelectual: um Relato de Experiência 
+
+Vinicius J. G. do Carmo1, Lucas Queroz da Silva1, Ellen P. R. Souza1, 
+Ildonjaques A. L. V. dos Santos¹, Hidelberg O. Albuquerque1, Héldon J. O. 
+Alburquerque1 
+
+1Universidade Federal Rural de Pernambuco, Unidade Acadêmica de Serra 
+
+Talhada (UFRPE-UAST) Bacharelado em Sistemas de Informação. 
+
+{vinooo965, lucassilva.lqds, ildonviana, bergsiloe, 
+
+heldonjose}@gmail.com, ellen.ramos@ufrpe.br
+
+Abstract. This paper aims to present the mind map's tool and its benefits in the 
+learning  of  people  with  Intellectual  Disabilities  (ID).  For  this  research,  the 
+mind mapping tools XMind and miMind were used. The study was divided into 
+4  parts:  Planning,  Search  and  Selection  of  Tools,  Execution  and  Analysis  of 
+Results. The tools were  tested  in workshops held in the professional inclusion 
+group  of  the  Association  of  Parents  and  Friends  of  Exceptional  (APAE)  of 
+Serra Talhada and after the workshops, an interview was conducted based in a 
+questionnaire.  It  was  observed  that  the  students  were  more  interested  in 
+participating in class after the use of mind map’s tools. 
+
+Resumo. Este artigo busca apresentar as ferramentas de mapas mentais e seus 
+benefícios  no  aprendizado  de  pessoas  com  Deficiência  Intelectual  (DI).  Para 
+esta  pesquisa  foram  usadas  as  ferramentas  de  mapas  mentais  XMind  e 
+miMind.  O  estudo  foi  dividido  em  quatro  partes:  Planejamento,  Busca  e 
+Seleção  de  Ferramentas,  Execução  e  Análise  de  Resultados.  As  ferramentas 
+foram  testadas  em  oficinas  ministradas  na  turma  de  inclusão  profissional  da 
+Associação  de  Pais  e  Amigos  de  Excepcionais  (APAE)  de  Serra  Talhada  e, 
+após  as  oficinas,  foi  realizado  um  questionário  baseado  em  uma  entrevista. 
+Observou-se o maior interesse dos alunos em participar das aulas, ao utilizar 
+as ferramentas de mapas mentais. 
+
+1. Introdução 
+
+A deficiência intelectual (DI) é caracterizada, de acordo com a American Association on 
+Intellectual  and  Developmental  Disabilities  (AAIDD)  [on  Intellectual  and  Disabilities 
+2010],  por  limitações  significativas  no  funcionamento  intelectual  (aprendizagem, 
+raciocínio  e  resolução  de  problemas)  e  no  comportamento  adaptativo,  que  abrange 
+habilidades sociais, cotidianas e práticas. 
+
+A  AAIDD  ainda  descreve  alguns  dos  problemas  que  as  pessoas  com  DI 
+ 
+enfrentam, 
+limitações  em  autocuidado,  auto-suficiência,  habilidades 
+acadêmicas,  saúde  e  comunicação  [on  Intellectual  and  Disabilities  2010].  As  pessoas 
+com DI, no Brasil, ainda sofrem com a exclusão e discriminação, logo não conseguem 
+
+tais  como 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ser  inseridas  no  mercado  de  trabalho,  mesmo  que  sejam  qualificadas  para  a  vaga 
+[Gimenes et al. 2014]. 
+
+ 
+As  tecnologias  que  auxiliam  as  pessoas  com  deficiência  hoje  em  dia  são  bem 
+variadas, podem ir de hardware, como, por exemplo, mouses e teclados adaptados para 
+pessoas com deficiência física, até softwares, que podem ser de comunicação alternativa 
+e  aumentativa,  narradores  e  lupas.  Estas  tecnologias  são  denominadas  tecnologias 
+assistivas  (TA),  cujos  principais  objetivos  são  fornecer  autonomia  e  promover  a 
+inclusão da pessoa com deficiência (PcD). 
+
+Neste sentido, este artigo apresenta um relato de experiência sobre os benefícios 
+ 
+de mapas  mentais para pessoas com DI, realizado na Associação de Pais e Amigos de 
+Excepcionais (APAE) de Serra Talhada - Pernambuco, que conta com cerca de trezentos 
+e setenta usuários. As APAEs buscam contribuir para a autonomia e  melhor qualidade 
+de  vida  para  seus  usuários  através  de  uma  equipe  interdisciplinar,  já  que  as  pessoas 
+envolvidas são de diversas áreas, e também com a participação dos pais e amigos. 
+
+ 
+Na Seção 2 será apresentado o referencial teórico, na Seção 3 o método proposto 
+para a realização deste trabalho, na Seção 4 os resultados (divididos por Subseções para 
+expor  devidamente  os  mesmos),  por  fim  temos  a  Seção  5,  que  conta  com  a  conclusão 
+deste trabalho. 
+
+2. Referencial teórico  
+
+Por possuir certas limitações e, em alguns casos, sofrer com sequelas da exclusão social, 
+as pessoas com DI têm diversas dificuldades em sala de aula, principalmente, nas áreas 
+de comunicação e aprendizagem, já que essa é uma das principais características da DI. 
+Geralmente,  alunos  que  contam  com  algum  tipo  de  distúrbio  para  aprender  dificultam 
+necessitam de atendimento especializado por parte dos professores, já que eles têm que 
+reformular  seus  planos  de  ensino  para  atender  às  necessidades  do  aluno  [Baldoni  and 
+Berionni 2012]. 
+
+Mapa  mental  pode  ser  definido  como  uma  ferramenta  dinâmica  que  é  uma 
+ 
+representação  gráfica  dos  nossos  pensamentos.  Pode  também  ser  considerado  um 
+recurso  de  comunicação,  resolução  de  problemas,  imaginação,  educação,  revisão, 
+gerenciamento de tempo e uso de memória [Buzan 2009]. 
+
+ 
+O uso dos mapas estimula o pensamento radiante, que é a forma como o cérebro 
+funciona, na qual os pensamentos passam por várias direções, mas partem da palavra ou 
+imagem-chave.  Dessa  forma,  são  estimuladas  a  imaginação  e  a  associação,  que  são  a 
+principal linguagem do  cérebro, fazendo com que um maior valor de  informações seja 
+armazenado no cérebro e facilitando também o acesso a essas informações. 
+
+ 
+[da  Luz  and  Cruz  2018]  utilizaram  mapas  mentais  como  forma  de  introduzir 
+mídias digitais em sala de aula e obtiveram maior interesse dos alunos tanto em relação 
+ao  assunto  proposto  para  a  criação  dos  mapas  quanto  para  os  próprios  mapas.  Neste 
+estudo, não haviam alunos com DI, logo o presente estudo focou mais na aproximação 
+entre os mapas mentais e os alunos. Os resultados obtidos foram satisfatórios, já que no 
+início  da  segunda  oficina  apenas  quatro  dos  doze  grupos  obtiveram  sucesso  na 
+construção  do  mapa.  No  final  da  segunda  oficina,  foi  proposto  outro  mapa,  onde  dez 
+grupos optaram por aplicativos no Play Store, um à mão e outro no computador. 
+
+ 
+
+ 
+
+ 
+Já [Dolival et al. 2018] utilizaram  mapas mentais em  uma sala  com alunos que 
+tem  DI  visando  o  aprendizado  de  matemática  e  a  inclusão  dos  mesmos.  As  autoras 
+obtiveram como resultados uma maior inclusão dos alunos com DI em relação ás aulas 
+sem uso do mapa mental. Os resultados são bem satisfatórios, uma vez que ao final do 
+estudo foi difícil distinguir os alunos que tinham DI dos demais, o que mostrou que o 
+estudo realmente promoveu inclusão e maior aproveitamento dos alunos em geral. 
+
+ 
+Quando uma pessoa com DI faz uso de mapas mentais, esta se comunica com o 
+cérebro  na  mesma  linguagem  que  ele,  fazendo  com  que  a  comunicação  seja  feita  de 
+forma mais rápida e efetiva, visando ter melhores resultados [Buzan 2009]. [Dolival et 
+al. 2018] mostraram que além do resultado positivo em seu estudo, foi possível observar 
+também a  inclusão das crianças com DI entre as demais. Outro ponto  a ser levado  em 
+destaque,  uma  vez  que  uma  das  características  da  DI  é  a  limitação  abrangendo 
+habilidades  sociais.  Entretanto,  alguns  cuidados  devem  ser  tomados  para  que  o  mapa 
+mental  seja  construído  da  forma  correta,  uma  vez  que  o  uso  indevido  não  trará  os 
+benefícios de forma parcial ou até mesmo total, já que pode atrapalhar na comunicação 
+com o cérebro ou despertar associações erradas.  
+ 
+
+3. Métodos 
+
+O trabalho foi desenvolvido através de quatro etapas, conforme apresentado na Figura 1, 
+as quais são descritas a seguir:  
+
+Figura 1. Método proposto. Fonte: Elaborado pelo Autor (2019) 
+
+Na  primeira  etapa,  denominada  de  Planejamento,  foi  escolhida  a  turma  de 
+ 
+inclusão  profissional  da  APAE  de  Serra  Talhada  como  público-alvo,  esta  conta  com 
+quatorze  usuários,  todos  com  DI  e,  alguns,  com  deficiência  múltipla.  Foram  propostas 
+oficinas de mapa mental com a finalidade dos usuários escreverem um livro (usando os 
+mapas)  sobre  os  assuntos  vistos  anteriormente  no  curso  de  atendimento  ao  cliente 
+"Como  atender  bem".  Foi  utilizado  o  laboratório  de  informática  da  APAE,  que  conta 
+com nove computadores, para realizar este trabalho. Por o número de usuários ser maior 
+do que o número de computadores funcionando, os usuários foram divididos em duplas 
+para que todos pudessem participar das oficinas. 
+
+ 
+Na segunda etapa, Busca e Seleção de Ferramentas, foram realizadas buscas de 
+ferramentas  para  criação  de  mapas  mentais.  Para  realizar  as  buscas,  alguns  critérios 
+foram definidos, sendo eles: se a ferramenta está disponível em português, se tem todas 
+as funcionalidades necessárias para criar mapas mentais como os descritos na Subseção 
+2.1, se fácil de usar, off-line, disponível em diferentes plataformas e gratuita. Ao final da 
+busca, duas ferramentas foram selecionadas, o XMind e o miMind. 
+
+ 
+Na  terceira  etapa,  Execução,  foram  realizadas  seis  oficinas  para  avaliação  das 
+ferramentas,  sendo  as  duas  primeiras  utilizando  a  ferramenta  XMind  e  as  demais 
+utilizando  o  miMind.  Nas  oficinas,  foram  construídos  três  capítulos  do  livro  usando 
+mapas mentais e foram realizados também atendimentos individuais, que possibilitaram 
+uma melhor observação para a comparação de dados. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Na  última  etapa,  Análise  de  Resultados,  foram  analisados  os  dados  da 
+observação  do  acompanhamento  em  equipe  e  individual  de  cada  usuário,  foi  também 
+realizada  uma  entrevista  baseada  em  um  questionário  semiestruturado  que  continha 
+perguntas como: “A ferramenta é de fácil utilização?”, “Você consegue criar um mapa 
+mental sozinho?”, “Você pretende usar a ferramenta miMind novamente no futuro?” e 
+“Você  acha  que  o  uso  de  mapa  mental  teve  resultados  positivos  na  sua  vida?”.    Os 
+resultados  da  observação,  do  acompanhamento  individual  e  as  respostas  obtidas  nas 
+entrevistas serão apresentados e discutidos na Seção 4. 
+
+Na  Subseção  4.1,  serão  apresentadas  e  detalhadas  as  oficinas.  A  Subseção  4.2  conta 
+com  os  resultados  obtidos  na  entrevista  e  uma  comparação  com  os  resultados  do 
+atendimento individual. Na Subseção 4.3, os resultados são apresentados. 
+
+4. Resultados 
+
+4.1. Oficinas 
+
+Na primeira oficina, foi usada a ferramenta XMind para criação de mapas mentais sobre 
+a  identidade  de  cada  usuário,  contendo  nome,  idade  e  fotos  individuais.  Entretanto, 
+nenhum dos usuários conseguiu terminar o mapa, sendo necessário continuar o mesmo 
+na segunda oficina. Nesta, ficou evidente que os usuários tinham muita dificuldade para 
+usar  o  software,  uma  vez  que  o  mesmo  conta  com  inúmeras  funcionalidades  que 
+acabaram confundindo os usuários.  Outro ponto que dificultou o uso desta ferramenta, 
+foi o fato de que o software não está totalmente em português, logo os usuários tinham 
+ainda mais dificuldade em usar devidamente o  XMind. Eles tiveram duas oficinas para 
+terminar  o  mapa  proposto  na  primeira  oficina,  entretanto  nenhum  deles  conseguiu 
+finaliza-lo uma vez que eles tiveram dificuldade em lembrar como o mapa foi feito na 
+oficina anterior bem como quais funcionalidades deveriam usar. Na  terceira  oficina,  foi 
+introduzida a ferramenta miMind, ferramenta mais simples que o XMind, mas que conta 
+as  principais  funcionalidades  necessárias  para  a  construção  dos  mapas,  uma  interface 
+mais  amigável,  já  que  conta  com  modelos  pré-definidos  possibilitando  uma  interação 
+mais rápida com os usuários. Nesta oficina foi proposto o mesmo mapa (de identidade) 
+para  os  usuários.  No  final  da  oficina,  foi  observado  que  quatro,  dos  onze  usuários 
+presentes na oficina, conseguiram terminar o mapa (com imagens e palavras nos locais 
+certos). Foi observado também que estes mesmos usuários ajudaram os demais colegas 
+a terminar seus mapas, mostrando que os usuários preferem ajudar os colegas ao invés 
+de fazer outras atividades, como, por exemplo, jogar. Na quarta oficina, foi proposto um 
+mapa  de  higiene  pessoal,  que  é  um  dos  conteúdos  do  curso  que  os  usuários  fizeram  e 
+também  será  um  dos  capítulos  do  livro.  Foi  observado  que  três  dos  sete  usuários 
+presentes  não  tiveram  problemas  para  terminar  seus  mapas,  enquanto  que  os  demais 
+usuários ainda mostravam certa dificuldade. 
+
+ 
+Na  quinta  oficina,  foram  feitos  mapas  sobre  palavras  mágicas,  que  também  foi 
+conteúdo  do  curso  e  um  dos  capítulos  do  livro.  Sete,  dos  dez  usuários,  conseguiram 
+finalizar  o  mapa  sem  dificuldades.  Foi  observado  que  grande  parte  dos  usuários,  que 
+antes  sentiam  muita  dificuldade,  passou  a  familiarizar-se  com  a  ferramenta  e  estavam 
+criando  os  mapas  mais  rapidamente  em  relação  às  quatro  oficinas  anteriores.  Foram 
+realizadas também entrevistas, baseada no questionário (apresentado na Seção 3), cujos 
+resultados serão apresentados na Subseção 4.2. Na sexta oficina, os usuários finalizaram 
+
+ 
+
+o mapa mental sobre palavras mágicas, uma vez que na quinta oficina o tempo dedicado 
+ao mapa foi diminuído para que as entrevistas pudessem ser realizadas. 
+
+4.2. Resultado das entrevistas 
+
+Com  relação  à  primeira  pergunta,  já  mencionada  na  Seção  3,  nove  dos  dez  usuários 
+disseram  que  a  ferramenta  miMind  é  fácil  de  ser  utilizada,  enquanto  um  usuário 
+discordou,  dizendo  que  a  ferramenta  não  é  de  fácil  utilização.  Foi  um  resultado  já 
+esperado, considerando que o usuário, cuja resposta foi negativa, não é assíduo. 
+
+As  respostas  da  segunda  pergunta  mostraram  que  seis  dos  dez  usuários  que 
+ 
+foram  entrevistados  conseguem  criar  um  mapa  mental  sozinhos,  utilizando  o  miMind. 
+Dois  disseram  que  ainda  não  conseguem  criar  os  mapas  com  autonomia,  enquanto  os 
+outros  dois  usuários  disseram  que  precisam  de  ajuda,  seja  esta  dos  professores  ou  dos 
+demais colegas. Como tiveram poucas oficinas com a ferramenta,  é possível dizer que 
+os usuários tiveram um bom aproveitamento, visto que a maioria consegue criar mapas 
+com autonomia. 
+
+Nove dos dez usuários responderam que pretendem utilizar a ferramenta miMind 
+ 
+no futuro, enquanto um usuário respondeu que talvez irá usar. Levando em consideração 
+que os usuários irão escrever o livro usando mapas mentais, as respostas obtidas já eram 
+esperadas. 
+
+ 
+Nove  dos  dez  usuários  disseram  que  o  uso  de  mapa  mental  teve  resultado 
+positivo, ajudando principalmente no melhoramento da memória. Também foi relatado 
+e  observado  que  através  dos  mapas  a  interação  entre  os  usuários  melhorou  de  forma 
+significativa,  outro  ponto  importante  visto  que  pessoas  com  DI  tem  limitações  no 
+comportamento  adaptativo.  Um  dos  usuários  respondeu  que  a  ferramenta  não  teve 
+nenhum resultado positivo. 
+
+4.3. Análise de resultados 
+
+O  uso  dos  mapas  mentais  possibilitou  que  os  usuários  levassem  o  conteúdo  visto  no 
+curso para casa, de forma que eles possam estudar os mapas em casa e facilita também a 
+compreensão, já que observando as imagens eles podem entender o conteúdo do mapa 
+sem precisar  ler, ponto que merece destaque, uma  vez que  a maioria dos usuários não 
+são alfabetizados. 
+
+Os  dados  obtidos  durante  as  entrevistas  vão  de  encontro  aos  dados  obtidos 
+ 
+durante as observações feitas durante  as oficinas. Os usuários que tiveram destaque na 
+terceira oficina foram os mesmos que se destacaram nas oficinas seguintes. Foi notado, 
+também,  que  na  terceira  oficina,  apenas  quatro  usuários  conseguiram  criar  os  mapas 
+sozinhos, já na quinta oficina, a maioria dos usuários presentes conseguiram criar seus 
+mapas  sem  ajuda,  isso  também  ficou  evidenciado  na  entrevista,  na  qual  seis  dos  dez 
+usuários  responderam  que  conseguem  criar  mapas  sem  ajuda  e  dois  necessitam  de 
+ajuda. 
+
+ 
+Além das oficinas de mapas mentais, os usuários da APAE também têm aulas de 
+informática,  robótica  e  recursos  educacionais  digitais  (RED)  (conhecido  popularmente 
+as 
+como jogos), onde a cada semana um novo eixo é abordado no laboratório. Durante 
+aulas  de  RED,  dois  alunos  que  participam  das  aulas  de  mapas  mentais  preferiram  dar 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+continuidade a seus mapas à seguir o que estava planejado na aula, mostrando interesse 
+nos mapas. 
+
+ 
+Vale  ressaltar  que  os  usuários  ficaram  bem  empolgados  em  ter  os  mapas  em 
+mãos após cada oficina,  pois para eles é uma forma de resultado imediato, o qual  eles 
+podem  levar  para  suas  casas  e  poder  mostrar  seus  mapas  aos  amigos  e  familiares  e 
+também revisar os conteúdos bem como os próprios mapas. 
+
+5. Conclusão 
+
+Este  trabalho  possibilitou  uma  visão  mais  ampla  acerca  do  uso  de  mapa  mental  por 
+pessoa com DI. Com isto, ficou clara a necessidade de mais oficinas que façam uso dos 
+mapas  mentais  de  forma  que  os  usuários  continuem  praticando  e  usufruindo  dos  seus 
+benefícios.  
+
+ 
+Para  atingir  uma  melhor  compreensão  e  resultados  acerca  do  uso  dos  mapas, 
+foram  definidos  dois  objetivos.  O  primeiro,  de  selecionar  ferramentas  para  criação  de 
+mapas,  que  foi  realizado  através  de  uma  busca  criteriosa.  Após  a  seleção  das 
+ferramentas, deu-se início ao segundo objetivo, que consiste em ministrar seis oficinas 
+com  o  uso  das  ferramentas  escolhidas  para  criação  dos  mapas.  Em  seguida,  foram 
+analisados  dados  do  acompanhamento  individual  e  da  observação  feita  através  deste 
+acompanhamento e foram analisadas respostas da entrevista feita na quinta oficina. 
+
+ 
+Observou-se  que  os  usuários  mantiveram-se  interessados  no  uso  dos  mapas  e 
+tiveram  cada  vez  menos  dificuldades  para  a  criação  dos  mesmos.  O  uso  dos  mapas 
+ainda possibilitou que os usuários levassem o conteúdo para estudar em casa de forma 
+gráfica,  permitindo  que  todos  pudessem  entender  o  que  estavam  vendo,  já  que  é 
+possível entender o mapa a partir das imagens que compõe o mesmo.  
+
+ 
+Como observado nas Subseções 4.1 e 4.3, uma das principais dificuldades para o 
+uso das ferramentas de criação de mapas mentais foi o fato de grande parte da turma não 
+ser alfabetizada. Entretanto, devido a forma que os recursos da ferramenta miMind são 
+apresentados, os usuários conseguiram superar esta dificuldade. 
+
+Dados  os  resultados  do  relato,  torna-se  necessário  dar  continuidade  as  oficinas 
+ 
+com o objetivo de beneficiar os usuários e também para terminar o livro Futuramente, 
+será  realizada  uma  avaliação  de  usabilidade,  levando  em  consideração  os  critérios  de 
+acessibilidade e também uma avaliação de eficiência das ferramentas no que se refere ao 
+cognitivo dos usuários.   
+
+Referências 
+
+Baldoni, M. O. and Berionni, A. (2012). Concept maps and learning disorders. 
+
+Buzan, T. (2009). Mapas mentais. Sextante, 1st edition. 
+
+Da  Luz,  S.  D.  and  Cruz,  D.  M.  (2018).  Prática  mídia-educativa  na  cultura  digital:  análise  da 
+
+produção de mapa mental com dispositivo móvel por estudantes do ensino fundamental. 
+
+Dolival,  R.  G.,  da  Silva,  M.,  Cristóvão,  N.  L.  L.,  and  Nascimento,  R.  P.  (2018). Mapa  mental: 
+
+uma abordagem possível para o ensino de matemática inclusiva. 
+
+Gimenes, A. M., Bechara, M. T., Ávila, R. N. P., Rodrigues, B. C. and Araújo, D. C. S. (2014). 
+
+A dificuldade da inclusão da pessoa com deficiência no mercado de trabalho. 
+
+on  Intellectual,  A.  A.  and  Disabilities,  D.  (2010).  Intellectual  Disability:  Definition, 
+Classification,  and  Systems  of  Supports.  American  Association  on  Intellectual  and 
+Developmental Disabilities 
+
+ 
+
+ 
+
+ 
+
+

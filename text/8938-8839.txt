@@ -1,0 +1,385 @@
+Divertix: um Recurso Educacional Digital para a Aprendizagem 
+da Estatística nos Anos Iniciais do Ensino Fundamental 
+
+Joyce da Silva Sousa 1, Lídya de Lima Monteiro 1, Antonio Nathan Serra Souza 1, 
+Danilo do Carmo de Souza 1,  Juscileide Braga de Castro1, Márcia Duarte Medeiros1 ,  
+Maria de Fátima Costa de Souza1, José Aires de Castro Filho1 
+
+1Instituto UFC Virtual – Grupo de Pesquisa e Produção de Ambientes Interativos e Objetos 
+de Aprendizagem (Proativa) – Universidade Federal do Ceará (UFC) - Cep: 60440-554 – 
+Fortaleza – CE - Brasil 
+
+{joycedssousa, lidyamont, ant.nathan15, danilocarmo1992}@gmail.com, 
+{juscileide, marcia, fatimasouza, aires}@virtual.ufc.br 
+
+Abstract.  Although  Statistics  is  part  of  school  curriculum  since  early  years  of 
+elementary school, most students present difficulties concerning the understanding 
+of numerical or textual data and information expressed in graphs or tables. Within 
+this,  the  objective  of  this  work  is  to  present  the  development  of  a  Digital 
+Educational  Resource  (RED)  and  its  contributions  to  teaching  of  statistical 
+concepts.  The  RED  has  a  narrative  that  develops  in  a  magazine  scene  (Divertix) 
+where, after an incident, the student is invited to use statistical and informational 
+skills to restore the journal's contents and discover clues that reveal the identity of 
+the invader. 
+
+Resumo.  Ainda  que  a  Estatística  faça  parte  do  currículo  escolar  desde  os  anos 
+iniciais  do  Ensino  Fundamental,  a  grande  parte  dos  estudantes  apresentam 
+dificuldades  concernentes  à  compreensão  de  dados  e  informações  numéricas  ou 
+textuais  expressas  em  gráficos  ou  tabelas.  Dentro  desta  perspectiva  o  objetivo 
+deste trabalho é apresentar o desenvolvimento de um Recurso Educacional Digital 
+(RED)  e  suas  contribuições  para  o  ensino  de  conceitos  estatísticos.    O  RED  
+possui narrativa  que se desenvolve no cenário de uma revista (Divertix) em que o 
+usuário  é  convidado  a  utilizar  habilidades  referentes  à  Estatística,  como  ler  e 
+interpretar gráficos e tabela, relacionar texto e gráfico e construir gráficos; para 
+finalizar as matérias da revista. 
+
+1. Introdução 
+
+Vivemos em um tempo marcado por um fluxo contínuo de informações. Cotidianamente, as 
+crianças têm contato com dados estatísticos por meio de jornais, revistas, sites, blogs, entre 
+outros. Grandes quantidades de dados estão dispostos e são apontados em tabelas e gráficos 
+difundidos  pelos  diversos  meios  de  comunicação.    Nesse  sentido,  é  imprescindível  que  os 
+estudantes aprendam em sala de aula a compreender e a interpretar os conceitos estatísticos, 
+mobilizando  suas  diferentes  representações.  Assim,  viver  em  momentos  atuais  requer  a 
+percepção de um cidadão crítico e que consiga avaliar, opinar e argumentar estatisticamente 
+relacionando dados e contextos [Gal 2002]. 
+ 
+No cenário educacional brasileiro, a Estatística ganha força a partir da implantação 
+dos  Parâmetros  Curriculares  Nacionais  (PCN)  de  Matemática  que  a  ressalta  em  um  dos 
+
+ 
+
+cinco  blocos  de  conteúdos,  a  saber:  Tratamento  da  Informação  [Brasil  1997].  Atualmente, 
+com  a  Base  Nacional  Comum  Curricular  (BNCC),  a  Estatística  recebe  mudanças 
+significativas.  A  BNCC  estabelece  como  essencial  o  desenvolvimento  de  habilidades 
+relacionadas à coleta, à organização, à representação, à interpretação e análise de dados em 
+variados  contextos,  atrelando  a  estas  a  capacidade  do  aluno  de  fazer  julgamentos 
+fundamentados e tomar decisões adequadas [Brasil 2017a]. 
+ 
+Apesar  da  Estatística  ser  indicada  a  fazer  parte  do  currículo  escolar,  desde  os  anos 
+iniciais  do  Ensino  Fundamental,  a  população  brasileira,  de  uma  maneira  geral,  apresenta 
+dificuldades relacionadas com a compreensão de dados. Sobre isso, o Indicador Nacional de 
+Alfabetização  Funcional  (INAF),  em  pesquisa  mais  recente  realizada  com  a  população 
+adulta  do  Brasil  com  idade  de  15  a  64  anos,  revelou  que  cerca  de  30%  dos  investigados 
+estão abaixo da proficiência elementar, o que significa que não são capazes de comparar ou 
+relacionar  “informações  numéricas  ou  textuais  expressas  em  gráficos  ou  tabelas  simples, 
+envolvendo  situações  de  contexto  cotidiano  doméstico  ou  social;  sendo  considerados, 
+segundo  a  classificação  da  pesquisa,  como  analfabetos  funcionais  [Inaf  2018,  p.  21].  A 
+pesquisa  do  Inaf  (2018,  p.  21)  também  constata  que  apenas  12%  são  proficientes,  sendo 
+portanto  capazes  de  interpretar  “tabelas  e  gráficos  envolvendo  mais  de  duas  variáveis, 
+compreendendo  elementos  que  caracterizam  certos  modos  de  representação  de  informação 
+quantitativa (escolha do intervalo, escala, sistema de medidas ou padrões de comparação)”. 
+ 
+Por outro lado, os resultados de avaliações externas como do Sistema de Avaliação 
+da  Educação  Básica  (SAEB)  apontam  que  estudantes  da  Educação  Básica  possuem 
+dificuldades  em  conceitos  elementares.  Considerando  os  estudantes  do  5º  ano  do  Ensino 
+Fundamental, na escala de proficiência, encontram-se no nível 4 de um total de 10, ou seja, 
+possuem  aprendizagem  em  conteúdos  básicos  [Brasil  2017b].  No  tocante  aos  conteúdos  
+relacionados à  Estatística, isso se reflete nas  capacidades de: reconhecer o  maior valor em 
+uma  tabela  cujos  dados  possuem  até  oito  ordens;  localizar  um  dado  em  tabelas  de  dupla 
+entrada. Ademais, somente 15,52% dos estudantes do 5º ano estão no nível apontado como 
+adequado.  As  dificuldades  dos  alunos  e  da  população  adulta  em  assimilar  os  conceitos 
+estatísticos e sua aplicabilidade em situações  corriqueiras têm  levado os pesquisadores em 
+Educação  Matemática  a  desenvolver  metodologias  e  ferramentas  que  possibilitem  o 
+desenvolvimento  e  aprimoramento  dos  conceitos  dessa  área  do  conhecimento.  Uma  das 
+possibilidades  é  a  utilização  das  Tecnologias  Digitais  da  Informação  e  Comunicação 
+(TDIC).  Tendo  em  vista  a  crescente  expansão  das  TDIC,  evidencia-se  a  aplicação  desses 
+artefatos  em  sala  de  aula  como  potencial  para  a  construção  de  conteúdos  curriculares,  em 
+especial os conceitos estatísticos [Castro 2012; Castro e Castro-Filho 2015]. 
+ 
+Em  pesquisa  realizada  por  Castro  (2012)  foram  planejadas  um  conjunto  de 
+atividades baseadas no uso de RED e de um blog1 a fim de verificar como o uso das TDIC 
+pode  contribuir    com  a  aprendizagem  de  conceitos  relacionados  ao  Tratamento  da 
+Informação, como a construção e a interpretação de gráficos de barras e de setores. Dentre 
+os resultados, a pesquisadora apresenta evidências das contribuições das tecnologias, como: 
+a)  Representar  as  informações  de  situações-problema  e  situações  reais  em  gráficos 
+construídos  com  rapidez  e  facilidade;  b)  Visualizar  e  simular  diferentes  situações  com 
+rapidez,  permitindo  ao  aluno  compreender  as  relações  existentes  entre  a  frequência,  a 
+categoria  e  o  todo,  por  exemplo;  c)  Tratar  a  informação,  desde  a  coleta  de  dados  à 
+comunicação  dos  resultados;  d)  Trabalhar  com  situações  reais  e  com  contextos 
+investigativos em atividades colaborativas, envolvendo a produção de dados e informações; 
+e) Explorar os dados produzidos em contextos investigativos, verificando os dados a partir 
+
+1 http://1mundodeinformacoes.blogspot.com/search/label/Escola%20Monteiro%20Lobato  
+
+ 
+
+ 
+
+de  diversas  representações,  permitindo  que  os  estudantes  focassem  a  interpretação  e  os 
+conceitos. [Castro 2012, p.154]. 
+ 
+O  potencial  das  TDIC  também  foi  relatado  no  trabalho  de  Castro  e  Castro-Filho 
+(2015) que observou o desenvolvimento do pensamento estatístico2, a partir de um processo 
+investigativo  realizado  em  quatro  etapas:  planejamento,  coleta  de  dados,  organização  de 
+dados e publicação da notícia. As TDIC foram utilizadas em todas as etapas e possibilitaram 
+a compreensão do processo de coleta de dados, de classificação, de escolha da amostra, do 
+cruzamento de variáveis e da indicação do tipo de gráfico. 
+ 
+Considerando  o  potencial  das  TDIC  para  o  trabalho  de  Estatística  e  a  pouca 
+disponibilização  de  RED  que  abordem  as  habilidades  previstas  pela  BNCC  para  esta 
+unidade temática, o objetivo deste trabalho é apresentar o desenvolvimento de um Recurso 
+Educacional  Digital  (RED)  intitulado  Divertix  e  suas  contribuições  para  o  ensino  de 
+conceitos estatísticos. Esse artigo está dividido em quatro seções: as reflexões introdutórias, 
+o  processo  de  desenvolvimento,  a  apresentação  e  análise  do  RED,  seguidas  das 
+considerações finais. 
+2. Processo de Desenvolvimento 
+O RED Divertix foi desenvolvido por uma equipe multidisciplinar formado por graduandos 
+de  Matemática  e  de  Sistemas  e  Mídias  Digitais,  mestrandos  em  Educação,  professores  da 
+graduação e pós-graduação, bem como profissionais das áreas de design e de programação, 
+todos vinculados ao Grupo Mídias Digitais na Educação (Mide). Os integrantes constituíram 
+duas  equipes,  as  quais  trabalhavam  simultaneamente:  A  primeira  equipe,  denominada 
+equipe  pedagógica,  ficou  responsável  pela  criação  dos  contextos,  atividades,  textos, 
+narrativas  e incorporação dos elementos de gamificação além dos conceitos matemáticos e 
+dos feedbacks de interação com o usuário. Já a segunda equipe, denominada equipe técnica, 
+ficou encarregada das proposições de elementos gráficos, sonoros, fluidez das interações e 
+ferramentas de programação.  
+ 
+Para uma melhor organização, os trabalhos desenvolvidos pelas equipes pedagógica 
+e técnica, foram organizados em um processo de desenvolvimento, composto por 6 etapas, 
+que utilizou como base a perspectiva do modelo iterativo e incremental [Sommerville 2011],  
+conforme  Figura 1. 
+ 
+
+Figura 01. Processo de Desenvolvimento Divertix (Fonte: autores) 
+
+A primeira etapa consistiu da Ideação, onde se fez uso da criatividade para geração 
+ 
+de ideias, bem como a definição de aspectos relacionados às habilidades e competências de 
+
+ 
+
+ 
+
+2  Pensamento  estatístico  é  o  “ato  de  pensar  e  fazer  predições  sobre  o  processo  investigativo,  inferindo  os 
+resultados a partir das mudanças no processo, desde a definição da amostra até a representação dos resultados” 
+[Castro; Castro-Filho 2015. p. 873] 
+
+ 
+
+acordo com as diretrizes da BNCC, o conteúdo a ser trabalhado e os possíveis elementos de 
+gamificação a serem inseridos. Durante essa etapa foram definidos os aspectos centrais do 
+RED, tais como seus objetivos pedagógicos, conteúdos e habilidades a serem contemplados, 
+breve descrição do recurso e público-alvo que deveria atingir. No que tange aos aspectos da 
+gamificação, o foco consistiu em analisar quais elementos do jogo poderiam potencializar o 
+interesse  do  usuário  pela  temática  abordada,  como  por  exemplo  a  narrativa,  os  desafios 
+propostos, a temporização como forma de injetar dinamismo ao recurso, bonificações e os 
+feedbacks instantâneos.  
+ 
+A segunda etapa consistiu da estruturação do RED a ser desenvolvido no intuito de 
+definir  aspectos  relacionados  à  representatividade,  contextualização  e  selecionar  os 
+elementos  de  gamificação  a  serem  incorporados  no  projeto  de  desenvolvimento  para  se 
+atingir objetivos específicos.  
+ 
+Na  terceira  etapa  buscou-se  projetar/modelar  sequências  de  navegabilidade, 
+elementos  de  interação  e  gamificação.  Finalizada  a  terceira  etapa,  iniciamos  a  etapa  de 
+implementação com o intuito de produzir um executável. Na etapa de implementação, três 
+linguagens  principais  foram  utilizadas,  sendo  estas:  HTML5  (marcação),  JavaScript 
+(programação)  e  CSS  (estilo).  Foi  utilizado  como  framework  para  desenvolvimento  o 
+AngularJS,  mais  especificamente  o  modelo  angular-webpack-config,  que  facilitou  a 
+programação  ao  dividi-la  em  estados  bem  definidos.  Para  desenvolvimento  foi  utilizado 
+também o SASS, uma linguagem que pré-processa o CSS, ajudando na organização do estilo 
+e diminuindo o tamanho dos arquivos que eram modificados durante o desenvolvimento, ao 
+passo  que  os  reunia  quando  partiam  para  a  produção.    Feito  isso,  a  próxima  etapa  é  de 
+averiguação.  Essa  etapa,  pode  ser  chamada  também  de  verificação,  pois  nela  se  verifica  a 
+sequência de navegabilidade, os elementos de interação e se os objetivos definidos no início 
+desse processo são atendidos. Por fim, a  etapa de autenticação que corresponde  a etapa de 
+validação,  que  consiste  em  avaliar  se  os  objetivos  pedagógicos  foram  atingidos  da  forma 
+como  foi  projetado.    Para  dar  uma  visão  mais  clara  sobre  o  resultado  final.  Na  seção 
+seguinte será apresentado o RED Divertix. 
+3. O RED Divertix 
+O  Divertix3  é  um  RED  interdisciplinar  destinado  para  estudantes  do  5°  ano  do  Ensino 
+Fundamental.  Ele  foi  desenvolvido  para  explorar,  preferencialmente,  à  aprendizagem  de 
+habilidades  da  área  de  Matemática,  pertencentes  às  unidades  temáticas  de  Probabilidade  e 
+Estatística e Números [Brasil 2017a]. Além disso, também contempla habilidades da área de 
+Língua Portuguesa, conforme pode-se observar no Quadro 1. 
+Quadro 1. Habilidades de Matemática e Língua Portuguesa de acordo com a BNCC 
+
+Habilidades   Descrição das habilidades de Matemática 
+
+EF05MA07 
+
+EF05MA08 
+
+Resolver e elaborar problemas de adição e subtração com  números naturais e com 
+números  racionais,  cuja  representação  decimal  seja  finita,  utilizando  estratégias 
+diversas, como cálculo por estimativa, cálculo mental e algoritmos. 
+
+Resolver  e elaborar  problemas  de  multiplicação  e  divisão com  números  naturais  e 
+com  números  racionais  cuja  representação  decimal  é  finita  (com  multiplicador 
+natural  e  divisor  natural  e  diferente  de zero),  utilizando  estratégias  diversas, como 
+cálculo por estimativa, cálculo mental e algoritmos. 
+
+EF05MA24 
+
+Interpretar dados estatísticos apresentados em textos, tabelas e gráficos (colunas ou 
+
+3 Vídeo de demonstração do recurso disponível em: https://tinyurl.com/divertix2019ctrle   
+
+ 
+
+ 
+
+linhas), referentes a outras áreas do conhecimento ou a outros contextos, como saúde 
+e trânsito, e produzir textos com o objetivo de sintetizar conclusões. 
+
+Habilidades   Descrição das habilidades de Língua Portuguesa 
+
+EF15LP18 
+
+Relacionar texto com ilustrações e outros recursos gráficos 
+
+EF05LP23 
+
+Comparar informações apresentadas em gráficos ou tabelas. 
+
+ 
+ 
+O RED pode ser classificado como interdisciplinar em relação à área de linguagens, 
+pois  aborda  em  suas  atividades,  situações  nas  quais  oportuniza-se  o  desenvolvimento  de 
+habilidades  na  leitura  de  diversas  representações  semióticas  como  textos,  imagens  e 
+gráficos.  Como  forma  de  explorar  as  habilidades  propostas  e  o  engajamento  do  usuário,  o 
+RED possui narrativa  que se desenvolve no  prédio de uma revista chamada Divertix. Na 
+véspera  da  publicação  de  mais  uma  edição  da  revista,  o  prédio  é  invadido  durante  a 
+madrugada por um vilão misterioso. No dia seguinte, descobre-se que algumas matérias que 
+estariam nessa edição foram prejudicadas. Nesse contexto, o jogador é convidado a restaurar 
+as  matérias  da  revista,  de  modo  que  a  edição  seja  publicada  a  tempo,  além  de  descobrir 
+pistas  que  revelem  a  identidade  do  invasor.  Para  resolver  esse  desafio  o  jogador  deverá 
+cumprir  três  atividades.  Cada  uma  delas  corresponde,  respectivamente,  às  funções  de 
+revisor,  redator  e  designer,  funções  normalmente  executadas  em  uma  revista.  Cada 
+atividade  tem  um  personagem-guia  distinto  que  desempenha,  respectivamente,  alguma  das 
+funções  citadas.  As  atividades  são  realizadas  por  andar-setor  do  prédio.    A  primeira 
+atividade possui como cenário o setor de revisão (Figura 02).  
+ 
+
+Figura 02.  Atividade da Revisora 
+
+ 
+
+Após  uma  breve  explicação  da  função  do  revisor  dada  pela  personagem,  ela 
+ 
+contextualiza  que  uma  das  matérias  precisa  da  habilidade  do  revisor  para  ser  recuperada. 
+Então, o texto de uma das matérias será exibido para o jogador. A matéria trata-se de uma 
+pesquisa sobre as brincadeiras preferidas de crianças com idade semelhante às do público-
+alvo do RED, entre 9 e 10 anos, com o objetivo de proporcionar a aproximação do jogador 
+com o conteúdo do texto. Após a leitura o jogador é notificado que possui quarenta minutos 
+para terminar todas as  atividades e publicar a revista a tempo. O tempo  limite foi inserido 
+como  estratégia  de  imersão  para  que  os  jogadores  compreendam  a  urgência  de  entregar  a 
+revista no prazo. Nessa primeira atividade, o jogador deverá analisar os dados da pesquisa, 
+que são os votos das crianças em cada brincadeira, apresentados em um gráfico de colunas e 
+
+ 
+
+comparar  com  o  texto  que  explica  os  valores  que  cada  coluna  representa.  Analisando  o 
+gráfico,  o  jogador  deverá  indicar  no  texto  a  brincadeira  a  qual  o  dado  numérico  se  refere, 
+pois,  eventualmente,  algumas  brincadeiras  estarão  indicadas  no  local  incorreto  do  texto, 
+resultado do trabalho do vilão. A quantidade de votos relacionada a cada coluna é inserida 
+de  maneira  randômica.  Assim,  quando  o  usuário  jogar  novamente  terá  que  indicar  novas 
+respostas para cada campo a ser preenchido. Após a finalização da atividade do Revisor, o 
+jogador  recupera  uma  parte  da  matéria  e  encontra  uma  pista  da  identidade  do  vilão.  O 
+próximo  passo  é  subir  para  o  andar  acima  e  realizar  a  atividade  do  Redator,  em  que  é 
+apresentada uma matéria sobre as frutas preferidas pelas crianças (Figura 03).  
+ 
+
+Figura 03. Atividade do Redator 
+
+ 
+
+ 
+Novamente o jogador irá visualizar um gráfico e um texto, mas, dessa vez, o texto 
+terá campos em branco que deverão ser preenchidos com os nomes das frutas que aparecem 
+no  gráfico.  Assumindo  o  papel  de  redator,  o  jogador  deve  verificar,  conforme  os  termos 
+presentes  no  texto  e  os  dados  do  gráfico,  quais  informações  preenchem  as  lacunas 
+corretamente.  Caso  o  usuário  verifique  que  os  dados  de  algumas  lacunas  não  estão 
+compatíveis  com  o  gráfico,  ele  poderá  modificar  as  lacunas  a  qualquer  momento,  até 
+encontrar  a  resposta  correta.  Ao  finalizar  a  atividade  do  revisor,  o  jogador  consegue 
+recuperar mais uma parte da matéria e encontrar uma segunda pista da identidade do vilão. 
+Subindo  mais  um  andar,  o  jogador  iniciará  a  atividade  do  Designer.  Nessa  atividade  o 
+jogador será apresentado  a uma  matéria sobre  esportes (Figura 04). Assumindo o papel de 
+designer, o jogador deverá compor um gráfico de acordo com os dados fornecidos na tabela. 
+Para formar o gráfico o jogador precisará analisar o eixo com o nome dos esportes e o eixo 
+com  as  quantidades  de  votos  e  clicar  na  quantidade  que  deverá  representar.  Ao  final,  o 
+usuário  terá  criado  um  pictograma  baseado  nos  dados  do  quadro.  E  por  fim,  encontrará  a 
+última pista da identidade do invasor. Em todas as telas de animação do jogo está presente o 
+botão pular para que o jogador que já conhece a narrativa possa seguir rapidamente para as 
+fases. O botão com símbolo de interrogação contém orientações para ajudar na realização da 
+atividade.  O  Divertix  é  um  RED  que  ajudará  o  professor  a  desenvolver  em  seus  alunos 
+diversas habilidades. Isso tudo combinado a uma aula mais dinâmica, em que os estudantes 
+poderão aprender se divertindo. 
+4. Considerações Finais 
+O desenvolvimento do RED, teve como base o modelo iterativo e incremental [Sommerville 
+2011] porque buscou-se alimentar, em cada uma das etapas,  aspectos de cunho pedagógico 
+e  técnico,  identificados  relevantes  pela  equipe  responsável  pelo  desenvolvimento  do 
+recurso. 
+ 
+
+ 
+
+Figura 04. Atividade do Designer  
+
+ 
+
+Na esfera pedagógica, ressalta-se características interdisciplinares, pois permite a ligação da 
+Estatística,  unidade  temática  de  Matemática  segundo  a  BNCC,  com  a  Língua  Portuguesa, 
+mais precisamente na exploração do campo das práticas de estudo e pesquisa [Brasil 2017a]. 
+Já  na  esfera  técnica,  a  presença  de  elementos  desafiadores  e  premiações,  buscam  trazer 
+maior estimulo aos usuários. Embora o RED não tenha sido validado em condições de sala 
+de  aula,  espera-se    que  o  mesmo  possa  viabilizar  o  desenvolvimento  de  habilidades  de 
+resolução  de  problemas  do  campo  aditivo  e  multiplicativo,  assim  como  da  capacidade  de 
+construir gráficos e de interpretar dados estatísticos em textos, tabelas e gráficos, utilizando-
+se  para  isso  elementos  de  gamificação  que  instigam  o  potencial  criativo  e  fecundo  para 
+promover  a  atenção  e  o  interesse    das  crianças,  possibilitando  o  desenvolvimento  de 
+habilidades  relacionadas  com  a  Estatística.  Em  estudos  futuros  pretendemos  inserí-lo  em 
+uma sequência de ensino a fim de verificar o potencial de engajamento e aprendizagem. 
+
+Referências 
+
+Brasil.  Ministério  da  Educação.  Secretaria  de  Educação  Fundamental.  (1997)  Parâmetros 
+Curriculares Nacionais: Matemática (1º e 2º ciclos do ensino fundamental). v. 3, MEC. 
+Brasil (2017a)  “Base Nacional Comum Curricular”. Ministério da Educação, Secretaria da 
+Educação Básica, Brasília, DF: SEB. Disponível em: <basenacionalcomum.mec.gov.br>. 
+Acesso em: 24 mar. de 2019. 
+
+Brasil (2017b) ” SAEB 2017” Ministério da Educação. Brasília, DF: INEP. 
+Castro, J. B. (2012) “O uso de objetos de aprendizagem para a construção e compreensão de 
+gráficos  estatísticos”.  Dissertação  (Mestrado)  –  Programa  de  Pós  Graduação  em 
+Educação Brasileira, Universidade Federal do Ceará, Fortaleza. 
+
+Castro, J. B.; Castro-Filho, J. A. (2015) “Desenvolvimento do Pensamento Estatístico com 
+suporte Computacional. Educação Matemática Pesquisa” (online), v. 17, p. 870-896. 
+
+Gal, 
+
+I. 
+
+(2002)  Adult  statistical 
+
+literacy  meanings,  components, 
+
+responsabilities. 
+
+“International Statistical Review”, The Hague, v.70, n. 1, p. 1-25. 
+
+Inaf.  (2018)  Inaf  Brasil  2018:  resultados  preliminares.  Instituto  Paulo  Montenegro  em 
+parceria 
+em: 
+Ação 
+<https://drive.google.com/file/d/1ez-6jrlrRRUm9JJ3MkwxEUffltjCTEI6/view>.  Acesso 
+em: 21 abr. De 2019. 
+
+Disponível 
+
+Educativa. 
+
+ONG 
+
+com 
+
+a 
+
+Sommerville, Ian. (2011); Engenharia de Software, 9o ed., São Paulo: Pearson Prentice Hall 
+ 
+
+ 
+
+

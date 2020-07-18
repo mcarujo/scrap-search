@@ -1,0 +1,437 @@
+ 
+
+ 
+
+ 
+
+Um Boom de Mídias na Infância: Reflexões acerca do Uso de 
+Tecnologias Digitais na Educação Infantil 
+
+Gabryelle Chaves Ferreira1, Maria Auricélia da Silva², Thiago de Sousa Garcia³ 
+
+1Faculdade de Educação – Universidade Federal do Ceará (UFC) - Campus do Pici – 
+Rua Waldery Uchôa, 01 - Benfica, Fortaleza - CE, 60020-060 – Fortaleza-CE 
+
+2Unidade Universitária de Educação Infantil Núcleo de Desenvolvimento da Criança – 
+Universidade Federal do Ceará (UFC) - Campus do Pici – Bloco 859 – Fortaleza-CE. 
+
+³Departamento de Computação - Universidade Federal do Ceará (UFC) - Campus do 
+Pici – Bloco 910, Fortaleza-CE 
+
+gabryelle30chaves@gmail.com, silvauricelia@gmail.com, 
+tsousa900@gmail.com  
+
+ 
+
+Abstract.  This  study  investigates  the  interests  of  children  on  the  childhood 
+education by the use of digital resources out of school, the way that they use this 
+instruments on their routine and the time what they spend on activities of this 
+character compared by other research, already done in 2016. The interpretative 
+paradigm and the quali-quantitative approach constituted the main pillar of the 
+research.  The  data  were  collected  through  a  questionnaire  applied  to  the 
+families of the children, with the purpose of probing the interests and uses that 
+they  make  of  the  digital  resources  to  which  they  have  access.  The  results 
+indicate that the children show great proximity with the digital resources, what 
+allows to use that as a pedagogical resource. 
+
+Resumo. Este estudo investiga os interesses de crianças da Educação Infantil 
+pelo  uso  de  recursos  digitais  fora  da  escola,  a  forma  como  elas  usam  esses 
+instrumentos em seu cotidiano e o  tempo que consomem em atividades dessa 
+natureza em comparação com outra pesquisa, realizada em 2016. O paradigma 
+interpretativo e a abordagem quali-quantitativa constituíram o principal pilar 
+da pesquisa. Os dados foram coletados por meio de um questionário aplicado 
+aos familiares das crianças, com a finalidade de sondar os interesses e usos que 
+elas fazem dos recursos digitais aos quais têm acesso. Os resultados indicaram 
+que  as  crianças  mostram  grande  proximidade  com  as  tecnologias  digitais,  o 
+que possibilita utilizá-las como recurso pedagógico. 
+
+1. Introdução 
+
+As tecnologias datam da Antiguidade, por isso são tão arcaicas quanto a espécie humana 
+que, desde o início de sua existência, cria métodos  para incrementar suas ocupações e 
+reduzir vulnerabilidades [Kenski 2012]. Sendo assim, a disseminação da tecnologia e o 
+domínio  divulgado  por  meio  das  mídias  tem  adentrado  cada  vez  mais  o  cotidiano  dos 
+
+ 
+
+ 
+
+ 
+
+indivíduos,  propiciando  o  crescimento  de  novas  habilidades  por  meio  das  inúmeras 
+linguagens existentes.  
+
+ 
+Atualmente,  a  maior  indagação  que  se  apresenta  não  é  se  os  artefatos  digitais 
+devem  ser  utilizados  na  educação,  mas  como  usá-los,  com  o  objetivo  de  favorecer  o 
+desenvolvimento e a aprendizagem das crianças [Machado 2013]. Dessa forma, a área da 
+educação é, costumeiramente, sondada no que diz respeito às suas estratégias pedagógicas 
+para contemplar o avanço das tecnologias que estão, de fato, inseridas no dia a dia das 
+novas gerações que frequentam as turmas de Educação Infantil. 
+
+Nessa perspectiva, as Tecnologias Digitais de Informação e Comunicação (TDIC) 
+ 
+dispõem de princípios que contribuem para a reformulação da comunicação interpessoal 
+e, assim, inserem-se na escola como resultado do que é vivenciado na sociedade. Desse 
+modo,  o  acesso  a  recursos  digitais  e  à  Internet  passa  a  ser  um  fator  positivo  na  forma 
+como o trabalho escolar é encarado por professores e alunos, a partir das metodologias 
+utilizadas nos processos pedagógicos.  
+
+ 
+Torna-se  válido  evidenciar  que  o  termo  tecnologias  não  se  refere  somente  a 
+aparelhos  e  equipamentos,  mas  também  a  uma  infinidade  de  componentes  concebidos 
+pelo  ser  humano  em  diferentes  tempos,  formas  de  utilização  e  aplicabilidade  [Kenski 
+2012].  
+
+Por  meio  da  utilização  das  TDIC,  o  mundo  concreto  vivenciado  pelas  crianças 
+ 
+fora da escola pode ser introduzido no contexto escolar, priorizando o questionamento e 
+a criatividade como fatores da aprendizagem dos alunos [Coll e Monereo 2010]. A partir 
+disso,  é  pertinente  refletir  acerca  do  uso  das  mídias  digitais  na  Educação  Infantil  e  a 
+relevância de seu uso pedagógico para crianças pequenas. 
+
+ 
+Desse modo, o uso pedagógico de recursos digitais torna-se fundamental, visto 
+que  as  crianças  estão,  cada  vez  mais,  imersas  na  cultura  digital  e  utilizam  recursos 
+tecnológicos, principalmente tecnologias móveis, e começam a utilizar essas mídias cada 
+vez  mais  cedo.  Staa  (2011  p.  44)  enfatiza  que  “essas  crianças  manuseiam  telefones 
+celulares antes de saber falar, operam computadores,  mouses e telas de toque sem que 
+ninguém lhes ensine a fazer isso”. 
+
+ 
+É necessário, pois, aliar aspectos lúdicos e pedagógicos a recursos tecnológicos 
+que sejam vinculados à Internet, visto que tal uso pode auxiliar no processo de ensino e 
+aprendizagem em qualquer etapa da Educação Básica. No que se refere ao atual público 
+infantil, que já nasceu em um mundo globalizado, pode-se afirmar que já são integrantes 
+da cultura digital que os cerca, pois “os sujeitos que nasceram imersos no mundo digital 
+interagem, simultaneamente, com as diferentes mídias” [Alves 2008 pp. 6 e 7].  
+
+ 
+
+Nessa  perspectiva,  o  presente  estudo  foi  realizado  com  o  objetivo  geral  de 
+ 
+investigar os interesses das crianças pelo uso de recursos digitais, como elas os utilizam 
+em seu cotidiano e o tempo que consomem em atividades dessa natureza. 
+
+A abordagem da pesquisa  é quali-quantitativa e a análise dos dados se deu  por 
+ 
+meio  da  interpretação  de  referenciais  teóricos  e  dos  dados  levantados  na  pesquisa 
+realizada  com  os  familiares  das  crianças,  que  tratam  de  temáticas  relevantes  sobre  as 
+mídias e a Educação Infantil. 
+
+ 
+Para a coleta de dados, foi elaborado um questionário e aplicado aos familiares de 
+todas as crianças matriculadas na Unidade Universitária de Educação Infantil Núcleo de 
+
+ 
+
+ 
+
+ 
+
+Desenvolvimento  da  Criança  (UUNDC/UFC).  Esta  etapa  foi  importante  para  a 
+compreensão dos interesses infantis e das atividades que as crianças conseguem realizar 
+utilizando recursos digitais, além de ações que poderão ser implementadas nas práticas 
+pedagógicas com suporte digital. 
+
+ 
+Os resultados preliminares indicam que as crianças demonstram grande interesse 
+e familiaridade com os recursos digitais, consomem várias horas do dia utilizando algum 
+tipo de recurso tecnológico,  conseguem realizar muitas ações, divertem-se e  aprendem 
+com esse tipo de atividade.  
+
+2. Metodologia 
+
+O presente estudo foi estruturado mediante uma abordagem quali-quantitativa, em que 
+foi  usado  o  método  misto  de  pesquisa  (mixed  model  research),  procurando  integrar 
+procedimentos quantitativos e qualitativos [Bogdan e Biklen 1994]. A combinação desses 
+métodos pode utilizar-se dos benefícios que as duas metodologias possuem, ao mesmo 
+tempo  em  que  supre  suas  lacunas.  Logo,  a  pesquisa  a  partir  do  método  misto  abrange 
+questões mais completas, superando as limitações de uma só abordagem [Spratt, Walker 
+e Robison 2004]. 
+
+Os  dados  aqui  apresentados  foram  coletados  por  meio  de  um  questionário 
+ 
+aplicado  aos  familiares  de  todas  as  crianças  matriculadas  na  Unidade  Universitária  de 
+Educação  Infantil  Núcleo  de  Desenvolvimento  da  Criança  (UUNDC/UFC),  com  o 
+propósito de sondar os interesses e usos que as crianças fazem dos recursos digitais aos 
+quais  têm  acesso.  A  UUNDC  atende  crianças  de  três  a  seis  anos,  portanto  turmas  de 
+Infantil 3, Infantil 4 e Infantil 5. 
+
+ 
+O  questionário  foi  elaborado  de  maneira  sistemática  e  sequencial,  objetivando 
+promover a interlocução desejada entre o pesquisador e os sujeitos investigados por meio 
+de respostas escritas [Chizzotti 1998].  
+
+ 
+Os questionários foram enviados aos familiares de todas as crianças regularmente 
+matriculadas  na  UUNDC  no  dia  29/04/2019  e  foram  devolvidos  por  eles  após  duas 
+semanas,  no  máximo  até  13/05/2019.  Foram  distribuídos  55  questionários  nas  quatro 
+turmas  existentes:  Infantil  3A,  Infantil  3B,  Infantil  4  e  Infantil  5.  Desses,  foram 
+devolvidos 45 questionários, o que corresponde a aproximadamente 82% da população, 
+portanto uma amostra significativa.  
+
+Os dados coletados foram tabulados, sistematizados em tabelas e gráficos com o 
+
+ 
+suporte da planilha Excel e serão apresentados a seguir.  
+
+3. Resultados e discussão 
+
+A faixa etária das crianças regularmente matriculadas na UUNDC/UFC variava entre 3 a 
+6 anos até o dia 13/05/2019, prazo máximo para devolução dos questionários respondidos 
+pelos familiares. Conforme explicitado anteriormente, estão matriculadas 55 crianças no 
+ano letivo de 2019, distribuídas em duas turmas de Infantil 3, uma turma de Infantil 4 e 
+uma turma de Infantil 5. Desse total,  dez (10) famílias não devolveram o questionário, 
+motivo pelo qual a análise dos dados coletados diz respeito a 45 sujeitos. 
+
+A distribuição etária é a seguinte: 20 crianças com 3 anos; 14 crianças com 4 anos; 
+ 
+9 crianças com 5 anos e 2 crianças com 6 anos. Considerar a  idade das crianças nesta 
+pesquisa é relevante devido ao fato de que, mesmo muito novas, as crianças começam a 
+
+utilizar recursos digitais e, no decorrer de seu crescimento, as ações que desempenham 
+tornam-se mais complexas e elaboradas.  
+
+ 
+Acerca do interesse que as crianças demonstram pelo uso de recursos digitais, as 
+respostas indicaram que 40 crianças, o que corresponde a 89% dos sujeitos, demonstram 
+interesse em usar artefatos tecnológicos constantemente e, apenas 5 crianças, 11% delas, 
+interessam-se eventualmente.  
+
+ 
+É  importante  observar  que  todas  as  crianças  pesquisadas  interessam-se  por 
+recursos digitais em maior ou menor grau. Sendo assim, é perceptível que as crianças têm 
+acesso  a  algum  tipo  de  recurso  tecnológico,  e  tal  aparato  lhes  desperta  certo  grau  de 
+interesse. Logo, todas demonstram desejo de utilizar tecnologias digitais, como pode ser 
+observado no Gráfico 1. 
+
+ 
+
+Gráfico 1. Interesse das crianças por recursos tecnológicos 
+
+ 
+Os  dados  apresentados  nesta  pesquisa  confirmam  os  achados  da  investigação 
+realizada por Silva e Macedo Filho (2016), que encontraram dados semelhantes a estes 
+aqui  apresentados,  quando  realizaram  um  estudo  com  turmas  de  Educação  Infantil  na 
+mesma instituição, pesquisada em 2016, acerca dos interesses das crianças pelo uso de 
+mídias  digitais.  Na  época,  todas  as  crianças  já  demonstravam  interesse  pelo  uso  de 
+recursos digitais, sendo que 92% demonstravam interesse constante e apenas 8% delas 
+demonstravam interesse eventual. 
+
+Santaella  (2012  p.  49)  reconhece  que  “as  mídias  tendem  a  se  engendrar  como 
+ 
+redes que se interligam e nas quais cada mídia particular – livro, jornal, TV, rádio, revista 
+etc. – tem uma função que lhe é específica”. Assim sendo, é importante que as crianças 
+vivenciem experiências que incluam diferentes recursos midiáticos também na escola. 
+
+Quando são utilizados recursos digitais com as crianças, percebe-se que atividades 
+ 
+com  imagens,  movimento  e  sons  favorecem  a  aproximação  entre  as  experiências 
+vivenciadas  e  a  realidade  que  se  apresenta  às  crianças  cotidianamente.  Então,  a 
+aprendizagem  torna-se  mais  interessante  e  significativa,  pois  a  criança  estabelece 
+comparações entre o que está experimentando e o seu contexto social, o que pode gerar 
+maior interesse e envolvimento nas práticas escolares.  
+
+No  que  tange  aos  recursos  mais  usados  pelas  crianças,  os  familiares  poderiam 
+ 
+assinalar mais de uma opção no questionário aplicado. Como as tecnologias móveis são 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bastante  acessíveis  às  pessoas  em  todos  os  lugares,  o  smartphone,  o  tablet  e  o  laptop 
+foram os mais citados, como consta no Gráfico 2.  
+
+Gráfico 2. Recursos mais utilizados pelas crianças 
+
+ 
+
+Entre esses meios digitais, o smartphone foi classificado como o mais utilizado 
+ 
+pelas crianças. Dos 45 indivíduos sondados, 35 manuseiam mais o smartphone e 8 usam 
+mais o tablet. Somente 1 criança usa mais o laptop, nenhuma delas utiliza o desktop e, 
+somente 1 utiliza frequentemente a Smart TV.  
+
+Os dados apresentados  corroboram o uso de tecnologias móveis, com destaque 
+ 
+para o smartphone e o tablet, também citados na pesquisa de Silva e Macedo Filho (2016). 
+Contudo, percebe-se que houve um aumento considerável no uso de smartphones e tablets 
+e  a  diminuição  do  uso  de  laptops  e  desktops.  Na  pesquisa  anterior  citada,  5  crianças 
+usavam o laptop e 2 usavam o desktop. Em relação ao desktop, fica confirmado que as 
+tecnologias  móveis  são  mais  utilizadas,  a  despeito  de  o  laptop  ser  pouco  utilizado  na 
+pesquisa atual. 
+
+O gráfico 3 mostra a utilização de recursos digitais em dias úteis e nos finais de 
+
+ 
+semana. 
+
+Gráfico 3. Tempo que as crianças dedicam ao uso de recursos digitais 
+
+Nos dias úteis, possivelmente devido aos horários escolares e às demais atividades 
+ 
+que as crianças realizam, o acesso às tecnologias digitais fica em torno de uma hora diária, 
+ao passo que, nos finais de semana, a maioria das crianças utiliza esses artefatos por um 
+
+ 
+
+período de duas a três horas diárias. Esses dados são compatíveis com os encontrados na 
+pesquisa de Silva e Macedo Filho (2016). 
+
+ 
+No que se refere às atividades que as crianças realizam enquanto utilizam recursos 
+digitais, os familiares poderiam assinalar mais de uma opção porque, de fato, as crianças 
+facilmente  acessam  diversos  recursos.  De  acordo  com  as  respostas  dos  familiares, 
+predominam os seguintes usos: assistir a vídeos, usar jogos e tirar fotos, como pode ser 
+observado no Gráfico 4. 
+
+ 
+
+Gráfico 4. Atividades que as crianças realizam utilizando recursos digitais 
+
+ 
+Dialogando  com  a  pesquisa  realizada  anteriormente  por  Silva  e  Macedo  Filho 
+(2016),  os  achados  são  compatíveis  com  a  pesquisa  atual.  Nota-se  que  as  crianças 
+pequenas assistem mais a vídeos e gravam áudios, enquanto as maiores baixam os vídeos 
+a  que  desejam  assistir  e  já  conseguem  gravá-los.  Por  possuírem  um  acervo  maior  de 
+vivências, as crianças de 4 e 5 anos enviam mais mensagens pelo smartphone do que as 
+crianças menores. 
+
+ 
+Mediante os dados apresentados, observa-se o quanto as crianças estão envolvidas 
+no mundo digital e como esse vínculo com as tecnologias pode interferir nas formas de 
+se relacionarem com as pessoas, solucionarem problemas do dia a dia e aprenderem de 
+forma lúdica. Machado (2013 p. 3) esclarece que  
+
+As  tecnologias,  aliadas  às  propostas  curriculares  da  Educação  Infantil, 
+permitirão às crianças explorar novos conhecimentos, aprendendo a pesquisar, 
+questionar, expressar sua opinião, pensar e elaborar ideias de maneira lúdica, 
+interativa e divertida, tornando o processo de aprendizagem mais interessante. 
+
+Portanto,  as  instituições  podem  e  devem  iniciar  o  trabalho  com  tecnologias 
+
+ 
+digitais como suporte ao trabalho pedagógico desde a Educação Infantil. 
+
+4. Considerações Finais  
+
+O  presente  estudo  discute  o  fato  de  que,  desde  muito  cedo,  as  crianças  têm  acesso  a 
+recursos digitais e apresentam um bom manuseio de tais ferramentas, evidenciando sua 
+imersão na cultura digital difundida na sociedade.  
+
+ 
+Assim,  é  relevante  ressaltar  que,  nos  dados  da  pesquisa  apresentada,  todas  as 
+crianças demonstraram interesse pelo uso de recursos digitais, em maior ou menor grau. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Desse modo, é necessário que a instituição escolar tome uma posição em relação 
+a  essa  realidade  e  utilize  tecnologias  digitais  como  um  recurso  presente  na  vida  das 
+crianças, que pode contribuir com o seu desenvolvimento e a sua aprendizagem.  
+
+ 
+Infere-se,  por  meio  desta  pesquisa,  que  as  crianças  usam  aparatos  móveis 
+constantemente, em particular o smartphone e o tablet, possivelmente porque são de fácil 
+manuseio e acessíveis à população. 
+
+ 
+Portanto, de acordo com os dados apresentados, o smartphone é o recurso mais 
+usado pelas crianças, principalmente nos finais de semana, quando dedicam mais tempo 
+a atividades lúdicas.  
+
+ 
+Conforme  seu  desenvolvimento  e  suas  aprendizagens,  as  crianças  conseguem 
+realizar  mais  atividades  com  um  maior  grau  de  complexidade,  o  que  demonstra  uma 
+evolução na sua relação com os recursos digitais, quer seja para entretenimento, por meio 
+de vídeos e jogos, ou para a comunicação, na forma de mensagens de voz. 
+
+ 
+Diante  do  que  foi  apresentado  e  discutido,  o  uso  de  tecnologias  digitais  na 
+Educação  Infantil  reforça  a  convicção  de  que  as  mídias  digitais  auxiliam  no 
+desenvolvimento e na aprendizagem das crianças. Para tanto, é fundamental que haja um 
+acompanhamento das atividades que elas realizam dentro do ambiente escolar e fora dele, 
+quando utilizam esses recursos, a fim de se beneficiarem de seus aspectos positivos.  
+
+Referências 
+
+ALVES,  Lynn.  (2008)  “Relações  entre  jogos  digitais  e  aprendizagem:  delineando 
+percurso”. In: Educação, Formação & Tecnologias, vol.1(2); pp. 3-10, Novembro de 
+2008.  Disponível em <http://eft.educom.pt.>. Acesso em: 30 jun de 2019.  
+
+BOGDAN,  Roberto  C.  e  BIKLEN,  Sari  Knopp.  (1994)  “Investigação  qualitativa  em 
+educação”. Tradução Maria João Alvarez, Sara Bahia dos Santos e Telmo Mourinho 
+Baptista. Porto: Porto Editora. 
+
+CHIZZOTTI,  Antonio.  (1998)  “Pesquisa  em  Ciências  Humanas  e  Sociais”.  3.  ed.  São 
+
+Paulo: Cortez.  
+
+COLL, César e MONEREO, Carles. (2010) “Educação e aprendizagem no século XXI: 
+novas ferramentas, novos cenários, novas finalidades”. In: COLL, César; MONEREO, 
+Carles.  Psicologia  da  educação  virtual:  aprender  e  ensinar  com  as  tecnologias  da 
+informação e educação. Porto Alegre: Artmed, 2010. Cap. 1. p. 15-45. Tradução: Naila 
+Freitas. 
+
+KENSKI,  V.  M.  (2012)  “Educação  e  tecnologias:  o  novo  ritmo  da  informação”. 
+
+Campinas, São Paulo: Papirus, 2012. 
+
+MACHADO, Márcia Regina. (2013) “A inclusão da tecnologia na educação infantil”. In: 
+XI Congresso Nacional de Educação. Pontifícia Universidade Tecnológica do Paraná. 
+
+SANTAELLA, Lucia. (2012) “O papel do lúdico na aprendizagem”. In: Revista Teias, v. 
+
+13, n. 30, p. 163-173, set./dez. 2012. 
+
+SILVA, M. A. e MACEDO FILHO, J.A. (2016) “Mídias Digitais na Educação Infantil: 
+uma  reflexão  necessária”.  In:  XVIII  Encontro  Nacional  de  Educação  Infantil. 
+Universidade Federal do Rio Grande do Norte. Natal, Rio Grande do Norte.  
+
+SPRATT,  C.;  WALKER,  R.;  ROBINSON,  B.  (2004)  “Mixed  research  methods”. 
+Practitioner Research and Evaluation Skills Training in Open and Distance Learning. 
+em: 
+Commonwealth 
+http://www.col.org/SiteCollectionDocuments/A5.pdf. Acesso em: 28 jun. 2019. 
+
+Disponível 
+
+Learning, 
+
+2004. 
+
+of 
+
+STAA, Betina Von. (2011) Aproveitando a tecnologia para promover o desenvolvimento 
+
+das crianças. Pátio Educação Infantil ano IX N° 28 jul/set. 2011. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

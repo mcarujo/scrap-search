@@ -1,0 +1,553 @@
+ 
+
+ 
+
+O Uso de Dispositivos Móveis para o Tratamento da 
+Informação: Uma Revisão Sistemática de Literatura 
+
+Elvis Medeiros de Melo, Dennys Leite Maia 
+
+Instituto Metrópole Digital – Universidade Federal do Rio Grande do Norte (UFRN) 
+Av. Sen. Salgado Filho, 3000 – Lagoa Nova, CEP: 59.078-970 – Natal – RN – Brasil 
+
+elvismedeiros.mm@gmail.com, dennys@imd.ufrn.br
+
+Abstract. Through a Systematic Review of Literature (RSL)  in proceedings of 
+congresses  in  the  area  of  Educational  Technology,  this  research  aimed  to 
+identify articles dated 2014 to 2017 that deal with the use of mobile devices for 
+the Treatment of Information (TI). The results show that, despite recent research 
+involving practices with mobile devices for Information Processing, there is an 
+increase in production in recent years, in addition, there were no searches that 
+made use of applications for smartphones for TI. 
+
+Resumo.  Por  meio  de  Revisão  Sistemática  de  Literatura  (RSL)  realizada  em 
+anais de congressos na área de Tecnologia Educacional, a presente pesquisa 
+teve como propósito identificar artigos de 2014 a 2017 que versassem sobre o 
+uso  de  dispositivos  móveis  para  o  Tratamento  da  Informação  (TI).  Os 
+resultados mostram que, apesar de recentes as pesquisas envolvendo práticas 
+com dispositivos móveis para o Tratamento da Informação, há um aumento na 
+produção nos últimos anos, além disso, não houve pesquisas que fizessem o uso 
+de aplicativos para smartphones para TI. 
+
+ 1. Introdução 
+
+As práticas sociais com o Tratamento da Informação1 (TI) podem ser proporcionadas por 
+diversos  meios  tecnológicos,  como  os  dispositivos  móveis.  Contudo,  mais  do  que  um 
+preconceito,  os  professores  parecem  ter  dificuldades  sobre  como  integrar  essas 
+ferramentas  em  sala  de  aula.  De  acordo  com  o  Comitê  Gestor  da  Internet  no  Brasil 
+(CGI.BR),  39%  dos  professores  afirmam  nunca  ter  utilizado  dispositivos  móveis  em 
+atividades  com  alunos  e  15%  utilizaram  menos  de  uma  vez  por  mês  [CGI.Br  2017]. 
+Portanto, menos da metade dos professores exploram o potencial dessa ferramenta. O uso 
+de apps educativos é uma das possibilidades. Não basta ter acesso à tecnologia e usar sem 
+propósito  pedagógico  claro.  O  professor  deve  ter  em  mente  que  essa  ferramenta  abre 
+oportunidades, e se bem aproveitada é de grande importância para o crescimento e avanço 
+de seu conhecimento [Lévy 1999]. 
+
+A mobilidade trazida pelo uso dos dispositivos móveis proporcionada pelos apps 
+educativos salta aos olhos dos professores que precisam repensar a metodologia referente 
+ao uso de recursos educacionais e digitais. A simples replicação de situações tradicionais 
+de  uso  de  quadro  e  giz,  convertidos  para  uso  de  projetor  multimídia,  bem  como  a 
+exploração  descontextualizada  de  editores  de  textos,  planilhas  eletrônicas,  softwares 
+educativos e demais recursos da internet, não proporcionam reais modificações no seu 
+
+1As habilidades relacionadas à coleta e à organização de dados que permitam a resolução de problemas são 
+analisadas no bloco de conteúdos Tratamento da Informação [Brasil 1997]. 
+
+ 
+
+fazer pedagógico nem tampouco impactam nos resultados do processo de aprendizagem. 
+Para  Moran  (2010),  isso  é  apenas  aplicar  um  “verniz  de  modernidade”  às  aulas,  sem 
+alterar o cerne da questão, que é a metodologia. 
+
+É importante enfatizar também que, para uma aprendizagem significativa, faz-se 
+necessário traçar os objetivos específicos para o uso destes equipamentos, uma vez que, 
+ao serem utilizadas de forma planejada e mediada, as tecnologias móveis podem se tornar 
+importantes aliadas nos processos de ensino e de aprendizagem. As peculiaridades desses 
+dispositivos,  cada  vez  mais  equipados,  contando  com  recursos  como  câmeras  (que 
+fotografam  e  filmam  com  boa  qualidade  de  som  e  imagem),  gravadores  de  áudio, 
+calendários,  comunicadores  instantâneos,  calculadoras  e  tantas  outras  ferramentas, 
+possibilitam a criação de projetos e ações pedagógicas que não podem e nem devem ser 
+desprezadas [Machado 2010]. 
+
+Segundo Borba (2010), de modo geral, utilizar tecnologias informáticas, em um 
+ambiente de ensino e aprendizagem, requer a sensibilidade do professor ou pesquisador 
+para optar por estratégias pedagógicas que permitam explorar as potencialidades desses 
+recursos, tornando-os didáticos. Ainda vale o alerta que Valente (1998) fez há mais de 
+vinte anos: o educador deve conhecer o que cada uma destas facilidades tecnológicas tem 
+a oferecer e como podem ser exploradas em diferentes situações educacionais. Apesar de 
+todas essas evidências e  indicações,  e de novas tecnologias lançadas constantemente e 
+que  demanda  apropriação,  os  professores  ainda  têm  dificuldades  de  integrar  as 
+Tecnologias  Digitais  de  Informação  e  Comunicação  (TDIC)  em  suas  práticas, 
+relacionando-as com o objeto de conhecimento de suas disciplinas. 
+
+Nesse âmbito, voltando nosso olhar para o Tratamento da Informação, pesquisas 
+como Ainley, Nardi e Pratt (2000); Magina e Santos (2008) e Castro et al (2011) revelam 
+que  o  estudo  de  gráficos  com  auxílio  do  ambiente  computacional  contribui  para  a 
+aprendizagem de conceitos estatísticos. Conforme essas pesquisas, as TDIC, na maioria 
+das  vezes,  auxiliam  na  visualização  e  exploração  de  um  conjunto  de  atividades, 
+propiciando novas formas de pensar e agir matematicamente. Para Castro e Castro-Filho 
+(2012), atividades com TI mostram ser um ambiente promissor de produção de conteúdo, 
+viabilizando a liberdade produtiva das crianças e evolução dor para o desenvolvimento 
+da  interdisciplinaridade  e  da  capacidade  argumentativa.  De  acordo  com  os  dados  da 
+pesquisa,  a  experiência  de  uso  das  TDIC  para  a  aprendizagem  do  TI  ampliou  os 
+procedimentos  e  estratégias  de  coleta,  organização  de  dados  e  comunicação,  além  de 
+desenvolver  o  senso  crítico,  a  autonomia,  a  criatividade  e  a  leitura,  o  que  favoreceu  a 
+análise e a interpretação de textos, imagens e gráficos. 
+
+Diretrizes  para  a  Educação  Matemática  [Brasil  1997]  defendem  seu  ensino  por 
+meio do desenvolvimento integrado dos  conhecimentos. Para Cazorla (2012), diversos 
+indivíduos afirmam possuir aversão a essa disciplina e, para a maioria, isso acontece por 
+lembranças de aprendizagens escolares. Uma possível explicação para isso se deve à falta 
+de  percepção  das  possíveis  aplicações  sobre  o  conhecimento  estudado,  bem  como  sua 
+utilidade para a vida desses indivíduos. Assim, constata-se a necessidade de um trabalho 
+mais efetivo com os gráficos, relacionando o Tratamento da Informação, o conhecimento 
+diário e a Matemática, além de outros conhecimentos curriculares como Ciências, Língua 
+Portuguesa, Geografia, História, dentre outros [Castro e Castro-Filho 2012]. Observando 
+o atual cenário brasileiro acerca de práticas a respeito do uso desses dispositivos móveis 
+no  ensino  do  Tratamento  da  Informação,  identificamos  a  necessidade  de  uma  Revisão 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sistemática de Literatura (RSL) [Kitchenham 2004] que identifiquem estudos que versem 
+sobre o panorama do uso dessas ferramentas2. 
+
+Este artigo estrutura-se na presente introdução; seguido do percurso metodológico 
+utilizado na elaboração da RSL, incluindo a apresentação das perguntas da RSL; seção 
+de resultados, na qual discorremos sobre os trabalhos selecionados e extração dos dados; 
+considerações sobre a RSL; e referências consultadas. Com vista à problematização do 
+tema, propomos a seguir os passos metodológicos da revisão de literatura. 
+
+2. Percurso Metodológico da Revisão Sistemática de Literatura 
+A Revisão Sistemática da Literatura (RSL) é um tipo de investigação focada em questão 
+bem definida, que visa identificar, selecionar, avaliar e sintetizar as evidências relevantes 
+disponíveis  [Galvão  e  Pereira  2014].  Identificada  a  necessidade  de  RSL,  segundo 
+Kitchenham  (2004),  os  próximos  passos  são:  a  criação  de  um  protocolo  da  revisão,  a 
+seleção dos estudos primários, avaliar a qualidade dos estudos disponíveis e a extração e 
+síntese dos dados. A criação de protocolo de revisão  torna o processo de revisão mais 
+confiável e passível de reprodutibilidade.  
+Na fase exploratória, propomos um levantamento bibliográfico, procurando por 
+ 
+artigos científicos datados no período de 2014 a 2017 utilizando, para a busca, palavras-
+chave  referentes  ao  trabalho,  como:  Tratamento  da  Informação;  Estatística;  Statistics; 
+Objetos  de  Aprendizagem;  Learning  Objets;  Apps  para  Matemática;  Dispositivos 
+Móveis; Mobile devices. Buscamos artigos em revistas científicas na área de Informática 
+Educacional,  quais  foram:  Revista  Tecnologias  na  Educação  (TecEdu)  e  Revista 
+Brasileira  de  Informática  na  educação  (RBIE).  Além  de  busca  de  artigos  em  revistas 
+científicas na área de Informática Educacional, buscaremos em anais de eventos, quais 
+sejam:  Workshops  do  Congresso  Brasileiro  de  Informática  na  Educação  (CBIE); 
+Workshop  sobre  Tecnologias  Móveis  na  Educação  (WTME);  Simpósio  Brasileiro  de 
+Informática na Educação (SBIE); Congresso sobre  Tecnologias na  Educação (Ctrl+E); 
+Mostra de Práticas em Informática Educacional (MPIE); Workshop Informática na Escola 
+(WIE). Serão avaliados de acordo com os critérios de inclusão, exclusão e de qualidade 
+estabelecidos durante o levantamento [Kitchenham 2004]. 
+
+Em uma análise inicial, a partir do primeiro filtro, foram analisados: primeiro se 
+o  título  está  de  acordo  com  as  principais  palavras-chave  do  trabalho  (Dispositivos 
+Móveis,  Tratamento  da  Informação/Estatística,  Objetos  de  Aprendizagem);  depois  foi 
+realizada  a  leitura  do  resumo.  Neste  processo,  classificamos  os  artigos  como  fortes, 
+médios e fracos. Esses critérios estão de acordo com a proposta de Wazlawick (2014). 
+Em análise inicial dos artigos, procuramos respostas para os seguintes questionamentos: 
+●  Q1.  Como  estão  sendo  utilizados  os  dispositivos  móveis  nas  pesquisas 
+
+selecionadas? 
+
+●  Q2. Qual dispositivo móvel é mais citado nas pesquisas? 
+●  Q3. Em quais níveis de ensino estão sendo empregadas práticas com dispositivos 
+
+móveis para o Tratamento da Informação? 
+Essas perguntas serviram como referência para definirmos categorias de análise 
+deste trabalho. No levantamento do estado da arte da pesquisa, na primeira fase foram 
+encontrados  115  artigos,  analisando  apenas  pelos  títulos.  Dentre  as  plataformas 
+consultadas, segue o quantitativo de trabalhos encontrados: 
+
+2 A presente pesquisa está inserida no âmbito do projeto “Desenvolvimento Profissional de Professores que 
+Ensinam Estatística” (D-ESTAT), desenvolvida no decorrer do ano de 2019 para dissertação de mestrado 
+do primeiro autor. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 1. Quantidade de artigos de acordo com a base de pesquisa selecionada 
+
+Na  fase  de  revisão  de  literatura,  foram  catalogados  115  artigos  encontrados  de 
+acordo com parâmetros estabelecidos na metodologia. Consideramos 44 fortes, 29 médios 
+e 42 fracos para a construção do  estado da arte sobre práticas em TI com dispositivos 
+móveis. Os 44 artigos considerados fortes foram lidos e fichados. O Gráfico 2 mostra a 
+quantidade de artigos por meio digital consultado. 
+
+Gráfico 2. Quantidade de artigos por meio digital proposto e nível de importância para o 
+
+estado da arte 
+
+ 
+
+ 
+Citamos os artigos considerados fortes dos repositórios consultados de maneira 
+sistemática  nesta  RSL.  Assim,  com  bases  nos  procedimentos  expostos,  a  seguir, 
+apresentamos  nossas  percepções  sobre  a  produção  acadêmica  acerca  do  uso  de 
+dispositivos móveis para o Tratamento da Informação. 
+
+3. Resultados e Discussões 
+
+No processo de leitura e fichamento, observamos que, apesar de alguns artigos terem sido 
+considerados fortes, eles não respondiam nenhuma das perguntas desta RSL. Para fins de 
+qualidade  na  discussão,  optamos  por  não  citá-los.  Nesse  processo,  artigos  foram 
+reclassificados para a categoria médios, sendo destes: 1 do SBIE; 4 do WIE; Nenhum do 
+WTME; 2 do WCBIE; 5 do Ctrl+E; 1 da MPIE; 1 da RBIE e 7 da TecEdu. No total, foram 
+desconsiderados 21 trabalhos, totalizando 23 fortes após segunda triagem. 
+
+ 
+
+ 
+
+   
+
+ 
+
+Após a análise e fichamento de todos 23 trabalhos fortes que respondiam a pelo 
+menos  uma  das  perguntas  da  RSL.  Realizou-se  a  organização  dos  mesmo  por  ano  de 
+publicação  com  o  objetivo  de  verificar  qual  o  panorama  e  popularidade  de  pesquisas 
+relacionado ao tema no período escolhido para análise. Observamos um crescimento da 
+quantidade  de  produção  no  decorrer  dos  anos,  com  um  decrescimento  em  2017.  Ao 
+analisar as instituições das quais os autores são filiados, pudemos observar que a maior 
+parte dos estudos sobre dispositivos móveis no âmbito escolhido está na região Sudeste 
+(ver Figura 1), apesar de a instituição com mais publicações ser a Universidade Federal 
+do Ceará (UFC), seguida da Universidade Federal do Amazonas (UFAM), portanto, das 
+regiões Nordeste e Norte, respectivamente (ver Figura 2). 
+
+Figura 1. Instituições por Região   Figura 2. Instituições com mais publicações 
+
+    
+
+ 
+
+Após  a  leitura  dos  artigos  relevantes  para  esta  pesquisa,  percebeu-se  que  seus 
+autores usaram, essencialmente, referências de estudos com a finalidade de conceituar os 
+termos  como:  aprendizagem  móvel  (ou  m-learning),  uso  de  dispositivos  móveis  pelos 
+estudantes (BYOD, por exemplo) e justificar uma teoria. A seguir, procuramos responder 
+as  perguntas  delimitadas  pela  revisão  sistemática  de  literatura  segundo  a  análise  dos 
+artigos selecionados. 
+
+3.1 Como estão sendo utilizados os dispositivos móveis nas pesquisas selecionadas? 
+Pensando na aplicação desses dispositivos em experiências inovadoras para o Tratamento 
+da Informação, Hitzschky et al (2016) relata o uso de tecnologias móveis em aulas em 
+campo  realizadas  em  uma  escola  pública  de  Aquiraz/CE,  e  que  apresenta  práticas 
+educativas utilizadas com a inserção destes dispositivos na dinâmica escolar, bem como, 
+as contribuições significativas que estas ferramentas ofereceram aos alunos e professores 
+nos processos de ensino e de aprendizagem. Com a utilização dos dispositivos móveis 
+(netbook  e smartphone, neste  caso) na rotina escolar, os alunos podem  compreender  a 
+construção  de  conhecimentos  com  outro  olhar  e  com  uma  visão  mais  participativa  do 
+processo e de quem o constrói. A partir do trabalho com esses recursos, a formação de 
+alunos mais argumentadores, críticos e responsáveis pelas causas que também são deles, 
+é  amplamente  possibilitada  por  meio  de  práticas  e  abordagens  que  fogem  das 
+metodologias tradicionalmente configuradas no ambiente formal de ensino que é a escola.  
+
+Já  o  trabalho  de  Lima,  Lima-Neto  e  Castro-Filho  (2015)  traz  o  relato  de 
+experiência sobre o uso de dispositivos móveis para a realização de uma intervenção no 
+âmbito  escolar  de  uma  escola  pública  de  Educação  Básica  da  região  metropolitana  de 
+
+ 
+
+ 
+
+Fortaleza/CE.  Ela  foi  direcionada  como  uma  pesquisa  de  intervenção,  em  que  o 
+pesquisador intervém diretamente no ambiente natural dos pesquisados tendo como um 
+de  seus  principais  objetivos  propor  mudanças  sociais.  Contou  com  a  participação  de 
+grupo de 10 alunos do 7º ao 9º Ano do Ensino  Fundamental. Estes alunos  exploraram 
+diversos assuntos sobre sustentabilidade com o uso de dispositivos móveis (netbooks e 
+smartphones) em atividades em grupo durante dois meses no contraturno da escola. Como 
+resultados, os autores concluem que a mobilidade sociointeracional e temporal permitiu 
+que  o  grupo  aproveitasse  a  oportunidade  para  discutir  de  forma  síncrona  e  assíncrona 
+sobre o tema do projeto, não se limitando apenas aos momentos presenciais.  
+
+Em “Esquadrão Graphics: em repórter por um dia”, Silva et al (2015) idealizaram 
+um  OA  que  se  destinou  às  aulas  de  Matemática,  mas  com  potencial  intra  e 
+interdisciplinares proporcionadas pelos gráficos e produções textuais. Como público-alvo 
+tiveram estudantes da Educação Básica com faixa etária entre 11 e 13 anos do 6º e 7º ano 
+do Ensino Fundamental. Durante a pesquisa, revelou-se a preferência dos estudantes pelo 
+gênero textual HQ (História em Quadrinhos). Como resultado, tem-se um recurso com 
+características  interdisciplinares  por  permitir  a  ligação  do  Tratamento  da  Informação, 
+bloco  pertencente  à  Matemática,  de  acordo  com  os  PCN  [Brasil  1997],  com  a  Língua 
+Portuguesa, por necessitar a compreensão das características do gênero  textual notícia. 
+Não foi realizada testagem do OA desenvolvido com os estudantes, apenas pesquisa com 
+grupo  focal.  Em  atividades  com  TI,  é  importante  que  o  professor  procure  saber  a 
+preferência de temas com os estudantes, para que as práticas de construção de gráficos e 
+análises  estatísticas  façam  sentido  em  seu  contexto.  Foi  organizado  um  material  de 
+enriquecimento em Vieira e Conforto (2015) com o objetivo de subsidiar a produção de 
+textos argumentativos-dissertativos de estudantes do Ensino Médio. Atividades com TI 
+devem  estar  integradas  com  as  demais  disciplinas  da  Educação  Básica  [Brasil  1997], 
+assim  como  na  produção  de  artigos  científicos  por  estudantes  para  embasamento 
+quantitativo  de  suas  pesquisas  [Melo  e  Maia  2018].  Os  resultados  da  pesquisa  de 
+abordagem  qualitativa  reafirmaram  os  dispositivos  móveis  (neste  caso,  os  autores 
+utilizaram o smartphone) como símbolo identitário de adolescentes, evidenciaram suas 
+vantagens  quanto  à  ubiquidade,  à  pervasividade  e  sua  inserção  no  cotidiano  escolar, 
+confirmando o potencial pedagógico de uma estratégia de m-learning na construção do 
+pensamento  argumentativo. A estratégia de  m-learning apresentada deu visibilidade às 
+possibilidades de desterritorializar a tecnologia, retirando a exclusividade do laboratório 
+de informática como o espaço autorizado para o uso da linguagem digital, rompendo com 
+a  rigidez  da  delimitação  espaço-temporal  no  gerenciamento  do  uso  da  tecnologia  na 
+escola,  que  tem  sido  mantida  mesmo  com  a  presença  dos  smartphones.  A  mobilidade 
+proporcionada pelo uso dos smartphones, como ressalta Moran (2013), faz com que novas 
+propostas de uso de smartphones em atividades de TI possam ser inseridas no contexto 
+da  escola  e  a  ressignificar  espaços  anteriormente  subutilizados,  como  o  laboratório  de 
+informática, por exemplo. 
+
+Ao  analisar  estudos  que  levam  em  consideração  o  uso  de  smartphones  e 
+apropriação  dessas  tecnologias  no  ensino  do  Tratamento  da  Informação,  Pereira  et  al 
+(2016)  apresentam  possibilidades  de  uso  de  jogos  digitais  para  a  aprendizagem  de 
+conceitos matemáticos. com o auxílio das redes sociais (Facebook e WhatsApp) incluindo 
+a perspectiva m-learning por meio do bring your own device (BYOD), ou seja, com os 
+dispositivos  móveis  dos  alunos.  Parte  do  pressuposto  de  que  os  jovens  constroem 
+aprendizagens mediadas por jogos digitais nos anos finais do Ensino Fundamental, eles 
+desenvolvem  habilidades  cognitivas,  afetivas,  sociais  e  culturais  e  apropriam-se  de 
+
+ 
+
+ 
+
+conhecimentos da matemática, entre eles os conhecimentos relacionados ao Tratamento 
+da Informação. Em contrapartida, ao analisar a formação inicial para o trabalho com o TI 
+na Educação Básica, Oliveira  et al (2017) desenvolveram uma pesquisa-ação realizada 
+com  alunos  de  Licenciatura  em  Matemática,  com  o  objetivo  de  avaliar  a  percepção  e 
+aptidão  dos  participantes  quanto  à  utilização  das  TDIC  em  dispositivos  móveis  como 
+recurso  didático.  O  método  foi  dividido  em  três  partes:  diagnóstico  inicial,  oficina  e 
+avaliação final. A Oficina, ação da pesquisa constituiu-se de uma apresentação sobre os 
+conceitos  principais  do  m-learning;  da  exposição  das  funcionalidades  e  principais 
+características de 6 aplicativos escolhidos dentre os listados no diagnóstico inicial e de 
+atividades  práticas  com  os  participantes  utilizando  tais  aplicativos.  O  critério  para  a 
+escolha dos apps foi a maior porcentagem de participantes que conheciam os aplicativos, 
+a disponibilidade dos mesmos para o sistema Android e ainda, uma avaliação geral dos 
+apps  pelos  autores  da  pesquisa.  Para  a  escolha  dos  aplicativos  de  apoio,  além  dos 
+anteriores, utilizou-se o critério de que os apps não tivessem as mesmas funcionalidades.  
+
+Levando-se em consideração o TI como conteúdo interdisciplinar [Brasil 1997], 
+Gaspar, Oliveira e Oliveira (2015) realizam uma RSL para identificar apps que trabalhem 
+a m-learning para o ensino de Língua Portuguesa. Dentre os resultados, eles confirmaram 
+a existência de poucas publicações relacionando a aprendizagem da Língua Portuguesa 
+com  dispositivos  móveis.  Poucos  trabalhos  propõem  um  novo  aplicativo,  ao  mesmo 
+tempo  que  poucos  exploram  devidamente  as  possibilidades  inerentes  aos  aparelhos 
+móveis  (em  especial  smartphones  e  tablets),  especialmente  seu  grande  potencial  de 
+inovação. O ensino de TI integrado com outras áreas do conhecimento, como a Língua 
+Portuguesa, traz mais significado devido a natureza de seus conteúdos [Castro e Castro-
+Filho  2012]  [Silva  et  al  2015]  apesar  de  serem  poucos  os  recursos  desenvolvidos.  Ao 
+propor um levantamento de apps para um repositório de objetos de aprendizagem para 
+Matemática,  Melo,  Costa  e  Maia  (2017)  catalogaram  e  classificaram  184  apps  com 
+potencialidade  pedagógica.  Em  contrapartida,  encontraram  apenas  23  recursos 
+desenvolvidos para a área do TI.  
+
+Viana Filho et al (2017) apresentam os resultados de uma experiência com alunos 
+do  nono  ano  regular  (Ensino  Fundamental),  na  disciplina  de  Matemática  utilizando 
+dispositivos  móveis.  Para  mediar  a  experiência,  fizeram  uso  do  smartphone,  como 
+dispositivo móvel, e da rede social WhatsApp. Para o estudo da Matemática, utilizaram o 
+app  Geogebra  para  Android,  com  o  objetivo  de  estudar  os  gráficos  das  funções 
+polinomiais de primeiro e segundo graus. A partir dos diálogos estabelecidos durante a 
+execução das tarefas e das considerações feitas pelos alunos, a experiência mostrou que 
+os  smartphones  podem  mediar  o  ensino  de  Matemática,  cumprindo  seu  papel  social  e 
+motivando a aprendizagem do aluno em seu cotidiano. A construção de gráficos por meio 
+de apps tem sido uma atividade explorada em  trabalhos acadêmicos na  modalidade de 
+relato de experiência, assim como o desenvolvimento de ferramentas para smartphone. A 
+estratégia utilizada pelos autores encontrados nesta RSL é a pesquisa exploratória, com o 
+intuito de mapear o que se tem desenvolvido e, com base nas suas necessidades, propõem 
+e  elaboram  artefatos  para  o  Tratamento  da  Informação.  Observamos  que,  apesar  de 
+identificarmos  pesquisas  que  utilizam  dispositivos  móveis  em  para  o  Tratamento  da 
+Informação,  nenhuma  das  experiências  fizeram  uso  de  smartphones  com  uso  de  apps. 
+Uma proposta de dissertação de mestrado está alinhada justamente a essa necessidade de 
+uso  e  reflexão  sobre  a  prática  de  Tratamento  da  Informação  com  smartphones  dos 
+estudantes  sob  a  perspectiva  BYOD.  A  seguir,  vejamos  os  resultados  das  demais 
+perguntas da RSL. 
+
+ 
+
+ 
+
+3.2. Qual dispositivo móvel é mais citado nas pesquisas? 
+
+Responderemos essa pergunta por meio de uma compilação exibida no Gráfico 4. 
+
+ 
+
+Gráfico 4. Dispositivos móveis citados nas pesquisas 
+
+ 
+
+ 
+
+Aqui,  observamos  que  uma  grande  maioria  dos  estudos  utilizam  o  smartphone 
+como dispositivo móvel protagonista em suas análises. Um fato a ser observado é que em 
+todas  essas  pesquisas  o  sistema  operacional  deste  dispositivo  é  o  Android,  nas  suas 
+diferentes  versões,  de  acordo  com  o  correr  dos  anos  em  que  as  pesquisas  foram 
+publicadas.  Houve  duas  pesquisas  que  integraram  o  smartphone  com  o  uso  do  laptop 
+UCA  (Um  computador  por  aluno)  oriundas  da  UFC.  Além  disso,  houveram  duas 
+pesquisas  cujo  objetivo  foi  o  desenvolvimento  de  softwares  mais  robustos  para  a 
+aprendizagem do TI para computadores desktop, que não foi considerada nesta contagem. 
+
+3.3.  Em  quais  níveis  de  ensino  estão  sendo  empregadas  práticas  com  dispositivos 
+móveis? 
+
+O  gráfico  que  responde  à  pergunta,  com  base  na  análise  do  contexto  dos  artigos,  é 
+apresentado a seguir. Nas pesquisas em que não citava uma série escolar específica, mas 
+no contexto os autores citam a Educação Básica (desde a Educação Infantil até o Ensino 
+Médio,  segundo  Lei  nº  9.394  de  20  de  Dezembro  de  1996  de  Diretrizes  e  Bases  da 
+Educação Brasileira) acrescentamos essa categoria para enquadrar esses estudos. 
+
+Gráfico 5. Níveis de ensino das pesquisas selecionadas
+
+ 
+ 
+Observamos  uma  grande  quantidade  de  pesquisas  focadas  nos  anos  finais  do 
+Ensino  Fundamental,  no  Ensino  Médio  e  na  Educação  Superior.  É  interessante  notar 
+também que esses indivíduos estão na categoria trazida pelo CGI.Br (2017), no qual o 
+
+ 
+
+ 
+
+ 
+
+uso do smartphone foi citado por 52% dos alunos de escolas com turmas de 5º e 9º anos 
+do  Ensino  Fundamental  ou  2º  ano  do  Ensino  Médio,  localizadas  em  áreas  urbanas 
+[CGI.Br 2017]. 
+
+4. Considerações 
+
+O uso de dispositivos móveis ainda é um tema que deve ser pesquisado para propiciar a 
+quebra de paradigma e rever seu uso como um recurso viável a ser utilizado no espaço 
+escolar,  tendo  em  vista  que  os  artigos  analisados  ressaltaram  experiências  com 
+dispositivos móveis na sala de aula nunca utilizados nos locais onde as pesquisas foram 
+desenvolvidas.  Observamos  o  uso  tímido  no  cenário  das  pesquisas  levantadas  através 
+desta  RSL  e  que,  apesar  de  haver  um  aumento  das  pesquisas  no  decorrer  dos  anos, 
+nenhuma fez o uso de apps para smartphones para o Tratamento da Informação. No geral, 
+esta revisão de literatura ajudou a responder as perguntas delineadas na metodologia, além 
+de  suscitar  novas  questões  sobre  o  uso  dos  dispositivos  móveis  para  o  ensino  das 
+habilidades  relacionadas  ao  TI.  Pretendemos  expandir  o  estudo  com  análise  de  outros 
+repositórios de congressos, aumentando o escopo para escrita de dissertação de mestrado 
+e embasamento e busca dos questionamentos aqui levantados, dentro de outros contextos. 
+
+Referências 
+Ainley, J., Nardi, E.; Pratt, D. (2000). “Towards the construction of meaning for trend in Active 
+Graphing, International Journal of Computers for Mathematical Learning”; 5.2, p. 85-114. 
+Borba, M. de C.; Lacerda, H. D. G. (2015). “Políticas públicas e tecnologias digitais: um celular 
+
+por aluno”. Educação Matemática Pesquisa (EMP), São Paulo, v.17, n.3, p.490-507. 
+
+Borba, M.C. (2010) “Softwares e internet na Sala de Aula”, In: X ENEM - Encontro Nacional de 
+
+Educação Matemática, Brasil. 
+
+Brasil  (1997).  Secretaria  de  Educação  Fundamental.  Parâmetros  curriculares  nacionais: 
+
+matemática /Secretaria de Educação Fundamental. – Brasília: MEC/SEF, 142p. 
+
+Castro,  J.;  Castro-Filho,  J.  A.  (2012)  Projeto  Um  Mundo  de  Informações:  integração  de 
+
+tecnologias digitais ao currículo escolar. In:  Anais dos Workshops do CBIE 2012. 
+
+Castro  et  al  (2011).  Objetos  de  Aprendizagem  digitais  como  suporte  para  a  construção  e 
+
+compreensão de gráficos. In:  Anais da XIII CIEAEM. Recife: Edumatec/UFPE. 
+
+Cazorla, I. M. (2012) “Metodologia do ensino da matemática”. 3. Ed. Bahia: Editus Editora. 
+CGI.BR. (2017) “Pesquisa sobre o uso das tecnologias de informação e comunicação nas escolas 
+
+brasileiras: TIC educação 2016”. São Paulo: Comitê Gestor da Internet no Brasil. 
+
+Galvão,  T.F.;  Pereira,  M.G.  (2014).  “Revisões  sistemáticas  da  literatura:  passos  para  sua 
+
+elaboração”. In: Epidemiol. Serv. Saúde: v.23, n.1. Brasília: março, 2014. 
+
+Gaspar,  W.;  Oliveira,  E.;  Oliveira,  K.  (2015)  Aprendizagem  da  Língua  Portuguesa  com 
+Dispositivos Móveis: Um Mapeamento Sistemático da Literatura. In: Simpósio Brasileiro de 
+Informática na Educação - SBIE. Anais do SBIE 2015. 
+
+Hitzschky, R. A. et al. (2016) Práticas Educativas Com O Uso De Dispositivos Móveis Em Aulas 
+De Campo: Aprendizagem Para Além Dos Muros Da Escola. In: Congresso Regional sobre 
+Tecnologias na Educação, 2016, Natal. Anais do Congresso Regional sobre Tecnologias na 
+Educação, 2016. p. 210-219. 
+
+Kitchenham,  B.  (2004)  “Procedures  for  performing  systematic  reviews”.  Keele,  UK,  Keele 
+
+University, v. 33, n. 2004, p. 1-26, 2004. 
+Lévy, P. (1999). Cibercultura. São Paulo: Ed. 34. 
+Lima,  M.  S. S.;  Lima,  L.  L.  V.;  Lima-Neto,  C.  S.;  Castro-Filho,  J.  A.  (2016). Experiência  de 
+Aprendizagem  Móvel:  o  uso  do  WhatsApp  no  Ensino  Fundamental.  In:  V  Congresso 
+Brasileiro de Informática na Educação (CBIE 2016). Anais dos Workshops do V Congresso 
+Brasileiro de Informática na Educação (WCBIE 2016). 
+
+Machado,  J.  L.  A.  (2010)  Celular  na  sala  de  aula:  O  que  fazer?.  Disponível  em: 
+
+<https://goo.gl/EGtSNx>. Acesso em: 15 mar. 2019. 
+
+Magina, S. M. P; Santos, S. S. (2008) Estratégias de Interpretação Gráfica de uma Professora 
+Polivalente  ao  Manipular  Dados  no  Ambiente  Computacional.  Revista  Bolema,  Rio  Claro 
+(SP), Ano 21, nº 29, 2008, pp. 157 a 174. 
+
+Melo, E. M.; Costa, C. J. N.; Maia, D. L. Recursos educativos digitais para Educação Matemática: 
+um  levantamento  para  dispositivos  móveis.  In:  Congresso  sobre  Tecnologias  na  Educação 
+(Ctrl+E), 2017, Mamanguape/PB. Anais do Ctrl+E 2017, p.448-459. 
+
+Melo,  E.M.;  Maia,  D.L.  (2018)  Metodologias  Ativas  em  Estatística:  relato  de  experiência  em 
+práticas com tratamento da informação. In: Com a Palavra o Professor, Vitória da Conquista 
+(BA), v.3, n. 2, maio-agosto. 
+
+Moran, J. M. (2010) “Os novos espaços de atuação do educador para a inovação”. Inovação na 
+
+Educação. In: Revista Aprendizagem, Paraná, IFPB, v.2 n.17, p. 62-63, março/abril. 
+
+Moran, J. M. (2013). A educação que desejamos. Novos desafios e como chegar lá. Campinas: 
+
+Papirus. 
+
+Moran, J. M. (2015) Mudando a educação com metodologias ativas. In: Souza, C. A. De; Morales, 
+O. E. T. (Orgs.). Convergências midiáticas, educação e cidadania: aproximações jovens. Ponta 
+Grossa, PR: Foca Foto-PROEX/UEPG, p.15-33. 
+
+Oliveira, R. C. et al (2016). Aplicativo de Aprendizagem Móvel utilizando Realidade Aumentada 
+para Ensino de Língua Inglesa. In: V Congresso Brasileiro de Informática na Educação (CBIE 
+2016). Anais dos Workshops do V Congresso Brasileiro de Informática na Educação (WCBIE 
+2016). 
+
+Ribeiro,  P.  M.  S.  (2015)  Aplicativo  Para  Ensino  De  Estatística:  Uma  Avaliação No  Seu  Uso.  
+
+Disponível em: <https://goo.gl/w6VtuV>. Acesso em: 13 mar. 2019. 
+
+Pereira,  A.  B.  C.;  Silva,  F.  S.  C.;  Piconez,  S,  C.  B;  Zimmer  J.  M.  (2016).  Jogos  digitais  no 
+desenvolvimento de conceitos matemáticos sob perspectiva BYOD e abordagem m-learning 
+na escola pública. In: V Congresso Brasileiro de Informática na Educação (CBIE 2016). Anais 
+do XXII Workshop (WIE 2016). 
+
+Silva, L. et al (2015) Esquadrão Graphics: em repórter por um dia. In: Congresso Brasileiro de 
+Informática na Educação (CBIE 2015): Workshops do IV Congresso Brasileiro de Informática 
+na Educação (CBIE 2015). 
+
+Valente,  J.  A.  (1998)  “Diferentes  usos  do  computador  na  educação”.  In:  Diferentes  usos  do 
+
+computador na educação. O uso inteligente do computador na educação. 
+
+Viana Filho, J.P. et al (2017) Aprendizagem Móvel: uma experiência com alunos de nono ano na 
+disciplina  de  Matemática.  Disponível  em:<https://goo.gl/x1yeD3>.  Acesso  em:  13  de  mar. 
+2019. 
+
+Vieira, M, C; Conforto, D. (2015). Aprendizagem móvel e multimídia: a produção de material 
+pedagógico na perspectiva BYOD. In: CBIE-LACLO 2015. Anais do XXI Workshop (WIE 
+2015). 
+
+Wazlawick,  R.  S.  (2014)  Metodologia  de  pesquisa  para  ciência  da  computação.  2.ed.  Rio  de 
+
+Janeiro: Elsevier. 
+
+ 
+
+ 
+
+

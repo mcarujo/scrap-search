@@ -1,0 +1,498 @@
+A Comunicação, a Colaboração e o Diálogo pela Web: uma 
+Evidência 
+
+José Florêncio Rodrigues Júnior ¹, Sonia Carvalho Leme Moura Véras² 
+
+¹Universidade de Brasília (UNB) aposentado 
+
+²Instituto Federal de Brasília – Reitoria 
+
+Diretoria de Capacitação e Desenvolvimento de Pessoas, Via L2 Norte, SGAN 610 (610 
+Norte), Módulo D, E, F e G. Asa Norte, Brasília/DF - CEP: 70.830-450.  
+
+florenciomeister@gmail.com, veras.sonia@gmail.com 
+
+Resumo.  O  presente  artigo  tem  como  objetivo  analisar  a  percepção  de 
+professores  e  alunos  de  cursos  virtuais  em  relação  à  comunicação  e  à 
+colaboração  como  fatores  favorecedores  da  construção  do  diálogo  entre 
+alunos  pela  modalidade  a  distância.  A  metodologia  de  pesquisa  seguiu  o 
+formato  híbrido,  por  meio  da  coleta  de  percepções,  sendo  utilizados  dois 
+instrumentos:  um  questionário  para  tutores  e  uma  entrevista  semiestruturada 
+com  alunos.  Como  referencial  teórico  foram  analisadas  as  contribuições  de 
+Vygotsky,  Maçada/Tijiboy,  Palloff/Pratt  e  Freire.  Através  da  análise  dos 
+resultados  foi  percebido  que  a  colaboração  entre  alunos  por  meio  de 
+estratégias  de  interação  como  fórum,  wiki,  aprendizagem  baseada  em 
+problemas e estudos de caso podem contribuir para a dialogicidade que gera 
+consequentemente  a  retenção  e  certificação  de  alunos  nos  cursos  e  para  a 
+construção  de  novos  conhecimentos.  Compartilhar  conhecimentos  e  construir 
+coletivamente 
+foram  as  duas  grandes  vantagens  evidenciadas  pelos 
+depoimentos. 
+
+Abstract. This paper aims to analyze the perception of teachers and students in 
+courses  set  in  virtual  environments  regarding  the  communication  and 
+collaboration  as  conductive  factors  in  the  construction  of  dialogue  among 
+students in distance  education. The research methodology used consisted of a 
+questionnaire with closed questions and semi structured interviews. The former 
+was administered to teachers and asked about time of experience in teaching, 
+resources  used,  collaboration  in  class,  and  knowledge  as  a  social  factor;  the 
+latter  were  conducted  with  students.  The  theoretical  framework  combined 
+contributions by Vygotsky, Maçada/Tijiboy, Palloff/Pratt e Freire. The analysis 
+of the results indicate that collaboration among students by means of strategies 
+of  interaction  such  as  forum,  wiki,  problem-based  learning  and  case  method 
+have  the  potential  of  promoting  dialogue  among  students  and,  additionally, 
+their retention and certification in their courses, as well as the construction of 
+new knowledge. Two advantages pointed out in the statements were the sharing 
+of knowledge and the collective construction thereof.  
+
+ 
+
+ 
+
+1. Introdução 
+
+A  educação  não  presencial  tem  gerado  preocupação  de  diferentes  autores  desde  a 
+década  de  60.  Anísio  Teixeira  já  descrevia  a  importância  do  uso  da  tecnologia,  como 
+recurso  para  transformar  o  modo  como  o  docente  conduzia  suas  aulas.  Personagem 
+central na história da educação no Brasil, nas décadas de 1920 e 1930, Teixeira  (1971) 
+acreditava que a escola deveria ser inovadora, viva, democrática, capaz de modificar  a 
+forma  de  pensamento  do  homem  que  compunha  a  sociedade.  Considerava  a  educação 
+como uma constante reconstrução,  acreditando que  era necessário  “educar para formar 
+homens livres e pensantes”. 
+
+ 
+Em  cem  anos  migramos  do  ambiente  educativo  presencial  para  o  virtual, 
+tornando  o  aluno  um  personagem  ativo  e  corresponsável  por  sua  aprendizagem.  A 
+comunicação se modificou, ampliando a troca entre professores e alunos, favorecendo o 
+intercâmbio educacional e cultural. Acredita-se hoje numa nova dimensão qualitativa do 
+ensino na qual se insere o ato educativo voltado para a visão cooperativa. 
+
+ 
+A transição do ambiente presencial para o virtual é evidenciada por Nicolaci-da-
+Costa  (2005),  o  qual  afirma  que  é  necessário  entender  que  o  mundo  virtual  não  é  um 
+mundo paralelo ao mundo real; que ambos se completam e se “continuam”. Ainda, há a 
+emergência  dos  jovens  transbordando  objetividade  e  conectividade  e  necessitando 
+constantemente  de  conexão  e  interação,  pois  estes  precisam  se  comunicar  e  se 
+sociabilizarem, mesmo que seja virtualmente.  
+
+ 
+Este tema justifica-se pelo fato de estarmos vivenciando na EAD, o período da 
+Web  3.0  que  prevê  um  momento  de  parceria,  de  colaboração  por  meio  eletrônico,  de 
+aprendizagem  cooperativa,  onde  os  personagens  trocam  experiências  e  conhecimentos 
+no decorrer dos  cursos. Neste momento de intercâmbio, o conhecimento é adquirido  a 
+partir  da  interlocução  e  do  interesse  coletivo  em  aprender  e  ensinar.  Partimos  da 
+premissa de Freire (1987, p.79) “... os homens se educam em comunhão,  mediatizados 
+pelo mundo”. 
+
+ 
+É nessa direção que o artigo apresenta proposição de estabelecimento do diálogo 
+como  ferramenta  pedagógica  para  uma  prática  docente  mais  humanizada,  ensejando 
+ações  de  valorização  dos  participantes  do  processo  educativo,  mantendo,  assim, 
+constante  canal  de  comunicação  que  seja  capaz  de  dinamizar  a  aquisição  de 
+conhecimentos. 
+
+ 
+O  objetivo  geral  desta  publicação  é  analisar  a  contribuição  da  colaboração  no 
+processo  de  estabelecimento  do  diálogo  e  na  concretização  da  aprendizagem.  Tendo 
+como  objetivos  específicos:  1-  Identificar  as  teorias  pedagógicas  que  privilegiam  a  
+colaboração e o diálogo como pilares da aprendizagem; 2- Analisar o papel da mediação 
+tutorial para a aproximação entre os alunos, em ambientes de ensino virtuais, de forma 
+que  se  constituam  como  parceiros  cooperativos  de  conhecimento  e  3-  Delinear  os 
+aspectos da comunicação mediada pelas tecnologias educacionais. 
+
+ 
+Nesta  pesquisa  foram  utilizados  para  coleta  de  dados  dois  instrumentos:  um 
+questionário  com  questões  objetivas  para  quatro  tutores  de  um  curso  de  graduação 
+virtual  em 
+instituição  de  Ensino  Superior  privado  do  DF  e  uma  entrevista 
+semiestruturada  para  alunos  da  mesma  instituição.  Por  meio  destes  procedimentos  foi 
+possível  captar  as  percepções  acerca  da 
+importância  da  colaboração  para  a 
+concretização da aprendizagem e elaboração do diálogo. 
+ 
+
+ 
+
+2. Aquisição de Conhecimento via Web  
+
+Inicialmente  o  uso  da  internet  atendia  a  uma  curiosidade  do  usuário  por  informações. 
+Um  pouco  reservada,  a  postagem  de  textos  visava  demonstrar  que  a  propriedade  do 
+autor  estava  assegurada.  A  apresentação  dos  sites  na  WEB  era  estática.  Produtores  e 
+consumidores  não  mantinham  nenhum  diálogo  e  não  havia  nenhuma  autoria 
+compartilhada.  
+
+ 
+Mais  para  frente,  a  forma  de  produção  e  de  recepção  se  modifica  um  pouco. 
+Neste momento, muitos passam a trocar percepções e informações com muitos, assim, a 
+troca passa a ser um ritual e permite a reconstrução coletiva do conhecimento, já que ao 
+compartilhar cada um aprende um item novo, uma nova estratégia, uma nova visão, uma 
+nova  atitude.  Foi  atribuído  um  poder  para  a  WEB,  até  então,  não  alcançado.  Os 
+participantes  se  conectaram  pelas  redes  sociais  e  sites  de  relacionamento,  os  quais 
+asseguraram uma aproximação entre pessoas com interesses comuns. 
+
+ 
+Chegamos  à  versão  mais  contemporânea  de  WEB,  a  3.0,  também  chamada  de 
+WEB  Semântica  que  permite  aos  usuários,  por  meio  de  análises  e  cruzamentos  de 
+dados,  serem  conectados  a  sites  de  interesse  e  que  atendam  às  suas  necessidades 
+específicas. A personalização da WEB apresenta-se como um recurso de aproximação e 
+comodidade via internet. Valoriza-se, a partir desta premissa, a inteligência coletiva.  
+
+3. Comunicação – Sociabilidade – Colaboração - Diálogo 
+
+Estudos citados por Morigi e Pavan (2004) dão conta de que, a partir das inovações  e 
+possibilidades  tecnológicas,  configuram-se  novas  formas  de  sociabilidade.  Esta 
+necessidade de socialização do jovem permite que  ele crie suas próprias redes virtuais 
+que, na maioria das vezes, reproduzem suas redes reais, já que o ciberespaço se constitui 
+de uma extensão do espaço real, segundo Nicolaci-da-Costa (2005). 
+
+Na  concepção  de  Simmel  (2006)  os  indivíduos  possuem  várias  motivações 
+ 
+comuns  para  se  sociabilizar,  tais  como  paixões,  desejos,  instintos  eróticos,  impulsos 
+religiosos, de auxílio ou instrução, de ganho ou jogo, propósitos de defesa e de ataque e 
+diversas  outras.  A  sociabilização  começa  a  ter  existência  quando  os  indivíduos 
+interagem  utilizando  formas  de  cooptação  e  colaboração,  observando  que  quanto  mais 
+intensa a interação no mesmo grupo, maior sua configuração como sociedade. 
+
+Essa  demanda  da  sociedade  pela  intensa  interação  intergrupal  é  sublinhada  por 
+ 
+Saraiva  (1996)  ao  afirmar  que  a  EAD  só  acontece  de  maneira  efetiva  quando  há  uma 
+verdadeira “comunicação bilateral nitidamente educativa”. Sendo assim, segundo Véras 
+(2018) deve haver o comprometimento e responsabilidade de ambos os lados, tanto do 
+professor  quanto  do  estudante,  com  objetivo  comum  que  focado  no  processo  de 
+aquisição de conhecimento. 
+
+ 
+Quando  se  tenciona  desenvolver  a  competência  de  compartilhar  conhecimento 
+fazemos  uso  de  atividades  pedagógicas  que  mobilizem  os  alunos  ao  atingimento  de 
+metas  coletivas.  Ao  assumir  o  diálogo  como  estratégia  de  investigação  os  alunos  se 
+posicionam  mais  tranquilamente  para  acatar  o  discurso  dos  colegas,  aplicar  o 
+conhecimento e incorporar novas atitudes. Dotta (2009) destaca o momento especial em 
+que  o  professor  online  aproveita  os  diálogos  travados  nos  fóruns,  propiciando  uma 
+relação  mais  colaborativa  e  interativa  com  os  alunos,  estimulando-os  a  serem 
+protagonistas da própria aprendizagem. Booth e Hultén denominam esses momentos de 
+“learning  moments”  (momentos  de  aprendizagem  (In  GOODYEAR  et  al.,  2004).  É 
+crucial o papel do professor em gerar e promover esses momentos, bem assim mobilizar 
+relações  interpessoais  colaborativas  baseadas  no  respeito  pelo  trabalho  do  outro  e  da 
+construção compartilhada.  
+
+ 
+
+ 
+Desafio apresentado por Síveres e Balluz (2016, p. 53) no sentido da dificuldade 
+das propostas pedagógicas fomentarem o diálogo, a partir de uma trajetória educacional 
+hermética e enclausurada por salas e muros escolares, como é possível observar  em: 
+
+Acontece  que,  ao  longo  da  história  da  educação,  na  escola  brasileira, 
+
+encastelada em seus muros, não se proporcionou  uma renovação de fato e de 
+
+direito, justamente por não ter em seu interior a prática do diálogo, dificultando 
+
+as possibilidades de se abrir ao mundo, e nessa abertura, desconstruir mitos e 
+
+dogmas tão próprios à educação. 
+
+ 
+A esse propósito, é oportuno recorrer à contribuição de Vygotsky (1984), o qual 
+postulava  que  o  desenvolvimento  do  homem  depende  de  um  contexto  sociocultural. 
+Neste contexto ocorrem as relações interpessoais que promovem o desenvolvimento e a 
+evolução  do  indivíduo.  De  modo  consentâneo  com  o  postulado  de  Vygotsky,  Kenski 
+(2007)  define  a  educação  como  o  processo  de  desenvolvimento  da  capacidade  física, 
+intelectual  e  moral  da  criança  e  do  ser  humano  em  geral  visando  à  sua  melhor 
+integração  individual  e  social.  Principalmente  pelo  fato  de  considerarmos  que  é  na 
+relação interpessoal, estabelecida no interior das instituições educativas, que a criança e 
+o  jovem  constroem  a  sua  subjetividade,  confrontando  valores,  características  de 
+personalidade e saberes. 
+
+ 
+ Derivando dos posicionamentos de Vygotsky e Kenski propomos o conceito de 
+aprendizagem  cooperativa,  parte  integrante  da  EAD.  Magalhães  (2014)  define 
+aprendizagem  cooperativa  como  uma  sensação  de  interdependência  positiva  entre  os 
+componentes de um grupo, pois a responsabilidade de cada um vai gerar uma produção 
+que impactará no resultado final, portando os jovens se observam integrados uns com os 
+outros, comprometidos e aproximados (p.22). 
+
+ 
+A aprendizagem cooperativa, por sua vez, assenta-se sobre dois outros conceitos 
+associados, isto é, cooperação e colaboração. Maçada e Tijiboy (1998) consideram que 
+a cooperação inclui a colaboração, que se representa como interesse em auxiliar, e para 
+existir  cooperação  deve  haver  interação,  mas  também  objetivos  comuns,  atividades  e 
+ações conjuntas e coordenadas. O conceito de cooperação é mais complexo na medida 
+em que a colaboração está incluída nele, mas o contrário não se aplica.  
+
+ 
+As  atividades  coletivas  propiciadas  por  práticas  pedagógicas  preocupadas  com 
+esta  tendência  procuram  utilizar  plataformas  de  ensino  que  ofereçam  estratégias  que 
+gerem  aproximação  entre  os  alunos.  Em  suma,  o  ambiente  deve  ser  colaborativo  para 
+que as operações sejam feitas em sintonia com os objetivos finais das tarefas. A ajuda 
+mútua, diálogo e a polifonia permitem que se estabeleçam os vínculos.  Nas palavras de 
+Palmieri (2003, pp. 55): “atividades cooperativas levam à expressão de comportamentos 
+pró-sociais  não  somente  entre  as  crianças,  mas  também  entre  pessoas  de  outras  faixas 
+etárias”.   
+
+ 
+Cada  vez  mais,  alunos  que  se  utilizam  da  tecnologia  como  mediação  para  a 
+aprendizagem  têm  se  tornado  mais  autônomos,  sujeitos  e  responsáveis  pelo  acesso  ao 
+próprio conhecimento. Observando este novo perfil do alunado, os professores buscam 
+se adequar e prover auxílio somente quando solicitados pelos alunos.  
+
+ 
+Ao assumir o diálogo como estratégia de investigação os alunos se posicionam 
+mais  tranquilamente  para  acatar  a  fala  dos  colegas,  a  aplicar  o  conhecimento  e  a 
+incorporar  novos  comportamentos.  Importante  ressaltar  a  relevância  do  diálogo  na 
+perspectiva  da  aproximação,  do  compartilhamento  e  da  formação  de  vínculo.      Já  o  
+
+ 
+
+ 
+
+desempenho  colaborativo  se  retrata  pela  capacidade  que  temos  de  distinguir  e 
+categorizar conteúdos a partir da contribuição de todos os elementos de um grupo. 
+
+ 
+As  interações  sociais  que  ocorrem  na  Internet  (em  weblogs,  fotologs,  blogs, 
+grupos  de  discussão,  comunidades  virtuais  e  redes  sociais)  buscam  conectar  pessoas  e 
+proporcionar a comunicação entre elas, permitindo a instauração da dialogicidade. 
+
+ 
+A  construção  do  diálogo  acontece  em  ambientes  colaborativos  em  que  os 
+personagens  demonstram  interesse  pelo  discurso  do  outro,  permitem  a  transparência  e 
+constroem  novos  conhecimentos.  Observa-se  que  a  construção  frasal  indutora  do 
+diálogo  precisa  ser  baseada  na  clareza  e  correção  frente  à  norma  gramatical.  Essa 
+eficácia  comunicativa foi  confirmada por Palloff e  Pratt (2013, p. 110), ao destacarem 
+como  competente  o  discurso  de  professores  online,  que  utilizam  a  linguagem 
+comunicacional ou dialogal.  
+
+ 
+A tecnologia, vivenciada pela internet, favorece potencialmente  a relação que o 
+homem  estabelece  com  o  conhecimento,  mas  somente  é  possível  desenvolver-se  uma 
+relação  interpessoal  satisfatória  quando  essa  relação  é  alavancada  por  um  mediador,  
+que  faz  uso  de  recursos  diferenciados  de  interação,  promovendo  encontros  virtuais,  a 
+partir de temas geradores de conhecimento dos grupos.  
+
+ 
+Observa-se  essa  nessa  ação  social  nas  palavras  de  Souza,  Lima  e  Fonte-Boa 
+(2015, p. 158) “Portanto, para além das tecnologias que transformaram a velocidade e a 
+disponibilidade da informação, na visão do educador, somente pelo diálogo pode se dar 
+um processo de conscientização e despertar para o ser “sujeito de sua própria história.” 
+
+4. Análise  
+
+Os quatro tutores que responderam aos questionários informaram que atuam em cursos 
+virtuais de diferentes organizações e encaminharam suas respostas por meio eletrônico.  
+
+ 
+Em  relação  ao  tempo  de  atuação  em  tutoria,  todos  os  tutores  desenvolvem  sua 
+função  como  docentes  virtuais  num  intervalos  de  tempo  de  1  a  5  anos.  Eles  são 
+unânimes em relação à questão que trata da possibilidade de se oferecer um curso sem 
+distanciamento entre professores e alunos; ou seja, eles consideram importante que haja 
+uma  aproximação  entre  os  personagens  pedagógicos  para  que  possa  ser  mediado  o 
+conhecimento. 
+
+No  que  tange  ao  uso  de  diferentes  recursos  tecnológicos  favorecedores  da 
+ 
+interação  entre  professores  e  alunos  nos  cursos  virtuais,  percebemos  que  o  fórum  é 
+utilizado  por  todos  os  tutores,  o  chat  somente  por  75%  deles,  a  videoconferência  e  a 
+wiki por 50 por cento dos tutores.  
+
+ 
+Um percentual de 75% dos tutores consideram ideal para a qualidade de um chat 
+a participação de 6 a 10 alunos; apenas um quarto deles aceita que o chat tenha até 20 
+alunos  em  colaboração.  O  estudo  de  caso  foi  indicado  por  todos  os  tutores  como  a 
+estratégia  pedagógica  mais  oportuna  para  o  desenvolvimento  da  colaboração  entre  os 
+alunos.  Metade  dos  mesmos  respondentes  considerou  a  produção  textual  como 
+estratégia colaborativa. Somente um tutor valorizou a pesquisa como estratégia propícia 
+à aprendizagem colaborativa. 
+
+ 
+A questão que perguntava se havia colaboração também entre os tutores indica 
+que  três  dos  quatro  desenvolviam  o  hábito  de  trocar  experiências  com  os  demais 
+colegas.  
+
+ 
+Em relação ao fato de estimular os alunos a participar em grupos de discussão e 
+de  comunidades  virtuais,  observou-se  que  três  dos  quatro  tutores  se  dedicam  a 
+
+ 
+
+contribuir  sensibilizando  para  que  seus  alunos  se  envolvam  em  outras  formas  de 
+colaboração  pela  WEB.  Todos  os  tutores  concebem  o  conhecimento  como  fato  social, 
+fruto  do  relacionamento  interpessoal,  assim  como  todos  acreditam  que  quando  são 
+propiciadas  experiências  colaborativas  aos  alunos  o  rendimento  acadêmico  é 
+fortalecido.  A  partir  da  experiência  em  cursos  virtuais  colaborativos,  três  dos  tutores 
+perceberam que a maioria dos alunos aprecia trabalhar de forma colaborativa nas tarefas 
+acadêmicas. 
+
+ 
+A  entrevista  semiestruturada  realizada  com  23  alunos  de  diferentes  ambientes 
+educacionais  evidenciou  que  95,6%  deles  acreditam  que  podem  aprender  mais  na 
+companhia de seus colegas de curso, conforme gráfico 1. 
+
+                                                  acreditam               não acreditam 
+
+Gráfico 1 – Colaboração e Aprendizagem (produção dos autores) 
+
+Este  mesmo  número  de  alunos  aprecia  compartilhar  conhecimento  com  os  demais 
+colegas. Embora professem credibilidade e admiração pela aprendizagem colaborativa, 
+somente 65% dos alunos  têm experiência nesta prática  educativa. Isto significa que as 
+atividades  pedagógicas  ainda  não  estão  favorecendo  o  exercício  da  aprendizagem 
+colaborativa, conforme indica o gráfico 2.  
+
+ 
+
+ 
+
+                                          coletivos                       individualizados 
+
+Gráfico 2 – Preferência por realizar trabalhos coletivos (produção dos autores) 
+
+Elevado percentual dos alunos (87%) concorda que a cooperação humana parte 
+ 
+da  premissa  da  disponibilidade  para  colaborar,  para  buscar  o  consenso,  para  a 
+solidariedade e o diálogo (vide gráfico 3). 
+
+ 
+
+1200,10,20,30,40,50,60,70,80,911200,10,20,30,40,50,60,70,8Gráfico 3 – Valorização da colaboração (produção dos autores) 
+
+ 
+
+De  forma  reduzida,  seguem  algumas  afirmações  significativas  registradas 
+
+ 
+durante as entrevistas para análise do tema Comunicação, Colaboração e Diálogo: 
+
+• 
+
+• 
+• 
+• 
+• 
+• 
+
+ “Valorizo  a  atividade  colaborativa,  pois  o  outro  sabe  coisas  que  eu  não 
+domino.” 
+ “Caminhando com os outros conseguimos exercitar o consenso.” 
+“O trabalho em grupo fortalece as relações e permite uma aproximação.” 
+“ O conhecimento precisa ser repassado de uma pessoa para outra.” 
+“Aprendemos com as diferenças entre as pessoas.” 
+“Compartilhar  conhecimento  e  dialogar  com  os  colegas  me  torna  uma  pessoa 
+melhor.” 
+
+5. Considerações Finais 
+
+Em  plena  era  da  solidariedade,  é  possível  compreender  o  motivo  que  impulsiona  as 
+pessoas  para  a  colaboração  e  para  a  construção  coletiva.  Também  em  situação  de 
+aprendizagem  é  perceptível  a  disposição  para  a  colaboração  e  para  a  cooperação.  Os 
+participantes de um curso acabam por assumir objetivos compartilhados e permitem-se 
+adquirir novos conhecimentos em parceria.  
+
+ 
+Assim,  foi  observado  no  decorrer  desta  investigação.  Tanto  professores  quanto 
+alunos se dispuseram a acolher os paradigmas dos demais parceiros. Na perspectiva dos 
+personagens  participantes  da  investigação,  professores  e  alunos  alternam  papéis  em 
+busca da inteligência coletiva. 
+
+Por meio de estratégias colaborativas como o fórum, a wiki, o chat, o estudo de 
+ 
+caso e o blog, os indivíduos externam seus conceitos e fazem observações na tentativa 
+da  troca,  da  argumentação  e  do  consenso.  Isso  pode  ser  observado  no  decorrer  das 
+tarefas,  quando  os  indivíduos  dividem  funções  de  pesquisa  e  de  coleta  de  dados  na 
+perspectiva da construção de um só texto, a partir da premissa da parceria.  
+
+ 
+O  processo  educativo  só  se  configura  quando  um  indivíduo  permite  que  outro 
+atue  como  parceiro,  como  guia  e  como  cúmplice  na  aquisição  de  conhecimento.  A 
+distância física pode ocorrer sim, distância na relação nunca. Os recursos tecnológicos 
+muito contribuem para a aproximação e para a colaboração entre os personagens.  
+
+ 
+A  inação  deixou  de  existir  no  interior  das  salas  de  aula  virtuais.  Uma 
+modalidade  de  ensino/aprendizagem  que  se  propõe  a  mobilizar  as  pessoas  a  construir 
+coletivamente o conhecimento é mais do que agregadora, é cidadã. 
+
+ 
+
+ 
+
+valorizamnão0510152025Valorização da colaboração 
+Este  estudo  finaliza  com  a  perspectiva  que  os  indivíduos  em  colaboração 
+formam uma rede que se fortalece no compromisso, na aceitação, na reciprocidade e na 
+construção  de  conhecimentos  compartilhados  que  não  podem  mais  ser  dissociados.  E 
+com  a  convicção  de  que  tutores  e  alunos  valorizam  a  colaboração  e  a  cooperação  por 
+meio da tecnologia interativa. São necessárias as metodologias pedagógicas específicas 
+para  o  favorecimento  da  aproximação,  do  diálogo  e  da  diminuição  da  distância 
+transacional entre os personagens. 
+
+Referências 
+
+BOOTH,  S.  e  HULTÉN,  M.  Research  on  networked  learning:  An  overview.  In: 
+GOODYEAR, P. , BANKS, S., HODGSON, V E.e McCONNELL, D. Advances in 
+research on networked learning. Boston: Kluwer Academic Publishers, 2004. 
+
+DOTTA, S. Aprendizagem no Presencial e a Distância. São Paulo: Papirus 2006. 
+
+KENSKI, V. M. Educação e tecnologias: o novo ritmo da informação. 1. ed. Campinas:                
+
+Papirus, 2007. 
+
+MAÇADA,  D.  L.  e  TIJIBOY,  A.V.  Aprendizagem  Cooperativa  em  ambientes 
+
+telemáticos. IV Congresso RIBIE, 1998. 
+
+MAGALHÃES,  A.  M  C.  Aprendizagem  colaborativa  enquanto  estratégia  para 
+
+promoção da atenção dos alunos. Universidade de Lisboa, 2014. 
+
+MORIGI,  V.  J.;  PAVAN,  C.  Tecnologias  de  Informação  e  Comunicação:  novas 
+sociabilidades  nas  bibliotecas  universitárias.  In:  Ciência  da  Informação,  Brasilia,  v 
+33, n 1, p 117 a 125, jan/abr 2004. 
+
+NICOLACI-DA-COSTA, A. M. “Sociabilidade virtual: separando o joio do trigo”. In: 
+
+Psicologia & Sociedade, vol 17, n 2, p 50 a 57, mai/ago 2005. 
+
+PALMIERI,  M.  W.  A.   Cooperação,  competição  e  individualismo:  Uma  análise 
+microgenética  de  contextos  de  desenvolvimento  na  pré-escola.  Tese  de  Doutorado, 
+Universidade de Brasília-DF, Brasília - Distrito Federal, 2003. 
+
+   PALLOFF,  R.  M.;  PRATT.  O  instrutor  online:  estratégias  para  a  excelência 
+
+profissional. Porto Alegre: Penso Editora, 2013. 
+
+PALMIERI, M. W., & BRANCO, A. U.  Cooperação, competição e individualismo em 
+uma  perspectiva  sócio-cultural  construtivista.In:  Psicologia  Reflexão  &  Crítica, 
+17(2), 189-198, 2004. 
+
+SIMMEL,  G.  Questões  Fundamentais  da  Sociologia:  indivíduo  e  sociedade.  Rio  de 
+
+Janeiro: Zahar, 2006. 
+
+Sousa,  C.  A.  de  M.  LIMA,  D.  M.  S.  FONTE-BOA,  F.  Jovens  universitários  de 
+Licenciatura  e  a  EAD  em  seus  cursos  presenciais.  In:  Juventudes  e  Tecnologias- 
+sociabilidades e aprendizagens. Brasília: Liber Livro, 2015. 
+
+TEIXEIRA, A.  Cultura e tecnologia. Rio de Janeiro: FGV/Instituto de Documentação, 
+
+1971. 
+
+SARAIVA,  T.  Educação  a  distância  no  Brasil:  lições  da  história.  In: Em  Aberto, 
+
+Brasília, DF, v. 16, n. 70, p. 17-27, 1996. 
+
+SÍVERES, L. BALLUZ, E. H. A. S. Diálogos: desafios e possibilidades para (re)pensar 
+a prática docente. In: Diálogo – um princípio pedagógico. Capítulo 3. Brasília: Liber 
+livro, 2016. 
+
+ 
+
+VÉRAS,  S.  C.  L.  M.,  RODRIGUES  JR.,  J.  F.  Aprendizagem  em  grupo  no  ambiente 
+
+virtual. In: Revista Poisson, cap. XV, volume 6, p. 104-111. 2018. 
+
+VYGOTSKY, M.  A formação social da mente. São Paulo: Martins Fontes, 1984. 
+ 
+
+ 
+
+

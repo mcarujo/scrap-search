@@ -1,0 +1,668 @@
+ 
+
+Docência e Tecnologias Digitais na Formação de Professores: 
+Planejamento e Execução de Aulas por Licenciandos 
+
+Gabriela Teles1, Deyse Mara Romualdo Soares2, Luciana de Lima1, Robson Carlos 
+Loureiro1 
+
+1Universidade Federal do Ceará (UFC) – Grupo de Pesquisa Tecnodocência 
+Av. Humberto Monte, s/n – 60.440-554 – Fortaleza – CE – Brasil  
+
+2Universidade Federal de Alagoas (UFA) – Mestrado em Educação, Av. Lourival Melo 
+Mota, s/n – 57.072-900 – Maceió – AL – Brasil 
+{gabiteles2s.as, deysemarasoares}@gmail.com, {Luciana, 
+robson}@virtual.ufc.br  
+
+Abstract.  The  goal  of  this  paper  is  to  analyze  how  the  undergraduates, 
+working  in  an  elective  course,  semester  2018,  planned  and  executed  classes 
+using digital technologies. A Case Study was carried out, in which the lesson 
+plans  and  the  classes  developed  by  two  interdisciplinary  groups  were 
+triangulated,  based  on  the  theoretical  reference  that  composes  the  study.  It 
+was  found  that  the  undergraduates  were  able  to  execute  most  of  what  they 
+planned, with the predominance of instructionism in the planning and classes. 
+It is intended to continue the research. 
+
+Resumo. O objetivo desse trabalho consiste em analisar como os licenciandos 
+atuantes  em  disciplina  optativa,  no  segundo  semestre  de  2018,  planejaram  e 
+executaram  aulas  com  a  utilização  das  tecnologias  digitais.  Foi  realizado 
+Estudo de Caso, no qual os planos de aula e as aulas desenvolvidas por dois 
+grupos  interdisciplinares  foram  triangulados,  tendo  por  base  o  referencial 
+teórico  que  compõe  o  estudo.  Verificou-se  que  os  licenciandos  conseguiram 
+executar  a  maior  parte  do  que  planejaram,  havendo  o  predomínio  do 
+instrucionismo nos planejamentos e aulas. Pretende-se dar prosseguimento à 
+pesquisa.  
+
+1. Introdução 
+
+A  utilização  das  Tecnologias  Digitais  da  Informação  e  Comunicação  (TDICs)  em 
+diversos contextos e com diferentes funcionalidades faz parte do cenário vivenciado na 
+contemporaneidade. Os smartphones, tablets, notebooks estão amplamente distribuídos 
+pelo mundo, sendo utilizados cotidianamente pelos indivíduos.  
+
+Assim, percebe-se que a tecnologia digital se constitui em parte inerente à vida 
+ 
+dos  seres  humanos  hoje,  não  sendo  mais  possível  desconsiderá-la  em  nenhum  âmbito, 
+inclusive no educacional. Diante disso, Públio Júnior (2018) enfatiza a necessidade de 
+que  as  escolas  e,  consequentemente,  os  professores,  repensem  os  processos  de  ensino, 
+aprendizagem  e  avaliação  nos  quais  se  pautam,  desenvolvendo  práticas  inovadoras,  a 
+partir da utilização das TDICs. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Baptista e Vieira (2015 p.197), ao desenvolverem estudos sobre a utilização das 
+TDICs no contexto da Docência, perceberam que a tecnologia digital “[…] desperta o 
+interesse  do  aluno,  dinamiza  as  atividades  escolares,  favorece  a  formação  de  alunos 
+críticos, capazes de analisar o contexto social no que está inserido”.  
+
+ 
+Sabe-se que, historicamente, a Docência foi planejada, executada e avaliada com 
+base em um modelo expositivo, no qual o professor apresenta os seus conhecimentos e 
+os alunos devem absorvê-los, mecanicamente e, com base, na repetição acrítica. Nessa 
+proposta,  a  Docência  tem  se  ocupado  em  adequar  os  indivíduos  ao  contexto  que  os 
+cerca, na busca pela formação de um “bom” cidadão e um “bom” trabalhador [Loureiro 
+e Lima 2018]. 
+
+ 
+Este  modelo  de  ensino,  aprendizagem  e  avaliação,  pauta-se  na  seguinte 
+dinâmica: “[…] alguém diz o que fazer e alguém repete ou faz o que foi dito, e por isso 
+aprende”  [Becker  1993  p.101].  Assim,  de  certo  modo,  apenas  a  capacidade  de 
+memorização  do 
+indivíduo  é  ativada,  sem  que  sejam  considerados  os  seus 
+conhecimentos prévios, o contexto no qual está inserido, a sua capacidade de criar e de 
+construir conhecimentos. 
+
+ 
+Dessa  forma,  diversos  problemas  têm  permeado  este  modelo  docente,  que  tem 
+sido utilizado indiscriminadamente, conforme Becker (1993). Um destes problemas está 
+relacionado ao fato de que os professores têm experimentado muitas dificuldades para 
+ensinar,  bem  como  os  alunos  para  aprender.  Entende-se,  assim,  que  esta  proposta 
+vigente, há séculos, não consegue mais dar conta da realidade na qual está inserida.  
+
+ 
+Outro fato é que a realidade contemporânea tem exigido mais do que a formação 
+de  um  “bom”  cidadão  e  “bom”  trabalhador.  Hoje,  demanda-se  à  formação  de  um 
+indivíduo  e  um  profissional  criativo,  autônomo,  crítico,  inovador,  que  possua  as 
+habilidades necessárias para não se ocupar apenas em executar mecanicamente o que é 
+proposto, mas que consiga ir além, criando algo novo.  
+
+ 
+Sibilia  (2012)  alerta  para  o  fato  de  que  a  Docência  precisa  ser  amplamente 
+repensada,  desde  o  seu  processo  de  formação.  Nesse  sentido,  Lima  e  Loureiro  (2016) 
+ressaltam  em  seus  estudos  que  os  professores  precisam  ser  formados  para 
+compreenderem,  em  âmbito  teórico  e  prático,  como  é  possível  planejar,  executar  e 
+avaliar aulas com base no processo de integração entre Docência e TDICs.   
+
+ 
+Nesse  caminho,  é  preciso  que,  ainda  durante  os  seus  processos  formativos 
+iniciais,  os  licenciandos  se  deparem  com  situações  desafiadoras  que  desequilibrem  as 
+suas  estruturas  cognitivas,  e  os  possibilitem  planejar,  executar  e  avaliar  aulas 
+contextualizadas, criativas, de modo que eles sejam mobilizados a vivenciarem, de fato, 
+outras formas de Docência, inclusive no que se refere à utilização das TDICs.  
+
+ 
+Essa  é  a  proposta  da  disciplina  cursada  pelos  licenciandos  que  compõem  o 
+presente  estudo,  de  modo  que  estes  foram  desafiados  quando  organizados  em  grupos 
+heterogêneos,  a  planejarem,  executarem  e  avaliarem  aula  com  utilização  das  TDICs, 
+tendo  por  base  os  preceitos  construcionistas  de  Papert  (2008).  Ressalta-se  que  a 
+formação de grupos heterogêneos está associada ao fato de que a disciplina é optativa e 
+aberta a todos os cursos de Licenciatura da IPES. 
+
+Nesse sentido, considera-se pertinente indagar: Como os licenciandos planejam 
+ 
+e executam aulas com a utilização das TDICs? Assim, a pesquisa apresenta o objetivo 
+de  analisar  como  os  licenciandos  atuantes  em  disciplina  optativa  que  contempla  a 
+
+ 
+
+integração das TDICs em IPES, no segundo semestre de 2018, planejaram e executaram 
+aulas com a utilização das tecnologias digitais. 
+
+2. Planejamento e Execução de Aula com TDICs 
+
+O  planejamento  se  constitui  em  um  instrumento  necessário  e  significativo  do  trabalho 
+docente. Conforme Castro, Tucunduva e Arns (2008), ao planejar, o professor organiza 
+o  seu  trabalho,  sistematizando  as  atividades  a  serem  desenvolvidas,  levando  em 
+consideração o tempo disponível para a prática docente. 
+
+tendo 
+
+Assim,  mesmo 
+
+da 
+ 
+governamentalidade, com a finalidade de controlar o que o professor realiza em sala de 
+aula,  o  planejamento  corresponde  a  uma  possibilidade  de  o  professor  estabelecer 
+previamente  os  aspectos  teóricos,  éticos,  políticos,  culturais  e  metodológicos  que 
+nortearão o seu fazer. 
+
+originado 
+
+demanda 
+
+como 
+
+uma 
+
+sido 
+
+ 
+Padilha  (2001  p.63)  descreve  o  planejamento  como  “[…]  uma  atividade 
+engajada,  intencional,  científica,  de  caráter  político  e  ideológico  e  isento  de 
+neutralidade”. Nessa acepção, a atividade de planejar está para além do cumprimento de 
+mera  formalidade,  sendo  parte  constituinte  do  fazer  profissional  docente,  carregada  de 
+saberes teóricos e práticos.  
+
+Dessa  forma,  ao  acessar  o  plano  de  aula  de  um  professor  é  possível  ter  uma 
+ 
+relativa  ideia  do  que  este  profissional  compreende  sobre  Docência  e,  no  caso  da 
+previsão  da  utilização  das  TDICs,  como  percebe  a  relação  entre  o  fazer  docente  e  as 
+tecnologias digitais.  
+
+ 
+Ademais,  é  relevante  que  planejamento,  execução  e  avaliação  estejam 
+conectados, de maneira que, apesar dos imprevistos que compõem a dinâmica da sala de 
+aula,  o  professor  tenha  condições  de  executar  o  que  planejou  e  de  desenvolver  uma 
+avaliação conectada ao que entende por Docência.  
+
+ 
+A Docência consiste, de acordo com Veiga (2006), como uma construção social 
+que deve, portanto, ser refletida, questionada, repensada, considerando o contexto que a 
+cerca.  Nessa  perspectiva,  os  processos  que  compõem  o  fazer  docente  (planejamento, 
+execução  e  avaliação)  não  são  estanques,  mas,  pelo  contrário,  consideram  a  realidade 
+em que docentes e discentes estão inseridos. 
+
+Assim,  tendo  em  vista  o  cenário  de  ampla  utilização  das  TDICs  em  uma 
+ 
+sociedade, descrita por Lévy (1996) como cibercultural, a conexão entre Docência e as 
+tecnologias  digitais  pode  representar  uma  possibilidade  significativa  de  dinamizar  e 
+contextualizar  as  práticas  didático-metodológicas,  atendendo  às  demandas  sinalizadas 
+por professores e estudantes.  
+
+ 
+Considera-se pertinente enfatizar, com base em Papert (2008), que a questão em 
+debate não está centrada somente na utilização ou não das TDICs durante as aulas. Mas, 
+para além disso, na intencionalidade e no modo como esta utilização é efetivada.  Joly, 
+Silva  e  Almeida  (2012)  apontam  que  saber  manusear  as  tecnologias  digitais  não  é  o 
+suficiente,  de  modo  que  é  preciso  utilizá-las  de  maneira  crítica,  refletindo  sobre  as 
+informações disponibilizadas a partir delas. 
+
+ 
+É nesse sentido que Papert (2008) estabelece os conceitos de instrucionismo e de 
+construcionismo,  destacando  que,  na  primeira  concepção,  os  artefatos  e  recursos 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+utilizados na Docência são modificados, em uma espécie de troca do quadro negro para 
+a lousa digital, por exemplo. Assim, no instrucionismo as tecnologias digitais aparecem 
+como  responsáveis  por  repassar  os  conhecimentos  aos  estudantes,  de  modo  que  estes 
+permanecem  somente  como  receptores  ocupados  em  tentar  absorver  e  memorizar 
+conteúdos. 
+
+No construcionismo, as TDICs aparecem de maneira direcionada à construção, e 
+ 
+não  à  transmissão  do  conhecimento,  com  o  entendimento  de  que  os  estudantes  devem 
+ser protagonistas dos seus próprios processos de aprendizagem. Nesse sentido, o que se 
+tem é a mobilização por parte do professor, de maneira integrada às TDICs, para que os 
+estudantes  desenvolvam  os  seus  produtos,  criem,  resolvam  desafios  cognitivos, 
+vivenciando o processo de desequilibração. 
+
+ 
+Nessa perspectiva, nega-se a compreensão de que o conhecimento está pronto e 
+acabado,  devendo  ser  somente  repassado  ao  aluno,  sem  considerar  os  seus 
+conhecimentos prévios, o seu contexto, os seus interesses. Assim, o professor atua como 
+um  mediador  que  deve  incentivar  o  desenvolvimento  da  descoberta  pelo  próprio 
+estudante [Papert 2008]. 
+
+ 
+A partir disso, compreende-se a relevância de que os docentes vivenciem, desde 
+os seus processos formativos iniciais, situações nas quais as TDICs sejam integradas à 
+Docência  de  maneira  construcionista,  percebendo,  em  âmbitos  teórico  e  prático,  como 
+estas tecnologias podem compor o planejamento, execução e avaliação de aula. 
+
+ 
+A proposta não está centrada no uso acrítico das tecnologias digitais como meio 
+de atender a anseios governamentais e mercadológicos, mas como um caminho a partir 
+do  qual  os  licenciandos,  futuros  professores,  tenham  condições  efetivas  de  se 
+apropriarem crítica e intencionalmente da tecnologia [Kenski 2007]. 
+
+ 
+Nesse  caminho,  Sampaio  e  Leite  (2013)  destacam  a  necessidade  do 
+desenvolvimento de uma formação docente  marcada pelo conhecimento, interpretação, 
+utilização,  reflexão  e  dominação  crítica  da  tecnologia,  de  modo  que,  em  suas  futuras 
+práticas profissionais, os docentes utilizem as TDICs com intencionalidade ética, social, 
+cultural, política, pedagógica, cientes de que  não  está  apenas  deixando  de  escrever  no 
+quadro negro para escrever em uma lousa digital, por exemplo.  
+
+3. Metodologia 
+
+A  pesquisa  foi  desenvolvida  a  partir  de  um  Estudo  de  Caso,  considerando  que  se 
+debruça  sobre  a  análise  de  um  fenômeno  contemporâneo,  sob  o  qual  não  se  tem 
+controle, tendo sido utilizadas evidências diretas para a compreensão do que está sendo 
+pesquisado. Ressalta-se que esta base metodológica é marcada pela ausência de clareza 
+em relação aos limites entre o fenômeno em estudo e o seu contexto [Yin 2010]. 
+
+ 
+Levando-se  em  consideração  o  cumprimento  dos  componentes  éticos  que 
+norteiam  a  realização  de  pesquisas,  o  Termo  de  Consentimento  Livre  e  Esclarecido 
+(TCLE) foi apresentado aos licenciandos que cursaram a disciplina no segundo semestre 
+de  2018.  Em  tal  documento  constavam  aspectos  como  os  objetivos  da  pesquisa,  bem 
+como ressaltava-se a não identificação dos sujeitos pesquisados.   
+
+A unidade de análise da pesquisa é composta pelos planejamentos e pelos vídeos 
+ 
+contendo  as  aulas  desenvolvidas  por  dois  grupos  interdisciplinares,  compostos  por 
+licenciandos da disciplina  investigada. Ressalta-se que, no semestre analisado, contou-
+
+ 
+
+se com a participação de seis grupos interdisciplinares, entretanto, foram escolhidos, de 
+maneira aleatória, dois deles para compor a presente pesquisa. 
+
+ 
+Contou-se,  assim,  com  a  participação  de  sete  (7)  licenciandos  das  seguintes 
+áreas:  Ciências  Biológicas  (2);  Música  (2);  Letras  (1);  Letras-Libras  (1);  e  Pedagogia 
+(1), todos vinculados à  modalidade presencial. Destes, 50,0% era do sexo masculino e 
+50,0% do sexo feminino. A maioria (60%) encontrava-se na faixa etária entre os vinte e 
+um (21) e vinte e cinco (25) anos de idade.  
+
+ 
+Com relação aos semestres em que estavam matriculados, obteve-se que 60,0% 
+dos licenciandos cursavam do quinto semestre em diante, revelando um cenário em que 
+a maioria dos estudantes já havia vivenciado uma  parte  considerável  de  seu  processo 
+formativo. 
+
+A pesquisa foi realizada com base em três etapas: planejamento, coleta e análise 
+ 
+de dados. Na primeira, desenvolvida durante o mês de junho de 2018, procedeu-se com 
+a produção dos protocolos, dos instrumentos e da política de armazenamento, elementos 
+que nortearam a coleta e a análise de dados.   
+
+ 
+A coleta de dados ocorreu após o final do segundo semestre de 2018, durante o 
+mês de dezembro, de modo que os planos de aula,  produzidos no  Google Drive foram 
+baixados, bem como os vídeos contendo as aulas foram assistidos.  
+
+Ressalta-se  que  as  aulas  são  planejadas  no  decorrer  de  todo  o  semestre,  sendo 
+ 
+executadas,  com  base  nos  planejamentos  finalizados  e  avaliados  pelos  docentes  da 
+disciplina, com alunos de Ensino Médio de escola pública parceira.  
+
+Na  terceira  e  última  etapa,  relativa  à  análise  de  dados,  foi  desenvolvida  a 
+ 
+triangulação metodológica, com base interpretativa, de maneira que os dados obtidos a 
+partir  dos  planos  de  aula,  dos  vídeos  contendo  a  execução  das  aulas  e  do  arcabouço 
+teórico foram comparados, de acordo com a proposta metodológica de Yin (2010). 
+
+ 
+O foco de análise norteador da triangulação realizada consiste no modo como os 
+licenciandos compreendem a utilização das TDICs, ao planejarem e executarem as suas 
+aulas,  sendo  observado  sob  qual  perspectiva  estes  sujeitos  baseiam  as  suas  ações: 
+instrucionismo, construcionismo, instrucionismo/construcionismo.  
+
+4. Resultados e Discussões 
+
+Os  dados  coletados  e  analisados  serão  apresentados,  com  base  no  trabalho 
+ 
+desenvolvido  por  cada  grupo  que  compõe  o  estudo,  utilizando-se  para  tal  os  seguintes 
+códigos: G1 e G2.  
+
+4.1. Plano e Aula do G1 
+
+O G1 estava composto por  alunos dos cursos de Ciências Biológicas, Letras e Música 
+que  escolheram  o  tema  “Jogos  Digitais”  para  o  planejamento  e  execução  da  aula.  Os 
+conteúdos  propostos  para  serem  trabalhados  a  partir  do  tema  foram:  Fisiologia  do 
+Cérebro; Narrativas; e, Trilha Sonora. 
+
+ 
+Diante disso, o G1 propôs em seu planejamento a execução de uma aula dividida 
+em três períodos, sendo o primeiro (de oito minutos) destinado à exposição de um vídeo 
+produzido  pelo  grupo,  bem  como  para  a  organização  dos  alunos  da  escola  pública  em 
+equipes.  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+O segundo momento, proposto para ser executado em vinte e dois (22) minutos, 
+ 
+foi destinado à utilização dos jogos digitais pelos alunos da escola pública. Os 
+jogos 
+digitais  propostos  no  planejamento  da  equipe  foram:  Get  Out,  Running  Men, 
+StormCross,  Dank  Tomb,  Bearied  Treasure,  Celeste  Classic,  XenoPunch,  Myst, 
+Califórnia Jane, Pico Racer.  
+
+No último período da aula (de dez minutos), conforme o planejamento, os alunos 
+ 
+da escola pública, ainda organizados em equipes, deveriam gravar vídeos analisando os 
+jogos utilizados, com base em pelo menos dois dos conteúdos trabalhados. Tais vídeos 
+deveriam ser gravados por meio da utilização de tablets. 
+
+ 
+Sobre o processo de execução, observou-se que o G1 iniciou a aula, conforme o 
+que consta no plano, exibindo o vídeo que havia produzido e organizando os alunos da 
+escola  pública  em  seis  equipes,  tendo-se  como  base,  portanto,  o  instrucionismo.  Para 
+esse primeiro momento, foi utilizado o tempo de seis (6) minutos.  
+
+ 
+Com  as  equipes  formadas,  os  alunos  passaram  a  utilizar  os  jogos  digitais 
+propostos,  a  partir  dos  computadores  da  escola.  Verificou-se,  nesse  momento,  que  a 
+maioria dos alunos permaneceu engajada na atividade, aparentemente tendo entrado no 
+que Czikszentmihalyi (1990) denomina como estado de fluxo. 
+
+ 
+Assim,  os  alunos  demonstraram  interesse  em  prosseguir  utilizando  os  jogos 
+digitais,  mesmo  quando  os  componentes  do  G1  sinalizaram  que  o  tempo  para  esta 
+atividade tinha finalizado. Salienta-se que, no plano de aula, havia sido destinado vinte e 
+dois (22) minutos para a realização deste momento, mas  na prática, foram necessários 
+cerca de trinta e cinco (35) minutos. 
+
+ 
+Tal dado corrobora com os estudos de Almeida (2000), em que é reconhecido o 
+potencial  dinamizador  das  TDICs  no  contexto  educacional,  diante  de  um  cenário  no 
+qual  os  discentes  contemporâneos  aparecem  como  nativos  digitais.  Nesse  sentido,  a 
+utilização das tecnologias digitais aparece como um possível caminho de aproximação 
+entre professores e estudantes, favorecendo a construção de conhecimentos.  
+
+ 
+O  último  momento  durou  oito  (8)  minutos,  de  modo  que  os  licenciandos, 
+utilizando  os  tablets,  gravaram  as  compreensões  de  cada  equipe  de  alunos  sobre  os 
+jogos  utilizados,  observando-se  novamente  a  perspectiva  instrucionista.  Considera-se 
+pertinente salientar que a proposta constante no plano é que os próprios alunos da escola 
+deveriam  gravar  estes  vídeos,  fazendo  uma  análise  do  jogo,  a  partir  dos  conteúdos 
+abordados. 
+
+ 
+Entretanto,  observou-se  que  não  foram  os  próprios  alunos  que  fizeram  a 
+gravação  e  que  as  suas  respostas  ficaram  centradas  em  aspectos,  de  certo  modo, 
+superficiais acerca do jogo, não sendo percebido o estabelecimento de conexões com os 
+conteúdos. 
+
+ 
+Dessa forma, foi possível perceber que o G1 desenvolveu uma aula pautada no 
+instrucionismo, mesmo com a solicitação por parte dos docentes da disciplina, de que o 
+construcionismo se fizesse presente.  
+
+ 
+Acerca  de  tal  fato,  Lima  e  Loureiro  (2015)  destacam  a  falta  de  uma  formação 
+inicial de professores que promova vivências teóricas e práticas de utilização das TDICs 
+na  Docência,  sob  a  perspectiva  construcionista.  Desse  modo,  considerando  que  estes 
+licenciandos  foram  e  continuam  sendo  formados  na  direção  da  não  utilização  ou  da 
+
+ 
+
+(sub)utilização  das  tecnologias  digitais,  a  tendência  é  que,  em  suas  futuras  práticas 
+profissionais, prossigam executando somente o instrucionismo.  
+
+4.2. Plano e Aula do G2 
+
+O  G2  contou  com  a  atuação  de  licenciandos  de  Letras-Libras,  Pedagogia,  Música  e 
+Ciências Biológicas. Em seu plano de aula, o grupo estabeleceu os seguintes conteúdos 
+para  serem  abordados,  a  partir  do  tema  “O  Auto  da  Compadecida”,  tratando  dos 
+seguintes  conteúdos:  Como  os  surdos  escutam;  Musicalidade  nordestina;  Espaço 
+educacional não escolar; e Sistema auditivo. 
+
+ 
+Com  isso,  o  G2  realizou  o  seu  planejamento  de  aula  com  base  em  quatro 
+períodos. No primeiro deles, previsto para ser realizado em sete (7) minutos, sugeriu-se 
+a  apresentação  dos  componentes  do  grupo  e  de  suas  áreas,  bem  como  a  exibição  do 
+vídeo desenvolvido pelos licenciandos em momento anterior da disciplina. 
+
+ 
+Para o segundo período, foi destinado o tempo de quinze (15) minutos, em que 
+os componentes do G2 deveriam apresentar, brevemente, aspectos relativos à música do 
+Auto da Compadecida, a ser estudada, bem como deveriam auxiliar os alunos da escola 
+pública,  organizados  em  equipes,  para  a  execução  do  processo  de  reconstrução  da 
+música, utilizando instrumentos diversos. 
+
+No terceiro período, propôs um momento de “experiência sensorial”, em que os 
+ 
+alunos seriam  convidados a ouvirem  a música  a partir de um  instrumento denominado 
+de  “cachimbo  sonoro”,  em  que  os  alunos  ouviriam  a  música  não  pelos  ouvidos,  mas 
+pelo  estímulo  da  mandíbula.  Para  tal  atividade,  foi  destinado  o  tempo  de  dez  (10) 
+minutos. 
+
+ 
+Para o quarto e último período, o G2 reservou o tempo de oito (8) minutos, em 
+que  seria  desenvolvida  uma  roda  de  conversa  sobre  as  atividades  vivenciadas  no 
+transcorrer de toda a aula, em uma ação avaliativa. 
+
+ 
+Assim como no caso do G1, o G2 também executou a aula planejada, no mês de 
+novembro  de  2018,  tendo  iniciado,  conforme  previsto  no  plano,  por  meio  da 
+apresentação  dos  seus  componentes  e  exibição  do  vídeo,  guiando-se  pelo 
+instrucionismo. Foram utilizados nove (9) minutos nesse período inicial. 
+
+ 
+Em  seguida,  o  G2  solicitou  que  os  alunos  se  organizassem  em  duas  equipes, 
+destacando que em uma seriam abordados mais os aspectos musicais, enquanto na outra 
+o foco seria as tecnologias digitais.  
+
+ 
+Dessa  forma,  durante  vinte  e  cinco  (25)  minutos,  cada  equipe  contou  com  o 
+auxílio  de  dois  licenciandos  para  organizar  o  processo  de  reprodução  da  música 
+estudada,  de  modo  que  em  uma,  a  música  foi  reproduzida,  utilizando-se  de  palmas  e 
+alguns 
+instrumentos  musicais,  enquanto  a  outra  equipe  conversava  sobre  o 
+funcionamento  do  “cachimbo  sonoro”,  sem  ser  percebido  o  desenvolvimento  de 
+nenhum produto a partir das TDICs.  
+
+ 
+No período seguinte, que durou cerca de oito (8) minutos, a equipe responsável 
+pela  abordagem  das  tecnologias  digitais  explicou  para  a  outra  como  o  “cachimbo 
+sonoro” funcionava, vivenciando-se a “experiência sensorial” proposta. 
+
+ 
+
+ 
+
+ 
+No último momento, o G2 procedeu com um breve resumo acerca dos conteúdos 
+trabalhados durante a aula, não realizando o processo de avaliação, por meio de roda de 
+conversa, conforme previsto no plano.  
+
+ 
+Ressalta-se a participação dos alunos na realização das atividades, com destaque 
+para o segundo período, no qual estes sujeitos precisaram reproduzir a música, a partir 
+de  diferentes  meios,  momento  em  que  a  atividade  de  exposição  por  parte  dos 
+licenciandos foi menor.  
+
+ 
+Com isso, é possível verificar uma relação com o que foi vivenciado no G1, de 
+maneira  que  nos  momentos  em  que  as  aulas  foram  menos  expositivas,  houve  maior 
+envolvimento  por  parte  dos  alunos,  corroborando-se  a  compreensão  de  Sibilia  (2012) 
+sobre  a  associação  entre  o  fracasso  escolar  e  a  utilização  de  somente  um  modelo 
+docente, o expositivo.  
+
+ 
+Entretanto,  mesmo  diante  de  propostas  que  proporcionaram  maior  interação 
+entre  professores  e  estudantes,  o  instrucionismo  vigorou  durante  toda  a  aula,  de  modo 
+que  os  estudantes  não  foram  desafiados,  por  nenhum  dos  grupos  de  licenciandos,  a 
+desenvolverem produtos, por meio da utilização das TDICs [Papert 2008]. 
+
+ 
+Assim como no caso do G1, as tecnologias digitais apareceram como meios para 
+auxiliar  o  professor  a  apresentar  os  conteúdos,  guiando-se  pelo  entendimento  de  que 
+ensinar está relacionado somente à tarefa de transmitir o que se sabe.  
+
+ 
+Diante  disso,  considera-se  que  os  resultados  obtidos  a  partir  da  realização  da 
+presente  pesquisa  revelam  um  cenário  passível  de  reflexões  e  questionamentos  no  que 
+se refere à relação entre Docência e TDICs na formação inicial de professores. A análise 
+do  modo  como  os  licenciandos  planejam  e  executam  aulas  com  as  TDICs,  fornece 
+elementos indicativos de como tem se desenvolvido os seus processos formativos, bem 
+como  de  possíveis  caminhos  a  serem  trilhados  na  busca  por  mudanças  consideradas 
+como necessárias. 
+
+5. Considerações Finais 
+
+O  presente  estudo  teve  como  ponto  de  partida  o  seguinte  questionamento:  “Como  os 
+licenciandos planejam e executam aulas com a utilização das TDICs?”. Assim teve0se 
+como  objetivo  analisar  como  os  licenciandos  atuantes  em  disciplina  optativa  que 
+contempla a integração das TDICs em IPES, no segundo semestre de 2018, planejaram 
+e executaram aulas com a utilização das tecnologias digitais. 
+
+Diante dos dados obtidos, a partir dos planejamentos e das aulas realizadas pelos 
+ 
+dois  grupos  de  licenciandos,  verificou-se  um  cenário  no  qual  a  relação  estabelecida 
+entre Docência e TDICs apareceu pautada,  eminentemente, pelas bases instrucionistas. 
+Papert (2008) ressalta o fato de que a história estabelecida entre estas áreas é marcada 
+por  esta  perspectiva,  de  maneira  que  as  tecnologias  foram  inseridas  em  sala  de  aula 
+como meios para informatizar o processo educacional, sem modificar as suas bases.  
+
+ 
+Apesar da disciplina cursada prever a integração entre Docência e TDICs, tendo 
+como  um  de  seus  subsídios  teóricos,  o  construcionismo,  no  momento  em  que  os 
+licenciandos  pensam  e  realizam  aulas,  ainda  se  evidenciou  consideráveis  dificuldades 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+para  conceber  um  processo,  a  partir  do  qual,  o  aluno  apareça  como  protagonista,  no 
+sentido de construir os seus próprios conhecimentos. 
+
+ 
+Santos (2002) aponta para a necessidade premente, no contexto contemporâneo, 
+de  que  as  práticas  curriculares  desenvolvidas  sejam  ressignificadas,  tendo  como  ponto 
+de  partida  relevante  para  tal,  o  desenvolvimento  de  transformações  na  formação 
+docente. 
+
+ 
+De acordo com Lima e Loureiro (2016), a formação inicial dos professores tem 
+ocorrido  de  maneira  descontextualizada,  fragmentada  e  sem  estabelecer  a  conexão 
+necessária  entre  teoria  e  prática.  Nesse  sentido,  a  abordagem  das  TDICs  tem  ficado  a 
+cargo do que a governamentalidade exige, não representando mudanças, de fato. Assim, 
+por  mais  que  a  escola  conte  com  uma  lousa  digital,  por  exemplo,  os  professores 
+prosseguem  sem  compreender  criticamente  possibilidades  didático-metodológicas 
+diferenciadas a serem desenvolvidas a partir de tal ferramenta.  
+
+ 
+Como  um  dos  elementos  considerados  relevantes  para  uma  modificação  desse 
+cenário,  tem-se  a  vivência  teórica  e  prática  das  perspectivas  instrucionista  e 
+construcionista, de tal modo que os futuros professores percebam como cada uma destas 
+perspectivas  ocorre  também  no  âmbito  do  fazer,  sendo  mobilizados  a  planejarem, 
+executarem  e  avaliarem  outras  possibilidades  pedagógicas  a  partir  das  TDICs.  Desse 
+modo,  entende-se  que  mais  disciplinas,  projetos,  estágios,  direcionados  para  a 
+abordagem desta relação podem ser significativos.  
+
+ 
+Salienta-se  a  pretensão  em  dar  prosseguimento  à  pesquisa,  de  maneira  a 
+aprofundar  os  dados  observados,  bem  como  obter  novos  dados  a  partir  da  oferta  da 
+disciplina em semestres subsequentes.  
+
+Referências Bibliográficas 
+
+Educação, Brasília. 
+
+Almeida,  M.  E.  B.  (2000)  “Informática  e  Formação  de  Professores”.  Ministério  da 
+
+Baptista, B. T. e Vieira, M. de. F. (2015) “A utilização das Tecnologias da Informação e 
+Comunicação nos projetos educacionais interdisciplinares”. Anais do XXI Workshop 
+de Informática na Escola, Maceió. 
+
+Becker,  F.  (1993)  “A  Epistemologia  do  Professor:  O  Cotidiano  da  Escola”.  Editora 
+
+Vozes, Petrópolis. 
+
+Castro,  P.  A.  P.  P.  e  Tucunduva,  C.  C.  e  Arns,  E.  M.  (2008)  “A  Importância  do 
+Planejamento  das Aulas  para  Organização  do Trabalho  do  Professor  em  sua  Prática 
+Docente”. Revista Científica de Educação, Rio Grande do Norte, v. 10, n. 10, p. 49-
+62. 
+
+Czikszentmihalyi, M. (1990) “A descoberta do fluxo: a psicologia do envolvimento com 
+
+a vida cotidiana”. Rocco, São Paulo. 
+
+Joly,  M.  C.  R.  A.  e  Silva,  B.  D.  da.  e  Almeida,  L.  da.  S.  (2012)  “Avaliação  das 
+Competências  Docentes  para  Utilização  das  Tecnologias  Digitais  da  Comunicação  e 
+Informação”. Revista Currículo Sem Fronteiras, São Paulo, v. 12, n. 3, p. 83-96. 
+
+Kenski, V. M. (2007) “Educação e Tecnologias: o novo ritmo da informação”. Papirus, 
+
+Campinas. 
+
+ 
+
+ 
+
+Lévy, P. (1996) “As tecnologias da inteligência”. Editora 34, São Paulo. 
+
+Lima,  L.  de.  e  Loureiro,  R.  C.  (2016)  “O  Desenvolvimento  de  Materiais  Autorais 
+Digitais  Educacionais  na  Compreensão  de  Licenciandos  sobre  Docência  em 
+Contexto  Interdisciplinar”.  Anais  do  XXII  Workshop  de  Informática  na  Escola, 
+Uberlândia. 
+
+Lima,  L.  de.  e  Loureiro,  R.  C.  (2015)  “A  integração  entre  Docência  e  Tecnologias 
+Digitais  da  Informação  e  Comunicação  na  Formação  de  Licenciandos”.  Anais  do 
+XXI Workshop de Informática na Escola, Maceió. 
+
+Loureiro,  R.  C.  e  Lima,  L.  de.  (2018)  “Tecnodocência:  Integração  entre  Tecnologias 
+Digitais  da  Informação  e  Comunicação  e  Docência  na  Formação  do  Professor”. 
+Amazon, Fortaleza. 
+
+Padilha,  P.  R.  (2001)  “Planejamento  Dialógico:  Como  construir  o  projeto  político-
+
+pedagógico da escola”. Editora Cortez, São Paulo. 
+
+Papert, S. (2008) “A Máquina das Crianças: repensando a escola na era da informática”. 
+
+Artmed, Porto Alegre. 
+
+Públio  Júnior,  C.  (2018)  “Formação  Docente  frente  às  Novas  Tecnologias:  desafios  e 
+
+possibilidades”. Revista Intermeio, Campo Grande, v. 24, n. 47, p. 189-210. 
+
+Sampaio, M. N. e Leite, L. S. (2013) “Alfabetização Tecnológica do Professor”. Editora 
+
+Vozes, Petrópolis.  
+
+Santos, E. O. dos. (2002) “O  currículo e o digital:  Educação presencial e  a distância”. 
+Dissertação  de  Mestrado.  Universidade  Federal  da  Bahia,  Faculdade  de  Educação, 
+Salvador. 
+
+Sibilia,  P.  (2012)  “Redes  ou  paredes:  a  escola  em  tempos  de  dispersão”.  Contraponto, 
+
+Rio de Janeiro. 
+
+Veiga,  I.  P. A.  (2006)  “Docência  universitária  na  educação  superior”.  In  Ristoff,  D.  e 
+Sevegnani,  P.  Docência  na  Educação  Superior.  Instituto  Nacional  de  Estudos  e 
+Pesquisas Educacionais Anísio Teixeira, Brasília. 
+
+Yin, R. K. (2010) “Estudo de Caso: planejamento e métodos”. Bookman, Porto Alegre. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+

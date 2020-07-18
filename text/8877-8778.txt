@@ -1,0 +1,575 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LudoEscola: a Gamificação como Ferramenta de 
+Transformação do Espaço Escolar 
+
+Daniel de Sant’anna Martins1, Anderson Paulo da Silva1, Oberdan Alves de 
+Almeida Junior1, Silvana Cockles Crisanto do Nascimento2 
+
+1CESAR School – CEP 50030-220 – Recife – PE – Brazil 
+
+2Secretaria de Educação e Cultura de PE - Secretaria Executiva de Educação 
+Profissional – 50.810-000 – Recife – PE – Brazil 
+
+{dsm, aps, oaaj}@cesar.org.br 
+
+silvana.cockles@gmail.com 
+
+Abstract. In the current educational context, especially in high school, much is 
+discussed about the lack of engagement and protagonism of students, and the 
+difficulty  of  promoting  them.  In  this  practice,  young  people  are  invited  to 
+investigate problems of the school world, or opportunities for improvement, and 
+to  propose  gamification  interventions  that  can  solve  them.  The  initiative 
+presents students with concepts, methods and examples of gamification so that 
+they can inspire them to develop proposals for solutions and apply them in their 
+daily  lives.  After  the  application  of  the  practice  was  perceived  a  great 
+commitment of the students in the activities of the school. 
+
+Resumo.  No  contexto  educacional  atual,  principalmente  no  ensino  médio, 
+muito  se  discute  sobre  a  falta  de  engajamento  e  do  protagonismo  dos 
+estudantes,  e  a  dificuldade  de  promovê-los.  Nessa  prática,  os  jovens  são 
+convidados  a  investigar  problemas  do  universo  escolar  ou  oportunidades  de 
+melhorias,  e  propor  intervenções  gamificadas  que  possam  solucioná-los.  A 
+iniciativa  apresenta  aos  estudantes  conceitos,  métodos  e  exemplos  de 
+gamificação  para  que  possam  inspirá-los  a  desenvolverem  propostas  de 
+solução  e  aplicá-las  em  seu  cotidiano.  Após  a  aplicação  da  prática  foi 
+percebido um grande engajamento dos estudantes nas atividades da escola. 
+
+1. Introdução 
+
+Diversas  são  e  metodologias  que  visam  ressignificar  os  modelos  educacionais.  Do 
+Construcionismo de Seymour Papert (1980)  à Paulo Freire (1999) que afirmava que o 
+educador  precisa  saber  que  “ensinar  não  é  transferir  conhecimento,  mas  criar  as 
+possibilidades  para  a  sua  produção  ou  a  sua  construção”,  todas  dependem 
+fundamentalmente da boa vontade dos educadores, mas principalmente do engajamento 
+dos estudantes. 
+
+Na Escola Técnica Estadual Cícero Dias, acontece o NAVE - Núcleo Avançado 
+ 
+em Educação - um programa de Ensino Médio Integrado Profissionalizante desenvolvido 
+pelo Oi Futuro em parceria com as Secretarias de Estado de Educação do Rio de Janeiro 
+
+ 
+e  de  Pernambuco,  a  escola  pública  de  ensino  médio  se  integra  à  cursos  técnicos  de 
+tecnologias digitais - Programação de Jogos Digitais e Multimídia  - desenvolvidos em 
+parceria com o CESAR (Centro de Estudos e Sistemas Avançados do Recife), um centro 
+de pesquisa e inovação sem fins lucrativos com sede na cidade de Recife, Pernambuco. 
+
+ 
+Nesse  contexto,  uma  das  disciplinas  do  do  ensino  médio  dos  cursos  técnicos  - 
+Projeto Integrador - teve como proposta no ano de 2017 promover o aprendizado através 
+da  oferta  de  diversas  “micro-oficinas”  optativas,  com  foco  no  desenvolvimento  de 
+projetos  realizada  pelos  estudantes.  A  cada  bimestre  são  oferecidas  algumas  dessas 
+oficinas, com duração de três a quatro semanas, que integram os estudantes de ambos os 
+cursos, agrupando-os de acordo com o interesse pessoal a partir do tema proposto. Uma 
+dessas  oficinas,  intitulada  “Gamificando  a  Vida”,  tem  como  preposto  o  ensino  de 
+conceitos,  métodos  e  práticas  de  gamificação,  capacitando  os  estudantes  a  pensar  e 
+desenvolverem soluções para situação problema encontrada no contexto escolar. 
+
+2. Definindo Gamificação 
+
+Inicialmente criado como método aplicado em programas de marketing para  internet e 
+contextos empresariais com a finalidade de motivar, engajar e fidelizar clientes e usuários 
+(Zichermann  e  Cunningham,  2012),  a  gamificação,  conforme  o  termo  foi  traduzido, 
+pressupõe  a  utilização  de  elementos  tradicionalmente  encontrados  nos  jogos  (como 
+narrativa, 
+recompensas,  conflitos,  cooperatividade  e 
+competitividade,  metas  alcançáveis,  regras  claras,  interatividade,  dentre  outros),  em 
+outras atividades e contextos que não são diretamente lúdicos. 
+
+sistemas  de 
+
+feedback, 
+
+ 
+A gamificação na verdade, vai bem além da simples implementação de técnicas 
+de jogos em outros ambientes (Werbach e Hunter 2012). Podemos dizer que trata-se de 
+um fenômeno emergente, que deriva da popularidade dos games, e de suas capacidades 
+intrínsecas  de  motivar  a  ação,  resolver  problemas  e  potencializar  aprendizagens  nas 
+diversas áreas do conhecimento e na vida dos indivíduos (Fardo 2013). 
+
+ 
+Seu  objetivo  principal  é  obter  o  mesmo  grau  de  engajamento  e  motivação  que 
+normalmente  encontra-se  em  jogadores  envolvidos  com  jogos  eletrônicos  bem 
+projetados. Além disso, serve também para promover comportamentos em seus usuários 
+e/ou  ensinar  competências  e  habilidades  específicas.  Apesar  de  abundantes  recursos 
+interativos,  nem  sempre  os  mesmos  são  satisfatórios  ou  bem-sucedidos  em  sua 
+implementação  no  meio  educacional,  por  não  se  levar  em  conta  o  contexto  em  que  o 
+estudante está inserido, e por não colocá-lo como ponto central do design das experiências 
+lúdicas definidas. 
+
+3. Descrição da Experiência 
+
+Na  primeira  aula,  com  aproximadamente  quarenta  estudantes  de  ambos  os  cursos,  e 
+cinquenta minutos de duração, o professor iniciou provocações e reflexões como: “Por 
+que todo mundo deveria jogar?”. Os estudantes trouxeram diversas respostas para essa 
+questão, tais como: “porque é divertido”, “porque me deixa feliz”, “faz passar o tempo”, 
+entre  outras.  É  importante  ressaltar  que  não  há  de  fato  uma  resposta  correta.  Neste 
+momento,  os estudantes são incentivados a refletirem sobre o assunto para despertar a 
+curiosidade e engajamento. Após essa problematização inicial, foi feita uma exposição 
+oral sobre a história dos jogos e sua aplicabilidade ao longo dos tempos. 
+
+ 
+Os jogos existem há milhares de anos, e no início não foram projetados com um 
+sentido  estrito  à  diversão  ou  para  “passar  o  tempo”,  mas  para  tratar  questões  da  vida, 
+
+ 
+
+ 
+
+ 
+como  cultura,  religiosidade,  etc.  Segundo  Huizinga  (1971)  “As  grandes  atividades 
+arquetípicas  da  sociedade  humana  são,  desde  o  início,  inteiramente  marcadas  pelo 
+jogo”, como exemplos, podemos destacar o jogo egípcio Senet, considerado por muitos 
+um dos jogos mais antigos, que datam de mais ou menos 3 mil anos a.c. A palavra Senet 
+significa “passagem” do espírito para uma nova vida após a morte (Teixeira, 2017). Um 
+outro exemplo pertinente é documentado pelo filósofo grego Heródoto, onde ele descreve 
+a história ocorrida há cerca de 3 mil anos do rei Atys da Lídia, que, motivado por uma 
+enorme  escassez de alimentos, fez o seu povo alternar entre alimentar-se  em um dia e 
+jogar jogos intensamente no outro, conseguindo assim, resistir à essa adversidade durante 
+18  anos  (McGonigal,  2011).  Atualmente  a  motivação  para  jogarmos  mudou,  segundo 
+McGonigal (2011), o mundo está gastando mais de 3 bilhões de horas por semana com 
+jogos. As pessoas estão buscando  algo que  a realidade não está oferecendo e os jogos 
+estão  suprindo  esta  necessidade.  Para  ela,  a  realidade  está  “quebrada”  e  os  jogadores 
+podem consertá-la. 
+
+ 
+Vale  destacar  que  existem  pesquisas  e  linhas  teóricas  que  indicam  que  a 
+experiência  de  jogar  é  gratificante  justamente  porque  oferece  desafios,  pelo  fato  de 
+convidar o jogador a um tipo de “trabalho árduo”, impulsionando o desenvolvimento da 
+criatividade, em que oportuniza formas de socialização que nos ajudam a constituir novos 
+relacionamentos.  “Jogar  um  jogo  é  a  tentativa  voluntária  de  superar  obstáculos 
+desnecessários” (Salen e Zimmerman, 2004). Jane McGonigal (2011) acrescenta que “os 
+jogos nos desafiam com obstáculos voluntários e nos ajudam a usar melhor nossos pontos 
+fortes pessoais”. O fracasso no jogo não é algo negativo, e sim um combustível para o 
+alcance  do  êxito,  que  potencializa  o  sentimento  de  realização.  Também  é  importante 
+ressaltar que a gamificação vem apresentando uma rápida difusão pela educação, aplicada 
+como estratégia de ensino e aprendizagem, com o público jovem que conhece os vários 
+conceitos de games, o que vem trazendo diversos resultados positivos (Sheldon 2012). 
+Segundo Bem (2014), a área de educação é atualmente uma das maiores consumidoras 
+de produtos gamificados, auxiliando o processo de aprendizagem de maneira mais lúdica, 
+aumentando a motivação dos participantes. Silva (et al, 2015), por sua vez, comprova que 
+a aplicação de atividades gamificadas na educação proporcionam aumento da motivação 
+e do estímulo para a busca do conhecimento nos estudantes. 
+
+Para  finalizar  essa  contextualização,  o  professor  apresentou  um  vídeo  da 
+ 
+pesquisadora  Jane  McGonigal,  “Jane  McGonigal:  Truths  &  Myths  in  Gaming” 
+[McGonigal 2012], que aborda e desmistifica alguns preconceitos sobre os jogos, como 
+“as gerações que cresceram escutando que eles são uma perda de tempo e que estavam 
+desperdiçando suas vidas ao passar horas jogando”. Há na sociedade uma preocupação 
+em  relação  ao  vício  e  a  violência,  então  levantou-se  a  questão  para  debate  “Os  jogos 
+podem ser considerados vilões ou responsáveis?”. 
+
+ 
+Posteriormente, na segunda aula, também de cinquenta minutos, assim como as 
+demais, ocorreu uma exposição dialogada que mobilizou os estudantes a refletirem sobre 
+o  que  é  e  o  que  não  é  gamificação.  Utilizando-se  de  uma  apresentação  de  slides  que 
+compartilhou reflexões de alguns especialistas sobre o assunto, estabeleceu-se o conceito 
+de gamificação, que compreende “o uso de mecânicas de jogos e design de experiência 
+para envolver e motivar [...] as pessoas para alcançar seus objetivos”. Nesse itinerário de 
+definição sobre o conceito fundamental da gamificação, foi destacado o fato de que não 
+é possível reduzi-la ao simples ato de dar pontos, prêmios ou exibir um quadro com um 
+ranking. Os estudantes compreenderam que esses elementos isolados não tem um grande 
+
+ 
+
+ 
+
+ 
+impacto; é necessário avaliar o contexto que está sendo gamificado para a obtenção de 
+bons resultados. 
+
+Na  terceira  aula,  foi  apresentado  aos  estudantes  o  framework  Octalysis  - 
+ 
+desenvolvido por Yu Kai-Chou - que é uma metodologia que sintetiza elementos basilares 
+da motivação que todo ser humano possui ao jogar. Após fazer uma breve apresentação 
+do Octalysis, o docente exibe o vídeo: “Gamification to improve our world yu-kai chou 
+at tedxlausanne”, no qual o autor descreve sua metodologia com exemplos. Depois da 
+exibição  do  vídeo,  o  professor  apresentou  com  maior  ênfase  os  oito  elementos  do 
+framework, que são:  
+
+1. Significado Épico e Chamado (Epic Meaning & Calling) – o jogador acredita 
+ 
+que  está  fazendo  algo  maior  que  ele  mesmo.  Ele  foi  o  "escolhido"  para  fazer  algo 
+grandioso.  Exemplos:  Wikipedia,  Jogos  MMO  (Massive  Multiplayer  Online,  em 
+português, Multijogador Massivo Online). 
+
+ 
+2.  Desenvolvimento  e  Realização  (Development  &  Accomplishment)  –  o 
+jogador é impulsionado a realizar avanços, progressos, desenvolver habilidades e superar 
+desafios. Exemplos: Mudanças de níveis, desenvolvimento do personagem em jogos. 
+
+ 
+3.  Empoderamento da Criatividade e Feedback (Empowerment of Creativity 
+& Feedback) – o  jogador está envolvido num processo criativo no qual repetidamente 
+tem de descobrir algo e tentar combinações diferentes. Exemplos: Lego, Pintar. 
+
+ 
+4.  Propriedade e Posse (Ownership & Possession) – o jogador é motivado por 
+possuir  alguma  coisa  e  desejar  torná-la  melhor,  ou  possuir  ainda  mais.  Exemplos: 
+Acumular riqueza nos jogos, personalizar seu perfil ou avatar. 
+
+5.  Influência  Social  e  Pertencimento  (Social  Influence  &  Relatedness)  –  o 
+ 
+jogador  é  motivado  por  elementos  sociais  que  influenciam  as  pessoas,  incluindo 
+orientação,  aceitação,  respostas  sociais,  companheirismo,  bem  como  a  competição  e  a 
+inveja.  Exemplos:  Alcançar  o  mesmo  nível  no  jogo  (ou  ultrapassar)  porque  um  amigo 
+está em um nível mais alto ou jogar um jogo porque todo mundo está jogando. 
+
+ 
+6. Escassez e Impaciência (Scarcity & Impatience) – o jogador é motivado pelo 
+desejo  de  algo  que  não  pode  ter.  Exemplos:  Jogos  que  pedem  para  voltar  depois  para 
+ganhar uma recompensa ou venda de jogos para um público exclusivo. 
+
+ 
+7. Imprevisibilidade e Curiosidade (Unpredictability & Curiosity) – o jogador 
+é motivado por querer descobrir o que vai acontecer a seguir. Se ele não sabe o que vai 
+acontecer, o seu cérebro está envolvido e pensa sobre isso muitas vezes. Exemplos: Jogos 
+de loteria e assistir Séries. 
+
+ 
+8. Perda e Evasão (Loss & Avoidance) – o jogador é motivado pela prevenção 
+de algo negativo que possa ocorrer. Exemplo: Não desistir de continuar um jogo porque 
+todo trabalho realizado seria perdido. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1: Diagrama da ferramenta Octalysis, baseado em Chou (2015). 
+
+Essa  apresentação  é  seguida  de  exemplos  de  Gamificação,  exibidos  em  alguns 
+ 
+vídeos, destacando as estratégias e os elementos de jogos utilizados em cada situação; o 
+aspecto inovador, o que torna cada um deles interessante e como eles engajam as pessoas 
+em  suas  dinâmicas.  É  importante  também  perguntar  aos  estudantes,  ao  final  de  cada 
+vídeo, quais elementos do framework podem ser observados. Todos os vídeos exibidos 
+são da campanha The Fun Theory, promovida pela Volkswagen em 2010. 
+
+ideia  é  encontrar  desafios  e  oportunidades  que  podem 
+
+ 
+Com  os  estudantes  inspirados  e  motivados,  o  próximo  passo  do  professor  é 
+organizar a turma em times de cinco integrantes e convidando-los a investigar o espaço 
+escolar.  A 
+ser 
+aprimorados/solucionados,  através  de  um  projeto  de  intervenção  gamificada,  pelos 
+estudantes. Foi organizado com os estudantes um roteiro com questões orientadoras para 
+o  passeio  pela  escola.  Nesse  roteiro  de  pesquisa,  foram  relacionados  elementos  de 
+investigação, como por exemplo, as pessoas com as quais eles podem conversar (outros 
+jovens,  professores,  cozinheiros,  pessoal  da  limpeza,  bibliotecária,  coordenação,  entre 
+identificar  questões 
+outras),  e  quais  perguntas  poderiam  ser  feitas  buscando 
+problemáticas, etc. 
+
+ 
+Terminada  a  investigação,  cada  time  criou  uma  proposta  de  intervenção 
+gamificada  que  partiram  das  ideias  levantadas  durante  a  circulação  pela  escola,  e 
+mandatoriamente continham um ou mais elementos do framework Octalysis estudado nos 
+encontros  anteriores.  Durante  todo  o  processo,  o  professor  conversou  com  cada  time, 
+apoiando-os  na  aplicação  dessa  metodologia,  avaliando  a  viabilidade  da  proposta, 
+principalmente no que se refere aos recursos e custos envolvidos; efetivamente, fazendo 
+gestão  e  acompanhamento  dos  projetos.    Vale  salientar  a  importância  do  cuidado  no 
+momento da conversa com os times, para não permitir que eles descartem uma boa ideia. 
+Cada  projeto  foi  estruturado  e  detalhado  em  um  documento  (Google  Docs,  Microsoft 
+Word, ou similar), com os nomes dos proponentes, um resumo da proposta, o público-
+alvo,  a  indicação  do  problema  que  se  busca  resolver,  a  proposta  de  intervenção  como 
+solução,  o  prazo,  os  materiais  necessários,  os  elementos  basilares  dos  jogos  que  serão 
+utilizados, os elementos norteadores do framework Octalysis e as referências. 
+
+ 
+A última etapa foi dedicada à implementação da intervenção por cada grupo. Em 
+um  primeiro  momento,  os  times  fizeram  uma  apresentação  das  propostas  para  toda  a 
+
+ 
+turma,  a  fim  de  que  os  demais  pudessem  conhecê-las.  Posteriormente,  os  estudantes 
+utilizaram a criatividade para desenvolver as intervenções propostas a partir dos materiais 
+disponíveis. Uma vez criadas as intervenções, os jovens propuseram campanhas ou ações 
+de mobilização (nos intervalos das aulas, por exemplo) e divulgaram para toda a escola 
+suas propostas, e qual problema seria solucionado, incentivando assim a participação de 
+todos os colegas. 
+
+Encerrando o percurso, depois que todos os projetos de intervenção gamificada 
+ 
+foram  realizados,  o  professor  promoveu  um  encontro  de  avaliação  e  apropriação  dos 
+resultados; um momento para que todos identificassem as suas aprendizagens. 
+
+4. Resultados obtidos: Projeto Caça ao Conhecimento Perdido 
+
+O projeto Caça ao Conhecimento Perdido foi realizado em parceria com a coordenadora 
+da biblioteca, que ajudou o time de estudantes na sua concepção e implementação em um 
+evento  interno  da  escola.  Para  estruturação  do  projeto,  forneceu-se  aos  estudantes  um 
+documento  norteador  que  continha  a  seguinte  estrutura:  1)  Título  do  projeto;  2) 
+Proponentes;  3)  Descrição  do  projeto,  contendo  ainda  um  Resumo,  Público-alvo, 
+Problema,  Proposta  da  solução,  Prazo  para  implementação  do  projeto,  materiais 
+necessários,  Quais  elementos  dos  jogos  são  usados  no  projeto,  Quais  elementos  do 
+framework Octalysis são utilizados; 4) Trabalhos futuros; e, 5) Referências. O documento 
+segue abaixo exposto conforme proposto pelos estudantes. 
+
+Título do projeto: Caça ao Conhecimento Perdido. 
+
+Proponentes: Caio Henrique, Gabriel Augusto, Janderson Ferreira, Thiago Cesar 
+
+ 
+e Vinnícius Rodrigo. 
+
+Descrição do projeto 
+
+ 
+Resumo:  Caça  ao  Conhecimento  Perdido  é  um  projeto  que  visa  transformar  o 
+espaço da biblioteca em um ambiente que promova novas formas de ressignificar a leitura 
+e o uso interativo do espaço, para promover e resgatar o gosto pela mesma. Para isso, os 
+estudantes  são  convidados  a  participar  de  um  desafio  que,  ao  completá-lo,  serão 
+destacados no quadro dos leitores do mês (com maior número de títulos lidos no período 
+estabelecido) da biblioteca e poderão ganhar prêmios, como bombons, canetas, ingressos 
+de cinema, entre outros. O desafio, dividido em 4 partes chamadas de trilha, consiste em 
+enviar  para  os  e-mails  dos  participantes,  ou  pistas  postas  dentro  do  próprio  espaço  de 
+leitura,  dicas de livros que eles devem ler. Exemplo: O livro que você deve ler está no 
+corredor 4, o autor é Machado de Assis e na obra é narrada a história de um personagem 
+chamado Bentinho que tinha ciúmes excessivos em relação a sua amada. O livro trará a 
+pista para o próximo título. 
+
+Estes  títulos  passam  por  uma  prévia  curadoria,  que  pode  estar  associada  a  períodos 
+literários estudados no componente curricular da área de linguagem ou apenas da leitura 
+deleite, ou relacionados há alguma temática 
+
+ Depois do participante encontrar o livro e lê-lo, este deverá fazer um resumo ou resenha 
+e  enviar  para  os  coordenadores  do  projeto  que  validarão  o  material  enviado.  Após  a 
+averiguação,  será  encaminha  uma  nova  dica  para  o  próximo  livro.  E  esse  processo  se 
+repete até o 4º livro (chamado de livro chave). Após o 4º livro, o leitor deverá escrever 
+uma  pequena  história  contendo  todos  os  principais  personagens  dos  livros  lidos  para 
+finalizar a trilha. Ganham os participantes que completarem mais rápido todas as trilhas. 
+Para ter direito aos prêmios, o participante deve terminar em uma das 3 colocações. Além 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+de  prêmios,  ele  terá  o  nome  divulgado  no  quadro  da  biblioteca  como  um  dos  leitores 
+vencedores  do  desafio.  este  material  será  postado  nas  mídias  da  escola  para  ampla 
+compartilhamento. 
+
+Público-alvo:  Estudantes  da  Escola  Técnica  Estadual  Cícero  Dias  -  NAVE 
+
+ 
+Recife. 
+
+Problema: Incentivo a leitura deleite e clássica. 
+
+ 
+Proposta da solução:  Criar um desafio, dividido em 4 partes chamadas de trilha, 
+para um público máximo de 20 participantes. Será feito uma chamada para o desafio nas 
+redes  sociais  da  escola  e  nos  quadros  informativos  contendo  o  link  do  formulário  de 
+inscrição.  Após  um  período  de  duas  semanas,  será  avaliada  a  quantidade  de  inscritos. 
+Tendo um mínimo de 10 participantes, o desafio é iniciado. O desafio consiste na solução 
+de um enigma através de pistas e, este sendo resolvido, leva o participante até um livro. 
+Após a leitura do livro, o participante deverá fazer um resumo ou resenha e enviar para 
+os coordenadores do projeto que verificará o material enviado. Se estiver tudo correto, 
+será liberado um novo enigma. Esse processo se repete até o 4º livro (chamado de livro 
+chave). Após o 4º livro, o leitor deverá escrever uma pequena história contendo todos os 
+principais personagens dos livros lidos para finalizar a trilha.  Ganham os participantes 
+que completarem mais rápido todas as trilhas. Para ter direito aos prêmios, o participante 
+deve terminar em uma das 3 colocações. Além de prêmios, ele terá o nome divulgado no 
+quadro da biblioteca como um dos leitores vencedores do desafio.  
+
+ 
+
+Prazo para implementação do projeto: 2 meses. 
+
+Materiais  necessários:  Tecido  TNT,  E.V.A,  Papel,  Cola,  Garrafas  recicláveis, 
+
+ 
+Copos plásticos, entre outros.  
+
+Quais  elementos  dos  jogos  são  usados  no  projeto?  Competição;  Desafio; 
+
+ 
+Diversão; Interatividade; Metas, Participação voluntária; Recompensa; Regras. 
+
+Quais  elementos  do  framework  Octalysis  são  utilizados?  Significado  épico  e 
+ 
+chamado;  Desenvolvimento  e  Realização;  Influência  Social  e  Pertencimento  e 
+Imprevisibilidade e Curiosidade. 
+
+Trabalhos futuros: Resgatar o clube de leitura da escola e levar o projeto para 
+
+ 
+outras escolas, adaptando a realidade das outras escolas. 
+
+Referências: 
+
+ 
+Brinquedos. 
+<https://www.ludopedia.com.br/jogo/caca-ao-tesouro-i#>. Acesso em: 05 nov. 2018. 
+
+Tesouro. 
+
+TOIA, 
+
+Caça 
+
+ao 
+
+2005. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 2:  Identidade visual do projeto Caça ao Conhecimento Perdido. 
+
+Figura 3:  Elementos do projeto Caça ao Conhecimento Perdido. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 4:  Elementos do projeto Caça ao Conhecimento Perdido. 
+
+ 
+
+ 
+
+ 
+
+Figura 5:  Usuários interagindo com o projeto Caça ao Conhecimento Perdido e 
+seu aplicador. 
+
+ 
+
+5. Conclusão 
+
+A  escola  é  um  espaço  social  e  possui  recursos  que  são  compartilhados  (salas  de  aula, 
+biblioteca,  refeitório,  quadra,  etc.)  sendo  alguns  deles  mal  utilizados  ou  subutilizados. 
+Além disso, a convivência cotidiana faz surgir outras questões relevantes, como bullying, 
+baixo  desempenho  escolar,  evasão,  entre  outros.  Essa  atividade  oportunizou  que  os 
+estudantes desenvolvessem uma leitura crítica sobre o ambiente escolar, compreendendo-
+o como lugar social em sua complexidade, preparando o jovem para identificar as suas 
+possibilidades de agência nesse espaço. 
+
+ 
+O percurso da prática convidou os estudantes a criarem propostas de intervenção 
+na escola norteadas por um framework de gamificação, para impactar positivamente esse 
+microcosmo. A proposta de utilizar estratégias de gamificação foi profícua, pois engajou 
+tanto a turma que propôs a intervenção quanto toda a comunidade escolar. A atividade 
+gerada  em  conjunto  com  a  biblioteca  da  escola  mobilizou  os  estudantes  de  forma 
+autônoma  e  alcançou  uma  projeção  de  destaque  dentro  de  um  evento  escolar,  já  que 
+diversos visitantes interagiram e elogiaram a mesma. 
+
+ 
+Com o auxílio da metodologia, os jovens se tornaram mais engajados, sentiram-
+se desafiados e aprenderam que o fracasso não é negativo em si, mas sim uma motivação 
+para se aperfeiçoar e tentar outras vezes. 
+
+Referências 
+
+Routledge. 
+
+Bem, R. F. S. (2014). Projeto ludus: uma metodologia gamificada de gerenciamento de 
+projetos 2014. 73 f. Dissertação de Mestrado em Design – Departamento de Design, 
+Universidade Federal de Pernambuco, Recife.   
+
+Burke, B. (2016). Gamify: How gamification motivates people to do extraordinary things. 
+
+Chou, Y. K. (2015). Actionable gamification: Beyond points, badges, and leaderboards. 
+
+Fremont, CA: Octalysis Group. 
+
+Chou, Y. K. (2015). Octalysis - The Complete Gamification Framework. Gamification & 
+https://yukaichou.com/gamification-
+from: 
+
+Behavioral  Design.  Available 
+
+examples/octalysis-complete-gamification-framework/. 
+2018]. 
+
+[Accessed  01  November 
+
+Fardo, M. L. (2013). A Gamificação Aplicada em Ambientes de Aprendizagem. Novas 
+
+Tecnologias na Educação. CINTED-UFRGS. V.11, nº 1, julho.   
+
+Huizinga,  J.  (1971).  Homo  ludens:  o  jogo  como  elemento  da  cultura.  Editora  da 
+
+Universidade de S. Paulo, Editora Perspectiva. 
+
+Mcgonigal, J. (2011). Reality Is Broken: Why Games Make Us Better And How They 
+
+Can Change The World. Penguin. 
+
+Mcgonigal, J. (2012). Jane McGonigal: Truths & Myths in Gaming. Big Think. Available 
+from:  https://www.youtube.com/watch?v=ZJ7uaDlYVmo.  [Accessed  01  November 
+2018]. 
+
+Salen, K., Zimmerman, E. (2004). Rules of play: Game design fundamentals. MIT press. 
+
+Sheldon,  L.  (2012).  The  Multiplayer  Classroom:  Designing  Coursework  as  a  Game, 
+
+Boston, MA: Cengage Learning. 
+
+Silva, A. P., Martinz, V. F.; Dutra, C., Machado, T. L. A., Araújo, L. F. A. - Gamificação 
+para  Melhoria  do  Engajamento  no  Ensino  Médio  Integrado.  Centro  de  Estudos  em 
+Sistemas Avançados do Recife, CESAR, Brasil. 2015. 
+
+Teixeira, R. E. C. (2017). Matemática Recreativa: Dados Para Todos Os Gostos. Atlântico 
+
+Expresso, P. 17-17. 
+
+Werbach, K. e Hunter, D. (2012). For The Win: How Game Thinking Can Revolutionize 
+
+Your Business. Filadélfia, Pensilvânia: Wharton Digital Press, 2012.   
+
+Zichermann, G. e Cunningham, C. (2011). Gamification by design: Implementing game 
+
+mechanics in web and mobile apps. "O'Reilly Media, Inc.". 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

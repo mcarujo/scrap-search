@@ -1,0 +1,837 @@
+IV Congresso sobre Tecnologias na Educação (Ctrl+E 2019) 
+ 
+
+ 
+
+Recife, Pernambuco – Brasil 
+
+28 a 30 de agosto de 2019 
+
+Utilização do Openredu como Ferramenta de Gestão do 
+Conhecimento na Secretaria de Planejamento e Gestão de 
+Pernambuco 
+
+Hugo Augusto Vasconcelos Medeiros1, Nathalia Luíza Farias da Silva¹ 
+
+1Instituto de Gestão Pública de Pernambuco 
+50040-090, 1377 – Recife – PE – Brasil 
+
+hugo.vasconcelos@seplag.pe.gov.br, nathalia.farias@seplag.pe.gov.br
+
+Abstract.  Regarding  a  contribution  to  digital  transformation  in  Public 
+Administration,  this  paper  presents  the  experience  report  centered  on 
+participant  observation  of  Openredu  implementing  process  as  a  tool  for 
+Knowledge  Management  in  the  Pernambuco  State  Department  of  Planning 
+and  Management.  To  that  aim,  describe  the  solution,  define  the  concept  and 
+framework of Knowledge Management used, and present the trajectory of the 
+implantation,  detaching  the  preliminary  outcomes  and  the  observed  patterns. 
+Finally, there’s an evaluation about the mature of the implantation, describing 
+the positive impacts about over Knowledge Management main factors.   
+
+Resumo.  Tendo  em  vista  contribuir  para  a  discussão  sobre  transformação 
+digital  na  Administração  Pública,  este  artigo  apresenta  um  relato  da 
+experiência  centrado  nos  observadores  participantes  da  implantação  da 
+plataforma de ensino Openredu como ferramenta de Gestão do Conhecimento 
+na Secretaria de Planejamento e Gestão de Pernambuco. Para isso, descreve 
+a  plataforma,  define  o  conceito  e  a  abordagem  de  Gestão  do  Conhecimento 
+utilizados, e apresenta a trajetória de  implantação, destacando os resultados 
+preliminares e padrões observados. Por fim, há uma avaliação da maturidade 
+da implantação, descrevendo os impactos positivos sobre os principais fatores 
+da Gestão do Conhecimento.  
+
+1. Introdução 
+
+A  Secretaria  de  Planejamento  e  Gestão  de  Pernambuco  (Seplag)  é  uma  unidade  da 
+administração direta responsável pelo planejamento, orçamento  e por diferentes pautas 
+da gestão estadual, como as diretrizes de gestão estratégica, de gestão por resultados e 
+de  desenvolvimento  do  modelo  de  gestão  como  um  todo.  A  Seplag  se  organiza  em 
+secretarias  executivas,  dedicadas  às  áreas-fins  de  atuação:  gestão  estratégica  e 
+planejamento,  gestão  por  resultados,  apoio  aos  municípios,  planejamento  e  gestão 
+orçamentária, e coordenação geral.  
+
+ 
+Além disso, a Secretaria possui em sua estrutura o Instituto de Gestão Pública de 
+Pernambuco  Governador  “Eduardo  Campos”  (IGPE),  responsável  por  atividades 
+transversais à Secretaria. O IGPE é organizado em dois núcleos: o Núcleo de Gestão do 
+Conhecimento (NGC), responsável pelo Programa de Formação Continuada (PFC), pela 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+pesquisa, difusão e gestão de conhecimento sobre gestão pública, gestão governamental, 
+e inovação; e o Núcleo de Ciência de Dados (NCD), responsável pelo suporte à tomada 
+de  decisão,  com  base  na  gestão  de  dados  e  da  informação,  na  avaliação  e  desenho  de 
+programas e políticas públicas prioritárias do Estado.  
+
+ 
+Nesta estrutura, e seguindo a diretriz de transformação digital (PERNAMBUCO, 
+2018),  no  segundo  semestre  de  2018,  o  IGPE  iniciou  a  procura  por  um  Ambiente 
+Virtual de Aprendizagem (AVA) com o qual pudesse oferecer os cursos de seu PFC. 
+
+ 
+À  época,  a  avaliação  era  de  que  1)  a  oferta  de  ações  presenciais  de  formação 
+consumia bastante recursos operacionais, sobretudo tempo, com atividades burocráticas 
+e não sistemáticas, tais como enviar, novamente, a  cada curso, o matéria didático para 
+todos os novos inscritos 2) não era possível garantir a capilaridade  exigida em virtude 
+da dispersão dos servidores do órgão pelas diversas pastas da gestão estadual, e algumas 
+da gestão municipal; e 3) vários servidores repetiam os cursos de caráter mais técnico 
+por  não  conseguirem  aprender  todos  os  conteúdos  no  ritmo  em  que  as  aulas  eram 
+ministradas.  
+
+Diante dessas dificuldades, optou-se pela transformação digital do serviço, tendo 
+ 
+em  vista  padronizar  a  tecnologia  de  Gestão  do  Conhecimento,  o  que  permitiria 
+centralizar  o  mapeamento,  o  armazenamento  e  a  comunicação  dos  conhecimentos,  e 
+oferecer  ensino  assíncrono  em  espaço,  para  os  servidores  distribuídos  pelos  órgãos,  e 
+em  tempo,  para  que  os  servidores  com  dificuldades  nos  cursos  técnicos  pudessem 
+aprender no seu próprio ritmo.   
+
+ 
+Normalmente,  para  casos  de  transformação  digital  como  este,  o  padrão  do 
+Instituto  de  Gestão  Pública  de  Pernambuco  é  buscar,  dentro  do  governo  e  em 
+repositórios públicos ou de código aberto (tais como alternativeto e joinup), ferramentas 
+cujas  características  permitam  torná-las  soluções  adaptáveis  para  resolver  o  problema 
+em tela, e digitalizar o processo em questão.  
+
+ 
+Contudo, no  caso do Openredu o processo foi um  pouco diferente, pois  alguns 
+dos  servidores  envolvidos  no  projeto  de  transformação  digital  do  PFC  já  haviam 
+conhecido  a  ferramenta  antes,  quando  trabalhavam  na  Secretaria  de  Educação  de 
+Pernambuco,  onde  a  plataforma  é  utilizada  para  ensino  híbrido  nas  escolas  da  rede 
+estadual.  Assim,  a  solução  foi  vista  como  adequada,  por  atender  aos  critérios  não 
+funcionais,  uma  vez  que  é  escrita  em  código  aberto  já  instanciado  no  Estado;  e 
+funcionais,  por  oferecer  o  ensino  eletrônico  e  gestão  da  aprendizagem.  Além  disso,  o 
+benchmarking realizado  à época,  com opções semelhantes, como o Moodle, apontou a 
+plataforma OpenRedu como  mais adequada, sobretudo por suas características de rede 
+social.  
+
+ 
+Então,  este  artigo  descreve  a  experiência  de  implementação  do  Openredu  na 
+Seplag, abordando a perspectiva da transformação  digital dos processos de negócio de 
+formação  continuada  da  Secretaria.  A  perspectiva  metodológica  é  de  um  relato  de 
+experiência  focado  na  recuperação  da  memória  dos  observadores  participantes 
+responsáveis pelo processo. Para organizar a escrita, na primeira parte, são discutidos os 
+conceitos  centrais  da  análise,  tais  como  as  características  e  funcionalidades  do 
+Openredu, a definição e abordagem de Gestão de Conhecimento usadas na implantação, 
+e a perspectiva pedagógica  relacionada à plataforma. Em seguida, faz-se um mergulho 
+na  trajetória  da  implementação  da  ferramenta,  com  foco  nos  desafios  e  limites 
+experimentados  na  adoção,  e  apresentação  de  uma  retrospectiva  da  implantação.  Na 
+
+ 
+
+conclusão, realiza-se uma análise da implementação a partir da proposta de Oliveira et 
+al.  (2011)  de  avaliação  da  maturidade  de  um  modelo  de  Gestão  do  Conhecimento  e 
+mostra-se breve plano de continuidade da implementação, focado na sensibilização dos 
+servidores  quanto  às  vantagens  da  ferramenta,  oferecendo,  inclusive,  orientações  para 
+adoção da plataforma em outros órgãos. 
+
+2. Transformação Digital, Openredu e Gestão do Conhecimento. 
+
+Tanto  na  estratégia  de  governança  digital  federal  (BRASIL,  2018),  quanto  na  estadual 
+(PERNAMBUCO,  2018),  a  perspectiva  de  transformação  digital  aparece  com  força, 
+indicando  a  necessidade  de  um  alinhamento  estratégico  para  a  construção  de  um 
+Governo  Digital  que,  usando  de  TIC,  desenvolva  a  própria  administração  pública  e 
+ofereça melhores serviços para a população.  
+
+Neste  contexto,  é  fundamental  o  papel  da  Seplag,  enquanto  Secretaria 
+ 
+responsável  pelo  planejamento,  pela  gestão  e  pelo  orçamento  para  as  iniciativas 
+públicas,  pois,  como  afirmam  Kane  et  al.  (2015),  a  transformação  digital  é  mais  uma 
+questão  de  estratégia  do  que  de  tecnologia,  uma  vez  que  cabe  à  estratégia  criar  um 
+alinhamento e uma mudança organizacional que permitam a transformação, a partir das 
+tecnologias que, em muitos casos, já se encontram disponíveis.  
+
+Então, a principal contribuição da Seplag para a transformação digital tem sido o 
+ 
+mapeamento das iniciativas públicas e o posterior planejamento e suporte à modificação 
+dos  serviços  analógicos  em  serviços  digitais.  Desse  modo,  a  busca  pelo  Openredu 
+alinha-se  à  diretriz  de  transformação  digital  e  a  um  esforço  da  Seplag  induzir  a 
+modificação de seus próprios serviços internos. 
+
+Outro ponto importante para compreender a adoça da plataforma é a perspectiva 
+
+ 
+e a maturidade de Gestão de Conhecimento (GC) presentes na Seplag à época.  De 
+acordo  com  Oliveira  et  al.  (2011),  a  implementação  de  um  modelo  de  Gestão  do 
+Conhecimento envolve quatro fatores:  
+
+•  Contexto interno: cultura organizacional, suporte da alta administração, estrutura 
+
+organizacional; 
+
+•  Conteúdo:  benefícios,  objetivos,  alinhamento  estratégico,  mapeamento  de 
+
+conhecimento crítico, tácito e explícito;  
+
+•  Processo: 
+
+tecnologia, 
+recrutamento, orçamento, disseminação, armazenamento, criação; e 
+
+comunicação, 
+
+treinamento, 
+
+tempo, 
+
+recompensa, 
+
+•  Contexto externo: parceiros, legislação, competidores, fornecedores, clientes. 
+
+Assim, para desenvolver a GC é necessário criar um contexto interno favorável, 
+ 
+desenvolver o conteúdo que será gerenciado, os processos através dos quais se efetivará 
+a  gestão,  e,  não  menos  importante,  considerar  os  aspectos  externos  que  podem 
+influenciar a adoção – o que, no caso público, é muito importante, em virtude do sentido 
+estrito de legalidade ao qual ela se submete.  
+
+Além disso, é preciso escolher uma abordagem de GC. No  momento  da  adoção 
+ 
+da  plataforma, 
+foi  escolhida  a  abordagem  de  “aprendizagem  e  educação” 
+(FUKUNAGA, 2018), que pode ser definida como um tipo de Gestão do Conhecimento 
+em  que  as  ações  de  encontrar,  organizar  e  compartilhar  conhecimento  acontecem  com 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+foco  no  fornecimento  de  ações  de  capacitação,  de  formação  continuada  (JANNUZZI, 
+2016).    
+
+ 
+A  avaliação  dos  fatores  indicava  que  havia  problemas  com  o  mapeamento  do 
+conhecimento, que muitas vezes precisava ser repetido; com a sua comunicação, já que 
+toda  ela  ocorria  por  troca  de  e-mails  e  por  telefone;  tecnologia,  pois  eram  usadas 
+diversas tecnologias diferentes para gerenciamento; treinamento e tempo, porque muitas 
+vezes  as  formações  tinham  de  ser  repetidas  ou  recursadas,  sobretudo  as  formações  do 
+eixo  técnico;  disseminação,  haja  vista  a  dificuldade  de  levar  treinamentos  para  outros 
+setores, distantes da Seplag; e no armazenamento, uma vez que os objetos educacionais 
+eram guardados na rede compartilhada da secretaria.  
+
+ 
+Nessa perspectiva, o Openredu  poderia ser a solução, pois permitiria agir sobre 
+os  pontos  onde  a  GC  da  Seplag  apresentava  baixa  maturidade.  Se  não,  vejamos:  de 
+acordo com Gomes et al. (2017), o Openredu é um software livre (GPL2), que oferece, 
+ao  mesmo  tempo,  um  Ambiente  Virtual  de  Aprendizagem  (AVA),  um  Sistema  de 
+Gestão da Aprendizagem (SGA) e uma rede social; o que propicia, no mesmo ambiente, 
+as  funções  de  ensino,  de  gestão  do  que  se  ensina  e  aprende,  de  compartilhamento  de 
+informações  e  conhecimentos,  e  de  engajamento  dos  estudantes  e  professores 
+(FERREIRA, 2017).   
+
+Então,  a  própria  adoção  da  ferramenta  já  daria  maturidade  ao  elemento 
+ 
+funcionalidades  presentes  no  AVA 
+tecnologia,  padronizando-a.  Ademais,  as 
+permitiriam  amadurecer  em 
+tempo,  disseminação  e 
+treinamento, 
+relação  a 
+armazenamento;  as  de  SGA  também  fortaleceriam  as  de  treinamento;  e  as  de  rede 
+social, as de comunicação e disseminação.  
+
+ 
+Também  se  deve  destacar  que  o  Openredu  atendia  plenamente  aos  principais 
+requisitos  não  funcionais  elencados  para  a  transformação  das  ações  de  capacitação 
+presenciais  em  digitais:  1)  adoção  de  um  software  livre,  em  virtude  de  questões  como 
+custo, licenciamento e liberdade de customização e utilização (OSÓRIO ET AL., 2005); 
+2) preferência por uma plataforma de fácil apreensão e uso, uma vez que os professores 
+e estudantes do PFC são servidores públicos e realizam as formações em seu horário de 
+trabalho,  havendo  pouco  tempo  disponível  para  alimentar  a  plataforma,  para  navegar 
+entre diferentes plataformas ou para aprender como usar uma ferramenta complexa.  
+
+ 
+
+  
+
+3. Trajetória da Implantação do Openredu: desafios, limites e usos 
+
+A  implantação  do  Openredu  começou  com  a  abertura  de  chamado  para  preparação  da 
+instância junto à Agência Estadual de Tecnologia da Informação (ATI), em 18/05/2018; 
+com conclusão do processo um mês depois, em 19/06/2018.  
+
+ 
+Neste  momento,  a  instância  parecia  estável  e  os  testes  de  uso  da  ferramenta 
+foram  iniciados.  Contudo,  em  20/08/2018,  foram  identificados  problemas  relativos  a 
+funcionalidades  básicas  da  ferramenta,  como  o  envio  de  e-mails  de  amizade,  convite 
+para  a  ferramenta,  recuperação  de  senhas,  etc..  o  upload  de  arquivos;  e  a  busca  por 
+ambientes.  
+
+A principal dificuldade na resolução dessas questões foi o fato de por a ATI não 
+ 
+ser  uma  fábrica  de  software,  não  realizar  modificações  nem  customizações  nas 
+ferramentas.  A  solução  encontrada  foi  solicitar  apoio  na  comunidade  da  ferramenta,  e 
+
+ 
+
+passar a orientação de modificação para a ATI apenas implementar. Com  esse suporte 
+da comunidade, as correções foram finalizadas em 03/10/2018.  
+
+ 
+Em paralelo aos testes, a plataforma foi sendo utilizada pela equipe responsável 
+pelo  PFC,  tendo  em  vista  observar  se  ela  atendia  às  regras  de  negócio  necessárias  à 
+oferta  de  curso.  Neste  momento,  retomando  o  modelo  de  Oliveira  et  al  (2011), 
+observamos que o elemento legislação, do fator contexto externo, foi observado que não 
+havia  compatibilidade  entre  as  regras  de  negócio  expressas  na  legislação  vigente  no 
+Estado  sobre  instrutoria  e  as  funcionalidades  disponíveis  na  Plataforma,  fazendo  com 
+que  sua  adoção  diminuísse  a  maturidade  neste  elemento,  e  no  elemento  tempo,  já  que 
+seria  necessário  realizar  atividades  por  fora  da  plataforma  para  atender  aos  requisitos 
+legais.  
+
+ 
+Em  suma,  a  ferramenta  não  poderia  ser  usada  diretamente  para  Educação  à 
+Distância  (EaD),  em  virtude  de  ela  não  oferecer  funções  de  gestão  administrativa  dos 
+cursos  (como,  por  exemplo,  certificação),  de  oferecer  pouca  possibilidade  de 
+customização  de  leiaute  e  de  revisão,  por  exemplo,  das  ordens  e  dos  materiais 
+carregados para o servidor.  
+
+ 
+Neste  ponto,  a  avaliação  foi  mista,  pois  1)  da  perspectiva  da  recepção  da 
+solução, a preparação da instância foi relativamente simples, durando no total cerca de 
+70  dias  (incluindo  o  período  de  testes  e  de  correções),  e  o  fato  de  a  comunidade  da 
+plataforma ser ativa e solícita mostrou-se uma vantagem adicional; 2) do ponto de vista 
+da solução do problema, a ferramenta não servia ao objetivo inicial, que era transformar 
+digitalmente o serviço de oferta de cursos, uma vez que ela diminuiria a maturidade nos 
+elementos tempo e legislação.  
+
+ 
+Assim, a secretaria tinha à disposição uma solução interessante, com zero custo 
+contábil, mas que não resolvia o problema. Isso fez com que a ferramenta permanecesse 
+inativa durante o final do ano de 2018. 
+
+ 
+Em  2019,  contudo,  houve  uma  troca  na  gestão  do  Instituto  e  na  equipe 
+responsável  pela  formação  continuada,  que  trouxe  consigo  algumas  mudanças  de 
+perspectiva: 
+
+o  Expandir  o  uso  apenas  da  abordagem  de  gestão  de  conhecimento  por 
+“aprendizagem e educação”, para incluir as abordagens de GC por “interação e 
+colaboração”, 
+localização,  compartilhamento  e  consulta  de 
+conhecimento,  e  por  “informação  e  conteúdo”,  preocupada  com  o  registro, 
+acesso e uso das informações e conteúdos disponíveis (FUKUNAGA, 2018); 
+
+focada  na 
+
+o  Executar  as  formações  a  partir  de  trilhas  de  aprendizagem,  as  quais  podem  ser 
+sistemáticos  de  ações  de 
+formas  de  aprendizagem” 
+
+definidas  como  “Conjuntos 
+desenvolvimento,  que 
+(MURASHIMA, 2011), formas essas organizadas em repositórios.   
+
+recorrem  a  múltiplas 
+
+integrados  e 
+
+Assim,  com  as  mudanças  de  perspectiva,  o  problema  deslocou-se  de  como 
+ 
+reduzir  os  custos  operacionais  (treinamento,  tempo  e  comunicação),  aumentar  a 
+capilaridade  dos 
+(disseminação)  e  oferecer  ensino  assíncrono 
+(treinamento),  para  como  localizar  e  compartilhar  conhecimento  (mapeamento  de 
+conhecimento),  através  do  registro  e  uso  dos  objetos  de  aprendizagem  das  trilhas 
+(armazenamento).  
+
+treinamentos 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Essas mudanças fizeram com que o Openredu voltasse para o jogo, uma vez que 
+a abordagem por interação e colaboração não possui legislação, permitindo que ela seja 
+feita de acordo com as regras de negócio decididas pela própria equipe. Então, a adoção 
+continuaria trazendo os mesmos resultados esperados, sem o impacto negativo sobre os 
+elementos tempo e legislação. 
+
+Ao  oferecer  funções  de  gerenciamento  de  aprendizagem,  tais  como  organizar 
+ 
+todos  os  objetos  de  aprendizagem  no  mesmo  lugar  (GOMES  ET  AL.,  2017);  e  por 
+aceitar  diversos  tipos  de  objetos  de  aprendizagem,  o  Openredu  tornou-se  uma  opção 
+perfeita  de  repositório  educacional,  atendendo  a  abordagem  de  GC  por  informação  e 
+conteúdo.  
+
+ 
+Além  disso,  sua  estrutura  de  rede  social,  que  tende  a  aumentar  o  engajamento 
+dos estudantes, e as interações entre eles e entre eles e os professores, mostrou-se uma 
+ótima  possibilidade  de  fazer  as  pessoas  entrarem  em  contato  e  compartilharem  seus 
+conhecimentos (FERREIRA, 2017). 
+
+ 
+Por isso, a ferramenta transbordou seu sentido original, e passou a ser usada não 
+somente  para  o  PFC,  mas  para  outras  ações  de  capacitação  da  secretaria,  e  do  próprio 
+Governo, de forma mais ampla.  
+
+ 
+Retomada  a  decisão  de  utilização  da  plataforma,  foram  retomados  os  teste. 
+Inicialmente,  a  própria  equipe  do  Instituto  de  Gestão  usou  a  ferramenta  para 
+compartilhar os conteúdos e realizar ensino híbrido em dois cursos de formação interna 
+da equipe: Modelagem de Dados e Arquitetura Corporativa. Os resultados foram bons, 
+atingindo a esperada redução nas trocas de mensagens e materiais, e facilitando a gestão 
+da  aprendizagem,  uma  vez  que  os  estudantes  têm  se  inscrito  sozinhos  nos  cursos, 
+através da sua rede de contatos e baixado os materiais de forma autônoma.  
+
+ 
+Além  do  uso  interno,  a  equipe  do  PFC  já  usou  a  ferramenta  com  três  cursos 
+abertos  ao  público  do  PFC  e  uma  oficina:  Lei  de  Responsabilidade  Fiscal,  Design 
+Thinking  e  Avaliação  de  Políticas  com  Inteligência  Artificial;  e  a  oficina  Sistema 
+Eletrônico de Informações. Nesses casos, os resultados foram semelhantes, uma vez que 
+a equipe do PFC e os professores reduziram o envio de informações e materiais por e-
+mail  para  somente  1  e-mail  –  o  de  confirmação  da  matrícula  e  indicação  do  site  do 
+OpenRedu  onde  a  disciplina  está  hospedada.  Nesses  quatro  casos,  em  virtude  do 
+material compartilhado, a matrícula nas disciplinas é moderada pela equipe do PFC.  
+
+Houve ainda um uso externo, numa perspectiva de Massive Open Online Course 
+ 
+(MOOC),  em  que  o  ambiente  chamado  Espaço  de  Inovação  foi  aberto  para  todos  os 
+participantes de um evento de inovação governamental.  Embora a perspectiva fosse de 
+uso  massivo,  uma  vez  que  o  ambiente  foi  aberto  para  inscrição  sem  moderação,  a 
+porcentagem  de  membros  no  ambiente  em  relação  ao  total  de  inscritos  no  evento 
+presencial foi relativamente baixa (o que ainda não podemos generalizar, em virtude de 
+ter sido realizado este uso em apenas um evento), como se vê no quadro-resumo abaixo, 
+com os indicadores dos três ambientes de ensino usados na plataforma: 
+
+ 
+
+Ambiente 
+
+Disciplinas 
+
+Aulas  Membros 
+
+Ação 
+Presencial? 
+
+% 
+membros/inscritos 
+na ação presencial 
+
+ 
+
+ 
+
+PFC 
+
+PFC 
+
+PFC 
+
+PFC 
+
+PFC 
+
+PFC 
+
+PFC 
+
+Programação 
+
+Não houve  4 
+
+de 
+
+Curso 
+
+6 
+
+Análise 
+Políticas 
+Públicas 
+
+Análise 
+Negócios 
+
+Inovação 
+
+de 
+
+Curso 
+
+11 
+
+Curso 
+
+do 
+
+Não houve  4 
+
+Gestão 
+Conhecimento 
+
+Modelagem 
+Dados 
+
+Legislação 
+Orçamentária 
+
+de 
+
+Curso 
+
+Curso 
+
+Espaço  de 
+Inovação 
+
+Espaço  de 
+Inovação 
+
+Espaço  de 
+Inovação 
+
+Inovação 
+
+Evento 
+
+14 
+
+Design Thinking  Evento 
+
+Métodos Ágeis 
+
+Evento 
+
+Espaço  de 
+Inovação 
+
+Economia 
+Comportamental 
+
+Evento 
+
+Oficina SEI 
+
+Oficina 
+
+SEI 
+
+ 
+
+24 
+
+24 
+
+12 
+
+12 
+
+7 
+
+7 
+
+6 
+
+10 
+
+10 
+
+10 
+
+10 
+
+5 
+
+2 
+
+5 
+
+1 
+
+4 
+
+6 
+
+3 
+
+3 
+
+- 
+
+120% 
+
+171% 
+
+60% 
+
+- 
+
+100% 
+
+30% 
+
+30% 
+
+30% 
+
+30% 
+
+30% 
+
+3% 
+
+ 
+Como  se  observa,  a  ferramenta  está  povoada  com  12  disciplinas,  as  quais  têm 
+número  de  aulas  oscilando  entre  1  e  14,  e  um  total  de  alunos  entre  5  e  24.  A  análise 
+qualitativa dos perfis das disciplinas mostrou que o total de aulas não  é um indicativo 
+fidedigno do total de conteúdo, uma vez que as disciplinas com poucas aulas estão com 
+os conteúdos concentrados, com todas as apresentações sendo oferecidas em aula única. 
+Quanto ao total de participantes, observamos que quando as disciplinas são ferramentas 
+de  ensino  eletrônico  de  uma  aula  que  também  ocorre  presencialmente,  o  número  de 
+inscritos tende a ser maior; enquanto a oficina apresentou porcentagem muito baixa de 
+inscritos  (contudo,  não  temos  números  ainda  para  avaliar  se  essa  é  uma  tendência  das 
+oficinas). 
+
+ 
+Finalmente,  foi  observado  ainda  que  a  ferramenta  serve  ao  propósito  de 
+repositório de objetos de conhecimento explícito, ainda que não conectados a ações de 
+formação  e  capacitação.  Assim,  o  armazenamento  e  a  disseminação  de  objetos  de 
+conhecimento  de  reuniões  de  construção  de  produtos  também  estão  realizados  através 
+da  ferramenta,  já  que  ele  permite  controlar  o  acesso  aos  objetos  e  também,  para  este 
+caso, reduz o envio de e-mails.  
+
+ 
+Assim, chegamos a julho com 4 ambientes ativos, 12 disciplinas, 52 membros, e 
+três  macro  usos  distintos:  oferta  de  objetos  educacionais  de  cursos  presenciais,  como 
+
+ 
+
+ensino híbrido, com matrícula controlada; ambiente de inscrição aberta e autoinstrução; 
+compartilhamento de materiais usados em reuniões, de forma controlada, sem atividades 
+educacionais atreladas.  
+
+4. Avaliação e Plano de Ação 
+
+Nesta  seção,  é  apresentada  a  avaliação  do  desenvolvimento  da  plataforma 
+ 
+tomando por bases os fatores elencados por Oliveira et al  (2011), quais sejam contexto 
+interno, conteúdo, processo e contexto externo. 
+
+Relembrando  o  que  já  foi  destacado  anteriormente,  deve-se  considerar  que  as 
+ 
+organizações caminham através de cinco níveis, de 0 a 4, de acordo com a maturidade 
+do fator. Em resumo, podemos dizer: 
+
+•  Nível  0  –  o  fator  não  existe  (por  exemplo,  não  há  tecnologia),  é  irregular  ou 
+superficial  (por  exemplo,  um  suporte  administrativo  errático),  ou,  de  acordo 
+com  o  fator  analisado,  são  mal  vistas  /  mal  avaliadas  (uma  legislação  ou  que 
+dificulta a Gestão do Conhecimento). 
+
+•  Nível  1  –  o  fator  ocorre  com  regularidade  mas  é  incipiente,  ou  acontece  com 
+considerável  esforço  /  desperdício,  dependendo  de  um  agente  específico,  por 
+exemplo.  
+
+•  Nível  2  –  o  fator  funciona  com  o  mínimo  de  padronização  e  regularidade 
+
+devidas;  
+
+•  Nível  3  –  o  fator  passa  a  ocorrer  de  maneira  fluída,  desenvolvendo-se  na 
+
+organização, trasbordando para outros setores;  
+
+•  Nível  4  –  o  fator  acontece  de  forma  plena,  alcançado  a  organização,  seu 
+
+ambiente interno e externo.    
+
+Evidentemente,  o  Openredu  não  pode  responder  a  todos  os  fatores  mapeados, 
+
+ 
+mas com a sua utilização foram percebidos alguns avanços, detalhados a seguir: 
+
+•  Mapeamento  de  Conhecimento  N2:  repositório  de  conhecimentos  explícitos  e 
+permitir  a  partilha  de  conhecimento  tácito  através  dos  seus  fóruns,  permitindo, 
+inclusive,  que  cada  estudante  trilhe  seu  próprio  caminho  de  aprendizagem 
+(MURASHIMA, 2011). 
+
+•  Comunicação  N2:  partilha  padronizada  e  centralizada,  com  baixo  retrabalho,  e 
+potencial para atingir o nível 3, caso os inscritos passem a utilizar na sua rotina a 
+comunicação  através  da  ferramenta  para  aprenderem  e  tirarem  dúvidas  sobre 
+rotinas, etc. 
+
+•  Tecnologia N2: ferramenta padronizada e disponível em qualquer tempo. 
+
+•  Treinamento  N1:  pois  ainda  há  um  número  pequeno  de  objetos  na  plataforma, 
+
+contudo, conforme o número torne-se maior, espera-se atingir o N2. 
+
+•  Tempo  N2:  já  que  o  tempo  gasto  com  partilha  dos  materiais  diminuiu  e  se 
+
+padronizou. 
+
+•  Armazenamento N2: armazenamento padronizado com repositório centralizado; 
+
+ 
+ 
+
+ 
+
+ 
+
+•  Disseminação  N2:  pois  a  ferramenta  tem  permitido  alcançar  mais  facilmente 
+agentes de outras secretarias, etc. Inclusive, já foram observadas 2 inscrições de 
+pessoas que não estavam na divulgação do ambiente ou disciplina.  
+
+ 
+Além  desses  resultados,  observa-se  potencial  para  atingir  o  nível  2  no  fator 
+benefícios, em virtude da possibilidade de gamificação da recompensa e de utilização de 
+formas mais ativas de ensino, como o híbrido e a sala de aula invertida.  
+
+ 
+Contudo, há que se lidar com as dificuldades e apresentar resultados, para que a 
+ferramenta  não  seja  mal  vista  ou  mal  avaliada.  As  principais  dificuldades  têm  sido  de 
+sensibilização  e  engajamento  para  o  uso  da  ferramenta,  e  as  reclamações,  referentes  à 
+experiência  do  usuário  na  ferramenta,  sobretudo  com  as  telas  monocromáticas,  e  links 
+pequenos para ,por exemplo, baixar, os materiais de apoio dentro dos cursos.  
+
+A  criação  da  conta,  inscrição  nos  cursos,  uso  dos  objetos,  etc.  tem  sido  fáceis, 
+ 
+não  necessitando,  na  maioria  dos  casos,  de  treinamento  específico.  Porém,  tem-se 
+mostrado necessária  a sensibilização  em relação ao  ensino eletrônico e  à possibilidade 
+de utilização da ferramenta para criar comunidades de aprendizagem, colocando o aluno 
+como protagonista do processo de ensino-aprendizagem, já que os pedidos de envio de 
+material por e-mail ainda são frequentes.  
+
+ 
+Deve-se  considerar,  neste  ponto,  que,  conforme  citado  na  introdução,  a 
+transformação digital é muito mais um processo de estratégia do que de tecnologia em si 
+(KANE ET AL., 2015). Então, para continuar avançando com  a GC numa perspectiva 
+digital,  é  necessário  cuidar,  sobretudo,  do  fator  contexto  interno,  sensibilizando  os 
+servidores e a alta administração, e criando formas de integrar os diferentes setores.  
+
+ 
+Assim,  planeja-se  para  o  fim  de  2019  um  grande  evento  específico  de 
+lançamento,  sensibilização  e  engajamento  para  a  ferramenta,  no  qual  serão  explicados 
+os benefícios de usar trilhas de aprendizagem, e os benefícios de usar o Openredu. Além 
+disso,  pretende-se  manter  a  estratégia  de  que  os  novos  cursos  para  o  público  geral 
+continuem  usando  a  ferramenta,  pelo  menos,  para  armazenar  os  objetos  educacionais 
+usados nas ações presenciais – sendo o ideal a utilização para ensino híbrido; bem como 
+a criação de MOOCS, e a disponibilização de materiais de reuniões. Com  isso,  espera-
+se, avançar para que todos os fatores relacionados à ferramenta estejam pelo menos no 
+nível  2,  construindo  o  nível  3  naqueles  fatores  que  a  ferramenta  permitir  avanço 
+adicional, como na comunicação.  
+
+Fazendo  uma  avaliação  retrospectiva  e  prescritiva,  para  outros  órgãos  que 
+ 
+possivelmente  desejem  adotar  transformação  digital  em  sua  Gestão  do  Conhecimento, 
+devemos dizer que a opção por uma ferramenta integrada (AVA + SGA + Rede Social) 
+de  código  livre  foi  acertada  em  virtude  de  possibilitar  uma  tecnologia  padronizada  e 
+centralizada, obtida apenas a custo de oportunidade.  
+
+ 
+Além  disso,  algumas  boas  lições  aprendidas  foram:  1)  pensar  não  somente  do 
+problema  para  a  solução,  mas  da  solução  para  o  problema,  já  que  o  Openredu  não 
+atendia ao esperado, mas possuía muitas outras vantagens, que puderam ser colhidas por 
+meio  da  alteração  da  abordagem  de  Gestão  do  Conhecimento;  2)  buscar  uma  solução 
+livre  cuja  comunidade  seja  ativa  e  solidária,  pois  isso  reduziu  bastante  o  tempo  de 
+instalação,  customização  e  manutenção,  além  de  permitir  usar  a  ferramenta  de  forma 
+mais  significativa,  e  já  ter,  inclusive,  um  banco  de  talentos  para  treinamentos  e 
+contratações  relativas  à  ferramenta;  3)  o  fator  legislação  deve  ser  sempre  levado 
+
+ 
+
+ 
+
+fortemente em consideração, já que a sua baixa maturidade pode diminuir a maturidade 
+de  outros  fatores,  ou,  até  mesmo,  inviabilizar  a  solução;  4)  os  fatores  de  contexto 
+interno  não  inviabilizam  a  solução,  mas  seguram  a  maturidade  de  outros  fatores,  pois 
+tem poder de criar um  lock-in, travando a  Gestão do Conhecimento a um ou a poucos 
+setores.  
+
+Referências 
+
+Brasil.  (2018)  Estratégia  de  Governança  Digital  –  EGD  –  Transformação  Digital: 
+Cidadania  e  Governo  2016-2019  –  Versão  Revisada.  Brasília,  Brasil,  Ministério  do 
+Planejamento, Desenvolvimento e Gestão.  
+
+Ferreira,  J.  (2017)  Análise  da  Efetividade  da  Comunicação  da  Rede  Social  Educativa 
+Openredu  em  Comunidades  de  Prática.  Recife,  Brasil,  Dissertação  de  Mestrado, 
+Programa  de  Pós-graduação  em  Ciência  da  Computação,  Centro  de  Informática, 
+Universidade Federal de Pernambuco.  
+
+Fukunaga, 
+
+F. 
+
+(2019) 
+
+“Abordagens 
+
+em  GC”, 
+
+In:  Blog 
+
+da 
+
+SBGC, 
+
+http://www.sbgc.org.br/blog/abordagens-em-gc, fevereiro.  
+
+Gomes,  S.  et  al.  (2017)  “Ensino  e  Aprendizagem  com  a  rede  social  Openredu”: 
+Tecnologias  em  EaD:  Métodos  e  Práticas,  Leite,  J.,  Sousa,  H.  e  Oliveira,  E.,  João 
+Pessoa-PB, Brasil, Editora da UFPB, p. 9-35.  
+
+Jannuzzi,  C.  et  al.  (2016)  “Gestão  do  conhecimento:  um  estudo  de  modelos  e  sua 
+relação  com  a  inovação  nas  organizações”,  In:  Perspectivas  em  Ciência  da 
+Informação, 21(1), 97-118, janeiro/março. 
+
+Kane,  G.  et  al.  (2015)  “STRATEGY,  NOT  TECHNOLOGY,  DRIVES  DIGITAL 
+
+TRANSFORMATION”, In: MIT SMR, https://sloanreview.mit.edu, julho.  
+
+Murashima,  M.  (2011)  “Universidades  Corporativas:  as  trilhas  em  meio  a  novos 
+4-23, 
+
+caminhos”, 
+http://bibliotecadigital.fgv.br/ojs/index.php/revfgvonline/article/view/19871, abril.  
+
+Online, 
+
+Revista 
+
+FGV 
+
+1(2), 
+
+In: 
+
+Oliveira,  M.  et  al.  (2011)  “Proposta  de  um  modelo  de  maturidade  para  Gestão  do 
+Conhecimento”, In: KM³. Revista de Gestão dos Países de Língua Portuguesa, 10(4), 
+14-25. 
+http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S1645-
+44642011000300003&lng=pt&tlng=pt. 
+
+Osório,  T.  (2005)  “UTILIZAÇÃO  DE  SOFTWARE  LIVRE  EM  ORGÃOS 
+PÚBLICOS”,  In:  Anais  do  II  Simpósio  de  Excelência  em  Gestão  e  Tecnologia  – 
+SEGeT’2005, 
+https://www.aedb.br/seget/arquivos/artigos05/360_Artigo_SL_Completo.pdf.  
+
+Pernambuco.  (2018)  LEI  Nº  16.379,  DE  6  DE  JUNHO  DE  2018  -  Altera  a  Lei  nº 
+12.985, de 2 de janeiro de 2006, que dispõe sobre o Sistema Estadual de Informática 
+de Governo - SEIG. Recife, Brasil, Assembleia Legislativa de Pernambuco.  
+
+ 
+ 
+
+ 
+
+

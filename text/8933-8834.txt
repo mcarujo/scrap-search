@@ -1,0 +1,302 @@
+Jogo Mobile como Ferramenta de Educação para Prevenção da 
+Doença de Chagas 
+
+Lucio L. Oliveira¹, Ellison Ribeiro¹, Marcos Seruffo¹, Dilma de Souza², Tereza 
+Sanches² 
+
+¹Instituto de Tecnologia – Universidade Federal do Pará (UFPA) Caixa postal 479.PABX 
++55 91 3201-7000 – Belém – PA – Brasil 
+
+² Instituto de Ciência da Saúde - Universidade Federal do Pará (UFPA) Caixa postal 
+479.PABX +55 91 3201-7000 – Belém – PA – Brasil 
+
+95lucioleandro@gmail.com, elisonhbribeiro@gmail.com, 
+marcos.seruffo@gmail.com, dsouza@cardiol.br, tesanches@ufpa.br  
+
+Abstract:  Chagas  disease  (American  trypanosomiasis)  is  an  infectious  tropical 
+disease that is still neglected. Previously considered a rural endemic disease, it is 
+becoming  urban  due  to  consumption,  int  cities,  of  food  contaminated  by  the 
+protozoan  that  causes  the  illness,  especially  in  the  state  of  Pará  where  people 
+often  consume  açaí  berries  without  a  proper  sanitation  process.  If  the  forms  of 
+contagion  of  a  disease  are  well  known,  it  becomes  easier  to  prevent  it,  and 
+education is crucial for that. This article proposes the creation of an educational 
+and accessible game about the disease. By knowing that making players to engage 
+in educational entertainment products is challenging, game design principles are 
+taken into account to develop this experience. 
+
+Resumo:  A  doença  de  Chagas  (Tripanossomíase  americana)  é  uma  doença 
+tropical  infecciosa  que  ainda  é  bastante  negligenciada.  A  enfermidade,  antes 
+considerada rural, está se tornando uma endemia urbana devido ao consumo, nas 
+cidades,  de  alimento  contaminado  pelo  protozoário  causador  da  doença, 
+sobretudo no estado do Pará onde a população consome açaí sem higienização. 
+Se as formas de contágio de uma doença são bem conhecidas, torna-se mais fácil 
+preveni-la  e, para tanto, educação é fundamental,  por isso, este artigo propõe a 
+criação de um jogo educativo e acessível sobre a doença de Chagas. Sabendo-se 
+do  desafio  que  é  engajar  usuários  em  produtos  de  entretenimento  cujo  foco  é 
+educação,  princípios  do  game  design  são  levados  em  conta  no  desenvolvimento 
+da experiência. 
+
+A  doença  de  Chagas  (Tripanossomíase  americana)  é  uma  doença  infecciosa  causada  pelo 
+protozoário  Trypanossoma  cruzi  e se  mantém  com  taxa  constante  de  infectados  até  o  ano 
+atual (2019), contudo ainda é uma das doenças tropicais mais negligenciadas [Médicos sem 
+
+1. Introdução 
+
+ 
+
+Fronteiras (MSF), 2018], sendo que o estado do Pará é responsável por 83% dos casos no 
+País  [Ministério  da  Saúde,  2019].  Segundo  a  CONITEC  (Comissão  Nacional  de 
+Incorporação de  Tecnologias no SUS), em 2016 estimou-se que na América Latina foram 
+perdidos cerca de 752.000 dias de trabalho ao ano devido à doença de Chagas e mais de 1,2 
+bilhões de dólares por ano em sete países sul-americanos. A doença afeta principalmente o 
+coração e a principal forma de transmissão é a falta de higiene com alimentos, seguida pela 
+transmissão vetorial pelo inseto Triatoma infestans, chamado popularmente de “barbeiro”. 
+
+Supõe-se que tais prejuízos causados pela doença de Chagas poderiam ser evitados 
+com  um  trabalho  de  disseminação  de  informações  focados  na  sua  prevenção  e  um  dos 
+veículos  dessa  divulgação  poderiam  ser  os  aparelhos  móveis.  No  Brasil,  nos  últimos  três 
+meses,  das  120,7  milhões  de  pessoas  que  acessaram  a  internet,  49%  o  fizeram  utilizando 
+somente o celular, 4% somente o computador e 47% ambos [Comitê Gestor da Internet no 
+Brasil, 2018]. E o mercado de games brasileiro cresce rapidamente ultrapassando públicos 
+de  cinema  e  teatro,  arrecadando  bilhões  de  dólares  todos  os  anos.  Somente  na  América 
+Latina  a  estimativa  de  faturamento  era  de  cerca  de  US$  134  bilhões  em  2018  [E- 
+Commerce,  2018].  Sendo  que,  o  mercado  de  games  mobile  corresponde  a  41%  do 
+faturamento  total  no  ano  de  2018,  enquanto,  consoles  (aparelhos  convencionais  de 
+videogames) equivalem a 30% e de computadores, 29%. Desta forma, soluções que possam 
+aproveitar  o  legado  já  estabelecido  pelo  uso  de  smartphones,  integrando  ludicidade  e 
+educação, ganha forte relevância. 
+
+Dispondo-se  deste  contexto,  é  possível  perceber  a  importância  que  o  mercado  de 
+games  e  smartphones  têm  hoje  no  Brasil.  Portanto,  pode  ser  estimulável  utilizar  a 
+tecnologia  a  favor  da  educação  através  de  jogos  mobile  como  ferramenta  de  ensino  e 
+aprendizagem, principalmente para crianças e adolescentes. Sabendo disso, este artigo tem 
+o objetivo de analisar a eficácia da educação ludificada  aplicada  a cuidados com a saúde, 
+foi desenvolvido um  jogo, descrito neste artigo, que apresenta orientações sobre a doença 
+de  Chagas,  visando  a  conscientizar  a  população  através  de  uma  forma  mais  criativas, 
+ensinando formas de prevenção, contágio e tratamento da enfermidade 
+
+Em resumo, o trabalho realizado faz a integração de tecnologia móvel com o meio 
+físico de comunicação, jogos como meio de disseminação de conhecimento e saúde como o 
+foco  das  informações.  Este  se  apresenta  da  seguinte  forma:  na  seção  2  é  mostrado  o 
+referencial  teórico  usado  como  base  para  criação  do  projeto;  a  seção  3  apresenta  a 
+metodologia utilizada para criação e configuração no desenvolvimento; na seção 4 aborda- 
+se  como  ficou  o  resultado  da  versão  beta  (versão  em  desenvolvimento,  mas  já  usável)  do 
+jogo em uma aplicação no celular; e a seção 5 discute o resultado do artigo realizado. 
+
+2. Referencial Teórico 
+
+É  notável  que  a  tecnologia  revolucionou  o  modo  de  vida  da  sociedade  desde  a  primeira 
+revolução  industrial,  acelerando-o  e  intensificando-o  em  vários  âmbitos.  Hoje,  alguns 
+especialistas afirmam estar acontecendo a quarta revolução industrial, em que o mundo está 
+sendo tomado pela evolução no campo de inteligência artificial, já que “estamos a bordo de 
+uma  revolução  tecnológica  que  transformará  fundamentalmente  a  forma  como  vivemos, 
+trabalhamos e nos relacionamos. Em sua escala, alcance e complexidade, a  transformação 
+será  diferente  de  qualquer  coisa  que  o  ser  humano  tenha  experimentado  antes"  [Klaus 
+
+ 
+
+Schwab, 2016]. 
+
+Sabendo-se  disso,  é 
+
+fundamental  a  aprimoração  na  maneira  de  educar 
+desempenhada  hoje  no  Brasil.  Aproveitando  a  alta  do  mercado  de  entretenimento  digital, 
+um  projeto  que  integre  tecnologia  com  aprendizagem  é  extremamente  oportuno  para  o 
+aprimoramento de saúde e educação no Brasil também por causa da doença de Chagas, que 
+tem  pouca  divulgação  e  ainda  mantém  uma  alta  taxa  de  transmissão,  principalmente  em 
+áreas  pobres  da  região  norte  do  país.  Dentre  as  doenças  endêmicas,  a  doença  de  Chagas 
+ocupa um lugar de destaque, seja pelo grau de morbidade e letalidade, seja pelo alto custo 
+econômico e social que representa, tendo no Brasil a estimativa de 2 a 3 milhões de pessoas 
+infectadas [Alana Costa & Darlan Cândido, 2016]. 
+
+Considerando  esses  números  alarmantes,  percebe-se  a  urgente  necessidade  de 
+educar para prevenir e a  eficácia da utilização de jogos na educação infanto-juvenil é  um 
+método  já  testado  e  aprovado,  o  que  torna  muito  conveniente  um  aumento  no 
+desenvolvimento de projetos deste tipo, pois em grande parte  apresenta resultado positivo, 
+segundo alguns argumentos de outros autores: “a atividade educativa mediada pelo uso de 
+um jogo contribuiu para a aquisição de conhecimento sobre amamentação e cuidados com o 
+recém-nascido”  [Fonseca,  &  cols.,  2002];  “enfrentamento  de  situações  problemas  nos 
+jogos.  Tais  situações  obrigam  os  jogadores  a  organizar  novas  estratégias  de  ação  para 
+alcançar um resultado favorável” [Cezar, & cols., 2008]. Os jogos podem ainda apresentar 
+algumas  vantagens  ou  objetivos  indiretos,  como  o  desenvolvimento  da  memória  visual  e 
+auditiva;  a  coordenação  motora  ampla  e  fina;  podem  proporcionar  orientação  temporal  e 
+espacial em duas e três dimensões [Liliana Passerino, 2015]. 
+
+3. Metodologia 
+
+Para  a  elaboração  da  estratégia  educativa,  foi  desenvolvido  um  projeto  multidisciplinar 
+envolvendo  saúde  e  educação  tendo  como  requisito  um  estudo  à  parte  sobre  a  doença  de 
+Chagas,  como  seus  mecanismos  de  transmissão,  sintomas  e  tratamentos;  para  isso  fez-se 
+necessário  o  uso  de  programas  de  edição  de  imagem  (InkScape  e  Photofiltre),  edição  de 
+som  (Audacity)  e  principalmente  a  plataforma  onde  tudo  foi  integrado  em  forma  de  jogo 
+digital,  o  Unity  2018.3.  A  partir  do  levantamento  bibliográfico  e  do  uso  dos  softwares 
+citados,  foi  possível  a  criação  de  um  jogo  mobile,  disponibilizado  para  Android.  Foram 
+considerados  e  aplicados  diversos  recursos  capazes  de  fornecer  mais  realismo  físico  à 
+aplicação, por exemplo, conceitos de atrito, força gravitacional e princípios de movimento 
+aplicados nos personagens e nos objetos pelo cenário. 
+
+Toda  a  programação  do  jogo  é  realizada  principalmente  na  linguagem  C#,  mas 
+também sendo possível alterar para C++. No projeto descrito neste artigo foi utilizado C# e 
+o Visual Studio como editor dos algoritmos, software igualmente disponibilizado de forma 
+gratuita  e  com  compatibilidade  aos  outros  programas.  A  Unity®  também  oferece 
+gratuitamente  uma  vasta  gama  de  ferramentas  dentro  do  seu  próprio  software,  sendo 
+possível  controlar  animação,  física,  fluxo  do  jogo  e  de  telas  além  de  uma  organização 
+simples,  exigindo  como  requisito  basicamente  somente  um  pouco  de  conhecimento  em 
+programação, sendo de fácil organização na tela, mostrando a cena ao programador, como 
+ficará no celular e as pastas e propriedades dos arquivos criados. O fluxo do jogo funciona 
+da seguinte forma se segue como é mostrado no diagrama abaixo. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Forma de distribuição do aplicativo.                     Figura 2. Fluxo do jogo. 
+
+4. Resultados 
+
+Ao  final  são  apresentadas  as  telas  obtidas  com  o  desenvolvimento  do  jogo, 
+pretendendo  alcançar  um  grande  público 
+infanto-juvenil,  visando,  principalmente, 
+moradores  da  região  norte  do  país,  devido  à  maior  taxa  de  contágio,  com  o  intuito  de 
+mostrar que a aplicação contém métodos didáticos e lúdicos que estimulam o aprendizado 
+dos jogadores e também auxiliam a desenvolver uma visão crítica dos problemas sociais e 
+de saneamento dos arredores da sua comunidade. Na Figura 3 apresenta-se o menu inicial, 
+onde o jogador tem acesso às configurações do jogo e pode começar a jogar. Após iniciar 
+será mostrado um aviso introdutório ao jogo, mostrado na Figura 4, além de outros avisos 
+explicando  a  dinâmica  da  doença  ao  decorrer  do  jogo  para  auxiliar  em  como  proceder 
+durante cada etapa. 
+
+                       Figura 3. Menu inicial 
+
+Figura 4. Aviso ao começar 
+
+Após o aviso e o breve tutorial da jogabilidade do personagem, é possível começar a 
+
+ 
+
+jogar,  indo  para  frente,  para  trás  e  pulando  (a  partir  do  uso  de  setas  direcionais)  com 
+intenção de coletar todos os frutos de  açaí para passar de nível. O jogador começa com  o 
+status de “Saudável” e este se altera cada vez que entrar em contato com o barbeiro ou com 
+açaí contaminado, mas melhorando a cada vez que coletar remédio, sendo ao final de cada 
+fase entregue todos os açaís coletados para produzir um açaí de qualidade em um ponto de 
+comercialização autorizado pela vigilância sanitária passando, então, de nível ao tomá-lo. 
+
+Ao  decorrer  do  jogo,  são  adaptadas  as  formas  em  que  o  personagem  se  encontra 
+dependendo  de  seu  estado  de  saúde,  como  representado  na  Figura  6,  simbolizando: 
+saudável – ótimo estado de saúde, doente – contagiado, apresentando febre e dor no corpo, 
+muito doente, apresentando arritmia cardíaca, extrema fadiga e dor de cabeça. 
+
+Figura 5. Resultado do jogo em funcionamento 
+
+ Figura 6. Estágios da doença  
+
+Em cada estágio acima será mostrada toda a descrição da doença de forma lúdica, sem 
+atrapalhar o fluxo do jogo ou a jogabilidade do usuário, informando-o sobre cada mudança 
+que  haverá  no  corpo  do  infectado  e  como  tratá-la  da  melhor  forma.  Caso  o  jogador  não 
+consiga  se  curar  depois  do  estágio  3  e  continue  tomando  açaí  infectado,  ele  morrerá  e 
+aparecerá uma tela de derrota, constando a quantidade total de açaí coletado. 
+
+5. Conclusão 
+
+Figura 7. Tela de derrota 
+
+Este artigo propôs um jogo digital que visa melhorar o grau de conscientização e de 
+informação  da  população  sobre  formas  de  prevenção  da  doença  de  Chagas,  transmitida 
+principalmente  por  alimentos  mal  higienizados,  além  das  etapas  de  tratamento  da  doença, 
+através das experiências adquiridas durante o jogo. É esperado que o jogo ofereça uma boa 
+qualidade  de  aprendizagem,  possuindo  conteúdo  embasado  na  teoria  sobre  a  doença  e 
+aplicando-o ludicamente como forma de ensino para atingir desde o público infantil até o 
+
+ 
+
+adulto. Além disso, desperta interesse do público em aprender devido à forma divertida  e 
+descontraída  com  que  passa  informação,  demonstrando  que  o  entretenimento  é  um  aliado 
+da educação para aprimorar os cuidados com a própria saúde. 
+
+Como trabalhos futuros, pretende-se primeiramente realizar testes de uso em larga 
+escala.  Nestes  testes,  serão  usados  questionários  para  os  usuários  sugerirem  melhorias  no 
+jogo,  para  que  assim,  futuras  versões  proporcionem  maior  qualidade  de  experiência  aos 
+jogadores. Pretende-se ainda melhorar o realismo do jogo e os fatores de compartilhamento 
+com redes sociais, tornando-o mais dinâmico e acessível para que os usuários tenham uma 
+melhor experiência de aprendizado. Mas para um aplicativo desse porte ganhar destaque no 
+mercado, é preciso ganhar apoio da população e de empresas, pois somente com isso será 
+possível  publicação  e  divulgação  em  larga  escala  para  conquistar  espaço  de  mercado  e 
+atingir um grande número, alcançando cada vez mais regiões do país onde a doença é uma 
+enfermidade com taxa considerável de ocorrências. 
+ 
+Referências 
+
+Klaus Schwab (2016), The Fourth Industrial Revolution, Edipro, 1th edição. 
+
+Mizoguti,  Isabela  Lie  (2018)  “Doença  de  Chagas:  A  culpa  é  do  Açaí?”,  Boletim 
+
+Informativo: junho, 2018 v. 1, n. 1. 
+
+Rezende, J. M. (2017)  “Clinical phases and forms  of Chagas disease”,  Federal University 
+
+of Goias, Goias, Brazil 
+
+Falkembach,  Gilse  A.  Morgental  (2016)  “Jogos  educacionais”,  Universidade  Federal  do 
+
+Rio Grande do Sul, Centro Interdisciplinar de Novas Tecnologias na Educação. 
+
+Panosso,  Mariana  G.  (2015)  “Características  atribuídas  a  jogos  educativos:  uma 
+interpretação  Analítico-Comportamental”  Revista  Quadrimestral  da  Associação 
+Brasileira de Psicologia Escolar e Educacional, SP. Volume 19, Número 2, maio/agosto 
+de 2015: 233-241. 
+
+Pellegruine,  Marina  Joaquim  (2007)  “A  importância  dos  jogos  e  das  brincadeiras  na 
+educação  infantil”,  Pontifícia  Universidade  Católica  de  São  Paulo,  Faculdade  de 
+Educação. 
+
+Costa, Alanna Carla (2016) “Satisfação dos pacientes com doença de Chagas atendidos por 
+um serviço de atenção farmacêutica no estado do Ceará, Brasil” Universidade Federal do 
+Ceará, Instituto do Coração. 
+
+Ampudia,  Ricardo  (2018)  “Celular  é  mais  utilizado  do  que  computador  para  acessar 
+internet  no  Brasil”  https://www1.folha.uol.com.br/tec/2018/07/celular-e-mais-utilizado- 
+do-que-computador-para-acessar-internet-no-brasil.html, julho. 
+
+Secretaria  de  Vigilância  em  Saúde  (2012)  “Doença  de  Chagas  Aguda  e  distribuição 
+espacial dos triatomíneos epidemiológicos”, Ministério da Saúde. Volume 50. jan. 2019 
+
+Ortega,  Luciana  V.  Nunes  (2016)  “Jogos  e  brincadeiras  no  processo  de  ensino  –  Gestão 
+
+Universitária” 
+brincadeiras-no-processo-de-ensino-aprendizagem-na-educacao-infantil, dezembro. 
+
+http://www.gestaouniversitaria.com.br/artigos-cientificos/jogos-e- 
+
+ 
+
+Kaneto, L. Alves (2018) “Educational Workshop using games improves self-monitoring of 
+blood  glucose  among  children”  Faculdade  das  Américas,  Escola  de  Enfermagem,  São 
+Paulo, SP, Brazil. 
+
+Ministério  da  Saúde.  (2019)  “Doença  de  Chagas:  o  que  é,  causas,  sintomas,  tratamento  e 
+
+prevenção” http://portalms.saude.gov.br/saude-de-a-z/doenca-de-chagas, janeiro. 
+
+Agencia  Brasil  (2019)  “Número  de  pessoas  que  tem  celular  aumenta  147%  em  dez  anos, 
+IBGE”  http://agenciabrasil.ebc.com.br/geral/noticia/2016-12/numero-de-pessoas- 
+
+diz 
+que-tem-celular-aume nta-147-em-dez-anos-diz-ibge, janeiro. 
+
+Médicos  sem  fronteiras  (2018),  “Doença  de  Chagas”  https://www.msf.org.br/o-que- 
+
+fazemos/atividades-medicas/doenca-de-chagas 
+
+ 
+
+ 
+
+

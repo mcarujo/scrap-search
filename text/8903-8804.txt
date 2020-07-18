@@ -1,0 +1,635 @@
+ 
+
+FlexQuest como Promotora de Aprendizagem Significativa no 
+Ensino das Ciências Ambientais na Educação Básica 
+
+José Antônio Bezerra de Oliveira1, Kátia Aparecida da Silva Aquino2 
+
+1Escola de Referência em Ensino Médio Professora Eurídice Cadaval – Secretaria de 
+Educação e Esportes de Pernambuco (SEE-PE) 
+CEP: 53.700-000 – Itapissuma – PE – Brasil 
+
+2Colégio de Aplicação – Universidade Federal de Pernambuco (CAp-UFPE) 
+
+j.antoniobezerra@gmail.com, aquino@ufpe.br 
+
+ 
+
+Abstract.  This  study  refers  to  the  creation  and  validation  of  a  FlexQuest:  a 
+tool that  combines digital technology with  the Theory of Cognitive Flexibility 
+with  the  purpose  of  promoting  a  meaningful  learning  in  students  of  Basic 
+Education. In this sense the elements promoting knowledge flexibilization were 
+designed and configured a Water Theme FlexQuest. An analysis of conceptual 
+maps  constructed  by  the  students  was  carried  out  to  demonstrate  flexible, 
+meaningful  and  critical  learning  in  progress,  promoted  through  the  use  of 
+FlexQuest  Water.  The  results  show  that  the  tool  promoted  such  levels  of 
+learning. 
+
+Resumo.  Este  estudo  remete  à  criação  e  validação  de  uma  FlexQuest: 
+ferramenta  que  conjuga  a  tecnologia  digital  à  Teoria  da  Flexibilidade 
+Cognitiva, com a finalidade de promover uma aprendizagem significativa em 
+estudantes  da  Educação  Básica.  Nesse  sentido,  os  elementos  promotores  de 
+flexibilização  do  conhecimento  foram  idealizados  e  configuraram  uma 
+FlexQuest  com  tema  Água.  Uma  análise  de  mapas  conceituais  construídos 
+pelos  estudantes  foi  realizada  para  evidenciar  uma  aprendizagem  flexível, 
+significativa  e  crítica  em  curso,  promovida  por  meio  da  utilização  da 
+FlexQuest  Água.  Os  resultados  mostram  que  a  ferramenta  promoveu  tais 
+níveis de aprendizagem. 
+
+1. Introdução 
+ 
+ 
+Diante  da  forma  como  a  sociedade  vêm  se  desenvolvendo  nos  últimos  anos,  o 
+ambiente  e  sua  biodiversidade  acabam  por  sofrer  pela  ação  indiscriminada  do  homem 
+(OLIVEIRA,  2006).  Nesse  cenário,  os  Parâmetros  Curriculares  Nacionais  (PCN) 
+(BRASIL, 1998) indicam a importância de educar os brasileiros para que ajam de forma 
+sustentável com o ambiente, onde os mesmos se reconheçam como parte integrante do 
+meio.  Desta  forma,  Oliveira  (2006)  reporta  ser  a  educação  o  meio  mais  eficaz  para 
+atenuar  as  problemáticas  ambientais  atuais,  cabendo  aos  educadores  intervirem  no 
+processo  de  ensino  e  aprendizagem  com  estratégias  que  motivem  os  estudantes  a 
+
+ 
+
+ 
+
+compreenderem  as  dinâmicas  ambientais  e  buscarem  alternativas  que  amenizem  os 
+impactos das ações antrópicas no ambiente. 
+ 
+A  aprendizagem,  a  fim  de  ser  efetiva,  necessita  ser  significativa,  ou  seja,  fazer 
+sentido  para  o  estudante,  além  de  desenvolver  o  pensamento  crítico  dele,  pois  não 
+acontece  sem  a  predisposição  do  mesmo  a  aprender  (MOREIRA  2010,  RAMOS  e 
+AQUINO  2015).  Assim,  se  desenvolvida  de  forma  crítica,  uma  aprendizagem 
+significativa  faz  do  estudante  um  aprendiz  díspar,  pois  ele  passa  a  enxergar  o  que  foi 
+aprendido como uma outra forma de perceber o mundo (MOREIRA 2010).  
+ 
+Nesta  direção,  o  educando  disposto  a  aprender  pode  atingir  a  capacidade  de 
+reestruturar  (desconstruir  e  reconstruir)  um  dado  conhecimento  de  diversos  modos, 
+dando  uma  resposta  ajustável  às  situações  que  ele  se  depara  no  dia-a-dia  (ALEIXO 
+2008).  Essa  dinâmica  da  reestruturação  do  conhecimento  é  descrita  pela  Teoria  da 
+Flexibilidade  Cognitiva  (TFC),  proposta  por  Spiro  e  colaboradores  nos  anos  1980 
+(WCER  2004).    A  TFC  implica  uma  aprendizagem  flexível,  a  partir  conhecimentos 
+também  flexíveis,  que  formam  ‘casos’  para  que  o  estudante  atravesse  diversas  vezes 
+pelo  mesmo  assunto,  possibilitando  a  interdisciplinaridade,  a  multidisciplinaridade  e  a 
+multidimensionalidade  dos  conhecimentos,  acabando  por  favorecer  a  aplicação  esses 
+saberes em variados contextos (ALEIXO et al. 2008). 
+Por  outro  lado,  hoje  os  estudantes  que  ingressam  na  Educação  Básica  têm,  em 
+ 
+sua  maioria,  grande  afinidade  por  tecnologias  digitais,  sendo  receptivos  às  inovações 
+tecnológicas.  Nesse  sentido,  a  utilização  de  tecnologias  da  informação  e  comunicação 
+(TIC) nas aulas pode mudar a concepção do ensino de Ciências: uma abordagem menos 
+conteudista e desinteressante para ser uma prática mais criativa,  interativa e motivadora 
+(FRANÇA et al. 2014). A partir do diálogo entre a flexibilização da aprendizagem e o 
+uso  de  TIC  no  processo  educativo  surgiu  a  FlexQuest  (FQ):  “recurso  didático  cujas 
+informações  para  a  aprendizagem  partem  de  casos  existentes  na  internet  e  não  de 
+explicações e interpretações sobre os conteúdos” (VASCONCELOS e LEÃO 2012). 
+ 
+Spiro  e  colaboradores  (1991)  apontavam  os  sistemas  hipertexto  e  hipermídia 
+ideais  para  a  dinâmica  da  TFC,  pois  estes  sistemas  proporcionavam  a  integração  do 
+conhecimento com vários contextos associados (LEÃO et al. 2006). Dessa forma, a FQ 
+é  uma  ferramenta  resultante  do  aperfeiçoamento  de  uma  WebQuest  (WQ)  –  uma 
+atividade orientada para a pesquisa em que as informações que a compunham advinham 
+da  internet.  Esta  nova  configuração  da  WQ  foi  idealizada  por  Souza  et  al.  (2006), 
+apoiados na TFC. A FQ tem base em casos (informações, notícias) retiradas da internet 
+e  não  de  textos  estruturados  ou  finalizados  (literais,  rígidos)  sobre  um  dado 
+conhecimento.  Um  caso  é  descontruído  em  minicasos,  que  ilustram  diferentes 
+perspectivas do mesmo (LEÃO et al. 2006, ALEIXO et al. 2008). Na  FQ também são 
+indicadas  conexões  entre  os  minicasos  de  diferentes  casos,  e  esta  interação  entre  as 
+diferentes  perspectivas  acabam  por  trazer  diferenciação  de  significados,  reorganização 
+de  conhecimentos  e  possibilita  o  desenvolvimento  de  senso  crítico  nos  estudantes  por 
+estes observarem aplicabilidade naquilo que está sendo aprendido (SILVA et al. 2015). 
+
+ 
+A  FQ  é  uma  estratégia  de  promoção  de  uma  aprendizagem  flexível  e 
+potencialmente significativa conjugada às tecnologias digitais, por seu uso ser possível a 
+partir de dispositivos móveis e internet (LEÃO et al. 2006, ALEIXO et al. 2008, SILVA 
+et al. 2015, OLIVEIRA, SILVA e AQUINO 2017).  Assim, o objetivo deste trabalho foi 
+construir e validar uma FQ relacionada à temática ambiental. 
+
+2. Material e Métodos 
+
+ 
+2.1. Construção da FlexQuest 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+Com  a  finalidade  de  promover  a  contextualização,  a  interdisciplinaridade  e 
+potencializar a capacidade crítico-reflexiva do estudante acerca do  contexto  ambiental, 
+esta  FQ  foi  construída  na  versão  2.0  (Segunda  Geração)  (OLIVEIRA,  GUSMÃO  e 
+AQUINO, 2018). O Quadro 1 caracteriza os elementos necessários para a produção de 
+uma FQ de Segunda Geração. 
+
+ 
+
+a  FQ 
+
+Para  favorecer  o  ensino  das  Ciências  Ambientais,  foi  escolhida  a  temática 
+ 
+construída  na  Plataforma  FlexQuest  UFRPE 
+‘Água’. Assim, 
+(http://www.flexquest.ufrpe.br/),  criada  pelos  pesquisadores  da  Universidade  Federal 
+Rural  de  Pernambuco  para  facilitar  o  manuseio  dos  elementos  utilizados  para 
+construção da ferramenta. 
+ 
+
+foi 
+
+Quadro 1. Elementos que integram uma FlexQuest (SANTOS, CLEOPHAS, 
+2017). 
+
+Contexto 
+
+Casos 
+
+Questões 
+
+Processos 
+
+Transferência 
+
+É  exibido  o  cenário  temático,  onde  pode-se  explorar  o  conhecimento  prévio  do 
+estudante para inseri-lo em casos específicos posteriormente. 
+Ocorre  o  aprofundamento  do  tema,  de  maneira  contextualizada  e  interdisciplinar, 
+nos casos (com seus minicasos), obtidos na internet e estruturados pelo professor.  
+Questionamentos onde professor poderá avaliar a evolução conceitual do aprendiz e 
+verificar se ele consegue analisar, compreender e identificar as relações existentes 
+entre os contextos dos Recursos. 
+São conjuntos especiais de minicasos elaborados pelo professor com o propósito de 
+propiciar ao aluno uma reflexão crítica e flexível entre os diferentes contextos.  
+Propõe estimular os aprendizes a continuar o processo começado na  FQ, de modo 
+ativo e crítico, a partir da experiência e dos saberes (re)construídos. 
+
+A seção “Casos” foi composta de quatro casos (eventos/processos relacionados à 
+ 
+água) com três ou quatro minicasos (desdobramento destes eventos/processos) cada.  Na 
+seção  “Questões”  foram  preparados  seis  questionamentos  a  partir  das  abordagens 
+apresentadas  nos  Casos.  Na  seção  “Processos”  foram  organizadas  quatro  sequências 
+específicas  de  questionamento.  Por  fim,  na  seção  “Transferência”  foi  proposta  uma 
+atividade de promoção à aprendizagem ativa, crítica, reflexiva acerca da temática. 
+ 
+
+2.2. Validação da FlexQuest 
+ 
+
+ 
+Como um produto didático, a FQ construída neste estudo necessitou comprovar 
+seu potencial promotor de aprendizagem significativa (OLIVEIRA, SILVA e AQUINO 
+2017), ou seja, necessitou de validação. Para a validação da FQ um grupo de estudantes 
+(n=16)  do  3º  ano  do  Ensino  Médio  da  Escola  de  Referência  em  Ensino  Médio 
+Professora  Eurídice  Cadaval  (Itapissuma,  PE,  Brasil)  foi  direcionado  a  utilizar  a 
+ferramenta nas aulas de Biologia (4 horas/aula), formando equipes de quatro pessoas e 
+cumprindo as atividades da FQ descritas no Quadro 2. Estas atividades foram indicadas 
+pelo professor em regência.  
+
+Para  verificar  a  capacidade  da  ferramenta  de  promover  uma  potencial 
+ 
+aprendizagem  com  significado  e  flexível,  utilizou-se  como  estratégia  a  produção  de 
+mapas  conceituais  individuais  pelos  estudantes.  De  acordo  com  Cañas  (2004),  estes 
+mapas são formas  eficazes de representar a  compreensão que um  indivíduo possui em 
+relação  a  um  dado  conhecimento,  evidenciando  assimilações,  reorganizações  e 
+inclusões  entre  os  conceitos  presentes  na  estrutura  cognitiva  dos  estudantes.  Sendo 
+assim, antes da aplicação da  FQ os estudantes construíram seus  mapas de conceitos  e, 
+
+ 
+
+ 
+
+após a aplicação da ferramenta, elaboraram novos mapas. Comparações entre os mapas 
+pré  e  pós-abordagem  é  que  evidenciam  se  houve  uma  aprendizagem  com  significado 
+(OLIVEIRA, SILVA e AQUINO 2017, OLIVEIRA, GUSMÃO e AQUINO 2018). 
+
+Quadro 2. Minicasos, questões e atividade de processo escolhidos da FQ para 
+a validação da ferramenta. 
+
+ 
+
+Casos 
+
+A transposição do Rio São Francisco 
+
+Por  que  não  choveu  como  deveria  no 
+sertão entre 2011 e 2017? 
+
+Questões 
+
+Processo 
+
+Reflita  sobre  sua  aptidão  para  morar  no  semiárido  nordestino  que  ainda  não  foi 
+agraciado pela transposição do São Francisco. Relacionando com o seu atual trato 
+com  a  água,  escreva  quais  seriam  suas  maiores  dificuldades  e  discuta  com  a  sua 
+equipe. 
+
+Revisite os minicasos (‘Quem é o Rio São Francisco’, ‘O que é a  transposição’ e 
+‘Por que não choveu como deveria no sertão entre 2011 e 2017?’) e, junto com seus 
+colegas, discuta sobre a situação econômica, ambiental e social dos moradores de 
+áreas  vitimadas  pela  seca  e  os efeitos  da  transposição  do  Rio  São  Francisco  para 
+eles. 
+
+3. Resultados e Discussão 
+
+3.1. A FlexQuest – Água 
+
+A  FQ  produzida  foi  intitulada  “Flex-água”  (FQ-água)  e  ela  pode  ser  acessada 
+
+ 
+pelo endereço: http://www.flexquest.ufrpe.br/projeto/6885/geral (Figura 1).  
+
+Em um cenário ambiental preocupante, uma atenção especial se volta a um tema 
+ 
+presente constantemente no cotidiano dos cidadãos: a água (FREITAS, MARIN, 2015). 
+Bouguerra (2004) reflete a importância da educação para formar indivíduos que tenham 
+uma  relação  sustentável  à  água  enquanto  recurso  fundamental,  refletindo  sobre  o  uso 
+desta de modo adequado.  
+
+ 
+O  contexto  trazido  pela  FQ-água  (Figura  2)  insere  o  estudante  em  situações-
+problema  que  requerem  reflexões  e  ações  sustentáveis  acerca  da  água  como  bem 
+ambiental.  Isso  auxilia  no  estabelecimento  de  pontos  da  Base  Nacional  Comum 
+Curricular  (BNCC),  que  direciona  o  ensino  para  promover  no  estudante  o 
+desenvolvimento  de  habilidades  de  análise,  argumentação,  debate  e  avaliação  de 
+problemas envolvidos em situações do cotidiano, utilizando conhecimentos das diversas 
+ciências (BRASIL, 2018). 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Página inicial da FQ-água. 
+
+Figura 2. Contexto inicial da FQ-água. 
+
+   
+
+ 
+De modo geral, os contextos iniciais presentes nas FQ trazem perguntas ao invés 
+de  respostas  acabadas  e  proporcionam  a  emersão  dos  conhecimentos  prévios  dos 
+
+ 
+
+ 
+
+ 
+
+ 
+
+estudantes.  Ao  situá-los  para  o  contexto  do  conhecimento,  a  FQ  pode  acabar  por 
+estimular  o  interesse  do  estudante  a  aprender  e  esta  ação  está  relacionada,  na  maioria 
+das  vezes,  a  uma  aprendizagem  potencialmente  significativa  e  crítica  (OLIVEIRA, 
+SILVA  e  AQUINO  2017,  OLIVEIRA,  GUSMÃO  e  AQUINO  2018).  Estas  reflexões 
+convergem para as considerações de Moreira (2010), o qual afirma que “para ser crítico 
+de  algum  conhecimento,  de  algum  conceito,  primeiramente  o  indivíduo  tem  que 
+aprendê-lo significativamente  e, para isso, seu conhecimento prévio é, isoladamente,  a 
+variável mais importante”. 
+
+ 
+Além  da  potencial  aprendizagem  com  significado,  no  cenário  da  TFC  Spiro 
+(1988)  aponta  que  para  o  desenvolvimento  da  flexibilidade  cognitiva  nos  estudantes  é 
+importante que a estratégia utilizada centre o estudo em casos para o desenvolvimento 
+da  conjuntura  conceitual  do  estudante.  Esses  casos  são  circunstâncias  reais  levadas  à 
+ambientes de aprendizagem para serem investigadas, extraídas da internet. O Quadro 3 
+apresenta os casos e seus desdobramentos (minicasos) na construção da FQ-água. 
+
+Quadro 3. Casos e seus respectivos minicasos (e seus links de acesso) 
+utilizados na construção da FQ-água. 
+
+Casos 
+
+Minicasos 
+
+No Nordeste Brasileiro chove, 
+mas o sertão é seco 
+
+(https://bit.ly/2IPtL1n) 
+
+A transposição do Rio São 
+Francisco 
+
+(https://bit.ly/2mUCmo8) 
+
+O impacto da ação humana no 
+ciclo da água 
+(https://bit.ly/2UODg7x) 
+
+1. Como acontecem as chuvas no semiárido? 
+2. Por que não choveu como deveria no sertão entre 2011 e 2017? 
+3. Como acontecem as chuvas no Litoral do Nordeste 
+
+1. Possíveis impactos positivos da transposição 
+2. Possíveis impactos negativos da transposição 
+3. Quem é o Rio São Francisco? 
+4. O que é a transposição? 
+1. Como a água existe em nosso planeta? 
+2. O ciclo da água 
+3. Ações do homem influenciam no ciclo da água 
+4. Como minimizar os impactos da ação do homem no ciclo da 
+
+água 
+
+Reúso de água: uma alternativa 
+sustentável 
+(https://bit.ly/2HI5zS6)  
+
+1.Formas de reúso da água 
+2.Vantagens do reuso de água residuária 
+3.Utilização de água residuária: o que ser? 
+
+ 
+
+Para a seção ‘Questões’, os seguintes questionamentos foram propostos: 
+
+Questão  1:  A  água  que  você  toma  hoje  provavelmente  já  passou  pela  goela  de  algum 
+dinossauro, pode ter vindo do xixi de Isaac Newton, de uma chuva de Londres em 1850 
+ou  até  do  suor  de  um  cantor  famoso  do  século  XX.  Reflita  e  explique  como  isto  é 
+possível. 
+
+Questão 2: Reflita sobre sua aptidão para morar no semiárido nordestino que ainda não 
+foi  agraciado  pela  transposição  do  São  Francisco.  Relacionando  com  o  seu  atual  trato 
+com a água, escreva quais seriam suas maiores dificuldades e discuta com a sua equipe. 
+
+Questão  3:  As  plantas  são  grandes  aliadas  na  conservação  de  cursos  d'água  e  na 
+formação de  chuvas. Pense com sua  equipe os porquês desta  afirmação  estar  correta e 
+relacione-os com os eventos de desmatamento. 
+
+Questão 4: As variações climáticas de um outro continente ou dos oceanos (Atlântico e 
+Pacífico)  influenciam  no  regime  de  chuvas  do  Brasil.  Argumente  se  é  correto  ou  não 
+afirmar  que  o  Brasil  pode  resolver  sozinho  o  problema  da  estiagem  em  suas  regiões 
+atingidas. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Questão 5: As nossas ações podem ser vistas como "atitudes de vida" ou "atitudes de 
+morte".  Escolha  qual  'atitude'  você  classificaria  as  ações  de  construção  de  barragens  e 
+transposição  do  Rio  São  Francisco.  Explique  os  motivos  que  lhe  levaram  a  classificar 
+assim.  
+
+Questão  6:  Além  de  reaproveitar  água  da  chuva,  indique  outra  alternativa  viável  que 
+possa ser utilizada para aliviar os efeitos da estiagem. 
+
+Na  seção  ‘Processos’,  as  seguintes  sequências  especiais  de  questionamento 
+
+ 
+foram construídas: 
+
+Sequência  1:  Revisite  os  minicasos  (‘Quem  é  o  Rio  São  Francisco’,  ‘O  que  é  a 
+transposição’  e  ‘Por  que  não  choveu  como  deveria  no  sertão  entre  2011  e  2017?’)  e, 
+junto  com  seus  colegas,  discuta  sobre  a  situação  econômica,  ambiental  e  social  dos 
+moradores  de  áreas  vitimadas  pela  seca  e  os  efeitos  da  transposição  do  Rio  São 
+Francisco para eles. 
+
+Sequência 2: Revisite os minicasos (‘Vantagens do uso de água residuárias’, ‘Formas de 
+reúso de água’, ‘O ciclo da água’ e ‘Ações do homem influenciam no ciclo da água’) e 
+pesquise algum método/estratégia que poderia ajudar no uso sustentável da água. 
+
+Sequência 3: A partir dos minicasos (‘Ações do homem influenciam no ciclo da água’, 
+‘Como  minimizar  os  impactos  da  ação  do  homem  no  ciclo  da  água?’,  ‘Utilização  de 
+água residuária: o que ser?’ e ‘Formas de reúso da água’), releia-os e aponte como sua 
+comunidade  se  relaciona  com  a  água  e  se  ela  vem  cuidando  deste  recurso  de  modo 
+sustentável. 
+
+Sequência  4:  Visite  novamente  os  minicasos  (‘Utilização  de  água  residuária:  o  que 
+ser?’,  ‘Ações  do  homem  influenciam  no  ciclo  da  água’,  ‘Vantagens  do  reuso  de  água 
+residuária’  e  ‘Formas  de  reúso  da  água’)  e  pense  o  que  sua  equipe  poderia  fazer  para 
+sensibilizar os cidadãos a tomarem atitudes para economia da água. 
+
+ 
+As Questões propostas na FQ-água se baseiam na reflexão e na investigação dos 
+eventos  e  notícias  indicados  nos  casos.  Dessa  forma,  o  estímulo  ao  questionamento 
+proposto  pela  FQ  pode  levar  a  um  aprendizado  por  meio  de  perguntas  ao  invés  de 
+respostas  prontas  que,  segundo  Moreira  (2010),  é  um  dos  princípios  para  uma 
+aprendizagem crítica e significativa, em que se reflete que o conhecimento não está em 
+cadernos  e/ou  livros  à  espera  de  alguém  que  venha  descobrí-los  e  compreendê-los,  os 
+saberes  são  construídos  a  partir  da  argumentação  e  emersão  de  respostas  mediante  as 
+perguntas.  
+
+A  atividade  de  ‘Transferência’  proposta  como  prática  foi  a  seguinte:  “A  partir 
+ 
+dos conhecimentos que você construiu ao longo da Flex-água, se reúna com sua equipe 
+e  juntos  elaborem  um  livrinho  paradidático  para  as  crianças  do  Ensino  Fundamental 
+com algum tema relacionado à água.”. 
+
+ 
+É fundamental que a atividade de  transferência organizada pelo professor traga 
+uma  situação  em  que  os  estudantes  possam  aplicar  os  conhecimentos  construídos  ao 
+longo da FQ  e, consequentemente, fazer com que  eles compreendam  que os conceitos 
+aprendidos  não  acabam  após  a  utilização  da  ferramenta.  Isso  porque  eles  mesmos 
+podem enfrentar novas situações no cotidiano que exijam ações semelhantes (SANTOS 
+e CLEOPHAS 2017). 
+
+3.2. Validação da FQ-água 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 3. Mapa conceitual inicial (A) e final (B) produzido um grupo de estudantes do 
+Ensino Médio acerca do tema “escassez de água”. 
+
+ 
+Propor  aos  estudantes  a  produção  de  mapas  conceituais  implica  refletir  não 
+apenas no resultado gráfico que exibirá algo sobre seu aprendizado, mas principalmente 
+o que fez sentido para eles (OLIVEIRA, SILVA e AQUINO 2017).  A Figura 3 indica 
+dois mapas conceituais construídos por um mesmo estudante-alvo da abordagem da FQ-
+água.  O  primeiro  mapa  (Figura  2A)  mostra  as  proposições  prévias  e  o  segundo  mapa 
+(Figura  2B)  as  proposições  estruturadas  após  a  aplicação  da  FQ.  As  proposições 
+apresentadas no mapa B exibem evidências de assimilação de conceitos de um cenário 
+mais  complexo  do  conhecimento.  Isso  é  um  dos  processos  preconizados  pela  TFC 
+(ALEIXO et al. 2008, SILVA et al. 2015). Ainda no mesmo mapa conceitos presentes 
+nos  dois  casos  apontados  para  acesso  desenvolveram  proposições  com  maior  nível  de 
+especificação  que  no  mapa  inicial,  indicando  potencial  diferenciação  progressiva 
+(conceitos  amplos  sendo  especificados).  A  diferenciação  progressiva  é  um  processo 
+relacionado à uma aprendizagem significativa (MOREIRA 2010).  
+
+Ainda  na  interpretação  do  mapa,  é  notória  certa  criticidade  que  insurge  em 
+ 
+algumas  proposições,  como:  o  Rio  São  Francisco  sendo  chamado  de  Velho  Chico 
+(indicando  certo  sentido  de  pertencimento),  e  a  relação  das  doenças  que  acometem  a 
+população do semiárido com a qualidade da água consumida. Uma atitude que chamou 
+a  atenção  foi  o  estudante  ter  determinado  a  ‘solução’  entre  aspas  por,  provavelmente, 
+perceber controvérsias no projeto de transposição exibido em um dos casos, o que pode 
+evidenciar um maior grau de criticidade. 
+
+ Além da análise dos mapas conceituais, em uma discussão posterior à aplicação 
+ 
+da FQ-água, o professor de Biologia da turma que passou pelo processo relatou que boa 
+parte dela demonstra  argumentos  e aponta vários desafios que eles, enquanto cidadãos 
+
+ 
+ 
+
+ 
+
+ 
+ 
+partícipes  da  sociedade,  precisam  enfrentar  e  buscar  soluções  frente  à  temática 
+ambiental.  Deste  modo,  percebe-se  que  as  informações  da  FQ-água  auxiliaram  os 
+estudantes  na  elaboração  de  bons  argumentos  em  que  o  conhecimento  significativo 
+construído  ultrapassou  os  limites  da  sala  de  aula  para  a  esfera  comunitária, 
+demonstrando,  aqui,  evidências  do  desenvolvimento  da  criticidade  dos  alunos.  Desse 
+modo,  corrobora-se  com  Oliveira  et  al.  (2017),  que  também  observaram  estes 
+fenômenos em sua pesquisa envolvendo a construção e validação de uma FQ. 
+
+4. Conclusão 
+
+ 
+A partir dos indícios apresentados nos mapas conceituais dos outros estudantes, 
+de modo geral, é possível inferir a FQ-água promoveu uma aprendizagem significativa e 
+com  flexibilidade  em  curso  com  potencial  criticidade  para  o  estudo  envolvendo  uma 
+temática  ligada  às  Ciências  Ambientais,  configurando-se  como  uma  ferramenta 
+tecnológica  eficaz  para  o  processo  de  ensino  e  aprendizagem.  A  atividade  de 
+transferência  não  foi  aplicada,  mas  o  professor-mediador  informou  que  esta  etapa  da 
+FQ-água  será  bem  interessante  no  que  diz  respeito  à  motivação  dos  estudantes  em 
+executar  essa  atividade.  Eles  poderão  utilizar  os  conhecimentos  construídos  acerca  do 
+tema da escassez de água para a construção de um paradidático para crianças do Ensino 
+Fundamental. Esta intencionalidade citada pelo docente remete-nos a uma das premissas 
+básicas  de  uma  aprendizagem  que  faça  sentido  para  o  estudante  (MOREIRA  2010, 
+OLIVEIRA, SILVA e AQUINO 2017). 
+
+Referências 
+ 
+
+ALEIXO, A. A., LEÃO, M. B. C. e SOUZA, F. N. (2008) Flexquest: potencializando a 
+
+WebQuest no Ensino de Química. R. Faced, 14, 119-133. 
+
+BRASIL.  (1998)  Parâmetros  Curriculares  Nacionais.  Secretaria  de  Educação 
+
+Fundamental. Brasília: MEC/SEF,  2000. 
+
+FRANÇA, M., SILVEIRA, I. F. e ARAÚJO JR., C. F. (2014) Vivissecção virtual com 
+utilização de  tablets: uma contribuição para os processos de ensino e aprendizagem 
+nas aulas de Biologia. In: ARAÚJO-JR. e C. F., SILVEIRA, I. F. (Orgs). Tablets no 
+ensino fundamental e médio: princípios e aplicações, p. 88-92. Terracota. 
+
+LEÃO,  M.  B.,  SOUZA,  F.  N.,  MOREIRA,  A.  e  BARTOLOME,  A.  R.  (2006) 
+FlexQuest:  Una  Webquest  con  aportes  de  la  Teoria  de  la  Flexibildad  Cognitiva 
+(TFC).  Ministerio  de  Educación  de  la  Naci  Libro  del  Proyecto  de  Articulacion 
+Universidad Enseñanza Media, 128-143. 
+
+MOREIRA,  M.  A.  (2010)  Aprendizaje  Significativo  Critico.  Boletín  de  Estúdios  e 
+
+Investigación. 2 (6) 83-101. 
+
+OLIVEIRA, J. A. B., GUSMAO, P. T. R. e AQUINO, K. A. S. (2018) Flexquest como 
+material  instrucional  potencialmente  significativo  para  o  ensino  das  Ciências 
+Naturais. In: 7º Encontro Nacional de Aprendizagem Significativa, 2018, Blumenau. 
+Anais do 7º Encontro Nacional de Aprendizagem Significativa, 7, 105-110. 
+
+OLIVEIRA,  J.  A.  B.,  SILVA,  C.  J.  e  AQUINO,  K.  A.  S.  (2017)  Aprendizagem 
+Significativa  Crítica  e  Flexibilidade  Cognitiva:  diálogo  metodológico  através  da 
+construção  e  validação  de  uma  ferramenta  Flexquest  para  o  ensino  de  Ecologia  na 
+educação básica. Cadernos de Estudos e Pesquisa na Educação Básica, 3, (1), 35-51. 
+
+ 
+
+OLIVEIRA,  N.  A.  S.  (2006)  A  educação  ambiental  e  a  percepção  fenomenológica, 
+através de mapas mentais. Revista eletrônica do Mestrado em Educação Ambiental. 
+Rio Grande, 16, 32-46. 
+
+RAMOS, P. S. e AQUINO, K. A. S. (2015) Ações na parte diversificada do currículo: 
+um  relato  de  experiência  na  perspectiva  de  uma  aprendizagem  significativa  crítica. 
+Cadernos de Estudos e Pesquisa na Educação Básica, 1, 240-249. 
+
+SANTOS,  I.  G.  S.  e  CLEOPHAS,  M.  G.  (2017)  Uma  proposta  de  trabalho 
+interdisciplinar sobre a água: o caso da Flexquest “O Fluido da Vida”. Enseñanza de 
+las ciencias, n. Extra, 4949-4954, 2017. 
+
+SILVA, I. G. S. S., LEÃO, M. B. C.  e SOUZA, F. N. (2015) Plataforma  Flexquest®: 
+flexibilidade  cognitiva  e 
+Uma  estratégia  didática  para  a  promoção  de 
+interdisciplinaridade  com  recursos  Web  2.0.  Revista  Ibérica  de  Sistemas  e 
+Tecnologias de Informação, SPE4, 35-49. 
+
+SOUZA, F. N. e LEÃO, M. B. C. (2006) MOREIRA, A. Elementos estruturadores de 
+uma  WebQuest  flexível  (FlexQuest).  In:  Encontro  sobre  Webquest.  p.  223-227, 
+Universidade de Minho. 
+
+VASCONCELOS,  F.  C.  G.  C.  e  LEÃO,  M.  B.  C.  (2016)  Utilização  de  recursos 
+audiovisuais  em  uma  estratégia  Flexquest  sobre  radioatividade.  Investigações  em 
+Ensino de Ciências, 17(1), 37-58. 
+
+WCER 
+
+(2004) 
+
+Cognitive 
+
+flexibility. 
+
+http://www.wcer.wisc.edu/step/edpsych301/document/CognitiveFlexibility.htm, 
+Janeiro. 
+
+ 
+ 
+
+ 
+
+

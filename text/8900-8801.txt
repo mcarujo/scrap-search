@@ -1,0 +1,551 @@
+ 
+
+REPAssistive: um Repositório de Recursos Digitais para 
+Educandos com Necessidades Educacionais Específicas 
+
+José Vinícius Vieira Lima1, Ellen Polliana R.  Souza2, Ana Carolina C. de Melo2 
+
+1Universidade de Pernambuco – (UPE) 
+
+2Universidade Federal Rural de Pernambuco – (UFRPE). 
+
+jvv@ecomp.poli.br, {ellen.ramos, carolina.melo}@ufrpe.br 
+
+Abstract.  Digital  Educational  Resources  have  been  used  as  tools  which  assist 
+students  with  disabilities  in  the  learning  process.  However,  educators  have 
+difficulty to locate such resources in a cataloged way and according to the type 
+of the learner disability. The aim of this work is to present the development of a 
+digital  repository  with  specific  educational  games  for  special  education  using 
+the  accessibility  guidelines  for  WEB  content.  In  this  way,  the  repository  has 
+been  successfully  evaluated  and  it  is  composed  by:  a  collaborative  space, 
+advanced  search  engine  and  voice,  besides  the  catalog  of  games  together  with 
+the  set  of  technical  and  pedagogical  information  present  in  the  teacher’s 
+manual. 
+
+Resumo. Recursos Educacionais Digitais têm sido utilizados como ferramentas 
+que  auxiliam  os  educandos  com  deficiência  no  processo  de  aprendizagem. 
+Porém, há uma dificuldade por parte dos educadores em localizá-los de forma 
+catalogada  e de acordo  com o  tipo de deficiência.  O objetivo deste  trabalho é 
+apresentar o desenvolvimento de um repositório digital com jogos educacionais 
+específicos  para  a  educação  especial  utilizando  as  diretrizes  de  acessibilidade 
+para  o  conteúdo  WEB.  Deste  modo,  o  repositório  foi  avaliado  com  sucesso,  o 
+mesmo dispõe de um espaço colaborativo, mecanismo de busca avançada e por 
+voz,  além  do  catálogo  de  jogos,  como  também  o  conjunto  de  informações 
+técnicas e pedagógicas presentes no manual do professor. 
+
+1. Introdução 
+
+O  termo  Pessoas  com  Necessidades  Educacionais  Específicas  (NEE)  refere-se  a  todos 
+temporário  ou  permanentemente, 
+os  educandos  que  apresentam,  em  caráter 
+significativas  diferenças  físicas,  sensoriais  ou  intelectuais,  cujas  fragilidades  decorrem 
+de  fatores  naturais  ou  adquiridos,  acarretando  em  dificuldades  na  interação  com  a 
+sociedade  e,  no  modo  como  aprendem  [Silva  et  al.  2011].  As  NEE  estão  incluídas  no 
+que caracteriza-se como Educação Especial. Sendo esta, uma área que promove práticas 
+relacionadas  ao  ambiente  pedagógico,  garantindo  a  inclusão  por  meio  de  instrumentos 
+que promovam vantagens em relação à melhoria do desempenho intelectual e cognitivo.  
+
+As  Pessoas  com  Deficiência  (PcD),  frequentemente,  enfrentam  obstáculos  no 
+ 
+seu  desenvolvimento  e  comportamento,  principalmente  no  aspecto  da  adequação  no 
+ambiente  escolar.  Segundo  Silva  et  al.  (2011),  a  falta  de  acesso  a  tecnologias  traz 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+prejuízos  consideráveis  ao  indivíduo,  limitando  sua  capacidade  produtiva  e  também  a 
+sua cidadania. Desta maneira, Lima et al. (2016) relatam que muitas práticas em prol de 
+pessoas  com  NEE  vêm  sendo  aderidas,  buscando  a  promoção  de  igualdades  com  seus 
+pares e um melhor convívio no meio pedagógico e social. 
+
+ 
+Para  uma  melhor  relação  diante  da  sociedade  e  técnicas  que  minimizem, 
+desenvolvam  ou  superem  às  dificuldades  potencializadoras  do  aprendizado  em 
+educandos  com  NEE,  os  jogos  educacionais  digitais  se  destacam  como  uma  eficiente 
+ferramenta  pedagógica  [Silva  et  al.  2011].  Do  mesmo  modo,  Valente  et  al.  (2018) 
+mencionam  que  esses  jogos,  frequentemente,  estão  alinhados  com  teorias  de 
+aprendizagem,  pressupondo  uma  aprendizagem  dinâmica,  ativa,  contextualizada  e 
+baseada  em  problemas.  Esse  tipo  de  recurso,  destaca-se  como  método  que  promove  o 
+ensino  e  aprendizagem  por  meio  da  aplicação  de  componentes  curriculares, 
+incentivando a atenção e concentração. 
+
+ 
+Os  jogos  digitais  podem  ser  encontrados  em  os  repositórios  virtuais,  que 
+também são conhecidos como portais educacionais. Estes, oferecem ao usuário, em uma 
+página  WEB,  diversas  opções  de  Recursos  Educacionais  Digitais  (RED)  a  serem 
+incorporados  de  acordo  com  o  currículo  escolar  e  os  diferentes  níveis  de  educação 
+[Silva  et  al.  2016].  Considerando  esse  contexto,  atualmente,  os  repositórios 
+educacionais  existentes  não  possuem  um  espaço  específico  e  destinado  à  educação 
+especial e educandos com NEE, o que dificulta a busca de RED pelos educadores que 
+desejam aplicá-los dentro da sala de aula. 
+
+ 
+Assim,  este  trabalho  tem  como  objetivo  apresentar  o  desenvolvimento  de  um 
+repositório de RED, inicialmente apenas com jogos que tenham características próprias 
+para o uso e partilha de conteúdos relacionados à linguagem e ao raciocínio lógico, nos 
+quais  são  direcionados  para  educandos  com  NEE.  Como  apoio  neste  processo,  os 
+requisitos  foram  identificados  e  validados  por  educadores  da  Associação  de  Pais  e 
+Amigos dos Excepcionais (APAE) de Serra Talhada – PE. 
+
+ 
+O trabalho está estruturado da seguinte forma: a Seção 2 apresenta o referencial 
+teórico  que  embasará  as  reflexões  sobre  a  educação  especial,  o  uso  de  jogos 
+educacionais  por  educandos  com  NEE,  a  importância  dos  repositórios  educacionais,  e 
+os  trabalhos  relacionados.  A  Seção  3  compõe  os  procedimentos  metodológicos  e  as 
+ferramentas utilizadas no desenvolvimento do repositório. Na Seção 4, é apresentado o 
+REPAssistive  e  suas  funcionalidades.  A  Seção  5  exibe  os  resultados  dos  processos  de 
+validação.  E,  por  fim,  a  Seção  6  que  discorre  sobre  as  considerações  finais, 
+contribuições e trabalhos futuros. 
+
+2. Referencial Teórico 
+
+2.1. Educação Especial 
+
+Educação  Especial  constitui-se  como  modalidade  de  ensino  oferecida  na  educação 
+escolar,  de  preferência,  na  rede  regular,  visando  promover  o  desenvolvimento  das 
+potencialidades de pessoas com NEE [Lima et al. 2016]. Conforme Carvalho (2010), a 
+prática  da  educação  está  estritamente  associada  à  inclusão,  sendo  compreendida  como 
+uma metodologia que exerce o direito de igualdade e equidade de oportunidades. 
+
+ 
+A  mudança  do  paradigma  da  integração  para  o  modelo  de  inclusão,  reflete, 
+principalmente no âmbito educacional em conformidade com a preocupação em atender 
+
+ 
+
+à  diversidade.  As  transformações  dos  sistemas  educacionais  estão  associadas  à 
+construção  de  um  novo  tipo  de  sociedade,  através  da  inclusão  gerada  com  o  uso  da 
+educação, tornando-se um conceito revolucionário que busca promover as barreiras que 
+mantém a exclusão em seu sentido mais lato e pleno. 
+
+ 
+Aprovada em 2015, a Lei Brasileira de Inclusão (LBI), de nº 13.146, conta com 
+mais de 100 artigos voltados a promoção da igualdade e oportunidades para PcD. A Lei 
+se insere na comunidade escolar, provocando a garantia do ensino de qualidade à pessoa 
+com  deficiência,  colocando-a  a  salva  de  toda  forma  de  violência,  negligência  e 
+discriminação. Assegurando também o acesso a produtos, recursos, práticas, métodos e 
+processos que tendem maximizar a autonomia, mobilidade pessoal e qualidade de vida. 
+
+2.2. Jogos Educacionais Digitais 
+
+Os  jogos  educacionais  digitais  recebem  destaque  como  instrumento  de  amplo  auxílio 
+para  a  educação  especial,  oferecendo  aos  usuários  a  perspectiva  de  exercitar  os  seus 
+conhecimentos em cenários virtuais que permitem uma maior interatividade, tentativa e 
+tempo  cognitivo,  potencializando  as  habilidades  e 
+erros,  considerando  o  seu 
+competências  que  viabilizam  a  prática  do  aprendizado.  O  modo  como  os  usuários 
+interagem  com  esses  jogos,  proporciona  uma  importante  alternativa  que  fortalece  o 
+processo  de  inclusão  social  diante  dos  recursos  que  potencializam-se  dentro  do 
+ambiente educacional [Lima et al. 2016]. 
+
+ 
+De acordo com Valente et  al. (2018), a  aprendizagem baseada  em jogos é uma 
+forma  de  engajar  os  educandos  em  atividades  significativas  e  permitir  que  assumam 
+novas  identidades,  explorem  as  oportunidades  e  elevem  o  aprendizado.  Desta  forma, 
+esse  tipo  de  recurso  tem  sido  utilizado  como  motivação  de  incentivo  a  concentração, 
+coordenação  motora  e  memorização  aos  educandos  com  NEE  quando  realizam  o  seu 
+uso, contribuindo assim para uma maior fixação dos conteúdos trabalhados. 
+
+2.3. Repositórios de Recursos Educacionais Digitais 
+
+Repositórios  educacionais  são  importantes  recursos  que  possibilitam  aos  usuários  uma 
+forma  detalhada  e  eficaz  de  pesquisa.  Um  repositório  deve  ser  capaz  de  oferecer  um 
+ambiente colaborativo para o desenvolvimento, avaliação e partilha de materiais. Além 
+disso,  Júnior  (2013)  descreve  que  os  repositórios  devem  recuperar  os  recursos  através 
+de palavras-chave, ou a utilização de uma busca avançada que permita detalhar valores, 
+tendo como intuito melhorar o filtro da pesquisa a depender da necessidade.      
+
+ 
+Segundo Lima et al. (2016), os repositórios educacionais são portas de acesso a 
+outros websites de  caráter instrutivo,  além de oferecer diversos serviços  à comunidade 
+educativa (diretores, educadores, educandos e familiares), dentro de um ambiente WEB 
+que  permite  promover  informação,  mecanismo  de  pesquisa  de  dados,  ferramenta  de 
+colaboração, atividades formativas, catálogos de recursos, entretenimento e lazer. 
+
+2.4. Trabalhos Relacionados 
+
+Atualmente, há diversos repositórios educacionais de livre acesso. Isto é, que possuem a 
+Licença  Creative  Commons,  os  mesmos  contêm  uma  vasta  quantidade  de  métodos 
+instrucionais entre os níveis educacionais de ensino. São exemplos desses repositórios: 
+o Banco Internacional de Objetos Educacionais (BIOE), a Plataforma do Ministério da 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Educação de Recursos Educacionais Digitais (MEC-RED), a Rede Interativa Virtual de 
+Educação (RIVED) e o Portal do Professor. 
+
+ 
+Embora  tenha  sido  realizado  o  acesso  detalhado  destas  plataformas,  não  foi 
+encontrado nesses principais repositórios um espaço com recursos concentrados para o 
+uso na educação especial, o que ocasiona-se em uma maior dificuldade no processo de 
+busca e seleção por partes dos educadores dessa área. A Tabela 1 detalha os trabalhos 
+relacionados supracitados comparando-os com o repositório desenvolvido neste estudo. 
+
+Tabela 1. Visão geral entre os trabalhos relacionados. 
+
+ 
+
+3. Procedimento e Método 
+
+O  processo  de  desenvolvimento  do  repositório  foi  dividido  em  quatro  etapas.  Os 
+detalhes de cada uma destas serão apresentados nas Subseções a seguir. 
+
+3.1. Identificação dos Conteúdos  
+
+Ao utilizar a APAE de Serra Talhada como estudo de caso, foram realizadas entrevistas 
+semi-estruturadas  juntamente  com  a  aplicação  de  um  survey  contendo  seis  perguntas 
+para  os  educadores  da  Associação,  possuindo  uma  questão  de  múltipla  escolha  e  as 
+demais de livre formato para resposta textual. Assim, as informações foram analisadas e 
+extraídas,  resultando  nos  principais  conteúdos  pedagógicos  utilizados  entre  os 
+educadores, sendo classificados em dois tipos: linguagem e raciocínio lógico.  
+
+3.2. Pesquisa e Seleção dos Jogos Educacionais  
+
+Os  jogos  educacionais  selecionados  contêm  as  Diretrizes  de  Acessibilidade  para  o 
+Conteúdo  Web1  (WCAG)  2.0.  Estas  oportunizam  que  os  conteúdos  possam  ser 
+utilizados  por  um  maior  número  de  PcD,  incluindo  cegueira  e  baixa  visão,  surdez  e 
+baixa audição, NEE e dificuldades de aprendizagem. Essas normas foram desenvolvidas 
+pelo World Wide Web Consortium (W3C), e  a sua estrutura é caracterizada por quatro 
+princípios  globais,  diretrizes  gerais,  critérios  de  sucesso  testáveis  e  um  conjunto  de 
+técnicas que buscam corresponder às necessidades deste público-alvo.  
+
+ 
+Como  base  no  apoio  das  buscas  pelos  jogos,  as  Diretrizes  Nacionais  para 
+Educação  Especial  na  Educação  Básica  também  foram  utilizadas.  Desta  forma,  estas 
+auxiliaram  na  escolha  de  aspectos  técnicos  e  pedagógicos  nesta  etapa.  Feito  isto,  os 
+jogos  contidos  no  repositório  foram  selecionados  através  de  pesquisas  feitas  na  WEB, 
+nais  quais  foram  realizadas  buscando  identificar  a  presença  dos  conteúdos  apontados 
+pelos educadores, assim como a existência das diretrizes e critérios de acessibilidade. 
+
+1 Disponível em: https://www.w3.org/Translations/WCAG20-pt-PT/ 
+
+ 
+
+ 
+
+3.3. Desenvolvimento do Repositório  
+
+Com  a  necessidade  em  existir  um  espaço  online,  no  qual  as  informações  e  os  RED 
+pudessem  ser  utilizados  e  compartilhados,  o  repositório  foi  desenvolvido  no  que  se 
+caracteriza-se  como  comunidade  aberta,  a  qual  possibilita  a  inserção  de  colaborações 
+por parte dos usuários. Desta maneira, o mesmo é mantido sempre ativo, favorecendo o 
+aumento de RED e a troca de conhecimentos entre os próprios usuários que o utilizam. 
+
+ 
+Neste  aspecto,  foram  utilizadas  algumas  ferramentas  e  tecnologias  que 
+auxiliaram  a  construção  do  repositório.  Com  isso,  utilizou-se  a  linguagem  de 
+programação Python junto com o Django como framework do tipo WEB. Seguindo  as 
+recomendações  de  acessibilidade  propostas  pelo  W3C,  a  interface  gráfica  foi 
+desenvolvida utilizando HTML5, em companhia do Bootstrap como framework do tipo 
+CSS. Também, foi utilizada a linguagem de programação JavaScript em conjunto com a 
+jQuery  como  uma  de  suas  bibliotecas.  Como  Sistema  de  Gerenciamento  de  Banco  de 
+Dados, foi empregado o MySQL. 
+
+3.4. Avaliações 
+
+Buscando  avaliar  o  repositório  com  base  na  sua  acessibilidade  e  as  normas  propostas 
+pelo W3C, junto com os jogos que apresentam as diretrizes sugeridas pela WCAG 2.0, 
+um survey foi aplicado com um grupo de cinco educandos com Deficiência Intelectual, 
+sendo  dois  deles  não  alfabetizados.  Este  baseou-se  na  metodologia  de  Software 
+Usability Measurement Inventory2, tendo o objetivo, avaliar a qualidade em relação ao 
+ponto de vista do usuário final, auxiliando na detecção de possíveis falhas. A coleta de 
+dados foi realizada a partir da satisfação, no uso dos elementos educacionais, conteúdos 
+propostos e a forma de como ocorreu a motivação frente às interações realizadas. 
+
+ 
+Do  mesmo  modo,  um  outro  procedimento  de  avaliação  foi  executado.  Neste, 
+buscou-se  avaliar  o  repositório  com  o  apoio  em  testes  de  usabilidade  junto  com  o 
+processo  de  colaboração  de  novos  RED.  Para  esse fim,  um  conjunto  de  10  heurísticas 
+foram selecionadas e adaptadas de Nielsen (1994). As heurísticas selecionadas, foram: 
+
+•  H1 – Facilidade na aprendizagem e memorização; 
+•  H2 – Visibilidade do estado do sistema; 
+•  H3 – Estética e design minimalista; 
+•  H4 – Liberdade de controle fácil para o usuário; 
+•  H5 – Equivalência entre o sistema e o mundo real; 
+•  H6 – Consistência e padrões; 
+•  H7 – Flexibilidade e eficiência de uso; 
+•  H8 – Prevenção de erros; 
+•  H9 – Clareza nas informações; 
+•  H10 – Capacidade de aprender e assimilar de forma intuitiva. 
+
+Com  isso,  outros  dois  surveys  foram  aplicados  com  o  propósito  de  avaliar  o 
+ 
+valor  da  gravidade  e  possíveis  problemas  detectados  entre  as  heurísticas,  cada  um 
+contou com 5 perguntas de múltipla escolha baseadas na escala Likert, contendo de 1 a 
+5  graus  de  satisfação.  O  primeiro  survey  avaliou  a  opinião  de  três  educadores  da 
+Associação, e o outro foi destinado a avaliação de um grupo de cinco  especialistas em 
+
+2 Mais informações em: http://sumi.uxp.ie/ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+interface  gráfica,  princípios  de  design  e  conceitos  de  ergonomia  de  software. 
+Observações diretas também foram utilizadas para coletar informações. 
+
+4. O REPAssistive 
+
+O REPAssistive é um repositório gratuito, educacional, que cataloga, localiza, avalia e 
+compartilha  RED  de  acesso  livre  para  serem  aplicados  como  métodos  de  ensino  e 
+aprendizagem  na  educação  especial.  Com  isso,  o  mesmo  pode  ser  utilizado  pelos 
+educadores,  como  também  por  educandos  com  NEE.  Atualmente,  contém  jogos 
+educacionais com objetivos pedagógicos relacionados à linguagem e raciocínio lógico e 
+são caracterizados de acordo com os níveis de ensino previstos nas Diretrizes Nacionais 
+para Educação Especial na Educação Básica, sendo eles: Ensino Infantil, Fundamental I 
+e II e Ensino Médio. As principais funcionalidades do repositório incluem:  
+
+•  Controle  de  registro  (cadastro,  visualização,  edição  e  remoção)  de  RED  para  a 
+
+educação especial; 
+
+•  Gerenciamento de logins (cadastro, visualização, edição e remoção) de usuários; 
+•  Mecanismo de busca avançada e por reconhecimento de voz; 
+•  Manual do professor com a descrição (técnica e pedagógica) do recurso; 
+•  Feedback e pontuação dos RED realizado entre os próprios usuários; 
+•  Espaço destinado para comunicação e dúvidas entre os usuários e o repositório. 
+
+ 
+Com  o  propósito  relacionado  à  praticidade  no  momento  do  uso,  uma  interface 
+amigável e fácil de ser utilizada foi desenvolvida. A Figura 1 exibe a página inicial do 
+repositório que conta com um menu na parte superior que dá acesso as demais páginas. 
+
+Figura 1. Página inicial do REPAssistive. 
+
+ 
+
+ 
+Os  jogos  contidos  no  repositório  dispõem  de  uma  organização  que  permite 
+identificá-los através do nome que cada um possui, assim como a sua ilustração, na qual 
+facilita  a  escolha  entre  os  educandos  não  alfabetizados.  Além  disso,  em  cada  card,  é 
+exposto uma breve descrição do jogo, como também o tipo de deficiência que o mesmo 
+se  encaixa,  qual  o  seu  componente  curricular  juntamente  com  o  nível  de  ensino 
+
+ 
+
+ 
+
+apropriado.  A  Figura  2  apresenta  a  forma  de  como  os  jogos  são  exibidos  e  como  os 
+mesmos podem ser filtrados. 
+
+Figura 2. Página de jogos. 
+
+As  buscas  pelos  recursos  podem  ser  realizadas  por  diferentes  maneiras,  tais 
+ 
+como:  título,  nível  educacional,  componente  curricular,  tipo  de  deficiência  ou 
+competências  pedagógicas.  O  repositório  também  permite  que  as  buscas  sejam 
+realizadas  utilizando  o  comando  de  voz,  para  utilizá-lo,  basta  clicar  sobre  a  opção 
+“pesquisa por voz” ou no ícone ilustrado por o símbolo do microfone. Como  forma  de 
+prover auxílio  ao educador, foi desenvolvido o manual do professor. No manual, além 
+das informações já descritas no card do recurso, o mesmo contém a descrição detalhada 
+de  cada  um  deles,  incluindo  um  conjunto  de  dados  pedagógicos  e  técnicas  que 
+contribuem  para  a  preparação  e  condução  da  aula.  Ao  observar  a  Figura  3,  é  possível 
+identificar a estrutura do manual e a forma de como as informações são expostas. 
+
+Figura 3. Página do manual do professor. 
+
+ 
+
+Dispondo  da  possibilidade  de 
+
+junto  com  o 
+ 
+fortalecimento  da  comunidade  aberta,  o  REPAssistive  tem  como  uma  das  suas 
+principais  propostas,  um  espaço  voltado  para  a  colaboração.  Em  que,  proporciona  a 
+
+inserção  de  novos  RED, 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+perspectiva do aumento no número de recursos, propagação do conhecimento e a troca 
+de  experiência  por  parte  dos  usuários.  Para  realizar  uma  colaboração,  é  necessário 
+executar quatro etapas, sendo elas: 
+
+1.  Criar uma conta no repositório; 
+2.  Preencher os campos destinados com as informações do recurso; 
+3.  Carregar o arquivo, podendo este ser de três tipos: Desktop, WEB ou Mobile; 
+4.  Enviar a proposta. 
+
+ 
+As  propostas  enviadas  são  avaliadas  conforme  as  normas  estabelecidas  pelo 
+repositório,  em  que  sustentam-se  através  das  recomendações  e  critérios  sugeridos  pela 
+WCAG  2.0  junto  ao  W3C.  Desta  forma,  o  usuário  tem  a  opção  de  visualizar,  editar  e 
+acompanhar a situação de cada colaboração, na qual possui quatro tipos de status, que 
+são:  enviado,  em  análise,  aprovado  e  recusado.  O  repositório  ainda  dispõe  de  uma 
+página  que  permite  ao  usuário  interagir,  esclarecer  dúvidas  e  enviar  sugestões.  Com 
+isso,  é  colocado  em  prática  o  suporte  em  atender  às  necessidades  dos  visitantes, 
+promovendo atividades que estimulem o desenvolvimento e melhoramento do mesmo. 
+
+5. Resultados e Discussões  
+
+Os resultados serão discutidos sob  dois aspectos: a avaliação dos jogos realizada pelos 
+educandos e a avaliação de usabilidade. Ao fim, as limitações e ameaças são expostas.  
+
+5.1. Avaliação de Acessibilidade dos Jogos 
+
+A  avaliação  de  acessibilidade  dos  jogos  com  relação  a  utilização  dos  educandos  com 
+NEE foi realizada com o propósito de analisar se os jogos cadastrados no repositório são 
+úteis  quando  associados  no  processo  de  aprendizagem  e  se  o  repositório  desenvolvido 
+pode ser utilizado por estas pessoas. Ao analisar os dados dos surveys respondidos pelos 
+educandos,  os  resultados  apontam  que  há  o  estímulo  de  quatro  tipos  de  habilidades, 
+conforme mostra a Figura 4. 
+
+Figura 4. Avaliação das habilidades encontradas nos jogos. 
+
+ 
+
+Dentre  essas  habilidades,  é  possível  observar  que  100%  dos  educandos 
+ 
+responderam que conseguiram utilizar os jogos de modo satisfatório. Da mesma forma 
+que  o  item  relacionado  a  motivação  também  obteve  aprovação  máxima,  já  que  os 
+educandos afirmaram que jogariam outras vezes os jogos contidos no repositório. Esse 
+resultado  já  era  esperado,  pois  durante  a  aplicação  do  survey,  foi  observado  que  os 
+mesmos  se  mostraram  motivados  em  explorar  os  jogos,  bem  como  a  permanência  na 
+sala  após  o  fim  da  avaliação.  Em  paralelo,  apenas  um  entre  o  total  de  avaliados  não 
+classificou  como  “excelente''  a  forma  no  qual  os  conteúdos  e  as  páginas  WEB  foram 
+configuradas.  Assim  como  os  elementos  educacionais  presentes  nos  jogos  também 
+
+ 
+
+ 
+
+foram medidos com 80% de aceitação conforme as contribuições que estes oferecem no 
+processo de aprendizagem. 
+
+ 
+Partindo dos dados apresentados, percebe-se que os educandos avaliaram como 
+conceito máximo as habilidades relacionadas a satisfação dos jogos e a motivação que 
+os  mesmos  oferecem.  Esses  resultados  correlacionam-se  ao  fato  de  que  esse  tipo  de 
+RED, aplicado no processo de aprendizagem, oferece novas formas didáticas e eficazes 
+de  adquirir  o  conhecimento.  Desta  forma,  o  modo  como  os  conceitos  foram  expostos 
+nas páginas, juntamente com os elementos educacionais presentes nos jogos, destacam-
+se  como  aspectos  positivos  do  REPAssistive,  facilitando  o  seu  uso,  principalmente 
+quando educandos com NEE não alfabetizados realizam interações com o mesmo. 
+
+5.2. Avaliação de Usabilidade 
+
+A  segunda  parte  da  avaliação  do  REPAssistive  foi  executada  tomando  como  base  a 
+aplicação  de  testes  de  usabilidade.  Analisando  os  dados  obtidos  através  dos  surveys 
+respondidos  entre  os  educadores  e  os  especialistas  da  área  de  interface  gráfica,  os 
+resultados  salientam  que  7  entre  as  10  heurísticas  avaliadas,  receberam  100%  de 
+aprovação. Assim, ao observar a Figura  5, é possível identificar a avaliação entre cada 
+uma das heurísticas.   
+
+Figura 5. Resultados referentes a avaliação das heurísticas. 
+
+ 
+Diante  dos  dados  apresentados,  as  heurísticas  H1,  H2,  H3,  H4,  H5,  H8  e  H10 
+obtiveram  como  resposta  o  grau  mínimo  de  acordo  com  os  possíveis  problemas 
+detectados.  Ou  seja,  foram  classificadas  com  o  grau  de  nível  1,  caracterizando-se,  na 
+opinião dos avaliadores, como um grupo de heurísticas nas quais os seus conceitos estão 
+bem  aplicados  e  que  não  possuem  dificuldades  e  contrariedades  que  possam  acarretar 
+em problemas durante  a interação e o uso. Por outro lado, as heurísticas H6, H7 e H9 
+adquiriram  satisfação  de  60%,  40%  e  80%,  respectivamente,  associando-se  a 
+classificação  de  nível  2,  na  qual  há  um  pequeno  problema,  mas  que  o  mesmo  “não 
+necessita  ser  consertado".  Acredita-se  que  esses  resultados  estejam  relacionados  a 
+pequenas confusões onde os usuários ficaram com dúvidas sobre qual passo seguir após 
+realizar  uma  ação  no  repositório,  como  também  a  restrição  que  determina  o 
+preenchimento  de  todas  as  informações  de  modo  obrigatório  no  momento  em  que 
+deseja-se realizar uma colaboração de um novo recurso. 
+
+5.3. Limitações e Ameaças 
+
+A pesquisa apresenta algumas ameaças à validade: (i) as avaliações realizadas com um 
+número  pequeno  de  avaliadores;  (ii)  as  avaliações  efetuadas  com  apenas  um  método 
+proposto; (iii) o perfil do grupo de educandos em simpatizar com jogos; (iv) a avaliação 
+com os educandos foi realizada utilizando apenas o tipo de Deficiência Intelectual.  
+
+ 
+
+ 
+
+6. Considerações Finais 
+
+Neste  artigo  é  apresentado  um  repositório  virtual,  inicialmente,  contendo  recursos  do 
+tipo  jogos  educacionais  digitais  com  conteúdos  relacionados  à  linguagem  e  raciocínio 
+lógico  para  o  uso  de  educandos  com  NEE.  Esse  tipo  de  repositório  ainda  não  existia 
+com  o  foco,  especificamente,  em  RED  atribuídos  a  metodologia  de  ensino  e 
+aprendizagem  dentro  da  educação  especial.  Agora,  com  o  repositório  desenvolvido, 
+pode-se compartilhar as informações de diversos jogos de uma forma organizada e com 
+uma busca estruturada por específicos atributos. Além do uso do manual do professor, 
+que  auxilia  o  educador  na  preparação  da  aula  e  contribui  com  um  conjunto  de 
+informações pedagógicas. 
+
+ 
+Desta  forma,  o  repositório  fortalece  o  conhecimento  de  modo  intuitivo, 
+provocando  maior  desenvolvimento  intelectual,  educacional  e  profissional.  Do  mesmo 
+modo  que  os  jogos  educacionais  contidos  no  mesmo  possibilitam  a  inclusão  digital 
+junto  com  a  potencialização  das  habilidades  cognitivas,  despertando  o  interesse  pela 
+aquisição do saber entre os educandos com deficiência. 
+
+Para trabalhos futuros, pretende-se evoluir o repositório com base nas sugestões 
+ 
+de melhorias apontadas pelos participantes nos processos de avaliações. Além de inserir 
+diferentes tipos de RED, juntamente com o aumento no número de jogos educacionais 
+de acordo com os variados tipos de necessidades educacionais específicas. 
+
+Referências 
+
+Janeiro. 
+
+Carvalho,  R.  E.  (2010).  Removendo  barreiras  para  a  aprendizagem,  v.  21.  Rio  de 
+
+Júnior, J. B. B. (2013). Portais educacionais e suas características: contribuições para o 
+
+estado da arte. Holos, 3:111–129. 
+
+Lima, C. A., Hitzschky, R., de Brito, M. A., Oliveira, A. G., de Castro Filho, J. A., and 
+Medeiros,  M.  D.  (2016).  Uma  proposta  de  catalogação  de  recursos  educacionais 
+digitais utilizando tablets para o ensino de crianças com deficiência intelectual. Anais 
+do Congresso Regional sobre Tecnologias na Educação, pages 510–517. 
+
+Nielsen, J. and Mack, R. L. (1994). Inspection Methods. New York. 
+
+Silva, C., Osmundo, M. L. F., Hitzschky, R. A., De Brito, M. A. F., De Castro Filho, J. 
+A., and Medeiros, M. D. (2016). Processo de criação de um repositório educacional 
+digital:  Procedimentos  de  busca,  seleção  e  categorização  de  recursos  educacionais 
+digitais (RED). Anais do Congresso Regional sobre Tecnologias na Educação, pages 
+427–437. 
+
+Silva,  R.  A.,  Paula,  M.  M.  V.,  and  Sarlas,  L.  M.  V.  (2011).  Utilização  de  jogos  para 
+pessoas com necessidades educativas especiais: uma análise experimental.  Simpósio 
+Brasileiro de Informática na Educação (XXII), pages 456–464. 
+
+Valente,  J.  A.,  Freire,  F.  M.  P.,  and  Arantes,  F.  L.  (2018).  Tecnologia  e  Educação 
+
+(passado, presente e o que está por vir). NIED/UNICAMP, Campinas-SP. 
+
+ 
+ 
+
+ 
+
+

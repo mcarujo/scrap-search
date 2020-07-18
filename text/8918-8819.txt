@@ -1,0 +1,538 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Programando a Várias Mãos: um Relato de Experiência da 
+Construção Colaborativa de Algoritmos 
+
+Aladir Ferreira da Silva Júnior1, Leizer Fernandes Moraes1, Rita Rodrigues de 
+Souza1 
+
+1 Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) – Câmpus Jataí 
+Núcleo de Informática na Educação (NINE) - 75.804-714 – Jataí – GO – Brasil 
+
+{leizer.moraes, aladir.junior, rita.souza}@ifg.edu.br 
+
+Abstract.  This  study  consists  in  a  description  of  experience  of  using  Google 
+Docs  in  educational  practice.  Scientific  research  has  shown  that  there  are 
+barriers in building learning for college students, especially in developing of 
+their  computer  programming  ability.  The  fundamental  contents  for  the 
+accomplishment  of  this  activity  may  not  be  presented  in  a  way  that  favors 
+learning. Following the Collaborative Learning approach, a problem-solving 
+activity mediated by Google Docs with three initial classes of higher education 
+was applied. It has been shown possible to verify that in the teaching-learning 
+of Algorithms, Google Docs presents encouraging results. 
+
+Resumo. Neste artigo se compartilha um relato de experiência com o uso do 
+Google Docs em prática educativa. Pesquisas científicas têm mostrado que há 
+barreiras  na  construção  do  aprendizado  de  alunos  de  cursos  superiores, 
+especialmente  quanto  ao  desenvolvimento  da  habilidade  de  se  programar 
+computadores. Os conteúdos fundamentais para a realização dessa atividade 
+talvez  não  estejam  sendo  apresentados  de  modo  a  favorecer  o  aprendizado. 
+Seguindo o proposto na abordagem da Aprendizagem Colaborativa, aplicou-se 
+uma atividade de resolução de problemas mediada pelo Google Docs com três 
+turmas  iniciais  do  ensino  superior  e  foi  possível  constatar  que  no  auxílio  ao 
+ensino-aprendizagem de Algoritmos, este apresenta resultados promissores. 
+
+1. Introdução 
+
+Há algum tempo persistem índices consideráveis de reprovação nas disciplinas iniciais 
+voltadas à programação de computadores, bem como de evasão de cursos superiores da 
+área  de  Computação.  Relatos  de  que  estas  disciplinas  têm  conteúdo  árido  [Oliveira  e 
+Nogueira 2015; Machado 2016], de que a forma como esse conteúdo é trabalhado pode 
+não ser adequada [Borges, 2000; Fontes e Silva, 2008; Oliveira e Nogueira 2015] e causar 
+desmotivação [Rodrigues 2004] são constatados em simples busca na Web. 
+
+Estudos compilados de 2001 a 2014, por Ramos et al. [2015], evidenciam que no 
+ 
+Brasil, o índice de reprovação em matérias sobre o ensino de programação e algoritmos 
+para  iniciantes  do  ensino  superior  é  em  média  45,6%,  podendo  após  apresentar 
+intervenções na estratégia de ensino, sobretudo nas estratégias mais tradicionais, ter uma 
+redução  de  aproximadamente  13%  nesse  mesmo  índice.  Considera-se,  no  entanto,  que 
+um  índice  32,6%  de  reprovação  não  seja  aceitável  e  deve-se  a  todo  custo  buscar 
+estratégias para a mitigação desse importante problema. 
+
+ 
+Muitos são os esforços já aplicados no ensino inicial de Algoritmos com o uso de 
+tecnologias e estratégias inovadoras [Rapkiewicz et al. 2006; Barcelos, Tarouco e Bercht 
+2009;  Priesnitz  Filho,  Abegg  e  Simonetto  2012;  Salgado;  Castro;  Castro  2013;  Silva, 
+Tedesco e Melo 2014; Machado 2016], relatando resultados promissores. Deve-se levar 
+em consideração que grande parte dos alunos que adentram o ensino superior não vêm 
+com uma formação em fundamentos de programação, lógica de programação, raciocínio 
+lógico/matemático, conhecimentos fundamentais para a programação de computadores. 
+
+ 
+A  qualidade  da  mediação  desenvolvida  pelo  professor  em  sala  de  aula  ou  no 
+laboratório  de  informática  pode  ser  um  diferencial  no  ensino-aprendizagem  dessa 
+disciplina e, assim, a inclusão de tecnologias e estratégias inovadoras de ensino deve ser 
+fomentada. Isso motivou o desenvolvimento dessa pesquisa que propõe uma abordagem 
+para o ensino-aprendizagem de algoritmos, especialmente quanto à construção destes em 
+laboratório de informática de modo colaborativo usando o Google Docs. 
+
+ 
+O  Google  Docs  é  um  editor  síncrono  desenvolvido  pela  Google  que  funciona 
+diretamente em um navegador de Internet a partir de um serviço de armazenamento em 
+nuvem (Google Drive). Apesar de ter sido agrupado junto a outros serviços no Google 
+Drive,  usaremos  o  termo  Google  Docs  neste  artigo,  pois  a  própria  empresa  ainda  o 
+considera como um serviço que pode ser acessado diretamente (docs.google.com). 
+
+2. Aprendizagem Colaborativa 
+
+Aprendizagem  colaborativa  é  uma  abordagem  de  ensino-aprendizagem  em  que  os 
+discentes se organizam em grupos para resolver um problema, realizar uma tarefa ou criar 
+um  produto  [Laal  2011].  Nessa  abordagem,  os  grupos  devem  ser  pequenos  e  seus 
+integrantes  devem  interagir  ativamente  entre  si,  com  a  coordenação  do  professor.  A 
+interação  entre  os  membros  do  grupo  inclui  conversas  face  a  face,  discussões  em 
+ambientes  virtuais  (no  caso  desta  pesquisa  no  bate-papo  do  Google  Docs)  e  também 
+discussões em um mesmo ambiente físico com o apoio computacional. [Machado 2016] 
+
+ 
+O relato de Machado [2016] traz que, onde essa abordagem é aplicada, o processo 
+de os alunos apenas ouvirem e fazerem os exercícios dá lugar a discussões em grupos e 
+os estudantes trabalham ativamente com o material do curso. A dinâmica proporcionada 
+pelo  Google  Docs,  confere  ao  processo  de  ensino-aprendizagem  uma  outra  dimensão, 
+onde  os  atores  têm  que  assumir  novos  papéis  para  a  construção  de  conhecimentos.  A 
+interação e a interlocução entre os participantes do processo são favorecidas não só na 
+questão  espaço-tempo,  mas  sobretudo  na  possibilidade  de  construção  coletiva  e 
+colaborativa de conhecimentos e solução de problemas. 
+
+ 
+A  colaboração  suportada  no  contexto  computacional  envolve  três  elementos: 
+comunicação, coordenação e cooperação. Segundo [Pimentel et al. 2006], a comunicação 
+se  dá  por  meio  da  troca  de  mensagens;  a  coordenação  se  realiza  por  meio  do 
+gerenciamento  de  pessoas,  atividades  e  recursos;  e  a  cooperação  se  dá  por  meio  de 
+operações num espaço compartilhado de execução das tarefas. Pode-se perceber que são 
+três elementos distintos, mas que mantêm uma inter-relação centrada na colaboração. 
+
+ 
+Diversos  modelos  foram  propostos  para  explicitar  a  relação  entre  esses  três 
+elementos: modelo 3C, modelo Clover, modelo de colaboração de Murphy entre outros. 
+Neste artigo, discute-se, com mais detalhes, o modelo 3C, tema da próxima seção.  
+
+ 
+
+ 
+
+2.1. Modelo 3C de Colaboração 
+
+O Modelo 3C, cujas bases referenciam o artigo de Ellis et al. [1991], tem se prestado não 
+apenas  a  classificar  o  suporte  computacional  à  colaboração,  mas  também  para  avaliar 
+sistemas colaborativos, avaliar sistemas de coautoria, e também para utilizá-lo como base 
+para o desenvolvimento arquitetural de aplicações colaborativas [Pimentel et al. 2006]. 
+Essa gama de aplicações do modelo 3C nos levou a defini-lo para uso nesse trabalho. 
+
+ 
+A pesquisa retratada neste artigo partiu do princípio que o 3C tem potencial para 
+classificar editores colaborativos em nuvem, como é o caso do Google Docs e também 
+pode orientar o processo de análise das atividades desenvolvidas na estratégia que aqui 
+se apresenta, especialmente quanto aos três pilares  do trabalho colaborativo, a saber: a 
+comunicação, a coordenação e a cooperação. 
+
+Figura 1 – Google Docs no Modelo 3C de colaboração. Adaptada de [Moura 2017] 
+
+Na  Figura  1,  se  mostram  os  três  pilares  da  aprendizagem  colaborativa 
+ 
+apresentados  no  Modelo  3C,  explicitando  que  o  Google  Docs  se  posiciona  de  modo 
+central, na união, favorecendo as ações de comunicar, de co(ordenar) e de co(operar) entre 
+os  membros  envolvidos.  Enfatiza-se  que  essa  Tecnologia  Digital  de  Informação  e 
+Comunicação  (TDIC)  possibilita  o  intercâmbio  de  papéis  no  processo  de  ensino-
+aprendizagem. Professor e aluno compartilham a atuação. O professor, com isso não deixa 
+de  exercer  sua  função,  de  ter  sua  responsabilidade  no  processo  formativo,  não  “perde 
+poder”. Ele divide e gerencia as tarefas e responsabilidades. O aluno, por sua vez, sai da 
+zona  de  conforto  de  ser  ouvinte  e  passa  a  atuar,  tomar  decisões,  compartilhar  o 
+conhecimento, aprender e ensinar com outro.  
+
+2.2. Trabalhos correlatos 
+
+Apresentação de ferramentas com o intuito de facilitar a aprendizagem em programação 
+de computadores tem sido foco de diversos pesquisadores. [Karavirta et al. 2012; Ihantola 
+et al. 2013; Brandão et al. 2014 e Machado et al. 2018] são alguns exemplos. 
+
+ 
+A  ferramenta  Google  Docs,  no  que  tange  à  produção  de  textos  de  forma 
+colaborativa, foi tratado em Oliveira e Moraes [2013]; no acompanhamento e avaliação 
+por Costa et al. [2016], ou até mesmo levantando as possibilidades de seu uso como nos 
+estudos de Moi et al. [2016] e Oliveira et al. [2017]. Não se encontrou, até a escrita deste 
+
+ 
+
+ 
+
+artigo,  relatos  de  pesquisas  sobre  o  uso  do  Google  Docs  no  ensino-aprendizagem  de 
+algoritmos, o que fortalece a contribuição da abordagem aqui apresentada. 
+
+ 
+Julga-se que quanto mais se oferecer ao professor possibilidades e estratégias de 
+aplicação  de  TDIC  no  ensino-aprendizagem  melhor  será  para  o  desenvolvimento  do 
+processo, haja vista a fluidez no uso destas pelos atuais discentes e pela diversidade de 
+ferramentas  já  disponíveis  e  de  novas  que  surgem  a  cada  dia.  Na  próxima  seção  são 
+apresentados os procedimentos metodológicos utilizados na pesquisa. 
+
+3. Metodologia 
+
+Baseando no recomendado pela Aprendizagem Colaborativa, o professor estabeleceu a 
+divisão  da  classe  de  alunos  em  equipes  pequenas,  com  o  número  máximo  de  3  (três) 
+alunos. Para cada grupo foi proposto um problema a ser resolvido dentro de um tempo de 
+aula (45 minutos).  Foi escolhido um tema para os problemas: Estruturas Condicionais. 
+Esse tema foi escolhido por  estar presente no ementário de todas as disciplinas que se 
+propõem a apresentar aos alunos os conceitos iniciais de programação de computadores. 
+O  experimento  foi  realizado  com  três  turmas  de  alunos  de  cursos  superiores  de  uma 
+instituição federal de ensino. 
+
+3.1. Sobre a amostragem 
+
+A amostra foi composta por 75 (setenta e cinco) alunos de cursos superiores, sendo 23 
+(vinte  e  três)  alunos  do  1º  período  do  Curso  Superior  de  Tecnologia  em  Análise  e 
+Desenvolvimento de Sistemas (CSTADS), 27 (vinte e sete) alunos do 1º período do Curso 
+Superior de Bacharelado em Engenharia Elétrica (CSBEE) e 25 (vinte e cinco) alunos do 
+2º período do Curso Superior de Bacharelado em Engenharia Civil (CSBEC). Usando um 
+modelo  não-probabilístico  foi  feita  uma  Amostragem  por  Conveniência,  haja  vista  a 
+facilidade de acesso do pesquisador aos alunos, em seu local de trabalho. 
+
+3.2. Descrição e sequência do experimento 
+
+Inicialmente se aplicou um questionário individual para o levantamento de informações 
+de caracterização da própria amostra e também ligadas ao conhecimento da tecnologia 
+que se propunha a aplicar. 
+
+ 
+O professor dividiu cada uma das três turmas em grupos de no mínimo dois e no 
+máximo três discentes. Para cada grupo, foi lançado um desafio que constituía em resolver 
+por  meio  da  criação  de  um  algoritmo  em  linguagem  de  programação  C  um  problema 
+acerca  da  temática  escolhida  para  o  experimento,  a  saber:  Estruturas  Condicionais, 
+comumente chamadas de Estruturas de Decisão. Após a criação do código-fonte os alunos 
+exportavam-no em formato texto puro e usavam esse arquivo para compilação e execução 
+em uma IDE padrão instalada no laboratório. 
+
+ 
+Achou-se dispensável ministrar treinamento do Google Docs para os alunos, haja 
+vista  que  eles  já  dominam  as  ferramentas  disponíveis  em  suítes  de  escritório  para 
+desenvolverem seus trabalhos escolares e outras atividades cotidianas e também pelo fato 
+de  que  o  Google  Docs  possui  interface  similar  a  essas  suítes.  Para  cada  turma,  foi 
+realizada uma sessão, em laboratório de informática com 30 computadores com Internet 
+(vide Figura 1), de uso da TDIC para a solução do desafio proposto a cada grupo. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Cada sessão teve a duração total de 1 hora e 30 minutos, tempo disponível para 
+responder os questionários e resolver o problema. No início da sessão foi oportunizado 
+um  tempo  de  15  minutos  para  que  aqueles  discentes  que  não  possuíam  e-mail  na 
+plataforma Google pudesse criá-lo, já que essa é uma exigência para o uso dessa TDIC. 
+
+Figura 1: Uma sessão de aplicação do experimento em laboratório. 
+
+ 
+Aplicou-se  um  segundo  questionário  objetivando  verificar  as  percepções  da 
+amostra em relação à TDIC empregada nas sessões. A partir dos dados dos questionários 
+e  das  percepções  do  professor-observador  foi  realizada  uma  análise  explicitada  na 
+próxima seção. 
+
+4. Resultados e discussões 
+
+As  respostas  fornecidas  por  meio  dos  dois  questionários  aplicados  à  amostra  foram 
+analisadas em dois eixos: um eixo ligado à caracterização da amostra, ao qual se chamará 
+de Eixo de Caracterização (EC), com dados tais como idade e curso, e outro eixo, ligado 
+às respostas quanto ao uso do Google Docs, ao qual se chamará de Eixo de Uso (EU), 
+com dados relativos às atividades e percepções do aluno ao usar a TDIC. 
+
+Inicialmente,  procedeu-se  a  uma  análise  em  relação  ao  conhecimento  da  TDIC 
+ 
+pela amostra no EU e os resultados indicaram que 60 alunos já conheciam o Google Docs. 
+Isso corresponde a parte significativa da amostra (80%), o que provocou uma análise em 
+relação ao EC da amostra analisada. Assim no EC, por meio do item “Idade”, usando um 
+limiar etário, conforme o conceito preconizado por [Prensky 2001], concluiu-se que 57 
+(76%)  são  considerados  nativos  digitais,  sendo  que  52  (mais  de  90%)  destes  disseram 
+conhecer  a  tecnologia  de  aplicativos  em  nuvem.  Despertou-se  em  conhecer  em  que 
+medida a amostra se utiliza dessa TDIC, cujos dados agrupados em EU são explicitados 
+na Tabela 1. 
+
+ 
+Considerou-se a gradação para Frequência de Uso: Nunca (0), Raramente (1 a 2 
+vezes/ano), Às vezes (6 vezes/ano), Frequentemente (1 vez ao mês) e Sempre (1 ou mais 
+vezes/semana).  Avaliando  os  dados  da  Tabela  1,  pode-se  considerar  que  os  discentes, 
+apesar de conhecerem a TDIC a usam de forma tímida, 59 alunos (78,7% da amostra), a 
+usa cada dois meses. Quando questionados sobre se já tinham utilizado o Google Docs 
+
+ 
+
+ 
+
+ 
+
+para aprender Algoritmos ou tomado conhecimento de alguma ação assim todos os alunos 
+responderam negativamente. 
+
+Tabela 1 – Uso em % do Google Docs               Gráfico 1: Contribuição em % do Google Docs 
+
+ 
+Ao  mesmo  tempo,  100%  da  amostra  respondeu  que  considera  importante  que 
+professores e alunos usem essa tecnologia em sala de aula e fora dela para o aprendizado 
+de  lógica  de  programação,  o  que  corrobora  nossa  hipótese  de  que  essa  TDIC  possa 
+contribuir  no  sentido  de  dinamizar  o  ensino-aprendizagem  de  lógica  de  programação, 
+algoritmos e disciplinas correlatas. Os alunos também responderam unanimemente que o 
+uso  dessa  TDIC  com  essa  abordagem  contribui  para  sua  aprendizagem,  conforme  se 
+mostra no Gráfico 1. Além de resultados numéricos agrupados, foram analisados relatos 
+dos participantes do experimento com o uso do Google Docs, como apresentado a seguir. 
+
+4.1. Relato/Reflexão sobre experiência de ensino-aprendizagem de Algoritmos 
+por meio da ferramenta Google Docs 
+
+Durante as sessões do experimento de uso da ferramenta Google Docs, ficou explícita a 
+motivação  dos  alunos  em  executar  as  tarefas  propostas.  Por  meio  de  observação 
+participante,  o  professor-pesquisador  pode  verificar  reações  diversas  sendo  a  de  maior 
+destaque, a identificação de cada elemento do grupo apresentada de uma cor diferente na 
+ferramenta. Apesar de isso gerar algum tipo de brincadeira inicialmente,  com o passar 
+dos  primeiros  10  minutos  se  transformou  em  responsabilidades  já  que  cada  um  dos 
+discentes queria fazer uma parte do algoritmo proposto. 
+
+ 
+A visualização simultânea do mesmo código sendo construído, alterado, também 
+gerou euforia inicial gerando comentários do tipo: “que top!”, “não sabia que havia isso 
+aqui!”. Tais emoções foram catalisadas quando professor fomentou o uso do bate-papo 
+disponível na TDIC (vide Figura 2). Acredita-se que esse sentimento de motivação tenha 
+sido  verdadeiro  haja  vista  que  os  grupos  continuaram  a  usar  o  Google  Docs  em  casa, 
+chegando a refinar o algoritmo inicialmente feito no laboratório de informática. 
+
+Vale  ressaltar  que  o  uso  da  TDIC  foi  além  do  experimento  e  tende  a  se  firmar 
+ 
+como uma opção para os discentes, pois relataram estar utilizando o Google Docs para a 
+realização em grupo de tarefas escolares diversas, inclusive projetos finais de disciplinas, 
+em que cada um pode dar sua contribuição para o trabalho independente de horário e local 
+que esteja. Buscando avaliar do quê e como os discentes se beneficiaram ao usar a TDIC, 
+foi proposta a seguinte questão no segundo questionário: Após o uso em laboratório como 
+ferramenta para permitir a criação em grupo do Algoritmo determinado, quais foram suas 
+percepções  acerca  do  uso  desta  tecnologia  em  sala  de  aula?  A  partir  das  respostas 
+variadas,  fez-se  um  agrupamento  para  fins  de  análise.  Os  trechos  entre  aspas  estão 
+transcritos em sua forma original. 
+
+ 
+
+ 
+
+ 
+
+Figura 2: Interações entre os membros de um grupo no ambiente Google Docs. 
+
+ 
+Foi possível observar pelo relato: (A1) “Achei bem mais prático, porque assim 
+fica mais fácil tirar as dúvidas.”, que a TDIC pode auxiliar suprimindo a inibição do aluno 
+em tirar suas dúvidas. Talvez A1 tenha tido mais facilidade em tirar suas dúvidas junto 
+aos seus pares ou, ainda, por algum auxílio do professor via bate-papo da TDIC. 
+
+ 
+A colaboração e facilitação do trabalho em grupo foi o quesito mais observado e 
+relatado pelos participantes em relação ao Google Docs: (A3) “Um bom aproveitamento 
+do trabalho em grupo para aprendizagem do conteúdo. Além de ter sido uma experiência 
+divertida.”,  (A4)  “Melhora  o  desempenho  ao  trabalhar  em  grupo”,  (A5)  “Facilita  o 
+trabalho em grupo e melhora o desenvolvimento do trabalho em questão”, (A7) “Se torna 
+mais fácil a comunicação do trabalho em equipe. Contribui muito para a aprendizagem.”, 
+(A8) “Ótimo método, contribuindo com a interação em grupo com todos da turma.”, (A9) 
+“Forma de trabalho prática e de fácil utilização. Espetacular ferramenta para se trabalhar 
+em  grupo  sem  a  necessidade  de  estarem  reunidos.”,  (A36)  “Trabalhar  com  essa 
+ferramenta  foi  muito  importante  para  trabalhar  em  equipe  e  trocar  experiência  com  os 
+colegas acompanhamento do professor e com a possibilidade de trabalhar fora da sala de 
+aula.”  e  (A42)  “A  interação  com  grupos  de  trabalho  ou  estudo  ficam  mais  dinâmicas, 
+conseguimos  conversar,  trocar  ideias  e  produzir  ao  mesmo  tempo,  com  isso  o 
+fica  maior  e  consequentemente  a  nossa 
+compartilhamento  de  conhecimento 
+aprendizagem evolui de modo considerável.” 
+
+ 
+Para se obter dos participantes que características foram mais apreciadas no uso 
+da  TDIC,  foi  proposta  a  seguinte  questão:  O  que  você  mais  gostou  no  Google  Docs? 
+Alguma  característica  especial?  A  partir  das 
+identificadas 
+características/recursos tais como (i) diversidade de recursos, como relatado por A3 “Tem 
+muitos  recursos  que  pode  utilizar  no  aprendizado,  inclusive  trabalhos  e  slides”;  (ii) 
+facilidade de uso, como relatado por A5 “Fácil acesso entre os integrantes do grupo”, A7 
+“Facilidade  para  fazer  trabalhos  em  grupo”  e  A48  “Facilidade  em  compartilhar  com 
+várias pessoas”; (iii) compartilhamento e armazenamento facilitados, como é possível ver 
+nos relatos de A8 “O fato de que pode ser compartilhado e usado ao mesmo tempo por 
+várias pessoas”, A27 “Poder compartilhar os arquivos e o salvamento automático.” e A32 
+“não é necessário salvar e depois enviar para outra pessoa”. 
+
+respostas, 
+
+foram 
+
+ 
+
+ 
+
+ 
+Adicionalmente, figuram como características apreciadas o (iv) feedback visual e 
+comunicação, como relatado por A22 “A possibilidade de interagir com os participantes 
+através do chat e ainda poder ver em tempo real as alterações sendo realizada por todos.”, 
+A6 “poder trabalhar em uma área compartilhada onde todos podem estar editando” e A42 
+“O fato de que todas as edições podem ser acompanhadas em tempo real, qualquer edição 
+todos do grupo acompanham sem que ninguém fique para trás ou sem compreender o que 
+está sendo feito.”; (v) portabilidade, como é possível observar pelo relato de A33 “Dá pra 
+ser  usado  de  qualquer  lugar,  mesmo  que  as  pessoas  não  estejam  próximas.”  e;  (vi) 
+interatividade,  como  dito  por  A19  “Porque  a  comunicação  via  redes  sociais  como  é 
+comumente  feito,  as  vezes  deixa  a  desejar,  o  Google  docs  vem  com  essa  pegada  de 
+interatividade aliada aos estudos”. Apenas uma limitação da TDIC foi apontada por A25 
+referente ao bate-papo: “As mensagens do bate papo apagam se você sai, gostaria q elas 
+permanecessem  lá  após  a  saída  e  que  alguém  que  não  estava  presente  possa  ver  as 
+mensagens quando entrar.”. 
+
+ 
+5. Considerações Finais 
+
+Relatar  uma  experiência  de  ensino-aprendizagem  acerca  da  criação  de  algoritmos  de 
+forma colaborativa com o uso do Google Docs foi o foco deste artigo. Essa experiência 
+foi  aplicada  a  três  turmas  iniciais  de  cursos  superiores  de  uma  instituição  federal  de 
+ensino.  Considera-se  que  o  trabalho  de  pesquisa  realizado  teve  sua  relevância  em 
+importantes aspectos, a saber: (i) A inexistência até o momento de relatos de experiência 
+com a tecnologia Google Docs para o ensino-aprendizagem de algoritmos, colaborando 
+assim para o campo de pesquisas da Informática na Educação; (ii) A análise e discussão 
+realizada  apontou  que  apesar  do  conhecimento  dos  discentes  acerca  da  existência  da 
+tecnologia Google Docs ou similar, essa não é utilizada frequentemente e, portanto, os 
+discentes  não  costumam  usufruir  dos  benefícios  que  ela  pode  trazer  quando  usada  de 
+modo coordenado em sala de aula ou laboratório em favor do ensino-aprendizagem. 
+
+ 
+Ressalta-se que a adoção da TDIC contribuiu para  que os alunos encarassem  a 
+tarefa da construção do algoritmo como um desafio a ser superado e, colaborativamente 
+enxergaram-se  como  equipe  para  apresentarem  uma  solução.  Apesar  de  uma  certa 
+rivalidade,  pelo  fato  de  que  é  possível  verificar  quem  contribuiu  mais  utilizando  a 
+ferramenta Histórico do Google Docs, todos os grupos atingiram o objetivo da equipe em 
+construir seu respectivo algoritmo em linguagem C. 
+
+ 
+Encontrar  formas  mais  adequadas  de  se  medir  e  analisar  um  diferencial  de 
+motivação  entre  os  alunos  com  a  técnica  aqui  aplicada  e  os  que  não  passaram  pela 
+aplicação da técnica de escrita colaborativa de algoritmos é um objetivo a ser perseguido 
+em  pesquisas  futuras.  Um  próximo  passo  dessa  pesquisa  é  a  proposição  de  uma 
+arquitetura pedagógica para a escrita colaborativa de Algoritmos.  
+
+ 
+Considera-se a experiência aqui relatada como motivadora, uma vez que foram 
+constatados avanços ao usarmos uma metodologia não comum nas aulas de Algoritmos e 
+correlatas.  Ressalta-se  ainda  a  incorporação  da  TDIC  Google  Docs  na  prática  dos 
+discentes, pois a estão utilizando para outras finalidades em sua vida acadêmica, o que 
+por si só reveste de importância e relevância a pesquisa realizada e aqui relatada. Por fim, 
+conclui-se que o fato de que alguém tenha conhecimento da existência de uma tecnologia 
+não necessariamente leva esta pessoa a usá-la, mesmo que esse alguém seja considerado 
+
+ 
+
+ 
+
+um  nativo  digital.  Cabe  ao  professor  instigar,  incentivar  e  fomentar  o  uso  de  tais 
+tecnologias, incorporando-as à sua prática. 
+
+Referências 
+
+Barcelos,  R.;  Tarouco,  L.;  Bercht,  M  (2009).  “O  uso  de  mobile  learning  no  ensino  de 
+algoritmos”. In: RENOTE - Revista Novas Tecnologias na Educação, 2009. v. 7, n. 3, 
+p. 327-337, 2009. 
+
+Borges, M. (2000). “Avaliação de uma metodologia alternativa para a aprendizagem de 
+programação”. In Anais do VIII Workshop de Educação em Computação. Curitiba. 
+
+Brandão, L. O.; Brandão, A. A. F.; Ribeiro, R. S. (2012). “iVProg - uma ferramenta de 
+programação  visual  para  o  ensino  de  algoritmos”.  In:  Congresso  Brasileiro  de 
+Informática na Educação (CBIE), 2012. Anais..., 2012. 
+
+Costa, B. D. S.; Brito, J. A.; Ribeiro,  G. C.; Guedes, A. M. A. (2016). “Google Drive 
+como Ferramenta de Acompanhamento e Avaliação na Educação de Jovens e Adultos” 
+In: Sánchez, J. (2016) Editor. “Nuevas Ideas en Informática Educativa”, Volumen 12, 
+p. 387 - 391. Santiago de Chile. 
+
+Ellis, C.A., Gibbs, S.J. & Rein, G.L. (1991) “Groupware – Some Issues and Experiences”. 
+
+Communications of the ACM, v. 34, n. 1. 1991, New York, pp. 39-58. 
+
+Fontes, C. R. e Silva, F. W. O. (2008). “O ensino da disciplina linguagem de programação 
+em escolas técnicas”. Ciência & Cognição, Rio de Janeiro; v. 13, 2008, n. 2, p. 84-98, 
+jul. 2008, ISSN 1806-5821. 
+
+Ihantola, P.; Helminen, J. e Karavirta, V. (2013). “How to study programming on mobile 
+touch  devices:  Interactive  python  code  exercises”.  In:  Proceedings  of  the  13th  Koli 
+Calling International Conference on Computing Education Research. New York, NY, 
+USA: ACM, 2013. (Koli Calling '13), p. 51-58. 
+
+ Karavirta,  V.;  Helminen,  J.  e  Ihantola,  P.  (2012).  “A  mobile  learning  application  for 
+parsons problems with automatic feedback”. In: Proceedings of the 12th Koli Calling 
+International Conference on Computing Education Research. New York, NY, USA: 
+ACM, 2012. (Koli Calling '12), pp. 11-18. 
+
+Machado,  L.  D.  P.;  Berkenbrock,  C.  D.  P.;  Anselmo,  G.  e  Siple,  I.  Z.  (2018).  “Uma 
+ferramenta  colaborativa  para  apoiar  a  aprendizagem  de  programação  de 
+computadores”. Revista Brasileira de Computação Aplicada. 10. p. 23-29. 
+
+Machado,  L.  D.  P.  (2016)  “Uma  abordagem  colaborativa  para  aprendizagem  de 
+programação de computadores com a utilização de dispositivos móveis”. Dissertação 
+(mestrado) – Universidade do Estado de Santa Catarina, Programa de Pós-Graduação 
+em Computação Aplicada: Engenharia de Software. Joinville, 2016, 151p. 
+
+Moi,  A;  Moreira,  R.  C.;  Moreira,  P.  C.;  Moreira,  O.  C.  Souza,  H.  C.  e  Kochhann,  S. 
+(2016).  “A  utilização  da  ferramenta  Google  Docs  como  recurso  de  ensino  pela 
+internet”. ÁGORA Revista Eletrônica. Nº 22. 2016. 
+
+Moura, L. (2017). “Uso do google drive na sala de  aula: uma ferramenta Colaborativa 
+para apoiar o processo de ensino-aprendizagem de produção textual no ensino médio”. 
+TCC: Licenciatura em Informática a Distância: UFRR. 
+
+Oliveira,  E.  A.  e  Nogueira,  M.  (2015).  “Linguagem  de  programação  estruturada:  uma 
+reflexão  sobre  a  didática  para  o  ensino  de  programação”  In:  II  World  Congress  on 
+Systems Engineering and Information Technology. Vigo, Spain. 
+
+Oliveira, E. D. S. de; Oliveira, T. dos S.; Ferreira, P. S.; SOUSA, H. de M. e Oliveira, G. 
+S.  de.  (2017).  “Aprendizagem  colaborativa:  um  experimento  utilizando  o  Google 
+Docs”. In 23º Congresso ABED de Educação a Distância. Foz do Iguaçu-PR. 
+
+Oliveira, F. N. e Moraes, D. A. F. (2013). “A utilização da tecnologia e da Internet no 
+processo de ensino e aprendizagem da educação superior: um relato de experiência”. 
+Anais da II Jornada de Didática e I Seminário de Pesquisa do CEMAD, p. 306-320. 
+
+Pimentel, M.; Gerosa, , M. A.; Filippo, D.; Raposo, A.; Fuks, H. e  Lucena, C. J. P. (2006). 
+“Modelo 3C de Colaboração para o desenvolvimento de Sistemas Colaborativos”. In 
+Anais do III SBSC. Natal-RN, pp. 58-67. 
+
+Prensky, M. (2001). “Digital Native, Digital Immigrants”.In: Prensky, M. (2001). On the 
+
+Horizon. V.9., N.5, MCB University Press. 
+
+Priesnitz Filho, W.; Abegg, I.; Simonetto, E. (2012). “Uma abordagem diferenciada no 
+ensino de algoritmos através da utilização de uma lousa digital”. GEINTEC - Gestão, 
+Inovação e Tecnologias, 2012. v. 2, n. 2, 2012. ISSN 2237-0722. 
+
+Ramos, V. et al. (2015) “A comparação da realidade mundial do ensino de programação 
+para iniciantes com a realidade nacional: Revisão sistemática da literatura em eventos 
+brasileiros”. In: XXVI Simpósio Brasileiro de Informática na Educação. Maceió, AL, 
+Brasil: [s.n.], 2015. (SBIE 2015), pp. 318-327. 
+
+Rapkiewicz,  C.  E.  et  al.  (2006).  “Estratégias  pedagógicas  no  ensino  de  algoritmos  e 
+programação associadas ao uso de jogos educacionais”. In: RENOTE - Revista Novas 
+Tecnologias na Educação, 2006. v. 4, n. 2, 2006. ISSN 1679-1916. 
+
+Rodrigues, M. (2004). “Experiências positivas para o ensino de algoritmos”. In: IV Escola 
+
+Regional de Computação Bahia-Sergipe. Anais. Feira de Santana, 2004. 
+
+Salgado, N.; Castro, T.; Castro, A. (2013). “Aprendizagem colaborativa de programação 
+com Scratch e Opensimulator”. In: X Simpósio Brasileiro de Sistemas Colaborativos 
+- SBSC 2013. [S.l.: s.n.], 2013. 
+
+Silva, T. S. C. da; Tedesco, P. C. de A. R.; Melo, J. C. B. de. (2014). “A importância da 
+motivação dos estudantes e o uso de técnicas de engajamento para apoiar a escolha de 
+jogos  no  ensino  de  programação”.  In:  XXV  Simpósio  Brasileiro  de  Informática  na 
+Educação - SBIE 2014. [S.l.: s.n.], 2014. 
+
+ 
+
+ 
+
+

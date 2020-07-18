@@ -1,0 +1,399 @@
+ 
+ 
+
+ 
+
+Rolando a Bosta pela Mata Atlântica: Utilização de 
+Infográfico Interativo para o Ensino da Diversidade de 
+Besouros Escarabeíneos 
+
+Izabella Neves de Oliveira1, Josival Francisco Araújo1, Fabiana do Carmo 
+Santana2, Rita de Cássia de Moura1, Filipe Martins Aléssio1. 
+
+1Instituto de Ciências Biológicas, Universidade de Pernambuco, Campus Santo Amaro, 
+Recife, Pernambuco, Brasil. 
+
+2Espaço Ciência, Avenida Agamenon Magalhães, Memorial Arcoverde, Complexo de 
+Salgadinho, Olinda, Pernambuco, Brasil. 
+
+bellaoliveira.neves@gmail.com, araujojosi.f@gmail.com, 
+santanafcr@gmail.com, ritamoura.upe@gmail.com, filipe.martins@upe.br 
+
+Abstract. Infographics are a vehicle for transmitting data and information that 
+the  process  of  content 
+once  joined  with  visual  representation  make 
+assimilation  simpler.  In  view  of  the  communicative  power  of  images  in  the 
+digital era, it was developed an interactive infographic with information about 
+the  Dung  beetles  present  in  the  Atlantic  Forest  from  the  Brazilian 
+Northeastern.  With  emphasis  on  its  eating  habits  and  ecosystem  services,  it 
+has  a  focus  the  main  threats  to  the  biome,  and  consequently  to  the  beetles. 
+Graphic and informative tools such as infographics can be used in museum's 
+exhibitions,  in  classrooms,  or  on  websites  as  a  way  to  stimulate  zoology-
+related learning. 
+
+Resumo.  Infográficos  são  um  veículo  para  transmissão  de  dados  e 
+informações  que  ao  unir-se  a  representação  visual  tornam  o  processo  de 
+assimilação do conteúdo mais simples. Tendo em vista o poder comunicativo 
+das  imagens  em  plena  era  digital,  objetivou-se  desenvolver  um  infográfico 
+interativo com informações sobre os besouros rola-bostas presentes na Mata 
+Atlântica  Nordestina.  Havendo  destaque  aos  seus  hábitos  alimentares  e 
+serviços  ecossistêmicos  desempenhados,  tem  em  foco  as  principais  ameaças 
+ao  bioma,  e  consequentemente  aos  besouros.  Ferramentas  gráficas  e 
+informativas como infográficos podem ser utilizados em exposições, em salas 
+de  aula  ou  em  sites  como  forma  de  estimular  o  aprendizado  relacionado  a 
+zoologia. 
+
+1.  Introdução 
+
+Infográficos  podem  ser  definidos  como  representações  visuais  de  informações 
+acompanhadas  de  texto.  De  acordo  com  Niebaum  et  al.  (2015),  infográficos  são 
+planejados  e  desenvolvidos,  entre  outras  coisas,  para  expor  e  esclarecer  informações 
+complexas  baseadas  em  evidências  ou  resultados  de  pesquisas  científicas  e  devem 
+alcançar públicos-alvo em locais de fácil acesso. Em educação, experimentos mostram 
+que  estudantes  que  consultam  infográficos  guardam  a  informação  por  mais  tempo  do 
+que aqueles que consultam apenas texto [Lyra et al. 2016]. A capacidade de interpretar e 
+compreender  infográficos  são  uma  competência  que  deve  ser  desenvolvida  por 
+estudantes na era digital, que navegam na web e devem avaliar informações gráficas e 
+
+ 
+ 
+
+ 
+
+ 
+
+mensagens  multimídia  [Martix  and  Hodson  2014],  encontrando  e  criando  sentidos  e 
+conhecimentos através de imagens e mídias visuais [Hattwig et al. 2013]. À medida que 
+as  imagens  se  tornam  a  forma  predominante  de  comunicação  em  uma  ampla  gama  de 
+formatos, a imagem e a composição visual têm o poder de moldar nossa compreensão e 
+interpretação  de  nosso  mundo  além  do  literal  [Lundy  et  al.  2015],  notadamente  em 
+Zoologia, na qual fotos e imagens de animais silvestres despertam curiosidade e fascínio 
+de um público vasto e diversificado. 
+
+Os  besouros  rola-bostas  pertencem  a  subfamília  Scarabaeinae  (Coleoptera: 
+Scarabaeidae) e são conhecidos popularmente pelo comportamento de rolarem bolas de 
+fezes  para  nidificação  e  alimentação  [Halffter  and  Matthews,  1966].  Outros  hábitos 
+alimentares  além  da  coprofagia  foram  registrados  em  Florestas  Tropicais,  como  a 
+necrofagia,  mirmecofilia,  saprofagia,  carpofagia  e  a  predação  [Louzada  2008;  Vaz-de-
+Mello  et  al.  1998].  Essa  variedade  de  hábitos  permite  que  os  escarabeíneos  sejam 
+diversos  e  ocupem  vários  nichos  nas  Florestas  Tropicais,  que  junto  com  as  savanas  as 
+vegetações detêm a maior diversidade desse grupo [Hanski and Cambefort, 1991]. 
+
+A  subfamília  Scarabaeinae  possui  aproximadamente  6200  espécies  válidas 
+agrupadas em 267 gêneros [Tarasov and Génier, 2015], das quais aproximadamente 726 
+espécies  e  63  gêneros  ocorrem  no  Brasil  [Vaz-de-Mello  2019].  São  considerados 
+parâmetros  para  estudo  da  biodiversidade  e  utilizados  para  analisar,  inventariar  e 
+monitorar  a  biodiversidade  em  florestas  tropicais  [Halffter  and  Favila  1993].   Muitas 
+espécies  de  rola-bostas  podem  ser  consideradas  indicadoras  ambientais,  por  serem 
+sensíveis  a  perturbações  antrópicas  e  a  destruição  do  seu  habitat  [Favila  and  Halffter 
+1997]. Devido aos seus hábitos alimentares, esses besouros desempenham importantes 
+serviços  ecossistêmicos  como  a  reciclagem  de  matéria  orgânica,  incorporação  de 
+nutrientes  no  solo,  aeração  do  solo,  dispersão  secundária  de  sementes,  controle 
+biológico de moscas hematófagas e detritívoras [Louzada 2008].  
+
+O  objetivo  do  presente  trabalho  é  relatar  o  processo  de  elaboração  de  um 
+infográfico  sobre  os  besouros  rola-bostas  existentes  no  bioma  Mata  Atlântica 
+Pernambucana  e  a  sua  posterior  inclusão  no  Portal  de  Zoologia  de  Pernambuco 
+(www.portal.zoo.bio.br), um site colaborativo de compartilhamento de fotos de animais 
+silvestres. 
+
+2.  Material e Métodos 
+
+O  infográfico  foi  produzido  no  laboratório  de  informática  do  Espaço  Ciência, 
+Olinda,  Pernambuco.  A  arte  do  infográfico  foi  produzida  no  programa  Paint  Tool  e  a 
+editoração do texto no software Photoshop Cs6. Foram utilizados elementos da fauna e 
+da  flora  local.  As  espécies  de  mamíferos  foram  selecionadas  com  registros  para 
+remanescentes  de  Floresta  Atlântica  da  Região  Metropolitana  do  Recife.  Foram 
+utilizadas  imagens  de  remanescentes  da  Região  Metropolitana  do  Recife.  Os  besouros 
+rola-bostas  foram  selecionados  de  trabalhos  de  levantamento  de  escarabeíneos  em 
+Pernambuco  [Costa  et  al.  2013;  Araújo  et  al.  2018]  e  por  exemplares  depositados  na 
+Coleção  Científica  de  Scarabaeinae  do  Laboratório  de  Biodiversidade  e  Genética  de 
+Insetos  da  Universidade  de  Pernambuco.  Esses  besouros  foram  coletados  em  Floresta 
+Atlântica  utilizando  armadilhas  de  queda  do  tipo  Pitfall  que  consiste  em  uma  garrafa 
+PET com um porta-isca, iscadas com fezes, carniças ou diplópodes injuriados. 
+
+       
+
+Para incluir o infográfico sobre os besouros rola-bosta no Portal de Zoologia, foi 
+criada uma página desenvolvida exclusivamente para receber a imagem e que a mesma, 
+uma vez aberta, ocupasse todo o espaço da tela para que os detalhes do gráfico sejam 
+observados pelos visitantes do site. O Portal de Zoologia utiliza o sistema modular de 
+publicação  SPIP,  versão  3.1.10.  O  sistema  pode  acolher  diferentes  tipos  de  esqueletos 
+
+ 
+ 
+
+ 
+
+ 
+
+de  páginas  web  e  funciona  através  da  instalação  e  funcionamento  de  extensões.  Para 
+criar  as  ligações  com  registros  realizados  no  Portal,  foi  utilizada  a  extensão  "Imagem 
+Clicável"  3.0.4  (versão  de  teste).  Esta  extensão  permite,  através  da  utilização  em 
+conjunto  da  ferramenta  "Mapa  de  imagens"  de  filtros  web  do  programa  Gimp  2.8.22, 
+criar áreas clicáveis específicas em imagens. Tais áreas possuem dimensões totalmente 
+parametrizáveis e podem conter URLs ativas que encaminham os visitantes para outras 
+páginas da Internet.  
+
+ 
+
+ 
+
+         
+
+Figura 1. Infográfico “Rolando a Bosta pela Mata Atlântica”. 
+
+3.  Resultados e Discussão 
+
+ 
+
+Os elementos incorporados no infográfico intitulado “Rolando a bosta pela Mata 
+ 
+Atlântica”,  são  o  cenário  de  Floresta  Ombrófila  Densa  e  Restinga  que  faz  a  transição 
+entre  a  Mata  Atlântica  e  o  litoral  e  possui  fitofisionomias  diversas  com  florestas 
+lenhosas  com  solo  arenoso  até  uma  vegetação  rasteiras  em  praia  arenosa.  A  floresta 
+apresentou  copa  fechada,  no  solo  foi  retratado  um  elemento  comum  nas  florestas 
+tropicais,  a  presença  de  serapilheira  e  um  sub-bosque  com  uma  vegetação  rasteira  e 
+troncos de árvores caídas com presença de decompositores. 
+
+Os  elementos  da  fauna  foram  divididos  em  dois  grupos:  mamíferos  e  besouros 
+rola-bostas.  Os  mamíferos  retratados  foram  o  timbu,  também  conhecido  como  gambá-
+de-orelha-branca, Didelphis albiventris (Lund, 1840), porque essa espécie é comum em 
+áreas urbanas e bastante conhecido pelo público. Outro animal comum em área urbana e 
+em área florestada é o sagui nordestino Callithrix jacchus (Linnaeus, 1758). A preguiça 
+Bradypus  variegatus  Schinz,  1825,  o  quati,  Nasua  nasua  (Linnaeus,  1766)  e  a  cutia, 
+Dasyprocta  leporina  (Linnaeus,  1758)  foram  representadas.  A  cutia  foi  representada 
+morta  servindo  de  recurso  para  alimentação  de  besouros  necrófagos.  Toda  essa  fauna 
+contribui com recursos, como fezes e carniça, para a comunidade de rola-bostas de área 
+
+ 
+ 
+
+ 
+
+florestada. Com o desmatamento e a defaunação, o número de indivíduos mamíferos de 
+grande  e  médio  porte  está  decrescendo  e  isso  reflete  diretamente  na  estrutura  da 
+comunidade  de  rola-bostas  e  de  modo  geral  em  toda  a  teia  alimentar  [Bogoni  et  al. 
+2016]. 
+
+Os hábitos alimentares dos besouros rola-bostas foram relacionandos com o seu 
+recurso,  sendo  eles  coprofagia,  necrofagia,  predação  e  mirmecofilia.  Na  coprofagia  os 
+besouros  utilizam  fezes  para  alimentação  e  nidificação  e  essa  guilda  funcional 
+desempenha serviços  ecossistêmicos  como realocação de matéria orgânica, aeração do 
+solo, incorporação de nutrientes no solo e dispersão secundária de sementes dentro das 
+áreas  florestadas  [Louzada  2008].  A  espécie  Coprophaneus  ensifer  (Germar,  1824)  é 
+necrófaga  e  alimenta-se  de  carniça  de  animais  mortos.  No  infográfico  essa  espécie  foi 
+representada  alimentando-se  de  uma  cutia  morta.  A  coprofagia  e  a  necrofagia  são  os 
+hábitos alimentares mais comuns dentre os escarabeíneos. No entanto, alguns grupos de 
+rola-bostas ocuparam outros nichos menos competitivos para sobrevivência. Entre eles 
+temos a predação de diplópodes e a mirmecofilia. O gênero Deltochilum (Aganhyboma), 
+possui  espécies  predadoras  de  diplópodes  que  teve  seu  primeiro  registro  em 
+Pernambuco  em  2018  na  Reserva  de  Floresta  Urbana  Mata  de  Jaguarana  em  Paulista, 
+Pernambuco [Araújo et al. 2018]. A espécie de predador de diplópodes foi representada 
+no  infográfico  com  seu  comportamento  clássico  de  arrastar  os  diplópodes  depois  de 
+mortos  utilizando  as  pernas  posteriores.  O  hábito  alimentar  da  mirmecofilia  ainda  não 
+foi  registrado  no  Nordeste  brasileiro  e  consiste  em  besouros  rola-bostas  associados  a 
+lixeiros  de  formigas  do  gênero  Atta  ou  Acromyrmex  [Vaz-de-Mello  et  al.  1998].  A 
+restinga  foi  representada  no  infográfico  destacando  as  principais  características  da 
+vegetação e do solo, assim como da presença de uma espécie endêmica ameaçada desse 
+ambiente, Dichotomius schiffleri (Vaz-de-Mello, Louzada & Gavino, 2001). 
+
+Toda  a  informação  contida  no  infográfico  será  exposta  permanentemente  na 
+Trilha Ecológica do Espaço Ciência, o maior museu de ciência a céu aberto do Brasil. 
+Esse  conteúdo  também  pode  ser  utilizado  em  sala  de  aula,  museus,  exposições,  entre 
+outros. Os infográficos são bastante utilizados em ensino a distância, como um recurso 
+facilitador  de  ensino-aprendizagem  em  sala  de  aula  e  possui  enorme  potencial  de 
+aplicação no ensino médio e superior [Braga 2009; Taguchi and Ackerman 2014; Cortes 
+et  al.  2015].  A  infografia  também  tem  um  potencial  para  ser  utilizadas  na  educação 
+inclusiva  de  pessoas  com  deficiência  auditiva  [Lapolli  et  al.  2014].  Utilizado 
+conjuntamente  com  o  Portal  de  Zoologia,  o  infográfico  pode  se  tornar  ainda  mais 
+interativo, pois estudantes e visitantes em geral poderão contribuir com novos registros 
+das espécies, através notadamente de atividades práticas realizadas em saídas de campo. 
+
+O  infográfico  "Rolando  a  bosta  pela  Mata  Atlântica"  apresenta,  em  termos  de 
+aplicação, duas dimensões didáticas. A primeira dimensão diz respeito à sua utilização 
+prática e direta em projetos pedagógicos em aulas de ciência. A segunda dimensão diz 
+respeito  ao  processo  de  desenvolvimento  do  infográfico.  Em  relação  à  primeira 
+dimensão,  o  uso  de  novas  tecnologias  e  suas  ferramentas,  como  infográficos,  vem 
+aprimorando  a  aprendizagem  e  a  prática  do  ensino,  fazendo  com  que  os  professores 
+utilizem  essas  novas  ferramentas  para  prepararem  os  alunos  para  compreensão  e 
+interpretação  do  conteúdo  nos  mais  diferentes  níveis  escolares,  pois  imagens,  mesmo 
+sem  textos,  são  uma  das  formas  mais  importantes  para  a  apresentação  de  informações 
+[Johri  and  Misra  2017;  Kibar  and  Akkoyunlu  2014;  Yildirim  2016].  Além  disso, 
+evidências  sugerem  que  estudantes  preferem  infográficos  em  mídias  digitais  por 
+apresentarem estruturas interativas [Yidirim 2016].  Desta forma, esse infográfico pode 
+permitir que professores abordem diversos conteúdos específicos da zoologia e ecologia 
+
+ 
+ 
+
+ 
+
+em  sala  de  aula,  como  a  biodiversidade  da  Mata  Atlântica,  serviços  ecossistêmicos, 
+relações  interespecíficas,  teia  alimentar,  nicho  ecológico,  habitat,  ciclagem  de 
+taxonomia  e 
+nutrientes,  conservação  e  nomenclatura  zoológica 
+classificação).  Espera-se  que  o  conhecimento  apresentado  possa  garantir  uma 
+informação  prática,  atual  e  objetiva  e  que,  conectada  ao  desenho,  permita  que  o 
+conhecimento seja adquirido de forma rápida, clara e duradoura.   
+
+(noções  de 
+
+Em relação a segunda dimensão didática, a criação  de infográficos permite que 
+alunos,  notadamente  de  ensino  médio  e  cursos  de  graduação,  desenvolvam 
+competências  visuais  e  competências  de  informação,  frequentemente  de  forma 
+concomitante.  Competências  visuais  podem  ser  consideradas  como  um  "conjunto  de 
+habilidades  que  permitem  que  um  indivíduo  possa  efetivamente  encontrar,  interpretar, 
+avaliar,  utilizar  e  criar  imagens  e  mídias  visuais".  Através  dos  meios  de  comunicação 
+atuais,  os  alunos  precisam  aprender  a  ser  consumidores  e  criadores  críticos  de  mídias 
+visuais em geral e como parte de redes de mídias sociais, que muitas vezes se cruzam e 
+se  sobrepõem  às  redes  acadêmicas  [Hattwig  et  al  2013].  No  contexto  de  rápidas 
+mudanças  tecnológicas  e  proliferação  de  fontes  de  informação,  as  competências  em 
+informação  são  essenciais  para  a  formação  acadêmica.  Competências  em  informação 
+podem  ser  definidas  como  um  conjunto  de  habilidades  que  permitem  que  o  indivíduo 
+reconheça quando a informação é necessária e tenha a capacidade de localizar, avaliar e 
+usar  eficazmente  a  informação.  Desta  forma,  acredita-se  que  o  processo  de  criação  de 
+infográficos  digitais  é  um  exercício  didático  poderoso  para  que  alunos  possam 
+desenvolver habilidades pouco exploradas no ensino tradicional focado no professor. 
+
+ 
+
+4.  Conclusões 
+
+Esse  trabalho  apontou  a  importância  da  utilização  de  infográficos  como  uma 
+poderosa ferramenta para o ensino e divulgação de ciências. O infográfico “Rolando  a 
+bosta pela Mata Atlântica” contribuirá para o ensino e divulgação da diversidade e dos 
+serviços  ecossistêmicos  oferecidos  pelos  besouros  rola-bostas  na  Floresta  Atlântica. 
+Assim,  constata-se  a  importância  dos  professores  utilizarem  infográficos  em  sala  de 
+aula, museus e espaços de divulgação de ciência pelo enorme potencial educativo desta 
+ferramenta pouco explorada pela educação. A inclusão de infográficos em sites Internet 
+pode contribuir ainda mais para que estudantes e o público em geral sejam estimulados 
+com conteúdos interativos e que o conhecimento seja construído coletivamente.   Como 
+trabalhos  futuros,  novas  edições  do  infográfico  devem  ser  produzidas  em  atualização 
+com  a  literatura  e  novos  registros  no  Nordeste.  Adaptações  para  diversos  públicos 
+devem  ser  realizadas  e  jogos  para  sala  de  aula  serão  planejados  utilizando  esse 
+infográfico. 
+
+Referências 
+
+Araújo, J.F., Silva, F.A.B. and Moura, R.C. (2018). Primeiro registro de Deltochilum do 
+subgênero  Aganhyboma  (COLEOPTERA:  SCARABAEIDAE:  SCARABAEINAE) 
+em  Pernambuco,  Brasil.  I  Congresso  Nordestino  de  Animais  Silvestres,  UFRPE, 
+Recife. 
+
+Braga,  C.S.  (2009)  O  Infográfico  na  Educação  a  Distância:  uma  contribuição  para  a 
+aprendizagem.  In:  15º  Congresso  Internacional  ABED  de  Educação  a  Distância.  p. 
+27-30. 
+
+Bogoni, J. A., Graipel, M. E., Castilho, P. V., Fantacini, F. M., Kuhnen, V. V., Luiz, M. 
+R, Maccarini, T. B., Marcon, C. B., Teixeira, C. S. P., Tortato, M. A., Vaz-de-Mello, 
+F.  Z.  and  Hérnandez,  M.  I.  M.  (2016).  Contributions  of  the  mammal  community, 
+habitat  structure,  and  spatial  distance  to  dung  beetle  community  structure. 
+
+ 
+ 
+
+ 
+
+Biodiversity and conservation, v. 25, n. 9, p. 1661-1675.  
+
+Costa,  F.  C.,  Pessoa,  K.  K.,  Liberal,  C.  N.,  Filgueiras,  B.  K.;  Salomão,  R.  P.  and 
+Iannuzzi,  L.  (2013)  What  Is  the  Importance  of  Open  Habitat  in  a  Predominantly 
+Closed  Forest  Area  to  the  Dung  Beetle  (Coleoptera,  Scarabaeinae)  Assemblage? 
+Revista Brasileira de Entomologia, v. 57, n. 3, p. 329–334.  
+
+Cortes,  T.  P.  B.  B.,  Maciel,  R.  S.,  Nunes,  M.  F.  H.  and   Souza,  C.  H.  M.  (2015)  A 
+infografia  multimídia  como  recurso  facilitador  no  ensino-aprendizagem  em  sala  de 
+aula. InterSciencePlace, v. 1, n. 29.  
+
+Favila,  M.E.  and  Halffter,  G.  (1997)  The  use  of  indicator  groups  for  measuring 
+biodiversity as  related to community structure and function. Acta Zool. Mexicana.,v. 
+72, p. 1–25. 
+
+Halffter, G. and Favila, M.E. (1993) The Scarabaeinae (Insecta: Coleoptera) an animal 
+group  for  analyzing,  inventorying  and  monitoring  biodiversity  in  tropical  rainforest 
+and modified landscapes. Biol. Int. v. 27, p. 15–21.  
+
+Halffter,  G.  and  Matthews,  E.  G.  (1966)  The  natural  history  of  dung  beetles  of  the 
+Subfamily  Scarabaeinae  (Coleoptera:  Scarabaeidae).  Folia  Entomológica  Mex.,  v. 
+45, p. 1-312.  
+
+Hanski,  I.  and  Cambefort,  Y.  (1991)  Dung  Beetle  Ecology.  Princeton,  NJ:  Princeton 
+
+University Press, p. 51-67.  
+
+Hattwig, D., Bussert, K., Medaille, A. and Burgess, J. (2013). Visual Literacy Standards 
+in Higher Education: New Opportunities for Libraries and Student Learning. Portal: 
+Libraries and the Academy, v.13, n.1, p. 61–89.  
+
+Johri,  P.  and  Misra, A.  (2017). Digital  technology  in  classroom:  Changing  the  face  of 
+education infographic. In 2017 International Conference On Smart Technologies For 
+Smart Nation (SmartTechCon), p. 405-406.  
+
+Kibar, P. N. and Akkoyunlu, B. (2014). A new approach to equip students with visual 
+literacy  skills:  Use  of  infographics  in  education.  In  European  Conference  on 
+Information Literacy, p. 456-465. 
+
+Lapolli,  M.,  Vanzin,  T.  and  Ulbricht,  V.  R.  (2014).  Infografia  na  web  para  a  inclusão 
+
+digital de alunos surdos. RENOTE, v.12, n.1. 
+
+Louzada,  J.  N.  C.  (2008)  Scarabaeinae  (Coleoptera:  Scarabaeidae)  detritívoros  em 
+ecossistemas tropicais: biodiversidade e serviços ambientais. Biodiversidade do solo 
+em ecossistemas brasileiros, Lavras, Editora UFLA, p. 309-332. 
+
+Lundy, A. D. and Stephens, A. E. (2015). Beyond the literal: Teaching visual literacy in 
+the  21st  century  classroom.  Procedia-Social  and  Behavioral  Sciences,  v.174,  p. 
+1057–1060. 
+
+Lyra,  K.  T.,  Oliveira,  B.  R.  N.,  Reis,  R.  C.  D.  Cruz,  W.  M.,  Nakagawa,  E.  Y.  and 
+Isotani, S. (2016). Infográficos versus materiais de  aprendizagem  tradicionais: Uma 
+investigação empírica. RENOTE, v..14, n.2, p.1–12. 
+
+Martix,  S.  and  Hodson,  J.  (2014).  Teaching  with  infographics:  Practising  new  digital 
+competencies  and  visual  literacies.  Journal  of  Pedagogic  Development,  v.  4,  n.2,  p. 
+17–27. 
+
+Niebaum,  K.,  Cunningham-Sabo,  L.,  Carroll,  J.  and  Bellows,  L.  (2015).  Infographics: 
+An  Innovative  Tool  to  Capture  Consumers"  Attention.  Journal  of  Extension,  v.  53, 
+n.6, p.1–6. 
+
+Taguchi,  K.  and  Ackerman,  L.  (2014)  The  Infographic:  Is  there  a  Place  in  Higher 
+
+Education?.  In:  E-Learn:  World  Conference  on  E-Learning 
+in  Corporate, 
+Government, Healthcare, and Higher Education. Association for the Advancement of 
+Computing in Education (AACE), p. 1901-1905. 
+
+Tarasov,  S.  and  Génier,  F.  (2015)  Innovative  Bayesian  and  Parsimony  Phylogeny  of 
+Dung  Beetles  (Coleoptera,  Scarabaeidae,  Scarabaeinae)  Enhanced  by  Ontology-
+Based Partitioning of Morphological Characters. PLOS ONE, v. 10, n. 3. 
+
+Vaz-de-Mello  F.Z.  (2019)  Scarabaeinae  in  Catálogo  Taxonômico  da  Fauna  do  Brasil. 
+em:  <http://fauna.jbrj.gov.br/fauna/faunadobrasil/127498>. 
+
+PNUD.  Disponível 
+Acesso em: 30 Jun. 2019. 
+
+Vaz-de-Mello,  F.Z.,  Louzada,  J.N.C.  and  Schoereder,  J.  H.  (1998)  New  data  and 
+comments  on  scarabaeidae  (Coleoptera:  Scarabaeoidea)  associated  with  attini 
+(Hymenoptera: Formicidae). The Coleopterists' Bulletin, p. 209-216. 
+
+Yildirim,  S.  (2016)  Infographics  for  Educational  Purposes:  Their  Structure,  Properties 
+and Reader Approaches. Turkish Online Journal of Educational Technology-TOJET, 
+v. 15, n. 3, p. 98-110. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

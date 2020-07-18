@@ -1,0 +1,518 @@
+Avaliando a Utilização do Aplicativo AppAlpha no Processo 
+de Alfabetização de Adultos 
+
+Emerson Dantas1, Ana Paula de L. Borges1, Ayla Dantas1 
+
+Departamento de Ciências Exatas - Universidade Federal da Paraíba (UFPB)  
+Campus IV1 
+CEP 58297-000 – Rio Tinto – PB – Brasil 
+
+{emerson.ruan, ana.paula, ayla}@dcx.ufpb.br 
+
+Abstract.  In  order  to  make  the  literacy  process  more  dynamic,  a  strategy 
+adopted is the use of Learning Objects (LOs). In this article we present one of 
+these  LOs,  the  AppAlpha,  and  its  evaluation.  This  LO  seeks  to  exercise  the 
+connection between sound and letter through a hangman game, also working 
+on the spelling of words. To be able to evaluate it, the LO was used by adult 
+students and teachers in order to obtain their feedback, considering as points of 
+observation its acceptance, ease of use and its functionalities. Based on their 
+opinion, it was possible to perceive a great acceptance from both groups that 
+participated in this study, which shows that AppAlpha has potential to support 
+the literacy process. 
+
+Resumo.  Visando  tornar  mais  dinâmico  o  processo  de  alfabetização,  uma 
+estratégia que vem sendo adotada é a utilização de Objetos de Aprendizagem 
+(OAs).  Neste  artigo,  é  apresentado  um  desses  OAs,  o  AppAlpha,  e  sua 
+avaliação. Esse OA procura exercitar a conexão entre som e letra através de 
+um jogo da forca, trabalhando também a soletração de palavras. Para poder 
+avaliá-lo, o OA foi utilizado por alunos adultos e professores com o propósito 
+de  obter  seu  feedback,  considerando  como  pontos  de  observação  a  sua 
+aceitação, facilidade de uso e suas funcionalidades. A partir das opiniões dos 
+mesmos,  foi  possível  perceber  uma  grande  aceitação  dos  dois  grupos  que 
+participaram  do  estudo,  o  que  mostra  que  o  AppAlpha  tem  potencial  para 
+apoiar o processo de alfabetização. 
+
+1. Introdução  
+
+No Brasil, a taxa de analfabetismo é de 6,8% (aproximadamente 11,3 milhões de pessoas) 
+considerando a faixa etária de 15 anos ou mais, segundo a resultados da Pnad Contínua 
+da Educação 20181, pesquisa anual realizada pelo IBGE. Além disso, o país ocupa a 8a 
+posição do ranking de países com mais analfabetos adultos, de acordo com os dados do 
+
+ 
+
+1  "Agência  de  Notícias  |  PNAD  Contínua  2018:  educação  avança  ...  -  IBGE."  19  jun.  2019, 
+https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/24857-
+pnad-continua-2018-educacao-avanca-no-pais-mas-desigualdades-raciais-e-por-regiao-persistem.  Acesso 
+em 23 jun. 2019. 
+
+ 
+
+relatório2  da  Organização  das  Nações  Unidas  para  a  Educação,  a  Ciência  e  a  Cultura 
+(UNESCO) apresentado em 2014. Observando esses dados se ressalta a importância de 
+iniciativas para diminuir a taxa de analfabetos no Brasil, principalmente considerando que 
+segundo outro relatório3 mais recente divulgado também pela UNESCO, em 2017, o país 
+não conseguiu diminuir esse número. 
+
+ 
+A meta era que o Brasil conseguisse diminuir o índice de analfabetismo para 6,5% 
+no país até 2015, como planejado pelo PNE (Plano Nacional de Educação) (2014) porém, 
+ainda  hoje  essa  meta  não  foi  alcançada,  segundo  resultados  do  Pnad  Contínua  da 
+Educação  2018.  Ainda  sobre  os  resultados  desta  pesquisa,  analisando  as  taxas  de 
+analfabetismo por faixa etária, o índice é ainda maior em alguns grupos, sendo 7,2% com 
+pessoas de 18 anos ou mais, 8,2% com pessoas de 25 anos ou mais, 11,5% com as de 40 
+anos ou mais e 18,6% com pessoas de 60 anos ou mais. 
+
+ 
+Com o aumento crescente no uso de recursos de tecnologia da informação (TIC) 
+na  última  década,  houve  também,  de  forma  gradativa,  no  Brasil,  uma  diminuição  nos 
+preços de diversos dispositivos, como: smartphones, computadores pessoais e tablets, o 
+que  possibilitou  que  várias  famílias  de  baixa  renda  pudessem  ter  acesso  a  esses 
+dispositivos.  Hoje  no  Brasil  já  existem  mais  smartphones  que  pessoas,  atingindo  o 
+número de 230 milhões de  celulares inteligentes (smartphones), segundo resultados da 
+30a Pesquisa Anual do Uso de TI realizada pela FGVcia da FGV/EAESP4, divulgada em 
+2019. Mas isso não significa que cada brasileiro está conectado, pois no Brasil 30,2% da 
+população não tem  acesso a internet, segundo dados da pesquisa PNAD Contínua TIC 
+20175, divulgada pelo IBGE em 2018. 
+
+ 
+Mesmo assim, sabe-se que alguns dos usuários de smartphones são pessoas que 
+não sabem ler nem escrever, mas que mesmo assim conseguem usar aplicativos de redes 
+sociais  ou  de  comunicação,  utilizando  por  vezes  recursos  de  áudio.  Sendo  assim,  é 
+possível explorar tais recursos por meio de aplicativos educacionais para apoiar usuários 
+desses dispositivos a aprenderem a  ler e  escrever. Surge daí uma forma de, através de 
+Objetos de Aprendizagem (OAs) em dispositivos móveis, possibilitar que pessoas possam 
+aprender a ler e escrever de forma intuitiva e agradável. 
+
+ 
+Vendo  essa  possibilidade,  foi  criado  um  OA  que  visa  apoiar  o  aprendizado  de 
+palavras e a familiarização dos estudantes com o alfabeto. Explorando  imagens, sons e 
+tomando por base um jogo conhecido por várias pessoas, que é o “Jogo da Forca”, foi 
+proposto  o  AppAlpha,  que    é  um  aplicativo  para  dispositivos  móveis  Android.  Neste 
+trabalho, além de apresentar o aplicativo, buscou-se avaliar se este OA pode realmente 
+apoiar a alfabetização, principalmente a de adultos, através de um contexto real de ensino. 
+Para avaliar isso, foi realizada uma pesquisa de caráter descritivo por meio de um estudo 
+de caso no qual foi avaliada a aceitação do aplicativo por parte dos alunos de uma turma 
+de Educação de Jovens e Adultos (EJA) ao usar o aplicativo. Além disso, foi aplicado um 
+
+ 
+
+Paris: 
+
+Summary. 
+
+2  UNESCO.  Teaching  and  Learning:  Achieving  Quality  for  All;  EFA  Global  Monitoring  Report, 
+2013; 
+Disponível 
+em:<https://unesdoc.unesco.org/ark:/48223/pf0000225654_por>. Acesso em: 23 jun. 2019. 
+3  UNESCO.  Global  Education  Monitoring  Report  Summary  2017/8:  accountability  in  education; 
+meeting 
+Disponível 
+Paris: 
+em:<https://unesdoc.unesco.org/ark:/48223/pf0000259593_por>. Acesso em: 23 jun. 2019. 
+4 https://eaesp.fgv.br/ensinoeconhecimento/centros/cia/pesquisa 
+
+commitments. 
+
+Unesco, 
+
+Unesco, 
+
+2017. 
+
+2014. 
+
+our 
+
+57 
+
+61 
+
+p. 
+
+p. 
+
+5  "Agência  de  Notícias  |  PNAD  Contínua  TIC  2017:  Internet  chega  ...  -  IBGE."  20  dez.  2018, 
+https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/23445-
+pnad-continua-tic-2017-internet-chega-a-tres-em-cada-quatro-domicilios-do-pais. Acesso em 10 jun. 2019. 
+
+ 
+
+questionário com o propósito de avaliar o aplicativo considerando questões técnicas e de 
+usabilidade junto a profissionais de educação. 
+
+ 
+As demais seções deste artigo estão organizadas da seguinte forma: Na Seção 2 
+está  apresentada  a  metodologia  usada  para  a  realização  deste  trabalho;  na  Seção  3  são 
+discutidos  os  trabalhos  relacionados;  na  Seção  4  está  a  descrição  detalhada  do  OA 
+AppAlpha; na Seção 5 estão apresentados os resultados das avaliações deste OA na turma 
+de alfabetização EJA e pelos profissionais de pedagogia; na Seção 6 estão apresentadas 
+as conclusões deste trabalho, juntamente com as sugestões de trabalhos futuros. 
+
+2. Metodologia 
+
+A natureza da presente pesquisa caracteriza-se como descritiva, pois, “tem como objetivo 
+primordial  a  descrição  de  características  de  determinada  população  ou  fenômeno,  ou 
+então, o estabelecimento de relações entre variáveis”. (GIL, 2002, p. 42). No caso desta 
+pesquisa, buscou-se caracterizar o fenômeno da utilização do aplicativo AppAlpha por 
+adultos e professores e a aceitação destes usuários. 
+
+ 
+Os  dados  usados  no  presente  artigo  foram  obtidos  através  de  duas  fontes:  de 
+estudantes  adultos  em  processo  de  alfabetização  e  de  professores.    Primeiramente,  o 
+Objeto de Aprendizagem (OA) foi levado para uma turma de alfabetização EJA, sendo 
+esta composta por 10 alunos com idade média entre 40 e 60 anos. Os mesmos usaram o 
+OA por duas rodadas e depois jogaram o jogo da forca convencional utilizando o quadro 
+da escola. Ao final, foi perguntado sobre suas experiências e impressões sobre o aplicativo 
+e sobre qual método preferiram usar: se o OA digital ou se o jogo utilizando o quadro da 
+escola. 
+
+ 
+Posteriormente,  foi  preparado  um  questionário  online6    com  11  questões  que 
+tratavam sobre os pontos fortes e fracos do aplicativo quanto às suas funcionalidades e à 
+sua aceitação. O mesmo foi divulgado entre os professores da Escola Municipal de Ensino 
+Fundamental  Professora  Maria  de  Lourdes  Silva,  onde  houve  a  aplicação  do  OA,  e 
+também  para  os  professores  das  cidades  Sertãozinho-PB  e  Guarabira-PB,  tendo  sido 
+obtidas ao final um total de 6 respostas de professores.  
+
+Após a coleta dos dados foi feita uma análise com o propósito de verificar se o 
+
+ 
+OA realmente pode ser útil em sala de aula e em quais pontos ele pode ser melhorado. 
+
+3. Trabalhos relacionados 
+
+Neste capítulo estão apresentados quatro trabalhos que apresentam relação com o presente 
+artigo.  
+
+ 
+Um destes trabalhos é o de Silva e Rebouças (2018), que detalha um aplicativo 
+para Android chamado “Embaralhado” . Este aplicativo se baseia na ideia de apresentar 
+de forma desorganizada as letras que constituem uma palavra que está associada a uma 
+imagem e que devem ser colocadas em ordem pelo usuário. Assim como o AppAlpha, o 
+“Embaralhado” possui temas diversos, que são chamados de contextos pelo autor. Cada 
+tema possui seus desafios relacionados, que são apresentados de forma aleatória para o 
+jogador a cada nova jogada. Um ponto positivo dele é a possibilidade de adicionar novos 
+temas e desafios de forma simples, possibilitando a criação de desafios específicos para 
+diferentes ambientes. Algumas diferenças do presente artigo com relação ao trabalho de 
+Silva  e  Rebouças  (2018)  são  o  fato  deste  outro  trabalho  não  ter  apresentado  avaliação 
+
+6 http://bit.ly/2Z4j5Un  
+
+ 
+
+ 
+
+com estudantes adultos e também a ideia de não trabalhar com o Jogo da Forca, mas sim 
+com outro tipo de atividade. 
+
+ 
+ Um  outro  trabalho  relacionado  é  o  que  descreve  o  aplicativo  "ABC  da  Forca" 
+[Oliveira  2017].  Ele  apresenta  a  mesma  ideia  que  o  AppAlpha,  de  ser  um  objeto  de 
+aprendizagem baseado no tradicional Jogo da Forca. A jogabilidade não é diferente do 
+AppAlpha, tendo uma interface intuitiva e visualmente agradável. Há também interação 
+visual e auditiva ao concluir o desafio com sucesso ou ao falhar. Além da interação visual, 
+ele reproduz sons que ajudam o jogador durante a jogada, sendo esse um dos seus pontos 
+positivos.  A  possibilidade  de  cadastrar  temas  (chamados  de  contextos  pelo  autor)  e 
+desafios é outro ponto positivo do ABC da Forca, assim como a divisão dos desafios por 
+nível  de  dificuldade.  No  entanto,  também  não  foram  feitas  avaliações  com  estudantes 
+adultos no trabalho de Oliveira (2017), mas sim uma avaliação através de questionário 
+online por professores e por pais ou responsáveis que baixavam o aplicativo e o avaliaram. 
+O questionário online utilizado na avaliação do AppAlpha com professores se baseou em 
+questões utilizadas na avaliação feita por Oliveira (2017). 
+
+ 
+Um terceiro trabalho relacionado a destacar foi apresentado por Santana e Ishitani 
+(2015).  Trata-se  de  um  estudo  de  caso  com  o  objetivo  de  identificar  as  principais 
+características  de  jogos  educacionais  no  ensino  de  adultos  mais  velhos  (AMV).  Este 
+trabalho destaca em seus resultados que “[...] para que haja o sucesso dos jogos digitais 
+no  processo  de  alfabetização  é  preciso  considerar  as  especificidades  dos  AMV  e  suas 
+limitações  físicas  e  permitir  adaptações  didáticas  necessárias  a  cada  AMV 
+individualmente.”(Santana e Ishitani, 2015, P.1). 
+
+ 
+O quarto trabalho relacionado selecionado é o de An et al. (2013). Neste trabalho 
+é apresentado um jogo educativo que apoia o processo de educação infantil, denominado 
+“Digita”. Esse jogo desafia a criança a resolver um problema, podendo utilizar para isso 
+objetos disponíveis na “mochila” mostrada no jogo. Para conseguir usar um objeto, deve-
+se completar a palavra digitando-a ou organizando as sílabas dela. Esse jogo explora tanto 
+a  criatividade  do  jogador  quanto  os  objetos  do  mundo  em  que  ele  vive,  trazendo  nos 
+desafios cenários familiares. Todavia, não foram feitas avaliações com adultos no referido 
+trabalho. 
+
+ 
+Pesquisas  e  desenvolvimentos  de  objetos  de  aprendizagem  que  envolvam 
+alfabetização de  jovens  e adultos  ainda não são tão presentes nas revistas  científicas e 
+anais  de  eventos  nacionais  de  informática  na  educação,  conforme  se  pôde  observar  ao 
+realizar  pesquisas  na  literatura.  Sabendo  disso  e  tendo  em  conta  os  dados  estatísticos 
+referentes  ao  analfabetismo,  principalmente  entre  adultos,  ressalta-se  a  importância  do 
+presente  trabalho  que  teve  como  foco  a  investigação  sobre  o  uso  de  um  OA  com 
+estudantes adultos no intuito de tentar amenizar o problema do alto índice de adultos não 
+alfabetizados no Brasil, estimulando assim mais trabalhos desta natureza. 
+
+4. Descrição do AppAlpha 
+
+O aplicativo em sua versão atual (0.2) é composto por 7 telas. Na Tela Inicial, ilustrada 
+pela Figura 1a, são mostradas as opções iniciais do jogador. Nela estão inclusos os ícones 
+de começar o jogo, informações sobre o aplicativo, configurações, recordes e a opção de 
+sair do aplicativo. Na tela de configuração, ilustrada pela Figura 1b, é possível configurar 
+o tipo e tamanho das letras do aplicativo. As opções de tipo de letra são "casual", "cursiva" 
+e  "bastão"  e  há  também  opções  relativas  ao  uso  de  maiúsculas  ou  minúsculas.  Tal 
+requisito foi considerado ao observar que em diferentes escolas a alfabetização tem sido 
+realizada seguindo diferentes abordagens e fases. Há escolas que focam na alfabetização 
+
+ 
+
+apenas com letra bastão inicialmente e outras em que já se inicia com a cursiva e onde 
+depois são explorados os outros tipos de letras. 
+
+                       
+
+ 
+          Figura 1: Tela inicial (a) e Tela de configuração (b) do AppAlpha 
+
+                               
+
+ 
+
+ 
+
+ 
+Na  tela  de  recordes,  ilustrada  pela  Figura  2,  é  possível  ver  as  5  melhores 
+pontuações do aplicativo e o nome do jogador que conseguiu cada recorde. Na Tela de 
+informações  são  apresentadas  informações  sobre  os  desenvolvedores  do  aplicativo,  o 
+projeto dentro do qual o mesmo foi criado e os créditos ao site de onde as imagens usadas 
+foram retiradas. 
+
+                                                    
+
+ 
+
+Figura 2: Tela de recordes 
+
+ 
+A tela de temas, conforme ilustrado pela Figura 3, apresenta os 6 temas atualmente 
+disponíveis, que são: cidade, comida, cores, cozinha, frutas e natureza. Ao clicar em um 
+tema  é  emitido  o  som  da  palavra  que  o  representa  e  o  usuário  é  levado  para  a  tela  do 
+primeiro desafio naquele tema. Como se pode observar pela Figura 3, foram exploradas 
+mais fotografias que desenhos considerando o foco no público adulto. 
+
+                                            
+
+ 
+
+ 
+
+                                                        
+
+  
+                                                 Figura 3: Tela de temas 
+
+ 
+
+A tela do desafio, conforme ilustrado pela Figura 4a, apresenta: i) a imagem da 
+ 
+forca;  ii)  a  imagem  que  representa  a  palavra  a  ser  descoberta;  iii)  algumas  linhas 
+representando as letras dessa palavra; e iv) o  teclado  QWERTY para escolher as letras. 
+Cada rodada é composta por 5 desafios. Quando o usuário acerta todas as letras ou erra 6 
+vezes, é exibida a tela de resposta, ilustrada pela Figura 4b. A tela de resposta tem como 
+objetivo fazer com que o usuário possa reforçar o conhecimento sobre a palavra através 
+da soletração. Nesta tela é mostrada a imagem da palavra e automaticamente é tocado um 
+áudio com a palavra. Após isso, o aplicativo mostra a palavra letra por letra, junto com o 
+som de cada uma. Também faz parte dos elementos desta tela uma seta que quando clicada 
+faz com que o usuário passe para a tela do desafio ou para a tela da pontuação, caso se 
+tenha chegado ao último desafio da rodada. 
+
+                       
+
+  
+
+                           
+
+                   Figura 4: Tela de desafio (a) e Tela de respostas (b) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Na tela da pontuação ilustrada pela Figura 5, o usuário pode ver quantas estrelas 
+ 
+conseguiu e sua pontuação. Há também a opção de registrar seu nome para salvar sua 
+pontuação na tela de recordes. Cada estrela corresponde à quantidade de desafios dentre 
+os  5  acertados  em  uma  rodada.    Já  a  pontuação  em  número  utilizada  nos  recordes  é 
+baseada no tempo que o usuário levou para responder e também nos erros que ele cometeu 
+ao tentar descobrir as palavras correspondentes aos desafios. 
+
+                                                    
+
+ 
+                                             Figura 5: Tela de pontuação 
+
+Mais  informações  sobre  o  aplicativo,  como  o  link  para  download,  podem  ser 
+
+ 
+encontradas no site: https://apps4society.dcx.ufpb.br/?page_id=197. 
+
+5. Resultados das avaliações do AppAlpha 
+
+Para poder avaliar se o OA AppAlpha pode auxiliar na alfabetização de adultos em turmas 
+de  alfabetização,  que  foi  o  escopo  considerado  para  este  estudo,  foi  realizada  uma 
+avaliação  com  uma  turma  EJA  para  a  qual  foram  levados  5  tablets  com  o  aplicativo 
+AppAlpha instalado.    
+
+ 
+
+ 
+Inicialmente havia poucos alunos na sala, cerca de 4, os quais receberam um tablet 
+cada. Para muitos dos alunos foi o primeiro contato com um tablet. Inicialmente sentiram 
+um pouco de receio em manuseá-lo, mas após receberem orientações de como interagir 
+com ele e acessar os botões do jogo, conseguiram iniciá-lo. Ao se deparar com a tela de 
+desafios, mais uma vez houve um certo receio de começar a jogar e escolher a letra errada, 
+mas foram incentivados a tentar realizar a atividade sem temer o erro, e assim fizeram.  
+
+ 
+Nos dez primeiros minutos, eles tentaram diversas vezes, mas logo conseguiram 
+ter  mais  facilidade  em  assimilar  a  imagem  do  desafio  com  o  som  e  clicar  nas  letras 
+correspondentes  à  palavra  do  desafio.  Com  o  passar  do  tempo,  foram  chegando  mais 
+alunos, totalizando dez alunos presentes na sala. Os alunos que já haviam concluído os 
+cinco desafios do tema escolhido entregaram os tablets para os alunos que acabaram de 
+chegar. Dessa forma, todos jogaram e completaram os cinco desafios. 
+
+ 
+Para analisar como os mesmos alunos se sairiam jogando o tradicional  jogo da 
+forca sem o uso do tablet, foi realizado o mesmo exercício no quadro com o auxílio de 
+
+ 
+
+ 
+
+ 
+
+imagens  impressas,  com  as  mesmas  regras  do  aplicativo,  mas  sem  a  representação  da 
+Forca. Inicialmente a sala foi dividida em dois grupos de cinco pessoas. Em seguida, para 
+cada desafio, foram desenhados “traços” de acordo com a quantidade de letras da palavra 
+a  ser  adivinhada,  como  se  pode  observar  na  Figura  4.  Os  grupos  se  revezavam  a  cada 
+novo desafio. Observou-se que os alunos conseguiam dizer corretamente a maioria das 
+letras das palavras, sendo dois o número máximo de erros cometidos durante cada um dos 
+desafios. Também foi observado que os grupos respondiam mais rápido os desafios do 
+quadro. Acredita-se que isso ocorreu pelo fato de não estarem  lidando com algo novo, 
+como um tablet e um aplicativo.  
+
+ 
+
+Figura  4:  Quadro  com  a  imagem  de  um  dos  desafios  do  jogo.  Nesta  figura,  o 
+desafio já foi completado, com apenas um erro. 
+
+ 
+Observou-se  que  os  alunos  cometeram  mais  erros  na  escolha  das  letras  que 
+completavam a palavra do desafio durante o uso do OA AppAlpha que no quadro, mas 
+isso se deve ao fato de ter sido o primeiro contato da maioria com um dispositivo Android, 
+pois dos 10 participantes, somente 3 tinham um smartphone Android. Além disso, o fato 
+do  jogo  no  quadro  explorar  palavras  que  podem  ter  visto  ao  jogar  também  pode  ter 
+influenciado nesta questão. Ao terminar o uso do aplicativo e o  jogo no quadro com  a 
+turma,  foi  perguntado  aos  alunos  se  gostaram  da  experiência.  Todos  responderam  que 
+gostaram  bastante  dessa  forma  de  aprender,  pois  o  uso  de  tablets  ajudou  a  prender  o 
+interesse deles e que gostariam que essa experiência se repetisse mais vezes na escola. 
+
+ 
+Como  resultado  da  avaliação  dos  professores  via  questionário  online,  foram 
+obtidas  6  respostas.  Dos  professores,  3  possuem  licenciatura  em  Pedagogia,  1  possui 
+especialização em psicopedagogia, 1 era graduando em Letras Libras e 1 graduando em 
+Licenciatura em Pedagogia. O tempo de experiência de cada um variou de 2 meses a 18 
+anos de atuação na  área, sendo aproximadamente 6 anos e 3 meses o tempo médio da 
+amostra considerada. Quanto às principais dificuldades que surgem durante o processo de 
+alfabetização  e  que  foram  coletadas  com  os  professores,  as  respostas  foram:  Número 
+excessivo de alunos na sala, a falta da assimilação das palavras com o mundo real pelo 
+aluno, a falta de associação da palavra escrita com a palavra falada pelo aluno e o fato de 
+muitas  vezes  os  alunos  confundirem  a  pronúncia  da  palavra  com  a  escrita.  O  nível  de 
+dificuldade de uso do aplicativo foi avaliado como fácil por 4 professores e intermediário 
+por 2 professores. Todos os 6 profissionais responderam que usariam o aplicativo como 
+ferramenta  de  ensino  em  sala  de  aula,  e  que  recomendariam  o  aplicativo  a  outros 
+professores.  As  respostas  sobre  quais  são  os  pontos  positivos  do  aplicativo 
+resumidamente foram: A característica de não impor um tempo limite, a junção do lúdico 
+com o didático, o visual do aplicativo, a capacidade de associar o aúdio com a imagem e 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+a palavra do objeto e o fato do aplicativo mostrar visualmente e por meio de som,  letra 
+por  letra  da  palavra,  no  fim  do  desafio.  Todos  os  professores  que  responderam  o 
+questionário utilizaram um smartphone com sistema Android para jogar no aplicativo. 
+
+6. Conclusões e Trabalhos Futuros 
+
+Com o desenvolvimento deste estudo foi possível observar a aceitação do OA AppAlpha 
+no processo de alfabetização de adultos e também por professores atuando na área, tanto 
+através da avaliação de alunos que usaram o aplicativo em sala quanto pela avaliação por 
+professores.   
+
+ 
+Foi  também  possível  perceber  que  características  como  o  design  lúdico,  a 
+utilização  de  áudios  e  a  soletração  foram  pontos  fortes  na  avaliação  tanto  de  alunos, 
+quanto de professores. O visual do aplicativo se mostrou eficaz para capturar a atenção 
+do aluno, e a funcionalidade do uso de áudio foi algo que os professores consideraram 
+imprescindível,  já  que  segundo  eles  uma  grande  dificuldade  que  os  alunos  têm  é  a  de 
+associar a palavra ou letra com o som da mesma. 
+
+ 
+Com base no que foi apresentado, há indícios de que o OA AppAlpha pode ser 
+útil  tanto  para  professores  quanto  para  alunos  no  processo  de  alfabetização,  embora 
+estudos mais aprofundados e com uma maior amostra sejam importantes para fortalecer 
+a percepção obtida com este estudo inicial. Em próximas versões do aplicativo pretende-
+se  adicionar  mais  temas,  um  sistema  de  níveis  dependendo  da  idade/nível  de 
+conhecimento e ampliar o uso do som para que o aplicativo possa se tornar mais intuitivo. 
+Também é interessante buscar permitir que o aplicativo possa ser personalizável para seus 
+usuários, permitindo o cadastro de temas e desafios. Um outro trabalho futuro previsto é 
+a replicação deste estudo em outras turmas de alfabetização de jovens e adultos, além de 
+realizar avaliações do aplicativo também com crianças, aprofundando a avaliação do uso 
+do  aplicativo  com  mais  dados  qualitativos  e  quantitativos  que  possam  fortalecer  os 
+resultados obtidos até então. 
+
+Referências 
+
+An,  Ding  Yih  et  al.  (2013).  Digita-um  jogo  educativo  de  apoio  ao  processo  de 
+alfabetização infantil. In: Brazilian Symposium on Computers in Education (Simpósio 
+Brasileiro de Informática na Educação-SBIE). p. 154. 
+
+Gil, A. C. (2002). Como elaborar projetos de pesquisa. 4. ed. São Paulo: Atlas, 2002. 
+
+Ministério  da  Educação.  Planejando  a  Próxima  Década.  Conhecendo  as  20  Metas  do 
+Plano Nacional de Educação. Ministério da Educação/Secretaria de Articulação com 
+os Sistemas de Ensino (MEC/Sase): Brasília, DF., 2014. 
+
+Oliveira,  D.  M.  (2017).  Proposta  de  um  aplicativo  personalizável  para  auxiliar  no 
+
+processo de alfabetização baseado no jogo da forca.  
+
+Santana, R. C.; Ishtani, L. (2015). Características de jogos educacionais para adultos mais 
+
+velhos em processo de alfabetização. RENOTE, v. 13, n. 1. 
+
+Silva, Jeferson José; Rebouças, Ayla Débora Dantas de Souza (2018). Avaliando o Uso 
+do Aplicativo" Embaralhado" no Processo de Alfabetização. RENOTE, v. 16, n.1. 
+
+ 
+
+ 
+
+ 
+
+

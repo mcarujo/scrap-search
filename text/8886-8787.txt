@@ -1,0 +1,464 @@
+Café com Saúde: Podcast como Ferramenta de Ensino nos 
+Cursos de Saúde 
+
+Rayana M. C. M. Gomes1, Mariana P. Alencar1, Maria Julia M. N. Santos1, 
+Rosivan S. da Silva1, Júlio B. Messias1, Mônica S. Florêncio1 
+
+1Universidade de Pernambuco Campus Santo Amaro 
+raycaminha@gmail.com, pontesmari99@gmail.com, majumns@hotmail.com, 
+julio.messias@upe.br, monica.simoes@upe.br 
+
+Abstract.  The present article introduces the project Café com Saúde, a pioneer 
+pedagogical  experience  that  uses  the  podcast  as  an  intermediate  for  the 
+democratization of the academic knowledge.  Audio lessons were produced in 
+the podcast format, being target to health undergraduate students. The lessons 
+cover  topics  in  histology,  immunology,  genetics,  cellular  biology,  and  other 
+topics commonly present in theses courses’ curriculum plans. The project was 
+developed through literature review, elaboration of didactic scripts, recording, 
+editing, marketing of the podcast and team meetings. The results were relevant, 
+achieving efficiency to its target audience, reinforcing the use of podcasts as an 
+educational tool. 
+
+Resumo.  O  presente  artigo  descreve  o  Projeto  Café  com  Saúde,  uma 
+experiência  pedagógica  pioneira,  que  utiliza  o  podcast  como  vetor  de 
+democratização  do  conhecimento  acadêmico.  Foram  desenvolvidas  áudio-
+aulas  direcionadas  a  estudantes  de  nível  superior  dos  cursos  de  saúde, 
+abordando  temas  como  histologia,  imunologia,  genética,  biologia  celular, 
+dentre  outros  assuntos  comuns  à  grade  curricular  destes  cursos.  O  projeto 
+contou com revisão bibliográfica, elaboração de roteiros didáticos, gravação, 
+edição,  divulgação  e  reuniões  de  equipe.  Os  resultados  se  mostraram 
+relevantes, atingindo com eficiência o seu público alvo e fortalecendo o uso do 
+podcast como ferramenta educacional. 
+
+1.  Introdução 
+
+Café  com  Saúde  é  um  projeto  de  extensão  que  usa  a  inovação  tecnológica  como 
+ferramenta para tornar acessível  temas dos cursos da Saúde e Ciências Biológicas, sob 
+forma de podcast, aos diversos ouvintes, tendo alunos universitários como público alvo. 
+Foram  produzidas,  entre  março  de  2018  e  março  de  2019,  10  audio-aulas  nas  quais 
+discentes de cursos da área de saúde e um docente  orientador fixo foram os anfitriões, 
+conduzindo  os  episódios,  sempre  havendo  no  mínimo  um  profissional  especialista  no 
+tema abordado como convidado. Os episódios foram publicados em plataformas virtuais 
+de distribuição, como Spotify e Castbox. 
+
+  
+Os temas abordados nos podcasts são relacionados à área de saúde, direcionados 
+para alunos de graduação em Medicina, Ciências Biológicas, Enfermagem e Odontologia, 
+inicialmente  como  um  recurso  educacional  complementar  às  aulas  de  histologia, 
+embriologia,  genética,  anatomia,  biologia  celular,  imunologia  e  abordando  patologias 
+comuns nos serviços de atenção básica do SUS.  
+
+ 
+
+O período das tecnologias já é o presente:  todos os ramos da atividade humana 
+estão sendo permeado por um crescente número de dispositivos, aplicativos e ferramentas 
+relacionadas  com  as  Tecnologias  de  Informação  e  Comunicação  (TIC).  E,  nessa 
+perspectiva,  o  ensino-aprendizagem  também  é  influenciado  e  contemplado  pelas 
+ferramentas tecnológicas. A ideia de se desenvolver atividades e ferramentas interativas 
+utilizando  TIC  surgiu  da  observação  prática  das  dificuldades  de  aprendizagem  em 
+diversas  disciplinas  por  parte  de  um  número  considerável  de  alunos,  bem  como  da 
+aproximação e familiaridade desses mesmos estudantes com as ferramentas e aplicativos 
+de informática.  
+
+Segundo o método VAC, desenvolvido por Fernald e Keller e Orton-Gilingham 
+(1920),  o  qual  pressupõe  que  a  aprendizagem  ocorre  por  meio  dos  sentidos  visual, 
+auditivo  e  cinestésico;  a  maioria  dos  estudantes  possui  um  estilo  preponderante  ou 
+predileto  para  aprender  os  conteúdos  das  mais  variadas  disciplinas.  Estudantes  com 
+preferência  auditiva  possuem  diferenciada  habilidade  de  reter  conhecimentos  captados 
+através da linguagem sonora, sendo os principais, mas não os únicos, beneficiados com a 
+ferramenta podcast. 
+
+Dessa forma, como citado por Vítor Diegues,(2010) o podcast possui inúmeros 
+atributos, como a possibilidade de disponibilizar materiais didáticos na forma de aulas ou 
+entrevistas em áudio, de ser acessado a qualquer momento sem limitação de localização 
+e , também, disponibiliza informação para aqueles que dispõem de pouco tempo para a 
+leitura e estudo, mas querem aprender. 
+
+A  inovação  do  projeto  consiste  em  usar  as  plataformas  digitais,  familiares  aos 
+discentes e acessíveis em smartphones, para transmitir conhecimento, fornecendo, dessa 
+forma, aos alunos dos cursos de saúde, acesso à informação de qualidade produzida pela 
+universidade.  
+
+ Destaca-se que o projeto apresenta uma nova chance aos discentes de acessar a 
+temática  acadêmica  e  ainda  os  torna  ativos  do  processo  de  aprendizagem,  já  que  o 
+conteúdo é acessado conforme desejam. 
+
+O objetivo do presente artigo é relatar a experiência do projeto Podcast Café com 
+
+Saúde, descrever os resultados e revisar a literatura. 
+
+2. Metodologia 
+
+Trata-se  de  uma  pesquisa-ação,  com  foco  na  aplicação  de  recursos  tecnológicos  no 
+desenvolvimento  de  objetos  educacionais  direcionados  aos  acadêmicos  dos  Cursos  de 
+Medicina, Ciências Biológicas, Enfermagem e Odontologia. 
+
+A etapa descrita do projeto foi executada entre março de 2018 a março de 2019, 
+
+utilizando o laboratório de informática e a rádio web da Reitoria da Universidade. 
+
+2.1. Componentes curriculares 
+
+O  público  alvo  são  os  acadêmicos  do  ciclo  básico  dos  cursos  de  Saúde  e  Ciências 
+Biológicas.  Houve  a  participação  dos  docentes  das  seguintes  disciplinas:  histologia, 
+embriologia, genética, anatomia, imunologia, biologia celular, fisiologia e semiologia. Os 
+referidos componentes curriculares foram desenvolvidos em áudios-aula de uma forma 
+interdisciplinar, dotada de curiosidades e informações validadas pela literatura, estando 
+relacionadas a conteúdos ministrados no ciclo básico dos cursos de saúde. 
+
+ 
+
+ 
+
+2.2. Revisão bibliográfica e contemporânea 
+
+De forma inicial foi realizada uma pesquisa na literatura atual voltada ao uso do podcast 
+como  recurso  educacional,  bem  como  revisões  bibliográficas  para  produção  de  cada 
+episódio gravado. Dessa forma, as áudios-aula além de serem gravadas e validadas por 
+docentes  da  área,  estão  atualizadas  no  meio  científico  da  época.  Estão  também 
+relacionadas  a  novidades  contemporâneas  veiculadas  em  jornais,  legislação,  recursos 
+tecnológicos e outros aparatos de cunho construtivista na formação do discente.  
+
+Há  mais  de  uma  década,  apontamentos  científicos  identificaram  a  revolução 
+digital  na  saúde,  associando  às  práticas  de  qualidade  ao  uso  de  computadores  e 
+incorporação das novas tecnologias [MENDES, TREVISAN e ÉVORA, 2000]. 
+
+Esse avanço também é observado na área educacional, o que demanda uma melhor 
+preparação para que esses profissionais sejam formados com capacidade para se adaptar 
+e  usufruir  de  toda  a  tecnologia  da  informação  e  comunicação  [SILVA;  MARQUES, 
+2011]. 
+
+O  avanço  tecnológico  fez  surgir  o  conceito  da  Educomunicação,  isto  é,  ações 
+comunicativas  no  espaço  educativo,  com  o  objetivo  de  produzir  e  desenvolver 
+ecossistemas comunicacionais em espaços educativos presenciais ou virtuais, ampliando 
+o processo de aprendizagem. O termo  Educomunicação foi cunhado pela primeira vez 
+pelo filósofo da educação Mário Kaplun e seu conceito explicita uma junção da educação 
+e da comunicação, firmando-se como um novo campo de intervenção, em que se busca 
+ressignificar os movimentos comunicativos no âmbito da educação [SOARES et al,2002]. 
+
+As 
+
+tecnologias  da 
+
+informação  e  comunicação  (TICs)  estão 
+
+ligadas  a 
+Educomunicação,  sendo  essenciais  para  a  consolidação  desse  conceito.  TICs  são 
+caracterizadas por processos de transmissão de dados através de dispositivos eletrônicos 
+e  recursos  ópticos  e  têm  seu  maior  produto  na  internet,  considerada  um  poderoso 
+instrumento  de  comunicação  que  diminui  distâncias,  interliga  pesquisadores  e  permite 
+que a informação produzida seja facilmente localizada em acervos das mais diversas áreas 
+do conhecimento [COSTA et al., 2011]. Uma das áreas mais favorecidas com as TICs é 
+a educacional. Seja na educação presencial ou a distância, o uso de TICs é potencializador 
+do processo ensino-aprendizagem. 
+
+2.3. Elaboração de roteiro didático 
+
+Foram elaborados 10 roteiros didáticos, trazendo curiosidades e informações a respeito 
+do  assunto  abordado  no  episódio.  Através  de  pesquisa  em  conceituadas  bibliotecas 
+virtuais, como PubMed e Scielo, foram elaborados roteiros com uma introdução sobre o 
+assunto, os principais tópicos a serem abordados e questionamentos comuns sobre o tema. 
+Procurou-se  abordar  sobretudo  as  doenças  relevantes  para  estudo  pelos  estudantes  das 
+diversas  áreas  da  saúde  e  ciências  biológicas,  enfatizando  sua  epidemiologia,  quadro 
+clínico  apresentado,  diagnóstico  e  tratamento.  Recursos  digitais  foram  embutidos  com 
+finalidade de tornar mais lúdica a mídia a fim de otimizar a assimilação das informações 
+emitidas pelos interlocutores na gravação, isso pôde ser realizado durante o processo da 
+edição.  
+
+2.4. Gravação, edição e divulgação 
+
+Para as gravações foram firmadas parcerias com a rádio web da Universidade, a fim de 
+utilizar  os  recursos  tecnológicos  lá  disponíveis.  A  gravação  e  edição  foram  realizadas 
+diretamente no computador, usando como principal software livre de edição de áudio o 
+Audacity.  Foi  adotada  uma  periodicidade  de  15  dias  a  cada  gravação,  totalizando  2 
+Podcasts por mês.  
+
+ 
+
+Foram ministradas capacitações sobre produção e edição de podcasts para alunos e 
+professores envolvidos no projeto. Durante as edições foram direcionadas a dinâmica do 
+episódio, a fluidez das conversas e os elementos de auxílio pedagógico. 
+
+Os  arquivos  em  mp3  foram  hospedados  em  uma  plataforma  virtual,  com  seu 
+cadastro tendo sido devidamente registrado nas plataformas Castbox e Spotify. Assim, 
+todos usuários de smartphones tem acesso ao nosso Podcast. 
+
+ A  divulgação  é  realizada  por  meio  de  perfis  do  projeto  em  redes  sociais,  como 
+Instagram  e  Facebook,  já  que  a  maioria  dos  discentes  participam  dessas  redes.  São 
+realizadas publicações periódicas que chamam a atenção do público-alvo com imagens 
+ilustrativas, fotos das gravações e textos que resumem a temática abordada e convidam o 
+usuário das redes a conhecer o projeto. 
+
+2.5.  Acompanhamento dos acessos 
+
+A  partir  do  portal  de  informação  e  do  sistema  de  distribuição  Spotify  e  Castbox,  as 
+estatísticas  de  acesso  puderam  ser  obtidas.  Dessa  forma  pode-se  avaliar  o  número  de 
+acessos a cada episódio e, consequentemente, o impacto que gerado no público ouvinte. 
+
+2.6. Reuniões da equipe  
+
+Realizaram-se,  durante  a  execução  do  projeto,  reuniões  semanais  com  os  discentes  e 
+orientadora com o intuito de integrar a equipe, dividir tarefas, definir temas e professores 
+convidados e, além disso, solucionar eventuais empecilhos à prática do projeto. 
+
+3. Resultados 
+
+Foram  gravados  e  disponibilizados  10  episódios  de  podcasts  nas  plataformas  virtuais 
+Castbox  e  Spotify,  com  os  seguintes  títulos:  “Saudações”;  “Saúde  da  Mulher”; 
+“Embriologia”;  “Esquistossomose”; “HPV, o que não contaram pra você”;  “Estresse  e 
+Ansiedade”;  “A  raiva’’;  “Câncer  de  Pele”;  “O  vírus  HIV”;  “Lúpus  Eritematoso 
+Sistêmico” (Tabela 1). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 1. Título, duração e número de visualizações por episódio do 
+
+podcast Café com Saúde. 
+
+Foi obtido o total de 742 acessos, sendo 439 no Castbox e 303 no Spotify (Figura 
+
+ 
+
+1) entre março de 2018 e março de 2019.  
+ 
+ 
+
+ 
+
+Gráfico 1.  Distribuição de acessos entre as plataformas Spotify e Castbox. 
+
+A plataforma Spotify forneceu a distribuição dos ouvintes do Café com Saúde por 
+faixa etária (Figura 2) , revelando que a maioria do público se encontra na faixa dos 18 
+aos 22 anos, idade da maior parte dos universitários. Também foi revelado que o público 
+possui  diversas  nacionalidades,  abrangendo  ouvintes  do  Brasil,  Alemanha,  Itália  e 
+Estados Unidos (Figura 3). 
+
+Quanto à idade dos respondentes que ouvem podcast verificada em uma pesquisa 
+de acordo com Felice (2018), a amostra apresentou um grupo com média entre os 20 e 29 
+anos  (56%).  Eles  são  o  publico  ouvinte  mais  engajado  da  mídia,  considerando  que  na 
+última PodPesquisa (2014) a média de idade dos ouvintes foi de 25 anos. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 2.  Distribuição de ouvintes do Spotify por faixa etária. 
+
+ 
+
+ 
+
+Figura 3.  Distribuição de acessos no Spotify do podcast Café com Saúde entre 
+países. 
+
+4- Discussão 
+
+Diante do avanço das tecnologias de informação e comunicação, a informática tornou-se 
+uma ferramenta imprescindível para o desenvolvimento das áreas da saúde. Sua utilização 
+impulsiona o rápido acesso às informações e ao conhecimento expandido no mundo todo, 
+
+vencendo até mesmo distâncias geográficas, de modo a facilitar o desenvolvimento das 
+mais variadas atividades [TANABE ; KOBAYASHI, 2013]. 
+
+Aliada ao processo de aprendizagem e atualização dos profissionais, a Internet, 
+rede  mundial  de  computadores,  representa  um  recurso  valioso  para  o  profissional  que 
+busca  novas  informações.  A  Internet  permite  que  barreiras  físicas  sejam  superadas, 
+possibilitando o desenvolvimento de cursos de educação a distância (EAD) com alto nível 
+de interatividade, favorecendo o desenvolvimento de atividades tanto síncronas quanto 
+assíncronas, suplantando outras formas de EAD como o rádio e a televisão [SANCHES; 
+LOPES, 2008]. 
+
+Nesse sentido, destaca-se a importância de ocupar o espaço da educação nas redes, 
+com projetos como o Café com Saúde. Há a demanda de que as universidades brasileiras 
+se alinhem com a tendência mundial de comunicação e disponibilização de conhecimento 
+dos grandes centros universitários via plataformas digitais como forma complementar ao 
+ensino tradicional. 
+
+Ainda  sobre  os  recursos  audiovisuais,  tem-se  como  exemplo  o  Podcast,  que 
+consiste em arquivos recebidos por uma demanda de grupo ou assunto, podendo facilitar 
+o processo de pesquisa e ensino destes. Por se tratar de arquivos com temas específicos, 
+é possível o armazenamento das pesquisas e conteúdo. Apesar da produção crescente em 
+diferentes  sites  da  Web,  existem  poucos  que  se  voltam  especificamente  para  o  ensino 
+[LEE et al, 2008 apud LEITE, 2012]. Contudo, tem-se algumas pesquisas que focam seu 
+uso  nas  áreas  educacionais  [MOURA;  CARVALHO,  2010;  BOTTENTUIT  JUNIOR; 
+COUTINHO,  2008;  LEITE,  2012;  SANTOS;  LEÃO,  2012].  Com  isso,  destaca-se  o 
+caráter inovador do uso de podcasts como meio complementar de ensino. 
+
+Segundo  Silveira  (2017)  ocorre  um  grande  diferencial  entre  os  podcasts  em 
+relação a um broadcasting, por exemplo. Enquanto um broadcast é aquele programa de 
+rádio transmitido de maneira simultânea, um podcast ocorre através de uma gravação que 
+pode  ser  acessado  pela  internet  a  qualquer  período  e  baixado  pelos  assinantes,  sendo 
+assim, os ouvintes possuem um perfil específico já que ouvir um podcast difere de ouvir 
+uma rádio tradicional. Notadamente, o ouvinte é sempre o mesmo para todos os canais de 
+podcasts existentes, havendo assim, uma disputa dos apresentadores em estar atualizando 
+o canal com conteúdo de agrado ao público.  
+
+No  contexto  analisado  por  Salmon  &  Fothergill  (2007)  foi  analisado  o  uso  de 
+podcasts como meio complementar às atividades de ensino e de aprendizagem  e como 
+forma de motivar os alunos. Os resultados apontaram que os podcasts fornecem uma boa 
+introdução  aos  recursos  de  aprendizagem  disponibilizados  e  auxiliam  a  organização 
+semanal das atividades de aprendizagem dos estudantes. 
+
+Os episódios de Podcast são arquivos de áudio, disponibilizados pelas plataformas 
+Castbox e Spotify que podem ser encontradas gratuitamente por qualquer "smartphone", 
+independente do sistema operacional. Com base nessas informações, é muito importante 
+um  projeto  inovador  como  o  Café  com  Saúde,  que  busca  integrar  o  conhecimento  da 
+graduação, através da facilidade de atualização que a Internet oferece e a possibilidade de 
+integrar  profissionais  e  acadêmicos  em  um  ambiente  virtual.  Através  de  podcasts,  os 
+acadêmicos  envolvidos  podem  aprimorar  habilidades  e  competências  importantes  para 
+sua formação. Além disso, os usuários do projeto têm acesso a informações atualizadas e 
+validadas por docentes, elaboradas com princípios científicos. 
+
+Através dos resultados obtidos, destaca-se que o projeto Café com Saúde atingiu 
+  
+seu  público  alvo  de  jovens  universitários,  já  que  a  maioria  dos  ouvintes  (69%)  possui 
+
+ 
+
+entre  18  e  27  anos  (Figura  2).  Além  disso,  a  plataforma  Castbox  concentrou  59%  dos 
+acessos, sendo a mais utilizada para acessar o conteúdo (Figura 1). 
+
+O projeto teve alcance internacional, com 93 acessos, sendo 70 na Europa e 23 
+nos Estados Unidos (Figura 3). Podemos inferir que os brasileiros residentes nesses países 
+se interessaram  em buscar temas de saúde nas plataformas, corroborando para a nossa 
+afirmação de que há carência desse tipo de conteúdo. 
+
+Analisando  o  número  de  visualizações  dos  episódios  ao  decorrer  do  projeto 
+(Tabela 1), pode-se inferir que o aumento dos números representa uma alta aceitação e 
+retenção de usuários do podcast Café com Saúde, o que serve como pequena amostra da 
+crescente  utilização  do  podcast  como  ferramenta  educativa.  Os  resultados  também 
+revelam  que  houve  uma  satisfatória  captação  de  novos  ouvintes,  demonstrando  que  o 
+podcast gerou interesse em seu público alvo. Também foi possível constatar que a duração 
+do episódio não tem clara relação com o número de visualizações. 
+
+5. Considerações finais 
+
+Num mundo globalizado onde o  tempo é  escasso, diferentes tecnologias vêm surgindo 
+com  o  objetivo  de  facilitar  a  vida  dos  usuários  em  diversos  aspectos,  inclusive  na 
+educação. O podcast é uma dessas alternativas, sendo extremamente potente no processo 
+de ensino e aprendizagem, tanto na modalidade a distância ou como no complemento ao 
+ensino presencial. A flexibilidade espacial e temporal, a nível da gestão individual dos 
+momentos e espaços de aprendizagem, é um dos contributos que o podcast vem trazer ao 
+cenário educativo, barreiras se rompem e as fronteiras se aproximam, tornando o processo 
+de  aprendizado  mais  acessível,  dinâmico  e  sem  a  necessidade  de  uma  interrupção  de 
+outras atividades para que o conhecimento seja adquirido, como acontece por meios de 
+educação tradicionais. 
+
+ O  projeto  Café  com  Saúde  gerou  uma  mobilização  por  parte  de  discentes  e 
+docentes  para  que,  através  de  uma  cooperação  entre  as  áreas  de  saúde  e  tecnologia  da 
+informação, o aprendizado em saúde seja mais compreensível, direto, e amigável frente 
+às  novas  tecnologias  que  permeiam  praticamente  todos  os  campos  do  conhecimento 
+humano na atualidade. 
+
+Os resultados do projeto mostraram-se em consonância com o crescente espaço 
+que o podcast vem ocupando como ferramenta digital educativa e de democratização do 
+conhecimento,  atraindo  ouvintes  por  sua  ampla  variedade  de  benefícios  e  gerando 
+interesse  de  alunos  universitários  de  diversos  cursos,  como  Medicina,  Odontologia, 
+Enfermagem, Ciências Biológicas. 
+
+Referências 
+
+COSTA,  Priscila  B.  et  al.,  2011.  Fluência  digital  e  uso  de  ambientes  virtuais:      
+caracterização de alunos de enfermagem. Rev. esc. enferm. USP, São Paulo,  v. 45, n. 
+spe. 
+
+GROSSI, Manoela G. and KOBAYASHI, Rika M., 2013. “A construção de um ambiente 
+virtual  de  aprendizagem  para  educação  a  distância:  uma  estrategia  educativa  em 
+serviço.” Rev. esc. enferm. USP, São Paulo ,  v. 47. 
+
+FELICE,  Giuliano  B.  B.,  2018.  "Como  um  Podcast  é  descoberto  e  escolhido? 
+Investigando  os  consumidores  dessa  nova  mídia.”  38f.  Trabalho  de  Conclusão  de 
+Curso – Universidade Federal de Uberlândia. 
+
+ 
+
+ 
+
+LOPES, LEO, 2012 “Podcast: guia básico.”  1. ed. Nova Iguaçu: Marsupial Editora, 2015. 
+
+128 p. 
+
+MENDES, I.A.C. and TREVISAN, M.A. and ÉVORA, Y.D.M., 2000 “Comunicação  e  
+enfermagem:  tendências  e desafios para o próximo milênio." Esc. Anna Nery Rev. 
+
+MOMESSO,  M.R.,  2016  “Educar  com  podcasts  e  audiobooks.”  1.ed.  Porto  Alegre: 
+
+CirKula, 2016. 180 p. [e-Book]. 
+
+PERES,  H.H.C.,  MEIRA,  K.C.,  LEITE,  M.M.J.,  2007  “Ensino  de  didática  em 
+enfermagem mediado pelo computador: avaliação discente.” Rev Esc Enferm USP.41 
+(2):271-8. 
+
+RESULTADO  Geral 
+
+em 
+<http:www.abpod.com.br/media/docs/Podpesquisa-2014.pdf>  Acesso  em  7de  ago. 
+20192 
+
+2014.  ABPOD.  Disponível 
+
+PodPesquisa 
+
+de 
+
+SANCHES,  L.M.P.,  JENSEN,  R.  MONTEIRO,  M.I.,  LOPES,  M.H.B.M.,  2011 
+“Informatics  teaching  in  undergraduate  nursing  programs  at  Brazilian  public 
+institutions.“ Rev. Latino-Am. 19(6) 1385-90. 
+
+SANCHES, L.M.P.; LOPES, M.H.B.M., 2008 “Educação a distância sobre cardio versão 
+
+e desfibrilação para enfermeiros.” Rev Bras Enferm, Brasília 61(5): 583-8. 
+
+SILVA,  I.S.A.,  MARQUES,  I.R.,  2011  “Conhecimento  e  barreiras  na  utilização  dos 
+recursos da Tecnologia da Informação e Comunicação por docentes de enfermagem.” 
+J. Health Inform. 3(1): 3-8. 
+
+SOARES, I. 2002. “Gestão Comunicativa e Educação: Caminhos da Educomunicação,” 
+
+in Comunicação & Educação, n 23, pp. 16-125. 
+
+TANABE,  Lyvia  Pini;  KOBAYASHI,  Rika  Miyahara,  2013“Perfil,  competências  e 
+fluencia digital  dos enfermeiros do Programa de Aprimoramento Profissional.” Rev. 
+esc. enferm. USP, São Paulo, v. 47, n.4. 
+
+ 
+
+

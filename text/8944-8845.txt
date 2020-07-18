@@ -1,0 +1,433 @@
+ 
+
+Um Jogo para Dispositivos Móveis com o Objetivo de Auxiliar 
+a Aprendizagem de Libras, ELiS e Português 
+
+Igor Victor Lucena do Nascimento1, Taciana Pontual Falcão1 
+
+1Departamento de Computação, Universidade Federal Rural de Pernambuco (UFRPE), 
+Rua Dom Manoel de Medeiros, s/n, Dois Irmãos, Recife – PE – Brazil  
+
+igorvlnascimento@gmail.com, taciana.pontual@ufrpe.br 
+
+Abstract.  There  are  millions  of  hearing-impaired  people  in  Brazil,  and,  most 
+of  them  have  some  difficulty  to  communicate  in  Portuguese,  which  leads  to 
+exclusion from society in many aspects. The language mostly used by the Deaf 
+in  Brazil  is  Libras  (Brazilian  Sign  Language)  which  is  expressed  through 
+gestures  and  facial  expressions.  This  language  has  its  own  writing  through 
+symbols,  one  of  them  being  called  ELiS,  or  written  sign  language,  which 
+assists  in  the  process  of  literacy  of  deaf  children  in  Portuguese.  This  work 
+presents  a  casual  game  for  mobile  devices,  developed  with  Unity  platform, 
+with the purpose of helping deaf children in literacy and acquisition of Libras, 
+ELiS and Portuguese. 
+
+Resumo.  Existem  milhões  de  pessoas  com  alguma  deficiência  auditiva  no 
+Brasil, e a maioria destes indivíduos, têm alguma dificuldade de comunicar-se 
+por  meio  da  Língua  Portuguesa  e,  consequentemente,  com  a  sociedade.  A 
+língua  mais  usada  pelos  Surdos  no  Brasil  é  a  Libras  (Língua  Brasileira  de 
+Sinais)  que  se  expressa  por  meio  de  gestos  e  expressões  faciais.  Essa  língua 
+tem a sua própria escrita, uma delas é o ELiS, ou Escrita de Língua de Sinais, 
+que  auxilia  no  processo  de  alfabetização  das  crianças  surdas  em  Português. 
+Diante disso, o presente artigo é sobre a criação de um jogo de memória para 
+dispositivos  móveis,  desenvolvido  por  meio  da  plataforma  Unity,  que  auxilie 
+as crianças surdas na alfabetização e aquisição da Libras, ELiS e Português.  
+
+1. Introdução 
+
+A  comunicação  é  uma  ferramenta  primordial  nas  relações  humanas  para  troca  de 
+experiências  com  o  mundo  exterior.  A  forma  mais  utilizada  de  comunicação  para  se 
+transmitir o conhecimento e a experiência entre as pessoas se dá através da língua falada 
+e escrita. Um estudo divulgado pela Organização Mundial de Saúde [ORGANIZAÇÃO 
+MUNDIAL DA SAÚDE, 2011] revela que quase 1 bilhão de pessoas no mundo (15,3% 
+da  população  mundial)  têm  alguma  deficiência  grave  ou  moderada,  seja  ela  auditiva, 
+visual  ou  física.   De  acordo  com  o  mesmo  estudo,  uma  em  cada  cinco  dessas  pessoas 
+tem sua vida dificultada por causa da deficiência.  De acordo com o Censo de 2010 do 
+Brasil  [IBGE,  2010],  existem  7,6  milhões  de  pessoas  que  apresentam  alguma 
+dificuldade  auditiva,  somados  os  2,1  milhões  que  são  Surdos  ou  pessoas  com 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+deficiência auditiva.  No total, 9,7 milhões de pessoas no Brasil têm alguma deficiência 
+auditiva, a maior parte delas entre os 15 e 64 anos de idade.  Essas pessoas apresentam 
+alguma dificuldade ou mesmo não conseguem se comunicar eficientemente com grande 
+parte da sociedade que não tem o conhecimento da Libras (Língua Brasileira de Sinais). 
+E  é  necessário,  na  maioria  das  vezes,  possuir  o  domínio  da  Língua  Portuguesa  escrita 
+e/ou falada para inserção das pessoas nas universidades e em algumas áreas do mercado 
+de trabalho. A Libras é a língua utilizada pelos Surdos e que boa parte da sociedade não 
+compreende  devido  à  sua  natureza  visual-espacial  ou  gesto-visual.   De  acordo  com  o 
+mesmo censo citado acima [IBGE, 2010], 61,1% da população que tem pelo menos uma 
+deficiência  (seja  ela  auditiva,  visual  entre  outras)  não  possui  instrução  e  não  tem  o 
+ensino  fundamental  completo,  contra  38,2%  para  aqueles  que  não  possuem  nenhuma 
+deficiência.  Esses dados mostram a carência da alfabetização dos Surdos nas escolas. E, 
+cada dia mais, com o avanço da tecnologia, o mercado torna-se  mais  exigente de uma 
+maior qualificação [PEREIRA, 2011]. 
+
+ 
+As  Diretrizes  Nacionais  para  a  Educação  Especial  na  Educação  Básica, 
+Resolução  do  Conselho  Nacional  de  Educação  e  o  Conselho  de  Educação  Básica 
+nº2/2001,  no  artigo  2,  dizem  que  os  “sistemas  de  ensino  devem  matricular  todos  os 
+alunos,  mesmo  aqueles  com  necessidades  especiais  e  cabe  às  escolas  proporcionar  o 
+atendimento  diferenciado  aos  diversos  educandos,  sejam  eles  com  necessidades 
+especiais  ou  não,  assegurando  uma  educação  de  qualidade  para  todos”  [CONSELHO 
+NACIONAL  DE  EDUCAÇÃO,  2001].  Pela  Lei  10.436  do  Brasil,  a  Libras  é 
+reconhecida como língua oficial brasileira e os surdos têm o direito a aulas ministradas 
+por  meio  dela  ou  com  a  presença  de  um  intérprete  [BRASIL,  2002].  Este  artigo 
+apresenta  a  criação  de  uma  aplicação  móvel  de  jogo  de  memória  que  auxilie  a 
+alfabetização  das  crianças  surdas  em  Língua  Portuguesa,  Libras  e  ELiS  (escrita  de 
+língua de sinais). 
+
+2. A Comunicação dos Surdos 
+
+2.1. Libras  
+
+Libras  é  a  sigla  para  Língua  Brasileira  de  Sinais  e  é  a  linguagem  adotada  para  a 
+comunicação com os surdos. Durante muito tempo se pensou que a língua de sinais era 
+mera  mímica,  porém  pesquisas  mostram  que  a  Libras  apresenta  uma  complexidade  e 
+expressa  ideias  abstratas  assim  como  qualquer  língua  oral.  Não  só  a  Libras,  mas 
+qualquer outra língua gestual possui vocabulários e regras específicas não derivados das 
+línguas orais. Cada país tem a sua própria língua de sinais [SILVA, 2012]. O linguista 
+americano,  chamado  Stokoe  foi  pioneiro  no  estudo  da  fonologia,  morfologia  e  sintaxe 
+da American Sign Language (ASL), língua de sinais utilizada pelos surdos nos Estados 
+Unidos  da  América. É  muito  importante  manter  o  contato  das  crianças  surdas,  desde 
+cedo,  com  a  língua  de  sinais  própria  de  seus  respectivos  países.  Pois,  de  acordo  com 
+uma  pesquisa  nos  Estados  Unidos  (EUA),  90%  das  crianças  surdas  possuem  pais 
+ouvintes que não conhecem a  língua de sinais, que, no caso dos EUA, chama-se ASL. 
+As crianças só chegam a aprender a língua mais tarde e “são raramente expostas ao ASL 
+como  primeira  língua  de  sinais”  [SCHICK,  2005,  p.  219,  tradução  nossa].  Isso  não  é 
+bom para a criança pois a infância é um período crítico de aquisição linguística. Quanto 
+mais  cedo  essas  crianças  tiverem  o  contato  com  a  língua  de  sinais,  mais  cedo  ficarão 
+proficientes e poderão aprender a língua dos ouvintes.  
+
+ 
+
+2.2. ELiS  
+
+ELiS é a sigla para Escrita de Língua de Sinais criado por Mariângela Estelita Barros, no 
+ano  de  conclusão  do  seu  mestrado  pela  Universidade  Federal  de  Goiás  (UFG),  e 
+finalizado  no  seu  doutorado  [BARROS,  2015].  “A  ELiS  é  um  sistema  de  escrita 
+alfabético  e  linear,  cujos  caracteres,  denominados  visografemas,  foram  desenvolvidos 
+especialmente  para  ela.  Os  visografemas  representam  os  elementos  visuais  que 
+compõem  a  língua  de  sinais”  [BARROS,  2015]. Existem  outras  escritas  de  línguas  de 
+sinais,  tais  como  o  SignWriting  (SW),  que  é  bastante  utilizado  por  outros  países.  A 
+escolha  da  escrita  ELiS  para  o  presente  artigo  se  deu  por  conta  da  simplicidade, 
+praticidade  e  organização  da  estrutura  da  ELiS,  além  de  ser  uma  escrita  em  potencial 
+também  para  uso  de  outras  linguagens  de  sinais  além  da  Libras  [CARVALHO  et  al., 
+2016].  Existem,  também,  cada  vez  mais  trabalhos  de  pesquisa  visando  apresentar  a 
+eficácia e praticidade dessa escrita, bem como a difusão da literatura por meio da ELiS 
+para  o  aproveitamento  dos  surdos  [CARVALHO  et  al.,  2016;  BENASSI;  DUARTE; 
+PADILHA, 2015].  
+
+2.3. Trabalhos relacionados  
+
+Existe  um  trabalho  que  aborda  o  SignWriting  (SW)  do  ASL  [KHENISSI  et  al.,  2015] 
+através  de  um  jogo  de  memória  online  para  aumentar  o  vocabulário  inglês  dos  surdos 
+fazendo correspondência das palavras em inglês e o SW correspondente. Nesse jogo é 
+necessário um conhecimento prévio em SignWriting, o que dificulta o usuário atingir o 
+objetivo  do  jogo.  Por  isso,  a  aplicação  do  artigo  proposto  possui  uma  pedagogia  que 
+leva  o  usuário  a  aprender  primeiro  a  Libras  de  cada  animal  para,  depois,  aprender  o 
+ELiS referente à Libras e, por fim, o Português. Existem alguns aplicativos móveis para 
+ensinar  ASL  a  crianças.  Um  deles  é  o  SiGame  que  é  um  jogo  de  memória  para  o 
+aprendizado de ASL ou em Linguagem de Sinais Alemã. No jogo, quando um cartão é 
+clicado,  ele  é  mostrado  um  avatar  fazendo  um  sinal,  contendo  embaixo  a  palavra  em 
+inglês  correspondente  ao  sinal.  A  criança  deve  achar  as  correspondências  de  sinais 
+iguais  [GMBH,  2015]. Existem  outros  jogos  voltados  para  as  crianças  surdas  para 
+auxiliá-las no aprendizado de sua língua de sinais de seu próprio país tais como o Sign 
+My World para crianças surdas da Austrália [KORTE; POTTER; NIELSEN, 2012]. De 
+jogos  brasileiros  existem  o  Librário  e  o  Librazuka  que  ensinam  a  Libras.  Porém,  o 
+Librário  é  um  jogo  da  memória  em  Libras  cujos  cartões  não  mostram  os  gestos  em 
+Libras,  mas  apenas  a  imagem.  Só  é  mostrado  um  vídeo  em  Libras  de  uma  pessoa 
+fazendo o gesto caso a pessoa clique num botão  específico para mostrar esse vídeo. O 
+Librazuka  não  possui  animação  como  o  Librário,  que  foi  desenvolvido  em  Unity 
+também,  e  não  é  tão  intuitivo  para  as  crianças  surdas.  Pois  apresenta  os  módulos  de 
+jogos com os títulos em português. Muitas crianças surdas não entendem o português e 
+podem não saber onde clicar para jogar. 
+
+3. Desenvolvimento 
+
+O jogo apresentado a seguir é uma evolução de trabalho anterior. Inicialmente,  a ideia 
+foi comparar a abordagem tradicional de ensino nas escolas que usam jogos de memória 
+feitos  de  papel,  aplicando-se  o  jogo  na  escola.  Buscaram-se  imagens  em  Libras  com 
+desenho estático do sinal e a sua correspondência na imagem. Por exemplo, a  imagem 
+em Libras significando a palavra “leão” teria correspondência com o desenho do leão e 
+seu nome abaixo do desenho. O jogo aqui apresentado foi desenvolvido na plataforma 
+Unity,  uma  plataforma  muito  usada  para  criação  de  jogos.  A  escolha  da  plataforma 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Unity  se  deu  por  ela  ser  uma  ferramenta  muito  poderosa  para  se  fazer  jogos  e  por  ser 
+multiplataforma, podendo ser  construída para várias plataformas diferentes, tais como: 
+Android,  iOS,  Windows,  entre  outros  [UNITY,  2019]. As  categorias  posteriores  são 
+habilitadas  à  medida  que  a  criança  vai  passando  os  níveis  para  que  elas  passem  por 
+todas  as  etapas  do  aprendizado  até  chegar  a  última  categoria  que  é:  Imagem  – 
+Português, como mostra a Figura 1. Essa é uma forma bilíngue de alfabetizar as crianças 
+começando  pela  sua  língua  materna  (Libras)  e  uma  forma  de  direcionar  a  criança  ao 
+aprendizado em etapas, evitando que ela comece pela categoria mais difícil e, assim, o 
+aplicativo fique desagradável e ela perca a motivação.  
+
+ 
+Ao  clicar  no  primeiro  nível  da  categoria  da  Imagem  –  Libras,  a  criança  é 
+direcionada  para  o  jogo  que  possui  4  subníveis.  Cada  subnível  aumenta  a  dificuldade 
+pois aumenta o número de cartas no jogo que vai de 4 até 10 cartas, primeiro e quarto 
+subníveis, respectivamente. Cada nível funciona da  mesma forma, porém com  animais 
+diferentes. No jogo é preciso encontrar a correspondência entre a  imagem do animal  e 
+seu sinal em Libras, ou da sua escrita em EliS, ou da sua palavra em português. Em cada 
+jogo,  o  usuário  possui  5  (cinco)  vidas  representadas  pelo  ícone  da  aplicação  no  canto 
+superior esquerdo da tela do jogo como mostra a Figura 2. 
+
+Figura  1.  Menu  do  jogo  com  apenas  os  níveis  1  e  2  da  categoria  Imagem  – 
+Libras habilitados  
+
+ 
+
+ 
+
+Figura 2. Layout do jogo com 4 cartas 
+
+ 
+O  jogador  começa  com  0  pontos.  Quando  o  jogador  clica  em  um  cartão,  este 
+automaticamente  vai  para  o  meio  da  tela  e  é  girado  automaticamente  a  fim  de  que  o 
+jogador  visualize  melhor  o  que  está  no  cartão.  Quando  acerta  uma  correspondência, 
+ganha  mais  100  pontos,  o  dispositivo  móvel  vibra  por  um  momento  e  é  mostrado  um 
+ícone  de  um  sinal  com  polegar  de  cor  verde  como  uma  sinalização  e  um  feedback 
+sensorial e visual, respectivamente, que o usuário acertou. Caso contrário, se o jogador 
+errar, perde 50 pontos, o dispositivo vibra por mais um momento e é mostrado um ícone 
+de  um  sinal  com  polegar  de  cor  vermelha  como  um  feedback  sensorial  e  visual, 
+
+ 
+
+respectivamente, indicando que o usuário errou. Dessa forma, as diretrizes 23 e 31 para 
+o  desenvolvimento  de  jogos  eletrônicos,  que  é  dar  um  feedback  sonoro  e/ou  visual  às 
+crianças e de apresentar cores vivas e fortes para indicar a principal atividade do jogo, 
+segundo Canteri (2014), estão sendo seguidas. 
+
+3.2. Avaliação do aplicativo 
+
+Como informado anteriormente, o aplicativo é uma melhoria de uma versão antiga que 
+tinha  sido  testada  com  as  crianças  surdas  em  uma  escola  de  Recife-PE.  Vale  ressaltar 
+que a versão antiga da aplicação utilizava SignWriting ao invés da ELiS. Além do teste 
+com as crianças, houve uma entrevista com a professora dos alunos. Antes da avaliação 
+da aplicação, houve um pré-teste para avaliar o conhecimento dos alunos sobre Libras, 
+SignWriting  e  Português.  Posteriormente,  aconteceu  a  avaliação  da  aplicação  do  jogo. 
+Por último, teve-se o pós-teste que foi a mesma metodologia do pré-teste com o objetivo 
+de  avaliar  o  conhecimento  das  crianças  após  o  jogo.  As  crianças  surdas  eram  da  faixa 
+etária  de  15  a  16  anos.  Alguns  tinham  mais  conhecimento  de  Libras,  outros  menos. 
+Nenhuma  das  crianças  tinha  conhecimento  em  SignWriting.  Cada  uma  das  crianças 
+vivia em diferentes contextos familiares. Houve 3 mediadores na avaliação do jogo, um 
+mediador que acompanhava as crianças no jogo e os outros dois entregavam o celular e 
+faziam anotações. A avaliação do novo aplicativo, aqui apresentado e desenvolvido com 
+base  nas  melhorias  identificadas  nesta  primeira  avaliação,  será  feita  em  escolas 
+municipais  de  Recife-PE  com  uma  pequena  prova  como  pré-teste  e  pós-teste.  A 
+avaliação da aplicação será da mesma forma que a avaliação da versão antiga. A versão 
+atual é uma melhoria da versão antiga a partir dos resultados obtidos da mesma. 
+
+4. Resultados 
+
+O resultado da avaliação do jogo na versão antiga foi de que as crianças demonstraram 
+interesse, motivação e engajamento no jogo. Esses resultados foram muito importantes 
+para  melhorias  feitas  no  trabalho  atual.  As  crianças  mais  adiantadas  da  turma  ficaram 
+um pouco dispersas. A tendência das crianças era a colaboração. Nenhuma delas pediu 
+para parar o jogo antes do final e todas gostaram do jogo. Havia um aluno com paralisia 
+cerebral  na  turma  que  teve  bastante  dificuldade  de  tocar  nos  cartões.  Alguns  cartões 
+estavam  muito  pequenos  e  difíceis  de  serem  vistos. Essa  dificuldade  fez  com  que  o 
+autor melhorasse a aplicação fazendo com que ao clicar nos cartões, eles aumentassem 
+de tamanho e fossem para o meio da tela. 
+
+No  pré-teste,  todas  as  crianças  acertaram  Libras,  e  poucas  acertaram  o 
+ 
+Português. Não foi feito o teste para o Sign Writing pois a professora disse que nenhum 
+deles  conhecia.  Depois  do  jogo,  todos  continuaram  acertando  Libras.  Dessa  vez  foi 
+testado o Sign Writing para ver se as crianças aprenderam e muitas acertaram mais da 
+metade  ou  a  metade,  principalmente  dos  símbolos  que  mais  pareciam  com  o  sinal  em 
+Libras.  O  pós-teste  com  o  Português  não  foi  muito  satisfatório.  As  crianças  tiveram 
+dificuldade de visualizar os sinais por conta do tamanho dos smartphones. Elas também 
+queriam  uma  resposta  rápida  do  jogo,  clicando  rapidamente  e  sobrecarregando  a 
+aplicação.  Na  nova  versão  do  jogo  de  que  trata  este  artigo,  quando  clica-se  em  um 
+cartão,  todos  os  outros  são  desabilitados,  forçando  a  criança  esperar  que  o  próximo 
+cartão  esteja  disponível  para  clicar,  evitando,  assim,  sobrecarregar  a  aplicação.  Assim 
+como,  também,  foram  incluídas  mais  imagens  de  animais  no  jogo  para  que  possam 
+aprender  mais.  Serão  utilizados  mais  módulos  no  jogo,  tais  como:  números,  letras, 
+objetos, entre outros. Isso será colocado como trabalho futuro. Na versão antiga tinha o 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+módulo de flashcards em que um cartão tinha de um lado o sinal de Libras e do outro a 
+foto  do  animal  correspondente.  Esse  módulo  foi  excluído  pois  na  avaliação  da  versão 
+antiga, as crianças estavam mais atentas ao jogo em si do que aos flashcards. 
+
+5. Considerações finais 
+
+Acredita-se  que  este  trabalho  apresenta  um  potencial  significativo  no  ensino-
+aprendizagem  das  crianças  surdas  por  meio  das 
+tecnologias  educacionais, 
+proporcionando  uma  melhor  qualidade  da  educação  dessas  pessoas  que  possuem 
+necessidades  especiais. O  jogo  foi  feito  como  melhoria  da  versão  anterior  de  acordo 
+com os resultados e sugestões obtidos. 
+
+Referências 
+
+ORGANIZAÇÃO  MUNDIAL  DE  SAÚDE.   Relatório  Mundial  de  Saúde  2011. 
+em: 
+
+Disponível 
+<http://apps.who.int/iris/bitstream/10665/70670/9/WHO_NMH_VIP_11.01_por.pdf
+>. Acesso em: 24 de setembro de 2015   
+
+IBGE.  Tabelas  -  Pessoas  com  Deficiência.  Censo  Demográfico  2010. Disponível  
+
+em:  
+<ftp://ftp.ibge.gov.br/Censos/Censo_Demografico_2010/Caracteristicas_Gerais_Reli
+giao_Deficiencia/tab1_3.pdf >.  
+
+BRASIL. Decreto n. 5.625, de 22 de setembro de 2005. Regulamenta a Lei nº 10.436, 
+que dispõe sobre a Língua Brasileira de Sinais – Libras, e o art. 18 da Lei nº 10.098,  
+em:  
+de 
+<https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Decreto/D5626.htm> 
+Acesso em: 21 de maio de 2015.  
+
+  Disponível 
+
+dezembro 
+
+2000. 
+
+19 
+
+de 
+
+de 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PEREIRA,   Ana    Maria.  Tecnologia   X    Educação.  2011.   44    f.    Monografia 
+(Especialização)   -    Curso    de    Docência    do    Ensino    Superior,   Universidade 
+Candido Mendes, Rio de Janeiro, 2011.  
+
+CONSELHO NACIONAL DE EDUCAÇÃO. Câmara de Educação Básica. Resolução 
+CNE/CEB 2/2001. Diário Oficial da União, Brasília, 14 de setembro de 2001. Seção 
+1E, p. 39-40. 
+
+BRASIL.   Lei    Nº    10.436,   de    24    de    abril    de   2002.    Dispõe    sobre    a   Língua 
+
+Brasileira de Sinais - Libras e dá outras providências. Brasília, 2002.  
+
+KORTE,  Jessica;  POTTER,  Leigh  Ellen;  NIELSEN,  Sue.  Designing  a  Mobile  Video 
+Game  to  Help  Young  Deaf  Children  Learn  Auslan.  British  Computer  Society 
+Swinton.  Birmingham,  p.  345-350.  10  set.  2012.    
+
+SILVA,   Rafaela    Cota   da.  SignWriting:  um   sistema   de    escrita   das    línguas 
+gestuais.   Aplicação    à    Língua    Gestual   Portuguesa..    2012.    12    f.    TCC  
+(Graduação)    -  Curso    de    Língua    Gestual   Portuguesa,    Escola    Superior    de  
+Educação  de  Coimbra, Coimbra, 2012.  
+
+BARROS, Mariângela Estelita. ELiS: sistema brasileiro de escrita das línguas de sinais. 
+
+Porto Alegre: Penso, 2015. 
+
+CARVALHO, Andréa dos Guimarães de et al. Libras e ASL representadas pela Escrita 
+de Línguas de Sinais - ELiS. Revista Intercâmbio dos Congressos Internacionais 
+
+ 
+
+de  Humanidades,  Brasília,  n.  6,  p.23-34, 
+jan.  2016.  Disponível  em: 
+<http://unb.revistaintercambio.net.br/24h/pessoa/temp/?file=anexo,1,11620,3003,300
+3.Libras%20e%20ASL%20representadas%20pela%20Escrita%20das%20L%C3%A
+Dnguas%20de%20Sinais%20-%20ELiS>. Acesso em: 30 jun. 2019. 
+
+BENASSI,  Claudio  Alves;  DUARTE,  Anderson  Simão;  PADILHA,  Simone  de  Jesus. 
+POIESIS  DA  LIBRAS  E  DA  ESCRITA  DAS  LÍNGUAS  DE  SINAIS  (ELiS):  A 
+utilização da visualidade da língua e da ELiS na poética de Duarte. Revista Diálogos, 
+Cuiabá, v. 3, n. 2, p.37-47, dez. 2015. 
+
+UNITY. Products. 2019. 
+
+Disponível 
+
+em: 
+
+<https://unity3d.com/unity?_ga=2.227439646.2050674666.1561988513-
+55326164.1555643705>. Acesso em: 01 jul. 2019. 
+
+SCHICK,   Brenda.    The   Development    of   American    Sign    Language   and  Manually  
+Coded    English   Systems.    In:    MARSCHARK,    Marc;   SPENCER,    Patricia 
+Elizabeth.  Oxford   Handbooks   of    Deaf    Studies,   Language,    and    Education. 
+New York:  Oxford  University  Press,  2005.  Cap.  16.  p.  219-222.  
+
+KHENISSI, Mohamed Ali et al. A Learning Game for Deaf Learners. 2015 IEEE  15th  
+International   Conference    On    Advanced   Learning  Technologies.  Taiwan,   p.  
+418-422.  jul.  2015.  
+
+GMBH,  
+
+Sigame. 
+
+SiGame. 
+
+2015.  
+
+Disponível  
+
+em: 
+
+<https://play.google.com/store/apps/details?id=com.sigameapp.SiGame&hl=pt_BR>
+. Acesso em: 26 jun. 2016.  
+
+CANTERI,  Rafael  dos  Passos.  Diretrizes  para  o  Design  de  Aplicações  de  Jogos  
+Eletrônicos    para    Educação    Infantil    de    Surdos.  2014.   39    f.    Dissertação 
+(Mestrado)  -  Curso  de  Informática,  Setor  de  Ciências  Exatas,  Universidade  Federal 
+em: 
+do 
+<http://acervodigital.ufpr.br/bitstream/handle/1884/35755/R  -  D  -  RAFAEL  DOS 
+PASSOS CANTERI.pdf?sequence=1&isAllowed=y>. Acesso em: 26 jun. 2016. 
+
+Disponível 
+
+Curitiba, 
+
+Paraná,  
+
+2014. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

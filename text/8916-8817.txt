@@ -1,0 +1,653 @@
+ 
+ 
+
+ 
+
+Recompilando o Futuro: o Pensamento Computacional como 
+Parte do Processo de Ressocialização de Detentos 
+
+Fábio Ventorim Siqueira, Márcia Gonçalves de Oliveira 
+
+Instituto Federal do Espírito Santo 
+
+fabioguiu2014@gmail.com, clickmarcia@gmail.com 
+
+Abstract.  The  Brazilian  Criminal  Enforcement  Law  provides  that  prisoners 
+have a guaranteed right to educational assistance,  however, less than 11% of 
+this  population  is  involved  in  some  educational  activity.  Here,  we  show  that 
+the  estimate  for  cases  of  criminal  recidivism  among  prisoners  in  Brazil  is 
+frightening, but there is considerable reduction when the prisoners is involved 
+in some educational activity. This extension project, expected to still apply in 
+2019,  seeks  contribute  to  the  process  of  resocialization  of  those  individuals 
+who are in deprivation of liberty, through the course Recompiling the Future, 
+which  aims  to  develop  computational  thinking,  through  the  Scratch  tool,  in 
+people who are in deprivation of freedom. 
+
+Resumo.  A  Lei  de  Execução  Penal  brasileira  prevê  que  a  pessoa  privada  de 
+liberdade  tem  direito  garantido  à  assistência  educacional,  porém,  menos  de 
+11% dessa população está envolvida em alguma atividade educacional. Aqui, 
+mostramos  que  a  estimativa  para  os  casos  de  reincidência  criminal  entre  os 
+presos  no  Brasil  é  assustadora,  porém,  existe  uma  redução  considerável 
+quando  o  apenado  está  envolvido  em  alguma  atividade  educacional.  Este 
+projeto  de  extensão,  previsto  para  ser  aplicado  ainda  em  2019,  busca, 
+portanto, contribuir com o processo de ressocialização desses indivíduos que 
+encontram-se  em  privação  de  liberdade,  através  do  curso  Recompilando  o 
+Futuro,  que  visa  desenvolver  o  pensamento  computacional,  por  meio  da 
+ferramenta Scratch, em pessoas que encontram-se em privação de liberdade. 
+
+1. Introdução 
+
+O  sistema  prisional  brasileiro  enfrenta  grande  dificuldade  para  promover  a 
+ressocialização das pessoas que se encontram em privação de liberdade. Por todo o país, 
+é  possível  observar  um  perigoso  processo  de  deterioração  do  ambiente  carcerário, 
+caracterizado por cadeias superlotadas, com péssimas condições de higiene e habitação. 
+
+Segundo  o  último  Levantamento  Nacional  de  Informações  Penitenciárias 
+ 
+(Infopen)1, publicado em dezembro/2017, o Brasil é o terceiro país com maior número 
+de  pessoas  presas,  chegando  a  726.354  internos  em  junho  de  2017,  atrás  apenas  de 
+
+ 
+
+1 Relatório Infopen. Disponível em: 
+<http://depen.gov.br/DEPEN/depen/sisdepen/infopen/relatorios-sinteticos/infopen-jun-2017-rev-
+12072019-0721.pdf]>. Acesso: 01 jun. 2019. 
+
+ 
+
+Estados  Unidos  e  China.  Considerando  que  o  número  de  vagas  neste  período  era  de 
+423.242,  são  quase  dois  presos  para  cada  vaga.  E  esse  quadro  pode  piorar 
+consideravelmente, já que uma pesquisa realizada em 2018 pelo Conselho Nacional de 
+Justiça (CNJ) mostrou que existem 143.967 mandados de prisão em aberto no país2, ou 
+seja,  pessoas  que  deveriam  estar  detidas,  mas  que  estão  em  liberdade  pelos  mais 
+diversos fatores. 
+
+Ao contrário do senso comum, que  acredita ser elevado o número de atentados 
+ 
+contra  a  vida  praticados  por  esses  indivíduos,  o  Infopen  mostra  que  a  maioria  dos 
+crimes cometidos estão relacionados ao tráfico de drogas (29%) e roubos/furtos (46%), 
+sendo o homicídio responsável por apenas 12% das detenções. Estes números nos levam 
+a refletir também até que ponto a falta de oportunidade de uma educação adequada pode 
+ter  contribuído  para  a  condição  atual  de  privação  de  liberdade  da  maioria  dessas 
+pessoas, principalmente quando verificamos nesse levantamento que 64% da população 
+carcerária  brasileira  possui,  no  máximo,  o  ensino  fundamental  completo.  Enquanto  as 
+pessoas com ensino superior completo, não chegam a computar 1% dos internos. 
+
+ 
+De acordo com a Lei de Execução Penal (Lei nº 7.210, de 11 de julho de 1984), 
+como  forma  de  reintegração  da  população  prisional  à  sociedade,  a  pessoa  privada  de 
+liberdade  tem  direito  garantido  à  assistência  educacional,  que  deve  ser  oferecido  pelo 
+Estado na forma de instrução escolar e formação profissional. Porém, segundo consta no 
+último  relatório  do  Infopen,  menos  de  11%  da  população  prisional  no  Brasil  está 
+envolvida em algum tipo de atividade educacional. 
+
+ 
+Com  o  objetivo  de  promover  a  educação  profissional  às  pessoas  que  se 
+encontram  em  privação  de  liberdade,  desenvolvemos  o  curso  Recompilando  o  Futuro. 
+Trata-se  de  um  projeto  de  extensão  que  visa  trabalhar  o  pensamento  computacional, 
+utilizando  a  ferramenta  Scratch,  em  pessoas  que  se  encontram  privadas  de  liberdade. 
+Desta  forma,  buscamos  apresentar  também  uma  nova  oportunidade  profissional  para 
+estes 
+indivíduos,  o  que  poderá  contribuir  diretamente  em  seu  processo  de 
+ressocialização. 
+
+ 
+A  preocupação  em  capacitar  pessoas  com  perfil  tecnológico  encontra  respaldo 
+nos  números  apresentados  pela  Associação  Brasileira  das  Empresas  de  Tecnologia  da 
+Informação e Comunicação (Brasscom), que reúne setenta associados dentre as maiores 
+e mais significativas empresas do setor de  TIC, como Amazon.com, Dell EMC, Linux, 
+Microsoft, Oracle e SAP. Afinal, seu relatório setorial3, apresentado em maio de 2019, 
+mostra  que  no  último  ano  foram  contabilizados  mais  de  845  mil  empregos  e  existe  a 
+expectativa  para  um  investimento  de  345,5  bilhões  de  reais  entre  os  anos  de  2019  e 
+2022, fazendo com que a previsão de demanda profissional nessa área seja estimada em 
+420  mil  profissionais  até  o  ano  de  2024.  Isso  representa  uma  oferta  de  vagas  bem 
+superior  a  quantidade  de  profissionais  habilitados,  já  que,  segundo  o  próprio  relatório, 
+no Brasil são formados atualmente 46 mil pessoas com perfil tecnológico por ano. 
+
+ 
+Nesta proposta de projeto, destaca-se a metodologia desenvolvida para aplicação 
+do  curso,  já  que  o  ambiente  onde  ele  será  aplicado  segue  um  rígido  critério  de 
+
+ 
+
+2 Reportagem O Globo. Disponível em: <https://oglobo.globo.com/brasil/cnj-revela-que-pais-
+tem-143-mil-mandados-de-prisao-em-aberto-22816955>. Acesso: 09 jan. 2019. 
+3 Relatório Basscom. Disponível em: https://brasscom.org.br/relatorio-setorial-de-tic-2019/. 
+Acesso em 25 jul. 2019. 
+
+ 
+
+ 
+
+segurança,  não  permitindo  aos  alunos  portar  sequer  qualquer  tipo  de  material  escolar, 
+como apostila, lápis ou papel fora do ambiente de aula. 
+
+ 
+A  contribuição  deste  trabalho  para  a  educação  profissional  está  em  utilizar,  de 
+forma  criativa  e  lúdica,  recursos  da  linguagem  de  programação  Scratch  para 
+desenvolvimento  do  pensamento  computacional  como  parte  do  processo  de 
+ressocialização destes alunos. 
+
+Este trabalho está organizado da seguinte maneira:  Na Seção 2, estão presentes 
+ 
+os  aportes  teóricos,  abordando  a  relação  entre  educação  e  trabalho,  a  importância  da 
+educação como forma de superação do fenômeno da marginalidade e a ineficiência do 
+sistema  carcerário.  Na  Seção  3  é  apresentada  a  estratégia  desenvolvida.  Na  Seção  4 
+apresentam-se os resultados esperados e, na Seção 5, estão presentes as conclusões. 
+
+2. Revisão de Literatura 
+
+Karl Marx e Friedrich Engels afirmavam que os homens se distinguem dos animais logo 
+que começam a produzir seus meios de existência. Para eles, é no trabalho que o homem 
+produz sua própria vida material [Marx e Engels 1999]. 
+
+Partindo  do  princípio  de  que  educação  e  trabalho  estão  articulados  [Kuenzer 
+ 
+1988], é preciso pensar meios que propiciem uma educação interessante, atrativa e que 
+desperte  nos  alunos  o  gosto  pelo  aprender.  Isso  se  justifica,  principalmente,  ao 
+lembramos  que  a  educação  não  está  entre  as  prioridades  dos  internos,  possivelmente 
+porque  eles  aprenderam  a  conviver  sem  ela,  já  que  para  eles,  escola  é  sinônimo  de 
+fracasso e frustração [de Maeyer 2006]. 
+
+ 
+Considerando  que  o  público  alvo  deste  projeto  vive  à  margem  da  sociedade, 
+Saviani  traz uma  interessante contribuição  ao relatar que a  marginalidade é um desvio 
+que  não  apenas  pode,  mas  deve  ser  consertado.  E  que  é  papel  da  educação  atuar  na 
+superação desse fenômeno, não apenas para combatê-lo, mas também para impedir seu 
+reaparecimento [Saviani 2018]. 
+
+ 
+Em  [Julião  2007]  também  é  possível  observar  que  o  simples  encarceramento, 
+quando desacompanhado de programas socioeducativo adequados, torna-se insuficiente 
+para  recuperar  efetivamente  uma  quantidade  significativa  de  apenados,  gerando  assim 
+ônus para toda a sociedade, além de vir degenerando a condição de vida humana dessas 
+pessoas.  Por  isso,  Julião  indaga  se  não  é  necessário  reavaliar  a  cultura  da  prisão,  que 
+atualmente  resulta  na  ideia  de  que  a  verdadeira  ressocialização  só  pode  ser  alcançada 
+quando o apenado vive o processo de privação de liberdade. 
+
+2.1 Trabalhos Relacionados 
+
+Há  uma  carência  de  trabalhos  que  se  dispõem  a  estudar  o  desenvolvimento  do 
+pensamento  computacional  em  pessoas  que  se  encontram  em  privação  de  liberdade. 
+Mas  é  possível  encontrar  alguns  trabalhos  que  tem  por  objetivo  desenvolver  o 
+pensamento  computacional em crianças  e jovens, além de  trabalhos voltados a estudar 
+os benefícios que podem ser obtidos através do estudo no cárcere. 
+
+ 
+Jeannette  Wing  (2006),  responsável  pela  popularização  do  termo  pensamento 
+computacional  na  sociedade  acadêmica,  ressalta  a  importância  dessa  habilidade  ser 
+desenvolvida em todas as pessoas. Por isso, propõem que o pensamento computacional 
+seja tratado como uma competência fundamental para qualquer estudante. 
+
+ 
+ 
+
+ 
+
+ 
+
+No que se refere a utilização da ferramenta Scratch, as pesquisas realizadas por 
+ 
+Oliveira  (2014),  Nunes  (2018)  e  Da  Costa  (2018)  mostram  que  foi  possível  obter 
+resultados  positivos  utilizando  essa  plataforma  no  desenvolvimento  do  pensamento 
+computacional e que ela é considerada atualmente uma das ferramentas de programação 
+visual mais utilizadas para estimular o pensamento computacional. 
+
+ 
+Com relação a educação no carece, podemos destacar os trabalhos de Elionaldo 
+F.  Julião.    Em  sua  pesquisa  realizada  para  mensurar  o  impacto  da  educação  e  do 
+trabalho  como  programa  de  reinserção  social  na  política  de  execução  penal  do  Rio  de 
+Janeiro (Julião 2010), foi possível apurar que a maioria dos internos prefere o estudo ao 
+trabalho no cárcere,  já que os internos enxergam no estudo uma perspectiva de futuro, 
+principalmente quanto à reinserção social. A pesquisa em questão também mostrou que 
+o estudo no cárcere diminui a probabilidade de reincidência em 39%. 
+
+ 
+Em  outra  pesquisa  que  trata  sobre  a  ressocialização  através  do  estudo  e  do 
+trabalho  no  sistema  penitenciário  brasileiro,  o  autor  também  nos  mostra  que  podem 
+existir  diversos  benefícios  ao  se  trabalhar  à  educação  no  cárcere,  como  manter  os 
+internos  ocupados  de  maneira  proveitosa,  melhorar  a  qualidade  de  vida  no  ambiente 
+prisional,  além  da  conquista  de  resultados  considerados  úteis,  como  aquisição  de 
+conhecimento,  compreensão,  mudança  de  atitudes,  dentre  outros  comportamentos  que 
+perdurem além do cárcere (Julião 2009). 
+
+3. Estratégia Desenvolvida 
+
+Esse  projeto  de  extensão  está  sendo  elaborado  com  o  aval  da  Secretaria  de  Estado  da 
+Justiça  (SEJUS),  devendo  ser  aplicado  no  segundo  semestre  de  2019  na  Penitenciária 
+Semiaberta  de  Vila  Velha  (PSVV),  onde  contará  com  um  público  formado  por  dez 
+internos,  maiores  de  18  anos  de  idade,  que  estejam  cumprindo  pena  no  regime 
+semiaberto, que possuem o  ensino médio completo, ou em fase de conclusão, além de 
+conhecimento básico em informática.  
+
+É  importante  destacar  que  os  pré-requisitos  estabelecidos  para  participar  das 
+ 
+oficinas  foram  formulados  em  conjunto  com  a  Gerência  de  Educação  da  SEJUS,  de 
+maneira  que  as  oficinas  sejam  formadas  por  alunos  que  possuem  grandes  expectativas 
+de atuação no mercado de trabalho e que estão prestes a retomar o convívio social.  
+
+3.1. Fase de Planejamento 
+
+Para  a  fase  de  planejamento  das  oficinas,  buscou-se  nos  trabalhos  de  Elionaldo  Julião 
+informações  que  ajudassem  a  definir  características  e  preferências  do  público  que  é 
+objeto deste estudo, de forma que as oficinas se tornem atraentes aos internos. Diante do 
+relato  de  um  preso  da  Unidade  Plácido  de  Sá  Carvalho,  que  afirmava  “A  grande 
+realidade  é  que,  acho  que  90%  do  coletivo  vive  em  função  do  futebol...”  [Julião  2009 
+pg. 232], boa  parte das atividades propostas nas oficinas terão como tema o futebol. 
+
+ 
+A  preocupação  em  formular  um  material  para  as  oficinas  que  desperte  o  gosto 
+dos  internos  pelos  estudos  também  se  baseia  na  intenção  de  proporcionar  aos  alunos 
+uma  aprendizagem  significativa,  conceito  central  da  teoria  da  aprendizagem  do 
+psicólogo norte-americano David Ausubel.  
+
+Quanto  aos  conceitos  computacionais  a  serem  explorados  no  decorrer  das 
+ 
+oficinas,  estaremos  nos  valendo  da  experiência  relatada  em  [de  França  e  do  Amaral 
+2013].  Nesse  estudo,  os  pesquisadores  também  realizaram  uma  oficina  com  a 
+ferramenta Scratch para estimular o desenvolvimento do Pensamento Computacional de 
+
+ 
+
+ 
+
+um  pequeno  grupo  de  estudantes  do  Estado  de  Pernambuco.  O  resultado  apurado  na 
+ocasião  mostrou-se  satisfatório  em  relação  à  aprendizagem  de  conteúdos  de 
+computação. Assim como ocorreu no referido  estudo, a intenção desta pesquisa  é que, 
+no decorrer das oficinas, enquanto os alunos projetam soluções interativas utilizando o 
+Scratch,  seja  feito  uso  de  uma  gama  de  conceitos  computacionais  comuns  a  diversas 
+linguagens de programação, como sequencia, evento, paralelismo, loop, condicionais, 
+operadores  e  armazenamento  de  dados.  A  esses  conceitos,  acrescentaremos  ainda  a 
+compreensão  de  problemas  e  o  fluxo  de  programação  que  envolve  entrada, 
+processamento,  e  saída.  De  forma  paralela,  e 
+fazendo  uso  dos  conceitos 
+computacionais,  estaremos  buscando  também  trabalhar  nos  alunos  as  seguintes 
+habilidades do pensamento computacional: decomposição, reconhecimento de padrão, 
+abstração e pensamento algorítmico. 
+
+ 
+Com  o  objetivo  de  garantir  que  o  produto  preparado  para  as  oficinas  é 
+compatível  com  o  conhecimento  prévio  dos  alunos,  todo  o  material,  antes  de  ser 
+aplicado,  será  submetido  a  avaliação  dos  docentes  que  atuam  na  PSVV.  Afinal, 
+acreditamos  ser  de  grande  valia  a  opinião  dos  professores  que  já  trabalham  com  boa 
+parte dos potenciais alunos deste projeto de pesquisa. 
+
+3.2. Fase de Ação 
+
+Após  o  término  da  fase  de  planejamento,  a  fase  da  ação  consistirá  na  aplicação  das 
+oficinas  para  os  internos  da  PSVV.  Para  tanto,  os  recursos  tecnológicos  a  serem 
+utilizados  são:  computador  ou  notebook  contendo  o  editor  Scratch  3.0  desconectado 
+para  os  alunos,  que  poderão  utilizá-lo  de  forma  individual  ou  em  duplas,  além  de  um 
+projetor  que  será  usado  para  exibição  de  vídeos  e  apresentações  ilustrativas.  A  visão 
+macro do conteúdo abordado nas oficinas pode ser visualizada nas Seções a seguir. 
+
+3.2.1. Aula Introdutória 
+
+Considerando que o curso será aplicado a um público muito específico, a primeira aula 
+será  destinada  a  conhecer  um  pouco  melhor  o  perfil  dos  alunos,  de  forma  que  as 
+estratégias para as oficinas sejam validadas ou reavaliada para as demais aulas.  
+
+ 
+Partindo do princípio que a educação não está  entre as principais preocupações 
+dos  internos  [de  Maeyer  2006],  como  forma  de  motivar  os  alunos,  nessa  aula  inicial 
+apresentaremos um pouco do projeto The Last Mile, realizado em prisões da Califórnia 
+para ensinar programação a pessoas privadas de liberdade. Além disso, para despertar a 
+expectativa dos alunos quanto a possibilidade de ingresso no mercado de trabalho, serão 
+apresentados  alguns dados do relatório setorial da  Brasscom, demonstrando a carência 
+de  profissionais  com  formação  tecnológica  no  Brasil.  Dessa  forma,  esperamos  que  os 
+alunos compreendam que existe uma possibilidade real de transformação em suas vidas. 
+
+ 
+
+Por fim, a ferramenta Scratch será apresentada aos alunos. 
+
+3.2.2. Oficina 01 
+
+Nesta oficina serão apresentados aos alunos alguns  blocos de comandos da ferramenta 
+Scratch.  Em  seguida,  utilizando  os  blocos  já  apresentados  na  oficina,  eles  serão 
+estimulados  a  desenvolver  sequências  lógicas  para  atingir  os  objetivos  propostos  em 
+aula.  Um  exemplo  de  tarefa  proposta  nesta  oficina  é  a  “cobrança  de  pênalti”,  que 
+consiste  em  apresentar  aos  alunos  a  figura  presente  na  tabela  1  e  pedir  a  eles  para 
+produzir uma animação que atenda aos requisitos especificados nessa tabela: 
+
+ 
+ 
+
+ 
+
+Figura 
+
+Figura 
+
+ 
+
+ 
+
+Requisitos 
+1. O jogador corre do bico da grande área até a bola, que 
+deverá estar posicionada na marca do pênalti;  
+2.  Em  seguida,  o  jogador  chutará  a  bola  que  deverá  se 
+movimentar  lentamente  até  o  ângulo  do  gol  (direito  ou 
+esquerdo);  
+3.  Por  fim,  ouviremos  o  grito  da  galera  comemorando  o 
+gol! 
+
+Tabela 1 – Ilustração e requisitos da tarefa “cobrança de pênalti” 
+
+Nesta  tarefa,  estaremos  trabalhando  com  os  alunos  habilidades  do  pensamento 
+ 
+computacional  como  decomposição  e  pensamento  algorítmico,  além  de  conceitos 
+computacionais como sequência, evento e paralelismo. 
+
+ 
+
+A previsão é que esta oficina ocorra em duas aulas, totalizando quatro horas. 
+
+3.3.3. Oficina 02 
+
+A  proposta  desta  oficina  é  que  sejam  trabalhados  os  conceitos  de  expressões  lógicas 
+(expressões  cujo  valor  é  verdadeiro  ou  falso)  com  os  alunos.  A  previsão  é  que  ela 
+também ocorra em duas aulas, com duração de duas horas cada aula.  
+
+ 
+Um  exemplo  de  tarefa  proposta  nesta  oficina  é  o  “labirinto  do  time  favorito”. 
+Com base na figura da tabela 2, os alunos deverão  criar um jogo onde a bola deve ser 
+levada até o escudo do seu time favorito, conforme requisitos especificados abaixo. 
+
+Requisitos 
+1.  Ao começar o jogo,  a bola deve estar posicionada  no 
+local  indicado  e  o  aluno  deverá  utilizar  as  setas 
+direcionais do teclado para movê-la; 
+
+2.  Caso  a  bola  saia  do  caminho  branco  traçado,  o 
+jogador  deverá  receber  um  aviso,  devendo  a  bola 
+retornar a posição anterior ao último movimento. Se a 
+falha  ocorrer  pela  segunda  vez,  será  exibido  o  aviso: 
+“Fim de jogo. Tente novamente”; 
+
+3.  Quando o jogador conseguir levar a bola ao seu  time 
+favorito,  ele será aplaudido e  em seguida será tocado 
+o hino do clube. Porém, se a bola for levada ao escudo 
+de outro time, o jogador ouvirá uma sonora vaia. 
+
+Tabela 2 – Ilustração e requisitos da tarefa “labirinto do time favorito” 
+
+ 
+Nesta  tarefa,  estaremos  trabalhando  com  os  alunos  habilidades  do  pensamento 
+computacional como abstração, reconhecimento de padrão, decomposição e pensamento 
+algorítmico,  além  de  diversos  conceitos  computacionais  como  sequência,  evento, 
+paralelismo, loop, condicionais, operadores e armazenamento de dados. 
+
+3.3.4. Oficina 03 
+
+Nesta  oficina  os  alunos  serão  estimulados  a  desenvolver  pequenos  programas  que 
+recebam uma  informação do usuário (entrada). Diante dessa informação, determinadas 
+ações deverão ser executadas (processamento) e, por fim, o usuário deverá receber um 
+retorno do programa. A tabela 3 mostra um exemplo de tarefa proposta nesta oficina. 
+
+Figura 
+
+Requisitos 
+
+ 
+
+ 
+
+ 
+
+1.  O  programa  deve  exibir  as  informações  dispostas 
+na figura ao lado, e aguardar o usuário votar;  
+
+2.  Após 
+
+informar  seu  voto,  o  usuário  deverá 
+visualizar em uma nova tela o escudo do clube que 
+teve  o  número  informado,  além  dos  botões: 
+confirmar voto ou cancelar voto;  
+
+3.  Se  o  usuário  clicar  em  Confirmar,  o  voto  deverá 
+ser  registrado.  Caso  contrário,  o  voto  não  deverá 
+ser computador. Nos dois casos, o programa deve 
+retornar a tela anterior e aguardar o novo eleitor; 
+4.  Este  procedimento  deve  se  repetir  até  que  seja 
+
+ 
+
+clicado no botão Encerrar;  
+
+5.  Ao  clicar  em  Encerrar,  o  programa  informará 
+
+apenas quantos votos cada time recebeu.  
+
+Tabela 3 – Ilustração e requisitos da tarefa “Eleição do time de futebol mais querido” 
+
+ 
+Nesta  tarefa,  estaremos  trabalhando  com  os  alunos  habilidades  do  pensamento 
+computacional como abstração, decomposição, reconhecimento de padrão e pensamento 
+algorítmico,  além  de  diversos  conceitos  computacionais  como  sequência,  evento, 
+paralelismo, loop e armazenamento de dados. 
+
+ 
+Considerando  que  o  foco  das  oficinas  não  é  a  produção  de  imagens  e  áudios, 
+sempre  que  houver  a  necessidade  de  utilizar  recursos  desta  natureza  que  não  estejam 
+presentes  no  Scratch,  os  arquivos  necessários  serão  disponibilizados  em  um  diretório, 
+onde  poderão  ser  carregados  para  a  ferramenta  durante  a  realização  das  tarefas.  A 
+previsão é que esta oficina ocorra em três aulas, com duração de duas horas cada aula. 
+
+3.3.5. Oficina 04 
+
+Nesta  oficina  os  alunos  serão  colocados  diante  de  um  problema  qualquer,  onde  sua 
+solução  passe  pela  implementação  de  um  programa.  Para  isso,  eles  precisarão 
+compreender o problema apresentado e desenvolver a solução no Scratch. Diferente das 
+outras oficinas, neste caso não haverá instruções de como implementar o programa. 
+
+Um  exemplo  de  tarefa  que  será  proposta  nesta  oficina  é  o  desenvolvimento  de 
+ 
+um programa que mostre ao usuário quais são as duas cartas que devem ser escolhidas 
+por ele no jogo conhecido como “Samba 10”. 
+
+Para  realização  desta  tarefa,  os  alunos  receberão  apenas  a  explicação  de  como 
+
+ 
+funciona o jogo, e em seguida deverão implementar a solução. 
+
+ 
+O  jogo  em  questão  funciona  da  seguinte  forma:  o  jogador  recebe  03  cartas 
+numéricas  que  variam  de  0  a  15.  Seu  objetivo  é  escolher  duas  dessas  três  cartas  e 
+realizar  a  operação  de  soma  ou  subtração  entre  elas  com  o  intuito  de  alcançar  o 
+resultado 10, ou chegar o mais próximo possível.  
+
+ 
+Espera-se  da  solução  desenvolvida  pelos  alunos  que,  após  o  usuário  informar 
+quais  são  as  três  cartas  recebidas,  o  programa  informe  as  duas  cartas  que  devem  ser 
+escolhidas, bem como a operação a ser utilizada (soma ou subtração). Por exemplo, se o 
+jogador  tem  nas  mãos  as  cartas  9,  2  e  4,  o  programa  deve  indicar  que  ele  escolha  as 
+cartas  9  e  2  e  realize  a  operação  de  soma,  já  que  esta  é  a  combinação  que  mais  se 
+aproximará do número 10.    
+
+Para que o conceito do jogo fique mais claro, os alunos serão convidados a jogar 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+uma partida com  as cartas que serão disponibilizadas durante a aula. A previsão é que 
+esta oficina ocorra em duas aulas, totalizando quatro horas. 
+
+ 
+É válido ainda destacar que, com o objetivo de estimular os alunos a desenvolver 
+o pensamento computacional também fora do ambiente de sala de aula, na parte final de 
+cada  aula  sempre  será  apresentado  um  problema/tarefa  aos  alunos,  que  ficarão 
+responsáveis em desenvolver o pensamento sobre como o problema apresentado poderá 
+ser  resolvido,  enquanto  estiverem  fora  da  sala  de  aula.  Assim,  na  aula  seguinte,  os 
+alunos deverão utilizar os conceitos aprendidos na aula anterior e implementar a solução 
+pensada durante esse intervalo entre as aulas.  
+
+3.4. Fases Descrição e Avaliação 
+
+As fases de descrição e avaliação ocorrerão paralelamente e serão realizadas com base 
+na  observação  do  pesquisador  e  análise  dos  blocos  de  comando  desenvolvidos  pelos 
+alunos durante a execução das tarefas propostas em sala de aula.  
+
+ 
+Esta etapa será devidamente documentada ao término de cada atividade proposta 
+em  sala  de  aula.  Portanto,  para  fase  de  descrição  estaremos  desenvolvendo  um 
+formulário  próprio  com  o  objetivo  de  que  o  pesquisador  possa  pontuar  informações 
+relevantes que ajudem a melhorar o conteúdo abordado nas oficinas. 
+
+ 
+Com  a  intenção  de  buscar  as  melhores  práticas  para  avaliação  do  pensamento 
+computacional,  estaremos  utilizando  a  contribuição  da  revisão  sistêmica  realizada  em 
+[Avila et al. 2017]. Nessa pesquisa, onde os autores se propõem a realizar a avaliação do 
+Pensamento  Computacional  em  diferentes  cenários  de  ensino,  verificou-se  que  a 
+maioria  dos  artigos  analisados  entre  2011  e  2016  realizaram  avaliações  por  meio  de 
+ferramentas  desenvolvidas  pelos  próprios  pesquisadores,  tais  como:  pré  e  pós-
+questionários  de  opinião,  pré  e  pós-testes  de  conhecimento,  além  de  observações  e 
+análise do material produzido pelos alunos. Em alguns trabalhos, foi possível observar 
+ainda  a  utilização  da  ferramenta  Dr.  Scratch.  Trata-se  de  uma  ferramenta  web  que 
+permite  a  avaliação  automática  dos  programas  desenvolvidos  na  ferramenta  Scratch, 
+fornecendo  ainda  feedback  ao  desenvolvedor,  com  o  objetivo  de  aperfeiçoar  o 
+desenvolvimento do pensamento computacional [Moreno-León et al. 2015].  
+
+Utilizando  a  ferramenta  Dr.  Scratch  e  analisando  os  blocos  de  comandos 
+ 
+montados  pelos  alunos,  será  possível  averiguar  a  eficácia  da  metodologia  adotada  e 
+também  mensurar  o  nível  de  aprendizado  dos  internos.  Assim,  acreditamos  que  será 
+possível  pontuar  informações  relevantes  para  melhorar  o  conteúdo  abordado  nas 
+oficinas, além de monitorar o nível de aprendizado dos alunos. 
+
+4. Resultados esperados 
+
+Considerando  as  premissas  de  educação  e  profissionalização  da  pessoa  reclusa  como 
+possíveis  condições  para  o  seu  (re)  ingresso  no  mundo  do  trabalho  e  partindo  do 
+princípio que o sistema de reclusão tem por objetivo não somente a punição do infrator, 
+mas também fornecer meios para sua ressocialização, espera-se que este projeto possa 
+contribuir  no  processo  de  retorno  dos  internos  ao  convívio  social  a  partir  do 
+desenvolvimento  do  pensamento  computacional  e  do  ensino  de  conceitos  iniciais  de 
+programação de computadores. 
+
+O principal fruto deste  trabalho está no desenvolvimento de novas perspectivas 
+ 
+na  vida  das  pessoas  que  se  encontram  em  privação  de  liberdade,  de  forma  que  estes 
+sujeitos  possam  enxergar  que,  através  do  desenvolvimento  do  pensamento 
+
+ 
+
+ 
+
+computacional e da programação, é possível trilhar um caminho lícito, longe dos furtos, 
+roubos, e tráfico, já que essas são as principais causas do encarceramento no país. 
+
+ 
+Partindo  do  princípio  que  o  foco  deste  trabalho  é,  literalmente,  desenvolver  o 
+pensamento  computacional  da  pessoa  em  condição  de  confinamento,  também  existe  a 
+expectativa de que o ato de pensar de maneira criativa, iniciado em sala de aula, possa 
+estender-se para o ambiente do cárcere, fazendo com que o interno mantenha sua mente 
+voltada para a solução criativa dos problemas e exercícios vivenciados  no ambiente de 
+estudos, mantendo seus pensamentos e intenções livres de atos ilícitos. 
+
+ 
+Espera-se ainda que,  ao final do projeto, seja detectado o  interesse do apenado 
+em  dar  continuidade  nos  estudos,  o  que  permitirá  sua  evolução  para  capacitações  que 
+abordem em mais detalhes o desenvolvimento de soluções computacionais.  
+
+ 
+Diante  dessa  expectativa,  esperamos  que  as  autoridades  competentes  possam 
+rever  algumas  políticas  de  forma  a  garantir  que  as  unidades  prisionais  disponham  de 
+uma  infraestrutura  tecnológica  mínima,  capaz  de  permitir  que  os  presos  possam  não 
+somente capacitar-se, mas também evoluir dos estudos para o trabalho,  desenvolvendo 
+assim  soluções  computacionais  de  dentro  do  próprio  cárcere.  Isto  fará  com  que  o 
+apenado  possa  garantir  o  seu  próprio  sustento  ainda  no  ambiente  de  reclusão, 
+desonerando  o  Estado  desta  tarefa,  que  por  sua  vez  poderia  direcionar  estes  recursos 
+para investimentos que beneficiariam toda a sociedade. 
+
+5. Conclusão 
+
+A  proposta  exposta  neste  trabalho  trata  da  aplicação  de  um  curso,  em  formato  de 
+oficinas, a ser realizado Penitenciária Semiaberta de Vila Velha (PSVV), com o objetivo 
+de  desenvolver  o  pensamento  computacional  dos  internos,  trazendo  assim  novas 
+perspectivas sociais e profissionais aos alunos. 
+
+ 
+As  pesquisas  analisadas  até  o  momento  mostram  que  o  estudo  no  cárcere 
+apresenta números consideráveis quanto a diminuição na taxa de reincidência criminal e 
+que  é  possível  desenvolver  nos  alunos  o  pensamento  computacional  utilizando  a 
+linguagem  de  programação  Scracth.  Porém,  sua  aplicação  em  um  ambiente  prisional, 
+onde existem rígidas regras segurança, ainda é um tema pouco explorado na ciência. 
+
+Por  fim,  dando  continuidade  ao  estudo  proposto,  pretende-se  seguir  com  as 
+ 
+etapas  da  estratégia  desenvolvida,  aplicando  as  oficinas  junto  aos  alunos  da  PSVV, 
+avaliar os resultados obtidos, fazer possíveis ajustes e apontar possíveis melhorias. 
+
+Referências 
+
+Avila,  C.,  Cavalheiro,  S.,  Bordini,  A.,  Marques,  M.,  Cardoso,  M.,  &  Feijo,  G.  (2017, 
+October).  Metodologias  de  Avaliação  do  Pensamento  Computacional:  uma  revisão 
+in  Education  (Simpósio 
+sistemática.  In Brazilian  Symposium  on  Computers 
+Brasileiro de Informática na Educação-SBIE) (Vol. 28, No. 1, p. 113). 
+
+de  França,  R.  S.,  &  do  Amaral,  H.  J.  C.  (2013).  Proposta  metodológica  de  ensino  e 
+avaliação  para  o  desenvolvimento  do  pensamento  computacional  com  o  uso  do 
+scratch. In Anais do Workshop de Informática na Escola (Vol. 1, No. 1, p. 179). 
+
+de Maeyer, M. (2006). NA PRISÃO EXISTE A PERSPECTIVA DA EDUCAÇÃO AO 
+
+LONGO DA VIDA?. Alfabetização, 17. 
+
+ 
+ 
+
+ 
+
+ 
+
+Fernandes Julião, E. (2010). O impacto da educação e do trabalho como programas de 
+reinserção social na política de execução penal do Rio de Janeiro. Revista Brasileira 
+de Educação, 15(45). 
+
+Julião, E. F. (2007). Educação para jovens e adultos privados de liberdade: desafios para 
+
+a política de reinserção social. Salto para o futuro, boletim, 6. 
+
+Julião,  E.  F.  (2009).  A  ressocialização  através  do  estudo  e  do  trabalho  no  sistema 
+
+penitenciário brasileiro. Rio de Janeiro. 
+
+Kuenzer, A. (2013). Ensino do 1º grau: o trabalho como principio educativo. Cadernos 
+
+de Pesquisa, (68), 108. 
+
+Marx,  K.,  &  Engels,  F.  (2015). A  ideologia  alemã:  crítica  da  mais  recente  filosofia 
+alemã em seus representantes Feuerbach, B. Bauer e Stirner, e do socialismo alemão 
+em seus diferentes profetas. Boitempo editorial. 
+
+Moreno-León,  J.,  Robles,  G.,  &  Román-González,  M.  (2015).  Dr.  Scratch:  Automatic 
+analysis of scratch projects to assess and foster computational thinking. RED. Revista 
+de Educación a Distancia, (46), 1-23 
+
+Nunes,  Marina  Macedo  et  al.  Uso  da  lógica  de  programação  para  potencializar  o 
+pensamento  criativo  em  crianças  do  ensino  básico.  Anais  dos  Workshops  do 
+Congresso Brasileiro de Informática na Educação. Fortaleza, v. 1, n. 7. 2018.  
+
+Oliveira,  MLS  de  et  al.  Ensino  de  lógica  de  programação  no  ensino  fundamental 
+utilizando  o  Scratch:  um  relato  de  experiência.  XXXIV  Congresso  da  SBC-XXII 
+Workshop de Ensino de Computação. Brasília. v. 1, n. 34, 2014. 
+
+Saviani, D. (2018). Escola e democracia. Autores Associados. 
+
+Wing, Jeannette. Pensamento computacional: um conjunto de atitudes e habilidades que 
+todos,  não  só  cientistas  da  computação,  ficaram  ansiosos  para  aprender  e 
+usar. Revista Brasileira de Ensino de Ciência e Tecnologia. Curitiba, v. 9, n. 2, 2016. 
+
+ 
+
+ 
+
+

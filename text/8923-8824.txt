@@ -1,0 +1,436 @@
+Gamificação como Tecnologia Educacional Auxiliadora no 
+Ensino de Curativos 
+
+Kátia Carola S. Silva1, Mariana Boulitreau S. C. Barros1, Valdir Alfredo O. da 
+Silva2, Luiz Miguel P. Sanches1, Joel Azevedo de M. Neto3, Sean Jasube de O. 
+Alves1 
+ 
+1 Universidade Federal de Pernambuco-Centro Acadêmico de Vitória (UFPE/CAV) 
+R. Alto do Reservatório, S/n - Bela Vista, Vitória de Santo Antão - PE, 55608-680 
+ 
+
+2Universidade Federal Rural de Pernambuco (UFRPE)                                                        
+
+Rua Dom Manuel de Medeiros, s/n - Dois Irmãos, Recife - PE, 52171-900 
+
+3Sociedade Brasileira de Enfermagem em Feridas e Estética  
+ 
+
+katia_carola@hotmail.com, marianabscbarros@gmail.com, 
+whiteofdark@me.com, luiz.sanches.ufpe@gmail.com, 
+enfo.dermato@gmail.com, jasube_oliveira@outlook.com
+
+Abstract. The present year seeks to describe an experience in the construction 
+of  a  serious  game,  as  well  as  its  potential  as  a  facilitator  for  the 
+accomplishment  of  a  seminar  related  to  the  accomplishment  of  dressings  in 
+students of the nursing course. It is an experience report for the development 
+of  a  five-step  game:  1)  Survey  of  application  requirements;  2)  Content 
+construction; 3) Creation of the prototype of screens; 4) Game development; 
+5) Evaluation of the dynamics of the game. The game "Simulator of Attention 
+to  Injuries"  presents  as  main  scenario  an  infirmary  in  hospital  scope.  It 
+consists of clinical cases of increasing size of difficulty Composed of a simple 
+layout containing the top of the screen of the Nursery, Nursery, and Bed. 
+
+Resumo.  O  presente  estudo  busca  descrever  a  experiência  na  construção  de 
+um  jogo  sério,  bem  como  sua  potencialidade  como  ferramenta  metodológica 
+auxiliadora para o desenvolvimento da semiotécnica relacionada à realização 
+de curativos em discentes do curso de enfermagem. Trata-se de um relato de 
+experiência  para  o  desenvolvimento  de  um  Jogo  Sério  em  cinco  etapas:  1) 
+Levantamento  dos  requisitos  da  aplicação;  2)  Construção  do  conteúdo;  3) 
+Criação do protótipo de telas; 4) Desenvolvimento  do jogo; 5) Avaliação da 
+dinâmica  do  jogo.  O  jogo  “Injury  Care  Simulator”  apresenta  como  cenário 
+principal  uma  enfermaria  em  âmbito  hospitalar.  É  constituído  por  casos 
+clínicos  de  níveis  crescente  de  dificuldade  Composto  por  um  layout  simples 
+contendo no canto superior da tela o Prontuário, Enfermaria, Loja e o Leito. 
+
+ 
+ 
+
+ 
+
+ 
+
+1. Introdução 
+
+Ao  longo  tempo,  diferentes  concepções  de  natureza  filosóficas,  cientificas  e  religiosas 
+emergiram  em  relação  ao  corpo  humano,  onde  o  corpo  ferido  e  seus  métodos  de  cura 
+foram e continuam sendo alvo eminente de questionamentos (GEOVANINI, 2014). As 
+Feridas são evidenciadas pela ruptura da pele, podendo ser acompanhadas por lesões em 
+músculos, tendões e ossos, classificadas quanto sua etiologia, evolução, complexidade, 
+comprometimento  tecidual,  espessura  e  presença  de  infecção  (SMANIOTTO  et  al, 
+2012;  GEOVANINI,  2014).  Perante  as  estratégias  empregadas  atualmente  para  o 
+tratamento das feridas, o método clínico executado mediante a realização do curativo, é 
+o mais utilizado (SMANIOTTO et al, 2010). Curativo ou cobertura se caracteriza como 
+meio  terapêutico  pelo  qual  ocorre  a  realização  do  tratamento  no  local  da  lesão, 
+consistindo  na  limpeza  e  aplicação  de  material,  objetivando  sua  proteção,  absorção  e 
+drenagem, auxiliando desta forma seu processo de cura (BELLINASO et al, 2014 apud 
+SILVA, 2017). 
+
+ 
+ A realização da assistência para pacientes com feridas é vista atualmente como 
+responsabilidade  conjunta,  devendo  ser  efetivada  através  de  um  processo  dinâmico  e 
+complexo  através  do  acompanhamento  multidisciplinar,  no  entanto,  diante  da 
+periodicidade de contato com o paciente, a equipe de enfermagem passou a desenvolver 
+uma  significativa  parcela  de  responsabilidade  no  tratamento  das  feridas,  onde  sua 
+prática  assistencial  para  essas  pessoas  é  um  desafio  que  necessita  conhecimentos 
+específicos,  habilidades  e  abordagem  holística  para  fundamentar  essa  prática. 
+(GEOVANINI,  2014;  SILVA  ET  AL,  2017).  Considerando  o  exposto,  a  formação 
+acadêmica é crucial para a  construção das bases dessas competências, necessitando de 
+uma formação que apoie a articulação da teoria e a prática (BARATIERI et al, 2015).  
+
+ 
+Com  o  intuito  de  romper  o  paradigma  baseado  na  utilização  de  metodologias 
+tradicionais,  jogos  e  elementos  de  gamificação  estão  sendo  inseridos  como  estratégia 
+facilitadora no ensino e aprendizagem, adquirindo caráter motivador para os estudantes 
+da saúde (GURGEL e FERNANDES, 2015; CASTRO e GONÇALVES, 2018).  
+
+ 
+Esses  jogos,  apresentando  aspecto  auxiliador  nesse  processo  são  denominados 
+jogos sérios (JSs) (ROCHA et al, 2016)Baseando  a  gamificação,  na  utilização  da 
+dinâmica  dos  jogos  aplicados  em  circunstâncias  diferentes  do  contexto  esperado, 
+apresenta  intuito  de  contribuir  para  a  resolução  de  diferentes  problemas.  Tendo  a 
+capacidade  de  proporcionar  incentivo  ao  desempenho  da  aprendizagem  ativa,  a 
+aprendizagem  experiencial  e  a  aprendizagem  baseada  em  problemas  (MARCHIORI, 
+2016; FRAGELLI, 2017).  
+
+ 
+Partindo  desse  pressuposto,  a  Tecnologia  da  Informação  e  Comunicação  (TIC) 
+presente  por  meio  do  jogo  eletrônico,  apresenta-se  como  uma  forte  contribuição  para 
+melhoria da qualidade do processo formativo e, desse modo, favorecendo a qualidade da 
+assistência que estes futuros profissionais prestarão. Diante do exposto e da importância 
+em  explorar  tal  tema,  o  presente  estudo  tem  o  objetivo  de  descrever  a  experiência  na 
+construção  de  um  jogo  sério,  bem  como  sua  potencialidade  como  ferramenta 
+metodológica  auxiliadora  para  o  desenvolvimento  da  semiotécnica  relacionada  à 
+realização de curativos em discentes do curso de enfermagem 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+2. Fundamentação Teórica 
+
+A  realização  da  assistência  para  pacientes  com  feridas  é  vista  atualmente  como 
+responsabilidade  conjunta,  devendo  ser  efetivada  através  de  um  processo  dinâmico  e 
+complexo  por  meio  do  acompanhamento  multidisciplinar,  no  entanto,  diante  da 
+periodicidade de contato com o paciente, a equipe de enfermagem passou a desenvolver 
+uma  significativa  parcela  de  responsabilidade  no  tratamento  das  feridas,  onde  sua 
+prática  assistencial  para  essas  pessoas  é  um  desafio  que  necessita  conhecimentos 
+específicos,  habilidades  e  abordagem  holística  para  fundamentar  essa  prática 
+(GEOVANINI, 2014; SILVA ET AL, 2017). 
+
+ 
+ Nesse sentido, a enfermagem apresenta autonomia perante a prática de cuidados 
+a pacientes portadores de feridas, garantida através  da resolução COFEN nº 567/2018, 
+além  de  possuir  especialidade  dentro  da  enfermagem,  reconhecida  pela  Sociedade 
+Brasileira  de  Enfermagem  Dermatológica  (SOBEND)  e  Associação  Brasileira  de 
+Estomaterapia (SOBEST) (FERREIRA et al, 2008). 
+
+  
+Sendo  a  formação  acadêmica  crucial  para  a  construção  das  bases  dessas 
+competências,  necessitando  de  uma  formação  que  apoie  a  articulação  da  teoria  e  a 
+prática (BARATIERI et al, 2015). Com  o  intuito  de  romper  o  paradigma  baseado  na 
+utilização de metodologias tradicionais, jogos e  elementos de gamificação estão sendo 
+inseridos  como  estratégia  facilitadora  no  ensino  e  aprendizagem  e  motivadora  para  os 
+estudantes  da  saúde  (GURGEL  e  FERNANDES,  2015;  CASTRO  e  GONÇALVES, 
+2018). 
+
+  
+Baseando  a  gamificação,  na  utilização  da  dinâmica  dos  jogos  aplicados  em 
+circunstâncias  diferentes  do  contexto  esperado,  apresenta  intuito  de  contribuir  para  a 
+resolução  de  diferentes  problemas.  Tendo  a  capacidade  de  proporcionar  incentivo  ao 
+desempenho  da  aprendizagem  ativa,  a  aprendizagem  experiencial  e  a  aprendizagem 
+baseada  em  problemas  (MARCHIORI,  2016;  FRAGELLI,  2017).  Partindo  desse 
+segmento, o entrelaçamento da aprendizagem significativa e a estratégia para o docente 
+o jogo surge como instrumento motivacional (FRAGELLI, 2017). 
+
+3. Caminhos Metodológicos  
+
+Trata-se de um relato de experiência, integrando o processo de desenvolvimento de uma 
+tecnologia móvel no formato de jogo sério,  elaborado a partir do interesse em  integrar 
+os  conteúdos  em  enfermagem  relacionados  ao  cuidado  com  curativos  em  uma 
+ferramenta diferenciada, saindo do método tradicional, rígido e mecânico de transmitir o 
+conhecimento. 
+
+O estudo está sendo realizado na Universidade  Federal de Pernambuco- Centro 
+ 
+Acadêmico  de  Vitória  de  junho  de  2018  até  o  momento,  por  meio  da  integração  de 
+discentes  da  Universidade  Federal  de  Pernambuco  (UFPE)  e  Universidade  Federal 
+Rural de Pernambuco (UFRPE), tendo como coordenação o Núcleo de enfermagem da 
+UFPE. Seu processo de criação envolve cinco etapas, no qual estão constituídas por: 1) 
+Levantamento  dos  requisitos  da  aplicação;  2)  Construção  do  conteúdo;  3)  criação  do 
+protótipo  de  telas;  4)  Desenvolvimento  do  jogo;  5)  avaliação  da  dinâmica  do  jogo. 
+Sendo a quarta etapa em processo de desenvolvimento.  
+
+ 
+Todo  desenvolvimento  está  sendo  realizado  por  uma  equipe  composta  por 
+estudantes do curso de  enfermagem, ciências biológicas e licenciatura em informática, 
+
+ 
+
+tendo  como  coordenadores  do  projeto  os  professores  da  disciplina  de  informática 
+aplicada  à  saúde.  Além  de  suporte  técnico  de  um  enfermeiro  especialista  em  feridas  e 
+curativos.  
+
+ 
+Na primeira etapa do desenvolvimento do JSs, denominado pelos autores “Injury 
+Care  Simulator”  foi  realizado  de  maneira  sucinta,  o  levantamento  dos  requisitos  da 
+aplicação  do  game  em  sala  de  aula,  atendendo  aos  aspectos  que  englobam  as 
+necessidades  dos  discentes  e  docentes,  atrelando  simulação,  aprendizagem  e 
+pensamento crítico. Deste  modo,  com  o  intuito  de  abranger  a  realidade  do  discente  de 
+enfermagem  em  sua  prática  hospitalar  foram  definidos  os  temas  e  as  habilidades  que 
+integrariam  as  situações-problema  de  cada  cenário.  Na  tabela  1  a  seguir,  pode-se 
+observar algumas temáticas abordadas.  
+
+Tabela 1 – Temática que constitui os cenários do Jogo sério “Injury Care Simulator”. 
+Vitória de Santo Antão, Pernambuco, Brasil, 2019. 
+
+Fase 
+
+Temática abordada 
+
+Cateter  venoso  periférico  -  dispositivos  de  acesso  venoso usado  para  a 
+administração de medicamentos, nutrientes ou líquidos na veia. 
+
+Escoriações - são lesões simples, que ocorrem na camada mais superficial da pele 
+
+Lesão por pressão Estágio 1- Lesão na pele e no tecido subjacente resultante da 
+pressão prolongada, podendo ser classificada em  estágios de acordo com camada 
+na pele lesada.  
+
+Doenças cutâneas-Bolhosas – Doenças na qual atinge a pele formando bolhas 
+
+5, 5.1  Mordeduras/ Animais Peçonhentos 
+
+As  temáticas  para  os  respectivos  cenários  foram  escolhidas  mediante  pesquisa  na 
+literatura e elencadas de acordo com níveis de dificuldade.  
+
+A  segunda  etapa,  foi  marcada  pela  construção  do  conteúdo  do  JSs,  constituído 
+ 
+por  casos  clínicos,  referente  a  cada  cenário  do  game.  Ex:  fase  1:  Paciente  M.C.G  do 
+sexo  feminino,  33  anos,  foi  admitida  no  hospital  apresentando  episódio  de  dor 
+abdominal em uma escala de 5+/10+. Após consulta médica, foi realizada administração 
+de dipirona juntamente no Soro Fisiológico. Os casos clinicos foram elaboras a partir de 
+vivência  prática  por  professores  especialistas  na  área  e  posteriormente  validado  pelo 
+professor especialista da Universidade Federal de Pernambuco. 
+
+A  terceira  etapa  foi  constituída  pela  formulação  do  protótipo  das  telas  do  JSs, 
+ 
+composto pelo seu desenho, sua dinâmica  e pelos  materiais necessários à  ambientação 
+com a trama. Essa etapa foi desenvolvida utilizando imagens do banco de vetores grátis 
+disponíveis  na  web  e  estruturada  no  powerpoint,  onde  foi  possível  construir  a 
+modelagem  inicial,  bem  como  os  botões  interativos  que  estarão  presentes,  no  qual 
+poderão  sofrer  alteração  ao  longo  do  projeto.  Também  foram  utilizadas  imagens 
+provenientes  do  acervo  de  um  especialista  membro  da  Sociedade  Brasileira  de 
+Enfermagem em feridas e estética. 
+
+Após o processo de prototipagem e planejamento foi iniciado o desenvolvimento 
+
+ 
+do JSs, iniciando a quarta etapa.  
+
+Com  a  viabilidade  de  desenvolver  uma  aplicação  móvel  compatível  com 
+ 
+Android,  o  JSs  está  sendo  construído  a  partir  do  Android  Studio.  Este  software  está 
+sendo  responsável  por  desenvolver  o  protótipo  por  completo,  desde  sua  programação, 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+ 
+
+ 
+ 
+
+ 
+
+quanto a edição de design. Desenvolvida pelo Google com base no Intelli da JetBrains, 
+esta  ferramenta  é  uma  IDE  (Integrated  Development  Environment  ou  Ambiente  de 
+desenvolvimento integrado). Os programas que estão sendo utilizados para desenvolver 
+a  estrutura  do  layout  e  o  design  do  aplicativo  serão  o  Adobe  Experience  Design  e  o 
+Adobe  Photoshop.  O  Adobe  Experience  Design  é  uma  ferramenta  baseada  em  vetores 
+desenvolvida e publicada pela Adobe Inc. para projetar e criar protótipos de experiência 
+do  usuário  para  aplicativos  da  Web  e  móveis.  O  Adobe  Photoshop  é  um  software  de 
+edição de imagens e fotos de interface intuitiva e completa, com poderosas ferramentas 
+de  edição  e  manipulação  de  imagens.  Ele  oferece  a  possibilidade  de  pequenos  ajustes 
+nas  imagens  até  edições  artísticas  de  alta  complexidade,  tendo  acesso  a  inúmeras 
+possibilidades como aplicação de filtros de imagem, uso de camadas, ajustes de cores, 
+entre outros.  
+
+A quinta e última etapa do estudo ainda não pôde ser realizada, pois o JSs ainda 
+
+ 
+está no processo de conclusão do desenvolvimento. 
+
+4. Resultados e Discussões  
+
+A  motivação  pela  curiosidade  crítica  a  partir  de  um  tempo  altamente  “tecnologizado”, 
+defende  dos  “irracionalismos”  decorrentes  do  ou  produzidos  por  certo  excesso  de 
+“racionalidade”,  assim  como  da  arrancada  falsamente  humanista  de  negação  da 
+tecnologia e da ciência. Divinizar ou diabolizar a tecnologia ou a ciência é uma forma 
+altamente negativa e perigosa de pensar errado (Freire, Paulo, 2018). 
+
+ 
+ A  partir  das  etapas  que  subsidiam  o  desenvolvimento  do  game,  foi  possível 
+construir duas fases do jogo. Apresentando o hospital como cenário principal, o “Injury 
+Care Simulator” introduz o jogador, denominado aprendiz no papel de estagiário, tendo 
+como tutora no ambiente de jogabilidade a enfermeira Fabiane. Ela irá ser responsável 
+por indicar os ícones de interação do jogo. Composto por um layout simples contendo 
+no canto superior da tela o Prontuário, Enfermaria, Loja e o Leito. O jogador tem como 
+objetivo  escolher  os  materiais  para  realizar  o  curativo,  bem  como  a  ordem  de  sua 
+utilização de acordo com cada nível de gravidade (figura 1).  
+
+ 
+
+Figura 1. Protótipo de tela, tutora Fabiane indicando a funcionalidade dos ícones do jogo 
+“Injury Care Simulator” 
+
+ 
+Na Enfermaria podemos encontrar todos os materiais necessários para realizar a 
+montagem  da  bandeja  e  descarte  dos  materiais  utilizados  após  a  realização  dos 
+curativos, local fixo presente em todas as fases.  
+
+ 
+No Prontuário estará localizado o caso clínico, local de registro dos cuidados de 
+enfermagem  de  extrema  importância,  onde  consta  as  informações  fundamentais  para 
+
+ 
+
+realizar a escolha dos materiais e seguir para o atendimento ao paciente que se encontra 
+no leito, ou seja, na respectiva fase do jogo. 
+
+ 
+A  cada  acerto,  o  jogador  recebe  lamparinas,  fazendo  alusão  ao  símbolo  da 
+enfermagem,  serão  recebidas  como  incentivo  ao  curativo  realizado  pelo  aprendiz.  A 
+quantidade  de  lamparinas  varia  de  acordo  com  a  escolha  e  sequência  dos  materiais 
+corretos para a propedêutica.  
+
+Na  loja  será  possível  efetuar  a  troca  de  lamparinas  por  seringas  para  encher  a 
+
+ 
+barra de vida, identificada por uma seringa na região superior central na tela do jogo. 
+Desta  forma,  levando  em  consideração  as  características  elucidadas,  o  jogo 
+ 
+“Injury  Care  Simulator”  converge  com  os  requisitos  de  JSs,  presentes  no  estudo  de 
+Rocha et.al (2016), onde afirma: 
+
+Os  jogos  sérios  compreendem  múltiplos  requisitos:  definição  dos  objetivos 
+de  aprendizagem/  treinamento  e  conteúdo,  avaliação  do  desempenho  do 
+aprendiz, fidelidade lógica e física da simulação, não linearidade, com foco 
+no  desenvolvimento  de  conteúdos  para  engajar  o  aprendiz,  tais  como  a 
+inclusão de desafios, recompensas níveis e feedback contínuo. 
+
+ 
+Em  um  estudo  de  revisão  integrativa  que  identificou  os  serious  game 
+desenvolvidos e/ou validados na área da saúde no  Brasil, avaliou a  importância destes 
+no  estímulo  ao  aprendizado  de  forma  lúdica,  sustentando  a  relevância  das  tecnologias 
+educacionais  no  processo  de  ensino-aprendizagem  para  auxiliar  na  prevenção, 
+diagnóstico, tratamento e reabilitação dos usuários (DEGUIRMENDJIAN,2016). 
+
+ 
+Levando  em  consideração  à  graduação  de  enfermagem  se  torna  essencial  a 
+presença  de  desafios  e  fidelidade  lógica  ao  mundo  externo,  pois  permite  aos 
+jogadores(aprendizes)  realizar  uma  projeção  de  sua  prática,  desta  forma  evidenciando 
+uma educação problematizadora, onde de acordo com Silva et.al (2014) consiste em na 
+construção  do  conhecimento  por  meio  de  situações  problema  e  ancoradas  no  processo 
+aprendizagem por descoberta, no qual o aluno torna-se protagonista nesta metodologia. 
+
+ 
+Um serious game como estratégia na promoção da saúde no combate ao uso de 
+drogas apontou que o uso de jogos digitais tende a ser uma ferramenta de aprendizagem 
+e  motivação  no  contexto  educacional,  além  de  promover  maior  envolvimento  dos 
+estudantes (DAMASCENO, 20116). 
+
+5. Conclusão 
+
+A  aprendizagem  ativa  baseada  na  utilização  de  jogos  e  celulares  em  sala  de  aula  cada 
+vez  mais  vem  ganhando  seguidores,  esse  processo  metodológico  de  ensino  e 
+aprendizagem retira o aluno de um estado de arreflexão e de passividade e por meio de 
+uma Figura 2. Protótipo de tela, prontuário do jogo “Injury Care Simulator” curiosidade 
+criativa do discente emerge a aprendizagem significativa.  
+
+O futuro desse estudo consiste em efetuar o desenvolvimento da fase cinco, onde 
+
+ 
+consiste em uma avaliação da dinâmica do jogo por meio de especialistas e alunos 
+
+Referências 
+
+Rideel,2014 
+
+GEOVANINI, T. Tratado de feridas e curativos: enfoque multiprofissional. São Paulo. 
+
+ 
+
+ 
+
+ 
+
+ SMANIOTTO,  P.H.S;  GALLI  R;  CARVALHO,  V.F;  FERREIRA,  M.C.  Tratamento 
+clínico das feridas – curativos. Rev Med (São Paulo). 2010 jul.-dez.;89(3/4):137-41 .  
+
+SILVA,  A.C.O;  FILHO,  E.S.D;  SOUSA,  G.R.S;  SILVA,  J.  F.  S;  SILVA,  A.  L; 
+ARAUJO,  C.  M.  S.  As  principais  coberturas  utilizadas  pelo  enfermeiro.  Rev. 
+UNINGÁ. Vol.53, n. 2, pp.117-123(Jul-Set 2017).  
+
+BARATIERI, T; SANGALETI, C.T; TRINCAUS, M.R. Conhecimento de acadêmicos 
+de enfermagem sobre avaliação e tratamento de feridas. Rev Enferm Atenção Saúde 
+[Online]. jan/jun 2015; 4(1):2-15.  
+
+GURGEL  PC,  FERNANDES  MC.  Jogos  educacionais  no  ensino  da  enfermagem  em 
+saúde coletiva: relato de experiência. Rev enferm UFPE on line., Recife, 9(9):9320-
+3, set., 2015.  
+
+CASTRO, T.C; GONÇALVES, L.S. Uso de gamificação para o ensino de informática 
+
+em enfermagem. Rev. Bras. Enferm. vol.71 no.3 Brasília May/June 2018  
+
+MARCHIORI,  P.  Z.  Gamificação,  elementos  de  jogos  e  estratégia:  uma  matriz  de 
+referência.  InCID:  R.  Ci.  Inf.  e  Doc.,  Ribeirão  Preto,  v.  6,  n.  2,  p.  44-65,  set. 
+2015/fev. 2016.  
+
+FERREIRA, A.M; BOGAMIL, D.D.D; TORMENA, P.C. O enfermeiro e o tratamento 
+de  feridas:  em  busca  da  autonomia  do  cuidado.  Arq  Ciênc  Saúde  2008  jul-
+set;15(3):105-9. 
+
+ FRAGELLI, T. B. O.Gamificação como um processo de mudança no estilo de ensino 
+aprendizagem  no  ensino  superior:  um  relato  de  experiência.  Rev.  Inter.  Educ.  Sup. 
+Campinas, SP v.4 n.1 p.221-233 jan./abr. 2017.  
+
+ROCHA,  R.V;  PEDREO,  L.Z;  BITTENCURT,  I.I;  ISOTANI,S;  ZEM-LOPES,  A.M. 
+Metodologia  de  Desenvolvimento  de  Jogos  Sérios:  especificação  de  ferramentas  de 
+apoio  open  source.  Revista  Brasileira  de  Informática  na  Educação,  Volume  24, 
+Número 3, 2016  
+
+SILVA, R.S; PAIXÃO, G.P.N; LINS, D.B; JESUS, R.A; PEREIRA. A Estudo de caso 
+como  uma  estratégia  de  ensino  na  graduação:  Percepção  dos  graduandos  em 
+enfermagem. Rev Cuid 2014; 5(1): 606-12 Paulo freire – A pedagogia da autonomia: 
+saberes necessários à prática educativa/Paulo Freire – 57ª edição Rio de Janeiro: Paz 
+e Terra, 2018 
+
+DAMASCENO,  E.F;  NARDI,  P.A;  SILVA,  A.K.A;  FERNADO.  L;  LOPES,  B; 
+FERNANDES,  A.  M;  A  Serious  Game  as  a  Strategy  for  Health  Promotion  in 
+Combating Drug Misuse. J Bras Tele. 2016;4(2):237-245 
+
+DEGUIRMENDJIAN, S.C; MIRANDA, F.M; ZEMMASCARENHAS, S.H; HELENA, 
+S.  Serious  Game  developed  in  health:  Integrative  Literature  Review  Juego  Serio 
+desarrollado en salud: Revisión Integradora de  la Literatura. J. Health Inform. 2016 
+Julho-Setembro; 8(3):110-16 
+
+ 
+ 
+
+ 
+
+

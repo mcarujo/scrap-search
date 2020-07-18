@@ -1,0 +1,504 @@
+ 
+
+O Uso do Smartphone por Estudantes de Pós-Graduação em 
+Tecnologias Educacionais: Um Estudo de Caso 
+
+Elvis Medeiros de Melo, Dennys Leite Maia 
+
+Instituto Metrópole Digital – Universidade Federal do Rio Grande do Norte (UFRN) 
+Av. Sen. Salgado Filho, 3000 – Lagoa Nova, CEP: 59.078-970 – Natal – RN – Brasil 
+
+elvismedeiros.mm@gmail.com, dennys@imd.ufrn.br
+
+Abstract. The society is experiencing moments of changing habits, due to the 
+development of digital mobile technologies, such as smartphones. Approaches 
+based on the use of one mobile device per student (one to one, or 1: 1) are being 
+disseminated, among them the BYOD (Bring your own device) proposal. Given 
+this reality, how do postgraduate students in Educational Technologies perceive 
+the use of smartphones in educational environments? About 64% of the students 
+with active link participated in the study. Through a case study, a survey was 
+applied  and  Similitude  Analysis  was  performed  through  the  construction  of 
+graphs in the software IRaMuTeQ. Among the results, all students have their 
+own smartphone with mobile internet and 51% did not participate in training 
+for their pedagogical use. 
+
+Resumo.  A  sociedade  está  vivenciando  momentos  de  mudanças  de  hábitos, 
+devido  ao  desenvolvimento  das  tecnologias  digitais  móveis,  como  os 
+smartphones. Abordagens baseadas no uso de um dispositivo móvel por aluno 
+(um  para  um,  ou  1:1)  estão  sendo  difundidas,  entre  elas  a  proposta  BYOD 
+(Bring your own device). Tendo em vista essa realidade, como estudantes de 
+uma  pós-graduação  em  Tecnologias  Educacionais  percebem  o  uso  dos 
+smartphones em ambientes educacionais? Participaram da pesquisa cerca de 
+64% dos discentes com vínculo ativo. Através de um estudo de caso, foi aplicado 
+um survey e foi realizada Análise de Similitude através da construção de grafos 
+no  software  IRaMuTeQ.  Dentre  os  resultados,  todos  os  alunos  possuem 
+smartphone próprio com internet móvel e 51% não participaram de formação 
+para seu uso pedagógico. 
+
+ 1. Introdução 
+
+Vivemos em uma sociedade onde as Tecnologias Digitais da Informação e Comunicação 
+(TDIC) estão mais presentes do que antes em nossa realidade, auxiliando na produção de 
+textos, na criação de imagens, na realização de pesquisas (sejam elas de cunho acadêmico 
+ou não) e no alcance de informações e/ou conhecimentos. Elas vêm colaborando com a 
+modificação  das  relações  humanas,  contribuindo  para  uma  mudança  de  paradigma 
+comunicativo, principalmente com a expansão dos espaços digitais. Dentre as TDIC que 
+mais  estão  sendo  difundidas  no  Século  XXI,  estão  os  smartphones,  e  através  deles,  a 
+aprendizagem  móvel.  Kenski  (2007)  ressalta  que  as  TDIC  devem  promover  mais  a 
+produção  de  novos  conhecimentos  e  avanços  na  sociedade  e  que  se  faz  necessária  a 
+preparação de indivíduos para lidar e interagir com o conhecimento tecnológico. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Nesse âmbito, é importante que os professores estejam cientes das possibilidades 
+de que podem se servir com o uso das tecnologias digitais. Como observa Kenski (2007), 
+é preciso que os professores se sintam confortáveis para utilizar esses novos auxiliadores 
+didáticos,  como  os  smartphones.  Estar  confortável  significa  conhecê-los,  dominar  os 
+principais  procedimentos  técnicos  para  sua  utilização,  avaliá-los  criticamente  e  criar 
+novas possibilidades pedagógicas, partindo da integração desses meios com o processo 
+de ensino. Nesse âmbito, a BYOD (Bring Your Own Device, do Inglês: ou seja, traga seu 
+próprio dispositivo) privilegia a utilização dos dispositivos dos próprios estudantes. Esse 
+modelo  não  apresenta  custos  elevados  para  as  instituições  ou  governos  e,  ainda,  pode 
+contribuir com os processos de protagonismo estudantil, que tem no smartphone um dos 
+seus principais símbolos identitários [Balardini 2008]. 
+
+ 
+No  âmbito  de  uma  Pós-Graduação  em  Tecnologias  Educacionais,  esse  uso 
+também não deve ser descartado, tendo em vista que esses profissionais estarão aptos a 
+utilizar essas tecnologias em suas salas de aula. Com a ampla difusão dos smartphones, 
+esse  instrumento  passa  a  ser  um  auxiliador  para  tarefas  rápidas,  assim  como  para  uso 
+pedagógico em atividades de sala de aula invertida, ou leitura de artigos, por exemplo. 
+Para  que  o  professor  utilize  o  BYOD,  se  faz  necessário  um  levantamento  prévio,  para 
+apurar da possibilidade de utilização dos  smartphones nas turmas da  escola, conforme 
+sugere Alberta Educación (2012) e outros trabalhos. Tendo em vista essa problemática, 
+sabendo  das  potencialidades  dessa  ferramenta  para  o  ensino,  quais  as  perspectivas 
+pedagógicas  do  uso  dispositivos  móveis  por  Estudantes  de  uma  Pós-Graduação  em 
+Tecnologias Educacionais (EPGTE)? Discorreremos sobre essa problemática no decorrer 
+deste estudo. 
+
+ 
+O presente artigo possui a seguinte estrutura: Além desta introdução, uma seção 
+para fundamentação sobre o uso da BYOD em contextos educacionais, uma seção na qual 
+discorremos sobre os procedimentos metodológicos da pesquisa, uma para  a discussão 
+dos resultados e outra para as conclusões, seguidas das referências utilizadas para a escrita 
+do corpus do artigo. 
+
+ 2. BYOD (Bring Your Own Device) 
+
+As iniciativas de BYOD se referem a modelos de tecnologia em que os alunos levam um 
+dispositivo  de  propriedade  pessoal  para  a  escola  com  o  objetivo  de  aprender  [Collier; 
+Halpin 2012]. Como o engajamento estudantil é um desafio de longo prazo, é essencial 
+projetar um novo paradigma no discurso da sala de aula sobre o uso dessas ferramentas 
+para  fins  educacionais.  O  designer  pedagógico  do  modelo  BYOD  têm  como  premissa 
+princípios de aprendizagem ecológica e social construtivista, em que o papel dos alunos 
+é  alterado  para  ter  mais  engajamento  na  construção  do  conhecimento  e  mais  acesso  a 
+conteúdos  digitais  para  permitir  personalização,  participação  e  produtividade  na  sua 
+aprendizagem [Edelson 2001]. 
+
+ 
+Embora as abordagens 1:1 (um dispositivo por aluno), em geral, se baseiam na 
+distribuição ou aquisição de dispositivos homogêneos para utilização na escola e em casa, 
+também emerge em alguns contextos a configuração que se populariza, como a BYOD, 
+por exemplo. Nesse sentido, três conceitos colocam-se na centralidade da compreensão 
+desse  novo  paradigma  de  aprendizagem:  ubíqua  (disponível  em  qualquer  lugar); 
+pervasiva  (transparente  e  integrada  às  atividades  cotidianas);  ambiente  (naturalmente 
+entrelaçada  ao  entorno  educacional)  [Vieira;  Conforto  2015].  Contudo,  é  importante 
+considerar que a aprendizagem móvel se apresenta integrada ao contexto da sala de aula, 
+com  potencial  para  manter  os  estudantes  mais  conectados  e  vinculados  a  atividades 
+
+ 
+
+ 
+
+colaborativas. Em pesquisa recente sobre os dispositivos móveis Android, a Open Signal 
+(2014) desenvolveu a pesquisa “Android Fragmentation 2014”, na qual foram analisados 
+682.000 dispositivos. Concluíram que existiam 18.786 modelos diferentes, ou seja eram 
+distintos uns dos outros (quer em termos de versão do sistema operacional, tamanho do 
+tela, hardware). Tal diversidade pode causar alguns problemas nas situações em que os 
+estudantes trazem para a escola o seu dispositivo pessoal na BYOD. Se a mesma pesquisa 
+fosse realizada em 2019, seria constatado um número muito maior de possibilidades. É 
+preciso conhecer a realidade dos alunos e recursos mais universais possíveis para uma 
+possível prática com m-learning utilizando os smartphones dos estudantes. 
+
+ 
+Estudos da literatura sobre a BYOD já versam sobre as dificuldades encontradas 
+para tal abordagem nas salas de aula. Sharples (2006) acrescenta que existe uma grande 
+dificuldade  em  gerir  equipamentos  com  potencialidades  diferentes  (diversidade 
+decorrente da tecnologia ser propriedade dos estudantes e não uniformizada pela escola). 
+Basta analisar a diversidade de dispositivos Android no estudo da OpenSignal (2014) para 
+perceber que a logística que envolverá uma aula com tantos dispositivos diferentes, pode 
+ser devastadora. Um app, por exemplo, pode funcionar no smartphone de dez estudantes 
+e não funcionar no smartphone de dois estudantes por terem uma versão mais antiga ou 
+desatualizada.  O  levantamento  prévio  dos  modelos  de  smartphones  dos  estudantes  é 
+essencial. Segundo mostra o Quadro 1, podemos observar os modelos de BYOD proposto 
+por Alberta Educacíon (2014) em seu estudo sobre as possibilidades de integração dessa 
+política pública nas escolas canadenses. 
+
+Quadro 1. Tipos de modelos BYOD 
+
+ 
+
+ 
+Assim, o modelo 1 da BYOD é potencialmente mais vantajoso para professores, 
+pois na sala de aula apenas existe um modelo de dispositivo, o que facilita a preparação 
+de aulas e a sua execução, enquanto o modelo 4, no caso mais extremo, podem existir 
+tantos  dispositivos  diferentes  como  estudantes.  Isso  pode  dificultar  a  aplicabilidade  de 
+certas apps, ou visualização de vídeos, exigindo do professor um conhecimento acurado 
+sobre  vários  dispositivos  diferentes,  promovendo  uma  maior  flexibilidade  para  a 
+aplicação  do  método  BYOD.  O  modelo  4  também  pode  causar  muitas  desvantagens, 
+como a disponibilidade de menos apps que podem ser usados de maneira universal, assim 
+como alguma desigualdade no acesso dos alunos, já que nem todos os dispositivos são 
+criados  iguais  quando  se  trata  de  usabilidade  e  de  modelos.  Uma  possibilidade  é  o 
+professor planejar suas aulas utilizando recursos primários de um smartphone,  como a 
+câmera, editor de texto ou navegador de internet (Browser). 
+
+ 
+Em estudo sobre a BYOD, Estable (2013) fala sobre as vantagens e desvantagens 
+do  método,  e  faz  algumas  questões  a  serem  consideradas  durante  a  implementação  da 
+BYOD  em  uma  sala  de  aula.  Segundo  o  autor,  muitas  instituições  estão  começando  a 
+
+ 
+
+ 
+
+implementar  uma  política  do  modelo  BYOD,  na  qual  alunos  e  professores  recebem 
+especificações mínimas para os dispositivos que devem escolher, tais como dispositivos 
+Android, além de algumas apps específicas. Se a BYOD será bem sucedida em uma sala 
+de  aula  dependerá  de  muitos  fatores.  De  acordo  com  Estable  (2013),  precisamos 
+considerar  as  questões  técnicas  e  não  técnicas,  como  tipos  de  arquivo,  de  apps, 
+organização  do  conteúdo  de  aprendizagem,  tamanho  da  tela  para  a  informação  a  ser 
+exibida, aceitação cultural e linguística, conectividade da rede sem fio WiFi e a motivação 
+dos estudantes para usar os dispositivos móveis para aprender. 
+
+ 3. Procedimentos Metodológicos da Pesquisa 
+
+Esta  pesquisa  caracteriza-se  como  um  Estudo  de  Caso  Exploratória,  pois  a  questão  de 
+pesquisa tem o intuito de estudar e responder uma pergunta para uma realidade específica 
+[Yin 2005]. No caso, trata-se dos EPGTE. Para coleta de dados, foi elaborado um survey 
+com perguntas de carácter qualitativo, por exemplo, a faixa etária, o ano de ingresso na 
+pós-graduação, entre outras. Além disso, para análise, Yin (2005) recomenda que, a partir 
+dos  dados  provenientes  de  surveys  (questionários),  sejam  criados  e  analisados  dados 
+estatísticos.  Um  survey  foi  elaborado  utilizando  a  ferramenta  do  google  formulários  e 
+compartilhados nos grupos de WhatsApp de cada turma da pós-graduação em questão. A 
+amostra foi significativa, considerando o número de discentes ativos. Participaram cerca 
+de ⅔ (65,15%) dos EPGTE. 
+
+ 
+Para traçar o perfil dos EPGTE, perguntamos qual a faixa etária, quantos celulares 
+o EPGTE já possuiu, qual a marca do celular, o que tanto esse aluno usa no smartphone, 
+qual recurso do smartphone ele mais usa, quanto tempo é gasto no manuseio do aparelho 
+por dia, se já participou de alguma formação para uso pedagógico do smartphone, e se já 
+usou  o  celular  para  estudar.  Todas  essas  perguntas  serviram  para  o  delineamento  de 
+categorias  de  análise,  que  foram  identificadas  com  uma  ID,  respectivamente:  id,  qtdd, 
+marca, mais, tempo, form, estudar. 
+
+ 
+Perguntas adicionais foram elaboradas no survey, tais como: se o EPGTE possuía 
+internet móvel em seu celular, qual o ano de ingresso, se ele possui um celular para uso 
+pessoal, quais aplicativos ele usa, qual o local mais frequente de acesso a internet pelo 
+smartphone, e algumas perguntas relacionadas aos seus aparelhos específicos, como se 
+possuía leitor de QR-Code, por exemplo. 
+
+Para análise de conteúdo das produções escritas dos pós-graduandos, utilizamos 
+ 
+o software IRaMuTeQ1. O software, a princípio, possui sua versão mais básica na língua 
+francesa,  e  é  bastante  utilizado  na  análise  de  conteúdos,  análise  de  similitude,  método 
+Reineit de classe de palavras e criação de nuvem de palavras. Neste trabalho, utilizaremos 
+a técnica de Análise de Similitude de Jaccard2, na qual faz relação entre as palavras do 
+discurso através da teoria dos grafos. Assim, foi possível identificar as ocorrências entre 
+as palavras e as indicações da conexidade entre as palavras, auxiliando na identificação 
+da estrutura do conteúdo de um corpus textual. 
+
+ 
+Com  o  software,  também  foi  possível  fazer  cruzamento  entre  variáveis 
+qualitativas do perfil do aluno. Para isso, precisamos formatar o texto de acordo com o 
+padrão aceitável para a aplicação (ver Figura 1). 
+
+ 
+1 Disponível em: <http://www.iramuteq.org/>. Acesso em: 26 jun. 2019. 
+2 O leitor poderá encontrar mais detalhes em <https://bit.ly/2Jh5vqR>. Acesso em: 29 jun. 2019. 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Texto formatado para uso no IRaMuTeQ 
+
+ 
+De  acordo  com  as  perguntas  para  traçamento  do  perfil  do  EPGTE,  afim  de 
+responder a pergunta principal deste estudo, pedimos para os EPGTE responderem como 
+ele usa esse aparelho para estudos pessoais e quais os pontos positivos e negativos eles 
+identificam  para  o  uso  dos  smartphones  em  uma  sala  de  aula.  Para  discussão  dos 
+resultados, alinhamos os grafos obtidos com a teoria acerca do uso dos smartphones na 
+sala de aula de acordo com o relato dos EPGTE. 
+
+ 4. Resultados e Discussões 
+
+Analisando o perfil da turma de EPGTE, observando a variável idade (ver Gráfico 1), que 
+a grande está na faixa  etária de 28  a 37 anos. Ao repararmos a variável quantidade de 
+smartphones  obtidos  (ver  Gráfico  2),  verificamos  que  uma  grande  maioria  (91%)  dos 
+EPGTE  possuíram  mais  que  4  smartphones  em  toda  a  sua  vida.  Segundo  Google 
+Consumer  Barometer3,  os  smartphones  tiveram  um  aumento  na  sua  popularidade  e 
+vendas no Brasil a partir de 2010. Isso nos mostra que os EPGTE estão trocando de celular 
+aproximadamente a cada 2 anos. Um fato a ser observado também é que os EPGTE mais 
+jovens trocaram de aparelho  mais vezes que os  estudantes com idades maiores que 43 
+anos. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 1. Faixa etária dos EPGTE  
+
+ Gráfico 2. Quantidade de smartphones já possuídos por 
+EPGTE 
+
+ 
+
+Ao  analisarmos  a  marca  dos  aparelhos  dos  EPGTE,  observamos  o  smartphone 
+ 
+atual  de  42%  dos  estudantes  são  da  marca  Motorola,  35%  da  Samsung,  7%  da  marca 
+Xiaomi, 11% iPhone e 5% LG, ou seja, 89% dos smartphones desses estudantes possuem 
+sistema operacional Android. Esse dado pode facilitar o planejamento de aulas utilizando 
+m-learning  por  professores  da  pós-graduação  em  questão.  Pelo  modelo  proposto  pela 
+Alberta  Educación  (2012),  esses  professores  podem  pensar  em  atividades  utilizando 
+alguns recursos pré-instalados no Android. Ao analisar a presença de internet móvel no 
+smartphone destes estudantes, todos responderam possuir. A preocupação do professor 
+ficaria em torno do recurso escolhido para integração dessa tecnologia em sala de aula. 
+
+3Acesse os dados da pesquisa em <https://www.consumerbarometer.com/en/>. Acesso em: 30 jun. 2019. 
+
+ 
+
+ 
+
+ 
+
+ 
+Perguntando aos EPGTE o que mais utilizam no smartphone, 79% responderam 
+que  usam  mais  o  WhatsApp,  11,6%  utilizam  para  realizar  pesquisas  na  internet,  2,3% 
+usam  mais  o  Instagram  e  7%  utilizam  mais  jogos.  Assim,  é  recomendado  que  os 
+professores usem o recurso do WhatsApp em suas práticas, pois, ao perguntar quais os 
+recursos  do  smartphone  eles  usam,  todos  responderam  que  faziam  uso  do  WhatsApp. 
+Além disso, 79% estão com esse aplicativo aberto por mais tempo que os demais. Uma 
+prática comum e bastante utilizada é a criação de grupos de conversa e compartilhamento 
+de materiais de estudo e discussões de questões [Maia 2016]. 
+
+Um fato interessante a ser notado é que, apesar de os EPGTE estarem inseridos 
+ 
+em  um  programa  de  pós-graduação  específico  para  o  uso  de  tecnologias  na  educação, 
+apenas 48,8% já participaram de alguma formação para uso pedagógico dos smartphones. 
+Ao  analisar  os  que  não  participaram  (51,2%),  observamos  que  o  ano  de  ingresso  não 
+influencia esse resultado, ou seja, há  alunos da turma 2019, da turma 2018 e da turma 
+2017  (que  já  estão  concluindo)  que  não  participaram  de  cursos  para  o  uso  dessa 
+ferramenta  em  contextos  educacionais.  Esse  fato  é  preocupante  e  sugere  a  criação  de 
+tópicos  em  disciplinas  obrigatórias  ou  formação  continuada  com  esse  tema.  Maia  e 
+Barreto (2012) afirmam que os novos docentes que estão chegando às escolas, embora 
+habituados  ao  trabalho  com  os  computadores,  por  não  terem  recebido  formação 
+pedagógica para o trabalho com as tecnologias digitais, também não estão aptos para usá-
+los como ferramenta didática. Dessa maneira, cabe  às Instituições de Ensino Superior, 
+através de seus cursos de formação de professores, rever seus currículos.  
+
+ 
+Para a variável horas de acesso por dia, observamos que os estudantes mais jovens 
+passam mais tempo no celular (em média 7 horas diárias), em contrapartida aos estudantes 
+com mais de 43 anos, que passam, no máximo, 4 horas por dia. Destes estudantes, apenas 
+2 responderam que nunca utilizam o smartphone para estudar. Esses dois possuem faixa 
+etária  maior  que  43  anos  e  nunca  participaram  de  um  curso  para  uso  pedagógico  do 
+smartphone.  Ao  cruzar  as  variáveis  com  o  discurso  sobre  como  os  EPGTE  estudam 
+utilizando o smartphone, utilizando a análise de similitude para gerar grafos através do 
+IRaMuTeQ,  tivemos  um  aproveitamento  de  68,03%  das  palavras,  sendo  que  23,31% 
+apareceram apenas uma vez ou são conectivos, artigos definidos/indefinidos, pronomes, 
+entre outros. Ao gerar o grafo relacionado a esse banco de dados específico, gerando um 
+relatório  com  árvore  máxima  selecionada  (ver  Figura  2(a))  e  não  (ver  Figura  2(b)), 
+observamos que as palavras que mais se repetiram formaram as comunidades “Pesquisa”, 
+“Vídeo”,  “Leitura”,  “Texto”,  “Aula”,  “Online”,  “Internet”,  “Assistir”  e  que  palavras 
+como “Vídeo” tem relação com “Aula”, “Assistir”  e “Leitura”, assim como  “pdf”  tem 
+forte relação  com as  comunidades “Online” e  “Internet”. Isso significa que os EPGTE 
+utilizam  mais  o  smartphones  para  atividades  relacionadas  à  estudo,  como  leitura  de 
+textos, pesquisas na internet, vídeo-aulas no YouTube, por ser mais fácil o acesso, por ser 
+extensão do computador, por proporcionar mobilidade. 
+
+ 
+Ao  perguntar  sobre  os  pontos  positivos  do  uso  do  smartphone,  sob  uma 
+perspectiva  educacional  para  os  EPGTE,  observamos  que,  da  mesma  forma  como  foi 
+realizado  para  a  primeira  pergunta,  obtivemos  um  aproveitamento  de  65,57%  do 
+conteúdo. Ao gerar o grafo relacionado a esse banco de dados, gerando um relatório com 
+árvore máxima selecionada (ver Figura 3(a)) e não (ver Figura 3(b)), observamos que as 
+palavras que mais se repetiram foram  “Aluno”, “Acesso”, “Aula”,  “Interação”,  “Uso”, 
+compondo comunidades de palavras próximas a uma ramificação do grafo. Da mesma 
+forma,  ao  analisar  o  grafo  da  Figura  3(b)  (sem  árvore  máxima),  observamos  que  as 
+comunidades “Aluno”, “Acesso” e “Uso” se sobrescrevem. 
+
+ 
+
+ 
+
+Figura 2. Grafo sobre o uso do smartphone por alunos da EPGTE (a) com árvore máxima - à esquerda 
+(b) sem árvore máxima - à direita.   
+
+ 
+
+ 
+
+Figura 3. Grafo sobre os pontos positivos do uso dos smartphone por alunos da EPGTE (a) com árvore 
+máxima - à esquerda (b) sem árvore máxima - à direita. 
+
+ 
+Por meio dos grafos gerados pelo IRaMuTeQ, podemos concluir que os EPGTE 
+acreditam  que  o  uso  dos  smartphones  pelo  aluno,  de  maneira  geral,  está  ligada 
+diretamente  a  uma  possível  ferramenta  para  uso  na  sala  de  aula,  que  promove 
+aprendizagem e mobilidade. Além disso, permite a interação e facilita o acesso a internet 
+por  meio  de  aplicativos,  por  exemplo,  promovendo  engajamento,  interatividade  e 
+melhorar a qualidade do ensino. Considerando o uso dos smartphones, pode-se observar 
+a presença do celular entre parte significativa dos alunos e durante as aulas, entretanto o 
+uso desses dispositivos está, na maioria das vezes, desconectada dos processos de ensino 
+e aprendizagem, ou até mesmo mostrando prejudicial a estes processos [Nagumo 2014]. 
+Por mais que os EPGTE tenham um pensamento alinhado ao uso desse recurso na sala de 
+
+ 
+
+ 
+
+aula, é interessante que haja formação para o seu uso pedagógico, integrando à conteúdos 
+e metodologias que aproximem o aluno da aprendizagem. 
+
+ 
+Ao  perguntar  sobre  os  pontos  negativos  do  uso  do  smartphone,  sob  uma 
+perspectiva  educacional  para  os  EPGTE,  tivemos  um  aproveitamento  de  66,50%  do 
+conteúdo. Ao gerar o grafo relacionado a esse banco de dados, gerando um relatório com 
+árvore máxima selecionada (ver Figura 4(a)) e não (ver Figura 4(b)), observamos que as 
+palavras  que  mais  se  repetiram  foram  “Dispersão”,  “Aluno”,  “Aula”  e  “Uso”.  Com  a 
+árvore máxima não selecionada, observamos que a comunidade “Aluno” se sobrescreve 
+a  comunidade  “Dispersão”,  assim  como  a  comunidade  “Uso”.  É  criada  uma  nova 
+comunidade  chamada  de  “Acesso  a  Internet”,  sugerindo  que  o  problema  não 
+necessariamente é a disponibilidade da internet WiFi, por exemplo, nas escolas. 
+
+ 
+
+Figura 4. Grafo sobre os pontos negativos do uso dos smartphone por alunos da EPGTE (a) com árvore 
+máxima - à esquerda (b) sem árvore máxima - à direita. 
+
+ 
+
+ 
+Dos grafos gerados pelo IRaMuTeQ, podemos inferir que os EPGTE acreditam 
+fortemente  que  uma  aula  sem  planejamento  adequado,  supervisão  e  orientação  do 
+professor pode causar dispersão, além disso acreditam que o smartphone pode tirar o foco 
+dos estudantes no momento da atividade por estar conectado as redes sociais por meio da 
+internet. A seguir, apresentamos as conclusões que o trabalho nos sugeriu realizar. 
+
+ 5. Conclusões 
+
+De acordo com os resultados, acreditamos que uma Análise de Similitude de Jaccard foi 
+adequada  para  o  tratamento  dos  dados  coletados  dos  EPGTE.  O  estudo  de  Caso 
+Exploratório  pode  concluir  diversas  informações  sobre  o  uso  da  estratégia  BYOD  no 
+âmbito desta pós-graduação. Além disso, os EPGTE levantaram alguns problemas, como 
+o alto índice de dispersão que pode ser ocasionado por uma aula integrando o smartphone 
+sem um planejamento adequado. Questões técnicas foram apuradas com o intuito de dar 
+uma  visão  geral  de  como  essa  ferramenta  poderá  ser  usada  em  aulas  da  pós,  como  o 
+sistema operacional de seus aparelhos, metadado relacionado à marca de seus aparelhos. 
+
+ 
+
+ 
+
+Apesar de não ter sido censitária, a pesquisa obteve uma amostra significativa (65,15%) 
+dos EPGTE. 
+
+ 
+Assim, conclui-se que, de forma geral, os participantes da pesquisa entendem que 
+para  utilizar  as  TDIC  de  forma  pedagógica  é  necessário  que  o  professor  além  de  uma 
+formação  adequada,  estejam  atentos  ao  um  mundo  em  rede  exige  que  conhecimento 
+razoáveis em informática e das potencialidades das tecnologias existentes, entre elas, o 
+smartphone. Estas são fundamentais para que se consiga desenvolver seu conhecimento 
+digital  trabalhando  de  forma  didática  e  utilizando  diversos  meios  para  se  trabalhar  a 
+tecnologia como recurso pedagógico. Em um próximo estudo, para fins de especificação 
+do modelo BYOD, que a coleta de dados aconteça de modo presencial, com o intuito de 
+o pesquisador ajudar os entrevistados a descobrirem qual o seu modelo de smartphone, 
+com funcionalidades mais específicas, tais como: sistema operacional, suas versões ou se 
+o dispositivo já vem com aplicativos pré-instalados, entre outras. 
+
+Referências 
+
+Alberta  Education  (2012).  Bring  your  own  device:  a  guide  for  schools.  In: 
+<http://education.alberta.ca/admin/technology/research.aspx>. Acesso: 30 jun. 2019. 
+
+Balardini,  S.  (2008).  De  deejays,  floggers  y  ciberchabones:  subjetividades  juveniles  y 
+tecnocultura. In: Bendit, R.; Hahn, M.; Miranda, A. (Ed.). Los jóvenes y el 90 futuro: 
+procesos de inclusión social y patrones de vulnerabilidad en un mundo globalizado. 1. 
+ed. Buenos Aires: Prometeo Libros. 
+
+Collier,  L.  and  Halpin,  J.  (2012).  One-to-One  2.0:  Building  on  the  “Bring  Your  Own 
+
+Device” (BYOD) Revolution, e.Republic. 
+
+Edelson,  D.  C.  (2001).  ‘Learning-for-use:  a  framework  for  the  design  of  technology-
+supported inquiry activities’, J. Res. in Science Teaching, Vol. 38, No. 3, pp.355–385. 
+
+Kenski, V. M. (2007). Tecnologias também servem para fazer educação In: Educação e 
+Tecnologias O Novo Ritmo da Informação. 3.ed. Campinas, SP: Papirus, p.43-62. 
+
+Maia, D. L.; Barreto, M. C. (2012). Tecnologias digitais na educação: uma análise das 
+
+políticas públicas brasileiras. Educação, Formação & Tecnologias, 5 (1), 47-61. 
+
+Maia, D. L. (2016). Aprendizagem Docente sobre Estruturas Multiplicativas a Partir de 
+uma  Formação Colaborativa Apoiada em  Tecnologias  Digitais. Tese de Doutorado, 
+PPGED-UFC, Fortaleza. 
+
+Nagumo,  E.  (2014).  O  Uso  Do  Aparelho  Celular  Dos  Estudantes  Na  Escola.  100f. 
+Dissertação  (Mestrado  em  Educação)  –  Faculdade  de  Educação,  Universidade  de 
+Brasília, Brasília. 
+
+OpenSignal. 
+
+(2014). 
+
+Android 
+
+Fragmentation 
+
+2014. 
+
+In: 
+
+<http://opensignal.com/reports/2014/android-fragmentation/>. Acesso: 01 jul. 2019. 
+
+Shahar, D.; Sayers, M. G. L. (2018). Prominent exostosis projecting from the occipital 
+squama  more  substantial  and  prevalent  in  young  adult  than  older  age  groups.  In: 
+https://doi.org/10.1038/s41598-018-21625-1. Acesso em: 30 jun. 2019. 
+
+Sharples,  M.  (2006).  Big  Issues  in  Mobile  Learning:  Report  of  a  workshop  by  the 
+Kaleidoscope Network of Excellence Mobile Learning Initiative: U. of Nottingham. 
+
+Sousa, A. F.; Miranda, A. C. O. (2018). Os problemas causados pelo uso excessivo de 
+
+smartphones. In: https://bit.ly/2NqtuJe. Acesso em: 29 jun. 2019. 
+
+Vieira, M. C.; Conforto, D. (2015). Aprendizagem Móvel e Multimídia: a produção de 
+material pedagógico na perspectiva  BYOD. In: CBIE-LACLO 2015. Anais do XXI 
+Workshop de Informática na Escola (WIE 2015). 
+
+Yin.  R.  K.  (2005).  Estudo  de  caso:  planejamento  e  métodos.  3  ed.,  Porto  Alegre: 
+
+Bookman. 
+
+ 
+
+ 
+
+

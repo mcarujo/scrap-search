@@ -1,0 +1,551 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Projeto Colmeia: Gamificando no Ensino Superior 
+Paulo André da Silva 
+
+Universidade Federal de Pernambuco (UFPE) 
+Centro Acadêmico de Vitória (CAV) 
+
+[profe.pas@gmail.com / paulo.silva@ufpe.br] 
+
+ 
+
+Abstract.  This  article  describes  a  gamification  process  in  pedagogical 
+disciplines  for  an  undergraduate  course.  The  “Colmeia”  project  aims  to 
+integrate motivational actions with content of the disciplines of 'Didactics' and 
+'Assessment  of  Learning',  within  a  narrative  inspired  by  bee´s  lives.  The 
+objective  is  to  involve  students  in  motivational  activities  related  to  real  data, 
+content, skills development and practical actions in schools. We use a variety 
+of digital tools to promote creative problem-solving actions to accomplish the 
+main mission of the game. 
+
+Resumo.  Este  artigo  descreve  um  processo  de  gamificação  em  disciplinas 
+pedagógicas para curso de licenciatura. O projeto Colmeia visa integrar ações 
+motivacionais  com  conteúdos  próprios  das  disciplinas  de  ‘Didática’  e 
+‘Avaliação da Aprendizagem’, dentro de uma narrativa inspirada na vida das 
+abelhas.  Objetiva  envolver  estudantes  em  atividades  motivacionais, 
+relacionadas  com  dados  da  realidade,  conteúdos,  desenvolvimento  de 
+competências  e  habilidades  e  ações  práticas  em  escolas.  Utilizamos  diversas 
+ferramentas  digitais  para  promoção  de  ações  criativas  na  resolução  de 
+problemas, de forma a conduzir ao cumprimento da missão principal do jogo. 
+
+1. Introdução  
+
+Considerando  as  novas  demandas  de  formação  para  o  atual  sistema  de  produção  e  de 
+relações humanas, sob um universo de  impactos das tecnologias digitais e de sistemas 
+de  comunicação  avançados,  pensamos  que  a  formação  inicial  de  futuros  professores 
+deve corresponder a esse novo contexto [Junges & Behrens, 2016; Morin, 2002]. Ainda 
+considerando  o  Ensino  Superior  como  locus  para  construção  de  conhecimentos, 
+implementar  processos  que  estimulem  o 
+compreendemos  a  necessidade  de 
+desenvolvimento ou aprimoramento de competências e habilidades que dêem conta das 
+necessidades atuais no campo da educação (e outros). 
+
+Propomos  esse  projeto  de  gamificação  com  o  objetivo  de  engajar  e  motivar  os 
+ 
+estudantes  para  criação  de  experiências  de  aprendizagem  [Gomes  &  Silva,  2016] 
+relacionadas  a  conteúdos  próprios  das  disciplinas  de  Didática  e  Avaliação  da 
+Aprendizagem, em curso de Licenciatura em uma IES Federal. Este engajamento se deu 
+a partir da adesão aos desafios propostos que orientaram os estudantes à aprendizagens 
+experienciais de conteúdos, habilidades e competências que resultaram na construção de 
+
+jogos didáticos e de processos avaliativos formativos, sendo estes os elementos finais da 
+missão do jogo. 
+
+ 
+Para  fins  de  fundamentar  nossas  ações,  estabelecemos  as  relações  conceituais 
+entre  Gamificação,  Avaliação  Formativa  e  Processos  Didáticos  com  base  em 
+metodologias  ativas.  Desta  forma,  podemos  relatar  neste  artigo  a  complexidade  de 
+planejamento destas ações e decisões tomadas para que houvesse sucesso na construção 
+do Colmeia Game. 
+
+ 
+
+ 
+
+2. Processo de Gamificação 
+
+Tomamos como definição de gamificação o conceito de Alves et al (2014, p.76), a qual 
+indica  que  a  gamificação  “[...]  se  constitui  na  utilização  da  mecânica  dos  games  em 
+cenários  non  games,  criando  espaços  de  aprendizagem  mediados  pelo  desafio,  pelo 
+prazer  e  entretenimento”.  Este  cenário  non  game  é  o  mundo  real,  no  nosso  caso  a 
+Universidade,  necessitando  assim  vincular  conteúdos  necessários  para  a  formação  dos 
+estudantes, agregando elementos motivadores para aprendizagem ativa dos mesmos. 
+
+ 
+Como se propõe na construção de um bom jogo, este deve estar associado a uma 
+narrativa  que  gere  envolvimento  dos  jogadores  e  que  seja  interessante  [Kaap,  2012]. 
+Criamos  então  a  narrativa  ligada  a  vida  das  abelhas,  partindo  da  ideia  que  uma 
+instituição de ensino deve funcionar como uma colônia de abelhas, na qual há trabalhos 
+individuais e coletivos, com funções diferentes entre os atores escolares (abelhas), mas 
+todos  voltados  para  o  desenvolvimento  e  ampliação  da  instituição  (colmeia),  ou  seja, 
+para o bem coletivo e próspero daquele espaço. 
+
+ 
+Tomamos  essa  narrativa  considerando  que  são  estudantes  em  formação  para  a 
+docência  na  área  de  biologia  e,  como  tal,  precisam  criar  uma  identidade  relacionada  à 
+área  de  conhecimento  específica,  assim  como  ao  espaço  escolar,  vivenciando  não 
+apenas conteúdos que falam sobre este espaço, mas produzindo e executando ações no 
+espaço escolar, ampliando as perspectivas da própria formação. Para isto, vinculamos o 
+Colmeia  Game  a  um  projeto  de  extensão  que  possibilitasse  essa  comunicação  com  o 
+espaço escolar. 
+
+ 
+No Colmeia Game os estudantes são desafiados a construírem um caminho que 
+envolve  ações  individuais  e  coletivas/colaborativas,  cuja  meta  é  planejar,  construir  e 
+avaliar  jogos  didáticos  que  abordem  conteúdos  da  biologia,  em  especial  da  área  de 
+Zoologia. Os jogos didáticos são produtos finais do trabalho dos estudantes e representa 
+o  mel  da  colmeia.  Neste  processo  ainda  devem  envolver  estudantes  e  professores  de 
+escolas públicas, de forma que dê sentido a saída das abelhas da colmeia para expansão 
+e  construção  de  uma  ‘nova  colônia’,  uma  vez  que  aquela  colmeia  já  esteja  em  plena 
+produção. 
+
+ 
+O  Colmeia  Game  possui  uma  missão  única  e  cinco  fases  que,  ao  serem 
+desenvolvidas,  fornecem  aos  estudantes  elementos  necessários  para  a  realização  dessa 
+missão,  a  saber:  encontrar  alternativas  para  promover  ideias  e  possíveis  ações  para 
+estimular,  entre  os  atores  de  escolas  públicas,  a  inserção  de  processos  criativos  na 
+construção  e  avaliação  de  jogos  didáticos  para  a  aprendizagem  de  conteúdos  de 
+ciências/biologia. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As  fases  do  Colmeia  Game  compreendem  as  camadas  de  uma  colmeia  de 
+ 
+abelhas.  Apesar  de  algumas  variações  na  sua  arquitetura,  dependendo  da  espécie,  há 
+uma ordenação mais comum entre várias espécies, a qual nos inspirou para determinar 
+as fases do jogo. Na parte mais alta da colmeia é guardado o mel, em seguida o pólen, 
+depois as larvas e ovos mais ao centro, uma área onde ficam os zangões e o alvéolo real, 
+na qual a abelha rainha se instala até colocar todos os ovos para depois sair em busca de 
+novo local para criar uma nova colônia, juntamente com outras abelhas operárias.  
+
+ 
+
+ 
+Fizemos  uma  analogia  às  fases  do  design  de  planejamento,  enquanto  processo 
+criativo,  no  qual  precisa  (i)  entender  e  conhecer  o  problema,  fase  muito  preciosa  para 
+que  seja  possível  chegar  à  resolução  de  um  problema,  consideramos  aqui  o  principal 
+“produto”  de  um  planejamento  (depósito  de  mel).  (ii)  Levantamento  de  recursos,  de 
+ideias  criativas  com  potencial  para  criação  do  mel  (depósito  de  pólen).  (iii)  Fase  de 
+prototipagem,  criação  de  um  modelo  potencial  do  jogo  didático  para  manutenção 
+concreta da colmeia (depósito de larvas e ovos). (iv) Aplicação do modelo, momento de 
+testagem do protótipo com fins de replicar o modelo planejado, mas agora em contexto 
+real. (área dos zangões), uma vez que estes têm a única função de replicar a colônia, o 
+modelo  aqui  ocupa  função  similar,  desde  que  devidamente  avaliado  em  sua  execução. 
+(v) Fase da avaliação final, retroalimentando o processo a partir de uma avaliação mais 
+ampliada (alvéolo real), traçando um paralelo com a função da abelha rainha, a qual tem 
+a função principal de manutenção e ampliação das colônias, a avaliação também ocupa 
+um papel fundamental no processo pedagógico. 
+
+ 
+Cada  fase  de  jogo  foi  composta  por  8  desafios  coletivos  (Bee  Colônia)  e  4 
+desafios  individuais  (Bee),  todos  relacionados  a  conteúdos  específicos  das  disciplinas 
+e/ou a competências que precisavam ser desenvolvidas entre os estudantes. Os desafios 
+foram  liberados  de  acordo  com  a  conclusão  do  anterior  e  respectivas  avaliações,  de 
+forma  que  o  mediador  (professor)  pudesse  ponderar  qual  melhor  caminho  a  seguir. 
+Houve  pouca  variação  temporal  entre  as  equipes,  já  que  todas  estavam  terminando  os 
+desafios praticamente no mesmo tempo. 
+
+ 
+Cada  desafio  teve  uma  pontuação  específica,  chamada  de  “meles”  no  contexto 
+do  jogo,  compondo  um  ranking  das  equipes.  Os  meles  foram  transformados  em  nota 
+para  a  disciplina  ao  final  do  processo.  Houve  desafios  para  equipes,  chamados  de 
+‘desafios colônia’ e também desafios individuais, chamados de ‘desafios bee’. 
+
+ 
+O  Colmeia  Game  teve  um  caráter  colaborativo  e  não  competitivo,  pois  os 
+desafios demandaram cooperação e colaboração não só entre os integrantes das mesmas 
+equipes, mas também entre as equipes. Desta forma trazemos ao contexto das práticas o 
+desenvolvimento  de  cinco  competências  que  entendemos  serem  importantes  para 
+qualquer  pessoa,  em  qualquer  campo  de  atuação  social  e  profissional.  Denominamos 
+estas  competências  em  BeeGroup,  estimulada  pelas  ações  de  trabalho  em  equipe; 
+BeeTime, focalizando aspectos de gestão de tempo  e responsabilidade;  BeeTalk focada 
+em questões comunicacionais; BeePlan com desafios que estimulam processos criativos 
+de planejamento de ações e a competência BeeLove (empatia) que remonta elementos de 
+colaboração e cooperação e  pode ser vivenciada e avaliada sob critérios mais palpáveis 
+e não apenas fazer parte de um discurso ou de uma visão meramente subjetiva. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Contexto teórico para formação do Colmeia 
+
+Vivenciamos  hoje  a  4ª  revolução  industrial  [Schwab,  2017],  a  qual  impõe  novos 
+modelos  de  produção  e  de  relações  sociais  que  criam  uma  disruptura  com  formas  que 
+tradicionalmente  eram  usadas  para  interações  sociais  e  profissionais.  Partindo  da 
+premissa  que  já  vivemos  uma  era  imersa  na  complexidade  [Morin,  1994],  chamando 
+aqui  de  ‘era  complexa’,  esta  impõe  desafios  novos  em  termos  de  construção  de  uma 
+sociedade  interconectada,  cujas  relações  com  os  sistemas  de  automação  tecnológica  e 
+inteligência  artificial  (IA)  nos  colocam  frente  a  escolhas  que  não  mais  requerem 
+reproduções de informações, mas sim ações reflexivas e reativas próprias dos humanos 
+[Roberts,  2015].  Dentre  estas  podemos  considerar  a  habilidade  de  se  relacionar,  de 
+demonstrar  afeto,  empatia,  se  divertir,  entre  outras  ações  que  têm  nas  relações  o  seu 
+cerne.  Assim,  requisita-se  focar  os  modelos  de  ensino  de  forma  que  favoreçam  a 
+aprendizagem,  a  construção  de  conhecimentos  mais  focada  em  desenvolvimento  de 
+habilidades  e  competências,  em  pessoas,  para  que  os  estudantes  consigam  resolver 
+problemas de forma criativa e crítica. 
+
+No  contexto  da  Licenciatura,  sem  deixar  de  lado  a  função  social  do  ensino  em 
+ 
+estimular  ações  vinculadas  à  vida  pessoal,  social  e  profissional  que  os  estudantes 
+ocupam  e  ocuparão,  colocamos  como  objeto  de  estudo  um  processo  dialógico  e 
+pretensamente divertido no modelo de trabalho das disciplinas de Didática e Avaliação 
+da  Aprendizagem,  articulando  com  ações  fora  do  campus  universitário:  em  escolas 
+públicas de região do interior de Pernambuco. 
+
+ 
+Assim, inspirados por autores como Alves et al. (2014);  Huizinga (1993); Kapp 
+(2012); Morin (2002); Schlemmer (2014) e Ulbricht e Fadel (2014), entendemos que a 
+inserção  de  jogos,  de  processos  lúdicos  ou  de  gamificação  possam  favorecer  o 
+engajamento e a aprendizagem dos  estudantes, além de favorecer a busca pela atuação 
+nas  escolas  de  educação  básica,  ampliando  a  comunicação  e  relação  Universidade-
+sociedade,  no  caso  as  escolas  [Freire,  2000;  2006],  levando  os  estudantes  do  curso  a 
+intervirem  positivamente  e  colaborativamente  nas  práticas  de  ensino  com  proposições 
+de jogos didáticos para o ensino das ciências/biologia. 
+
+Verificamos que a narrativa do jogo e as etapas que o mesmo dispôs levaram os 
+ 
+estudantes  a  planejarem,  criarem,  compartilharem  e  intervirem  positivamente  nas 
+escolas  de  educação  básica,  de  forma  que  foi  possível  construir  conhecimentos 
+específicos  dos  conteúdos  das  disciplinas  envolvidas,  assim  como  desenvolverem 
+competências necessárias para formação acadêmica e futura atuação como docentes do 
+século XXI. 
+
+4. Objetivos 
+
+Temos como objetivo deste artigo descrever o processo de gamificação para promoção 
+de competências e habilidades para docência durante a formação inicial na graduação. 
+
+Mais especificamente em relação aos objetivos do processo de gamificação, elencamos: 
+
+1.  Engajar  os  estudantes  através  de  ações  diversificadas  motivando-os  a  um 
+
+trabalho divertido e essencialmente comunicacional. 
+
+2.  Estimular a reflexão teoria/prática na interação com o espaço escolar. 
+
+ 
+
+  
+
+ 
+
+ 
+
+3.  Promover outras formas de ensinar e aprender, diferentes do modelo tradicional 
+
+(transmissor-receptor) de ensino. 
+
+4.  Enfatizar  processos  de  aprendizagem  e  desenvolvimento  de  competências  e 
+
+5.  Estimular  o 
+
+trabalho 
+
+interdisciplinar  e  colaborativo  entre  estudantes  e 
+
+6.  Criar  instrumentos  e  critérios  avaliativos  que  demarquem  um  processo  de 
+
+habilidades. 
+
+professores na Licenciatura. 
+
+avaliação formativa. 
+
+5. Metodologia 
+
+Resumiremos  aqui  as  etapas  do  processo  de  implantação  da  gamificação  no  Ensino 
+Superior,  de  forma  a  atender  nosso  objetivo  deste  artigo,  mas  apontando  alguns 
+elementos  que  consideramos  relevante  descrever  para  melhor  compreensão  do  que 
+fizemos neste Projeto. 
+
+ 
+Essencialmente  partimos  do  emprego  de  metodologias  ativas  para  instalar  um 
+processo  criativo  entre  os  estudantes,  com  fins  na  construção  e  aplicação  de  jogos 
+didáticos. Envolvendo as seguintes etapas: 
+
+1.  Planejamento  do  Colmeia  Game  –  elaboração  de  desafios,  com  base  nos 
+conteúdos  das  disciplinas,  que  façam  um  sentido  lógico  de  construção  do 
+conhecimento,  gerenciando  este  processo  através  de  uma  plataforma  online.  A 
+princípio foi usada a sala de aula virtual da Google  – Google Classroom. Neste 
+espaço  foram  lançados  desafios  em  formas  de  “atividades”  e,  pela  ferramenta 
+online, podemos dar feedbacks individual e coletivo, uma vez que as equipes se 
+inscreveram como sendo um aluno desta sala (criaram um perfil da equipe). 
+
+2.  Conceituação  do  processo  de  gamificação  –  envolveu  a  proposição  de  desafios 
+aos estudantes da graduação, dentro de uma narrativa ligada a vida das abelhas. 
+Tais desafios foram relacionados aos conteúdos necessários para a construção de 
+jogos  didáticos,  estabelecendo  um  elo  conceitual  entre  a  prática  de  ensino  e  as 
+ações que foram executadas nas escolas. Desta forma os estudantes puderam se 
+munir  de  instrumentos  necessários  para  a  consecução  da  missão  do  Colmeia 
+Game,  partindo  do  pressuposto  que  as  escolas  envolvidas  demonstram,  em 
+sondagem prévia, poucas práticas interativas e principalmente lúdicas. 
+
+3.  Motivação e engajamento dos estudantes – Tendo em vista promover o interesse 
+e engajamento dos estudantes, propomos um roteiro gamificado das disciplinas 
+de  Didática  e  Avaliação  da  Aprendizagem,  nas  quais  os  estudantes  foram 
+instrumentalizados  conceitualmente  e  praticamente  para  a  resolução  de 
+problemas focados na missão do jogo. 
+
+4.  Prototipação – Foram construídos 06 jogos didáticos em sintonia com processos 
+de organização curricular das escolas, alinhando os conceitos com os respectivos 
+professores das escolas, de forma que a intervenção não se tornasse um evento a 
+parte  na  escola,  mas  sim  algo  que  nutrisse  as  próprias  relações  educacionais. 
+Favorecendo uma comunicação positiva entre a Universidade e as escolas e não 
+apenas um mero uso do espaço escolar para uma prática isolada. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+5.  Construção  conceitual  dos  jogos  –  Os  jogos  didáticos  produzidos  pelos 
+estudantes  abordaram  conteúdos  da  Zoologia,  fazendo  alusão  curricular  com  o 
+objeto conceitual mais amplo do curso de Licenciatura em Ciências Biológicas, 
+além de justificar uma parceria em um evento com professores desta disciplina. 
+Podemos  considerar  aqui  uma  pequena  ampliação  da  interdisciplinaridade  que 
+visualizamos para esse projeto. 
+
+6.  Gestão de processos – Foi implantado um processo de gestão criativo, com uso 
+de  recursos  tecnológicos,  favorecendo  a  comunicação  entre  os  próprios 
+estudantes  e  destes  com  o  professor,  assim  como  com  os  estudantes  monitores 
+do projeto. Os estudantes apresentaram seus progressos na sala de aula  Google 
+(Google  Classroom)  e  no  aplicativo  Trello  (gestão  de  atividades).  Sendo  este 
+último também utilizado para gestão do processo de concepção dos desafios do 
+Colmeia, juntamente com a equipe de monitores das disciplinas. 
+
+7.  Manutenção  motivacional  –  Implantamos  elementos  físicos  motivadores,  os 
+quais  foram  relacionados  às  habilidades  e  competências  que  este  Projeto  visou 
+estimular. Os estudantes receberam bótons (figura 1) ao se destacarem nas áreas 
+de:  planejamento  (BEEPLAN);  gestão  de 
+tempo  (BEETIME);  empatia 
+(BEELOVE);  comunicação  (BEETALK)  e  trabalho  em  equipe  (BEEGROUP). 
+Além  dos  botons,  recebiam  “meles”  que  correspondia  a  uma  pontuação 
+específica  para  cada  tipo  de  desafio.  Estes  meles  se  converteram  em  notas  ao 
+final do processo. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Elementos de estímulo no jogo (bótons) 
+
+8.  Aplicação  nas  escolas  –  As  equipes  de  estudantes,  devidamente  preparadas, 
+realizaram  suas  intervenções  em  parceria  com  os  professores  das  escolas, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+promovendo  seus  jogos  didáticos  e  gerando  relações  que  motivassem  os 
+estudantes das escolas a construírem relações conceituais com os jogos aplicados 
+e  conteúdos  que  estavam  estudando  ou  que  iram  estudar  (em  2  casos),  assim 
+como a possibilidade de construção de novos jogos. 
+
+9.  Comunicação  –  Além  dos  pontos  de  interação  prévia  com  as  escolas,  os 
+estudantes  colaboradores  deveriam  envolver  o  máximo  possível  de  atores 
+escolares  na  dinâmica  dos  seus  jogos,  de  forma  a  gerar  um  clima  de 
+aprendizagem  para  outros  eventuais  sujeitos  que  quisessem  participar  dos 
+momentos  de  intervenção.  Além  disso,  apresentaram  suas  experiências  com  os 
+jogos  didáticos  em  evento  próprio  do  curso.  Outro  aspecto  comunicacional  foi 
+ligado  à  forma  de  registros  fotográficos  e  videográficos  realizados  nas  escolas, 
+de forma que comunicassem uma narrativa do que foi realizado, isto para fins de 
+prestação  de  relatório  final,  comunicando  visualmente  e  textualmente  suas 
+experiências. 
+
+10. Avaliação  –  Foram  criados  formulários  com  critérios  que  abrangiam  a 
+compreensão  da  construção  dos  jogos  didáticos  pelos  estudantes  da  graduação, 
+assim  como  sua  aplicação  nas  escolas  básicas.  Os  instrumentos  e  critérios 
+avaliativos  foram  propostos  e  construídos  pelos  estudantes  da  disciplina  de 
+Avaliação  da  Aprendizagem,  compondo  seus  desafios  neste  caminho  de 
+processo avaliativo formativo. Desta forma foi possível avaliar continuamente o 
+Colmeia Game, verificando a efetividade do projeto em termos de engajamento 
+de  estudantes,  na  apropriação  de  conteúdos,  aplicação  dos  jogos  didáticos  nas 
+escolas,  aspectos  motivacionais  para  construção  de  modelos  destes  jogos, 
+aspectos  relacionados  ao  desenvolvimento  das  competências  citadas  no  item  6 
+acima.  Essas  ações  avaliativas  contribuíram  para  criação  de  um  clima  positivo 
+em  relação  aos  processos  de  aprendizagem,  valorizando  a  formação  dos 
+estudantes e não apenas os resultados finais das atividades (desafios) realizadas. 
+
+6. Considerações Finais 
+
+Por  meio  desta  experiência  pedagógica,  podemos  considerar,  pelos  depoimentos  dos 
+estudantes de ambas disciplinas, quando questionados sobre o que acharam do processo 
+de  gamificação,  que  se  constituiu  um  diferencial  nos  processos  de  ensino  e 
+aprendizagem, adequando-se ao contexto da cultura digital, uma vez que estimulamos e 
+usamos ferramentas digitais diversas, aplicadas dentro de um contexto relacional, dando 
+sentido ao uso em si.  
+
+“Não  gostava  de  cadeiras  de  educação  por  sempre  achá-las  chatas. 
+Mas quando o professor transformou a cadeira em um jogo, ficou bem 
+mais  divertido  participar.  Foi  uma  verdadeira  experiência  de 
+‘aprender  brincando’.  Tornou  a  cadeira  minha  melhor  experiência 
+nas cadeiras de educação. Gostei de ter participado e de estar dentro 
+do ‘jogo’. Me senti importante, como uma operária dentro da colmeia 
+kkkkkkk”  (depoimento  de  aluno  da  disciplina  de  Avaliação  da 
+Aprendizagem). 
+
+ 
+Além disso, percebemos que este tipo de  iniciativa  didática  também  contribuiu 
+positivamente para formação dos estudantes, dando-lhes experiência prático-conceitual, 
+em  especial  no  desenvolvimento  de  competências  necessárias  neste  cenário 
+sociocultural do século XXI. 
+
+ 
+ 
+
+ 
+
+ 
+
+“Achei muito criativa, e eu futuramente pretendo colocar em prática 
+com  meus  futuros  alunos”.  (depoimento  de  aluna  da  disciplina  de 
+Didática) 
+
+ 
+
+Por  ainda  ter  um  caráter  experimental,  o  Colmeia  Game  está  sujeito  a  testes  e 
+ 
+taxas  razoáveis  de  falhas,  como  percebemos  algumas  ao  longo  do  tempo,  o  que  nos 
+possibilitou  abrir  espaço  necessário  de  investigação  e  necessários  ajustes.  Mas  ao 
+mesmo tempo, possibilitou expandir potencialmente entendimentos e explorações sobre 
+novas práticas pedagógicas que sejam bem planejadas e acreditamos bem-sucedidas. 
+
+ 
+As dificuldades até aqui encontradas refere-se a uma plataforma mais adequada 
+para  promover  uma  imersão  dos  estudantes  no  ambiente  do  jogo.  Após  consulta  aos 
+estudantes,  percebemos  a  necessidade  de  construção  de  um  site  específico  para  o 
+Colmeia e  estamos  trabalhando na construção deste material a fim de promover maior 
+engajamento dos estudantes no contexto narrativo do jogo. 
+
+O processo de gamificação no ensino superior não é simples de ser implantado, 
+ 
+levando  em  consideração  a  complexidade  de  planejamento  que  deve  ser  feito  e  a 
+diminuta equipe de concepção e execução do jogo, a qual, a princípio, é realizada mais 
+fortemente  pelo  próprio  professor  das  disciplinas  com  suporte  de  monitores  na  parte 
+executiva.  Mas  este  elemento  não  é  desanimador,  mas  sim  desafiador,  uma  vez  que  a 
+gamificação se tornou, em nossa experiência, forte aliado no processo de promoção de 
+novas  práticas  educacionais  e  favorecedora  de  engajamento  dos  estudantes  na 
+construção do conhecimento. Percebemos que ainda há necessidade de investimentos e 
+mais pesquisas sobre sua efetividade em termos de aprendizagem e outras perspectivas 
+que aludem o ambiente educacional universitário. 
+
+Referências 
+
+Alves,  L.R.  et  al.  (2014).  Gamificação:  diálogos  com  a  educação.  In:  Fadel,  Luciane 
+Maria et al (Org.). Gamificação na educação. São Paulo: Pimenta Cultural [e-book] 
+
+Freire,  P.  (2000).  Pedagogia  da  Indignação:  cartas  pedagógicas  e  outros  escritos. 
+
+São Paulo: Editora UNESP. 
+
+Freire, P. (2006) Extensão ou Comunicação. 13ª edição. São Paulo: Paz e Terra. 
+
+Gomes,  A.S.  &  Silva,  P.A.  (2016).  Design  de  Experiências  de  Aprendizagem: 
+Criatividade  e  inovação  para  o  planejamento  de  aulas.  Série  Professor  Criativo. 
+Recife: Pipa Comunicação, 162p. 
+
+Huizinga, J. (1993) Homo Ludens: o jogo como elemento da cultura. 4ª edição. São 
+
+Paulo: Editora Perspectiva. 
+
+Junges,  K.S.  &  Behrens,  M.A.  (2016).  Uma  formação  pedagógica  inovadora  como 
+caminho para a construção de saberes docentes no Ensino Superior. Educar em 
+Revista, (59), 211-229. https://dx.doi.org/10.1590/0104-4060.42282 
+
+Kapp,  K.  (2012).  The  Gamification  of  Learning  and  Instruction:  Game-based 
+Methods and Strategies for Training and Education. San Francisco: Pfeiffer. 
+
+Morin,  E.  (2002).  Os  sete  saberes  necessários  à  educação  do  futuro.  5ª  edição.  São 
+
+Paulo: Cortez; Brasília: UNESCO. 
+
+Schwab,  K.  (2016).  A  quarta  revolução  industrial.  Tradução:  Daniel  Moreira 
+
+Miranda. São Paulo: Edipro. Título original: The Fourth Industrial Revolution. 
+
+ 
+
+ 
+
+ 
+
+Schlemmer,  E.  (2014).  Gamificação  em  espaços  de  convivência  híbridos  e 
+multimodais: design e cognição em discussão. Revista da FAEEBA – Educação e 
+Contemporaneidade, Salvador, v. 23, n. 42, p. 73-89, jul/dez. 
+
+Ulbricht,  V.R.;  Fadel,  L.M.  (2014).  Educação  gamificada:  valorizando  os  aspectos 
+sociais. In: Fadel, Luciane Maria et al (Org.). Gamificação na educação. São Paulo: 
+Pimenta Cultural [e-book]. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+

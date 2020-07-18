@@ -1,0 +1,775 @@
+Jogos Digitais como Estratégia para Desenvolver o 
+Pensamento Computacional nos Anos Finais do Ensino 
+Fundamental 
+
+Valéria Maria dos Santos Silva, Juliana Regueira Basto Diniz, Sônia Virgínia 
+Alves França 
+
+Unidade Acadêmica de Educação a Distância e Tecnologia – Universidade Federal 
+Rural de Pernambuco, Recife – PE, Brasil. 
+
+valeria_santos804@hotmail.com, juliana.diniz@ufrpe.br, 
+soniafranca@gmail.com 
+
+Abstract.  There  are  a  lot  of  papers  relating  digital  games  in  classrooms  aiming  to 
+teach  computer  science.  In  some  researches,  teachers  apply  digital  games  in  their 
+classes to develop computational thinking among students. This paper presents a survey 
+that relates papers published between 2014 to 2018. Analyzing the results, we identified 
+some advantages and disadvantages in using digital games in education. Some activities 
+were selected to apply in a school in countryside of Pernambuco, state in Brazil. The 
+results of the first stage of this research are presented in this paper in a experiment with 
+25 students of 9th year. 
+ 
+Resumo. É possível encontrar vários trabalhos que relatam o uso de jogos digitais em 
+sala  de  aula  com  o  objetivo  de  ensinar  conceitos  de  ciência  da  computação.  Na 
+realização de algumas pesquisas os professores aplicam os jogos digitais em sala de 
+aula  com  o  objetivo  de  desenvolver  o  pensamento  computacional  nos  alunos.    Este 
+artigo  apresenta  uma  revisão  sistemática  de  literatura,  que  teve  como  objetivo 
+identificar artigos publicados entre o período de 2014-2018.  Na análise dos resultados, 
+foram identificadas vantagens e desvantagens na utilização dos jogos, bem como foram 
+elencadas  um  conjunto  de  atividades  para  aplicação  de  pesquisa  de  campo  numa 
+escola, da zona da Mata do estado de Pernambuco.  Os resultados da primeira etapa 
+da pesquisa de campo também são apresentados como achados da pesquisa através de 
+um experimento com 25 alunos do 9º ano do Ensino Fundamental II.  
+
+1. Introdução  
+
+Levando em consideração os avanços tecnológicos, a Sociedade Brasileira de Computação (SBC) 
+incentiva ações que permitam o ensino dos conceitos da Computação a partir do ensino básico. O 
+estímulo por parte do órgão ocorre com a intenção de que desde cedo, os princípios e habilidades 
+sejam trabalhados nos estudantes, e desse modo contribuir para a prática da lógica e resolução de 
+problemas, assim como, estimular o interesse pela área, aumentando o número de profissionais no 
+país. Uma das formas de introduzir os conceitos de informática nas escolas é através dos jogos 
+digitais. Marinho e colegas relatam que muitos estudos defendem não apenas o uso dos jogos nas 
+escolas,  mas  também  que  o  desenvolvimento  de  jogos  digitais  por  alunos  como  estratégias  de 
+aprendizagem  [Marinho  et  al.  2011].  Os  jogos  são  considerados  importantes  para  o 
+desenvolvimento da coordenação motora e aprendizagem intelectual. Os jogos trabalham aspectos 
+
+ 
+
+cognitivos  [Ramos,  2013],  sendo  esta  uma  forma  de  abrir  a  mente  para  a  criatividade  e 
+aprendizado.  
+
+Outro  fator  relevante  para  o  uso  dos  jogos  é  o  desenvolvimento  do  pensamento 
+computacional.  O  Pensamento  Computacional  (PC)  é  definido  por  Wing  (2006),  como  um 
+processo  de  resolução  de  problemas  com  práticas  fundamentadas  na  Ciência  da  Computação 
+capaz  de  estimular  o  desenvolvimento  de  habilidades  como  decomposição,  abstração, 
+generalização, raciocínio algorítmico e modularização. Para Wing, o PC é um pensamento do ser 
+humano, ao invés de um pensamento mecânico ou de máquina. Ao fazer uso do PC, o indivíduo 
+desenvolve habilidades importantes, o que pode lhe proporcionar, em curto prazo, sucesso em sua 
+vida pessoal e profissional. 
+
+O presente artigo trata-se de uma Revisão Sistemática da Literatura (RSL) com o objetivo 
+de  analisar  os  artigos  sobre  o  uso  de  jogos  digitais  para  o  ensino  de  programação  e 
+desenvolvimento  do  Pensamento  Computacional.  A  pesquisa  foi  realizada  em  trabalhos 
+publicados sobre o tema nos últimos cinco anos (2014 a 2018). A busca foi feita em bases de 
+pesquisa  dos  Anais  de  Simpósio  Brasileiro  de  Informática  na  Educação  (SBIE),  Anais  do 
+Workshop de Informática na Escola (WIE) e nos Anais dos Workshops do Congresso Brasileiro 
+de  Informática  na  Educação  (WCBIE).  Além  disso,  apresenta  como  resultado,  uma  proposta 
+transversal para o ensino do pensamento computacional e programação utilizando jogos. 
+
+O  artigo  encontra-se  organizado  da  seguinte  maneira:  a  Seção  2  apresenta  estudos  que 
+tratam  do  ensino  de  computação.  A  Seção  3  descreve  a  metodologia  utilizada  na  execução  da 
+pesquisa. A Seção 4 descreve como foi feita a seleção dos trabalhos utilizados para a produção desta 
+pesquisa, como também apresenta a lista de artigos pesquisados. A Seção 5 expõe os resultados 
+obtidos  a  partir  das  respostas  das  questões  de  pesquisa  levantadas  na  metodologia.  A  Seção  6 
+apresenta uma abordagem proposta para a aplicação nos anos finais do ensino fundamental e uma 
+lista com as atividades propostas. A Seção 7 traz os resultados preliminares da experimentação dessa 
+proposta numa escola no interior de Pernambuco. Por fim, as considerações finais sobre o referido 
+trabalho são apresentadas na seção 8, sendo seguida pelas referências bibliográficas.    
+
+2. Referencial Teórico   
+
+O Model Curriculum for K–12 Computer Science (SEEHORN et al. 2011) apresenta a maneira 
+como  a  Computação  como  Ciência  pode  contribuir,  de  maneira  interdisciplinar,  na  busca  de 
+soluções de problemas. Na economia americana, a ciência da computação é peça fundamental, mas, 
+no entanto, apenas 35 estados americanos permitem aos estudantes cursarem cursos de computação 
+no ensino médio. 
+
+tais 
+
+algumas 
+
+instituições, 
+
+Nos  Estados  Unidos, 
+
+for 
+ComputingMachinery, Code.org, Computer Science TeachersAssociation, Cyber Innovation Center 
+e NationalMath e Science Initiative tem trabalhado conjuntamente na definição e desenvolvimento 
+de  um  padrão  conceitual  para  o  ensino  da  computação  na  educação  básica  (Computer  Science 
+Education). O denominado K–12 Computer Science Framework1 apresenta-se como uma proposta 
+para o sistema educacional americano se adaptar a visão dos estudantes do século 21 que não são 
+apenas usuários de computador, mas também criadores que são proficientes nos conceitos e práticas 
+da ciência da computação (CSTA et al. 2010).  
+
+ Association 
+
+como, 
+
+1https://k12cs.org/framework-statements-by-grade-band/ 
+
+ 
+
+ 
+
+ 
+
+De acordo com o modelo proposto, no ensino fundamental I, o estudante aprende como 
+passar instruções ao computador através de uma sequência de ações como peças de um quebra-
+cabeça, criando algoritmos computacionais como desenhos. Pela pouca idade, o estudante entende 
+a computação como uma experiência criativa e com uma ferramenta para sua expressão pessoal. 
+Esse  mesmo  estudante  ao  chegar  ao  ensino  fundamental  II  irá  evoluir  no  uso  dos  conceitos  e 
+compreensão  de  como  o  computador  trabalha,  uma  vez  que  usa  o  computador  e  os  princípios 
+computacionais  para  aprimorar  suas  experiências  de  aprendizagem  em  outras  disciplinas.  A 
+computação  apresenta-se  como  um  instrumento  para  representar  e  resolver  problemas.  Quando 
+chega ao ensino médio esse estudante enxerga oportunidades dentro de sua comunidade para aplicar 
+computação de maneira inovadora. Os conceitos e práticas da ciência da computação podem ser 
+empregados para efetivar mudanças autênticas em baixa ou larga escala de interesses.   
+
+No Brasil, a Sociedade Brasileira de Computação elaborou uma proposta de diretrizes para 
+o  ensino  de  computação  nos  ensinos  fundamental  e  médio  entregando-a  em  julho  de  2018  ao 
+Conselho  Nacional  de  Educação.  Este  documento  contempla  aspectos  relativos  à  que  conceitos 
+devem ser trabalhados em cada ano da educação básica.  
+
+Nos Anos Iniciais do ensino fundamental, por exemplo, devem ser trabalhados conceitos 
+relacionados às estruturas abstratas necessárias à resolução de problemas no eixo de Pensamento 
+Computacional. Espera-se que os estudantes entendam as noções básicas de algoritmo e consigam 
+elaborá-los para solucionar diferentes problemas através de linguagens imagéticas ou mesmo a sua 
+própria  linguagem  natural.  Dessa  forma,  sugere-se  que  o  Pensamento  Computacional  seja 
+trabalhado  inicialmente  de  forma  desplugada  nos  Anos  Iniciais.  Para  os  anos  finais  do  ensino 
+fundamental,  os  estudantes  devem  dominar  as  principais  técnicas  para  construir  soluções 
+algorítmicas de maneira a serem executadas por máquinas e/ou computadores, podendo analisar de 
+maneira crítica os problemas e suas possíveis soluções. 
+
+3. Metodologia 
+
+A abordagem utilizada na pesquisa é qualitativa a fim de poder criar argumentações para o seu 
+desenvolvimento.  O  objetivo  da  revisão  sistemática  foi  pesquisar  e  selecionar  artigos  que 
+apresentam e discutem práticas aplicadas em sala de aula para promover o desenvolvimento do 
+pensamento  computacional  através  de  jogos  digitais.  A  metodologia  da  pesquisa  é  descritiva 
+visando ampliar o conhecimento sobre jogos digitais e como eles podem ser utilizados para ensino 
+de  programação.  Após  a  realização  da  pesquisa  bibliográfica,  foi  selecionado  um  conjunto  de 
+atividades a serem aplicadas nas escolas da rede pública da região de Surubim, na região da Zona 
+da Mata Norte do estado de Pernambuco.  
+
+3.1 Questões de pesquisa 
+
+Esta  revisão  sistemática  de  literatura  tem  por  objetivo  apresentar  informações  relevantes 
+sobre o contexto do ensino de programação através do uso de jogos digitais. Desse modo 
+foram  elaboradas  Questões  de  Pesquisa  (QP),  com  a  finalidade  de  extrair  dos  dados 
+obtidos, informações relevantes para a construção do trabalho. Seguem as QP: 
+
+•  QP1:  Quais  conceitos/conhecimentos  de  programação  são  abordados/ensinados, 
+
+com a aplicação do jogo? 
+
+•  QP2: Quais as práticas pedagógicas mais utilizadas como metodologia, para aplicar 
+
+•  QP3: Quais métodos de avaliação da aprendizagem mais utilizados? 
+•  QP4:  Quais  vantagens  e/ou  limitações  foram  encontradas  para  aplicação  da 
+
+o estudo? 
+
+metodologia?  
+
+ 
+
+3.2. Condução da busca 
+
+Para  realizar  esse  trabalho  foi  feita  uma  pesquisa  nos  principais  meios  científicos 
+brasileiros relacionados à  informática na educação,  conforme pode ser visto na Tabela 
+1.  Foi  realizada  uma  busca  manual,  nas  bases  de  pesquisas  brasileiras,  (SBIE), 
+(WCBIE)  e  na  (WIE),  através  da  expressão  norteadora  “jogos  digitais”.  A  busca  foi 
+refinada  através dos critérios “apenas artigos”, “pesquisas publicadas de 2014 a 2018” 
+nos idiomas “português” e “inglês”. 
+
+Tabela 1. Fontes de pesquisa de publicações nacionais 
+
+Sigla 
+
+SBIE 
+WCBIE 
+WIE 
+
+Simpósio Brasileiro de Informática na Educação 
+Workshops do Congresso Brasileiro de Informática na Educação 
+Workshop de Informática na Escola 
+
+Fonte 
+
+Para o artigo ter sido selecionado, ele deveria ter em seu título a expressão de pesquisa.  
+Para  uma  análise  mais  profunda  foi  lido  o  resumo  dos  artigos,  de  modo  a  escolher  os  que 
+atendessem os critérios de inclusão, como mostra a Tabela 2. Em relação aos critérios de exclusão, 
+foram  desconsiderados  os  trabalhos  que  não  trariam  contribuições  à  pesquisa,  e  também  estão 
+ilustrados na Tabela 2. Artigos que apresentavam uma revisão sistemática de literatura não foram 
+selecionados,  sendo  considerados  apenas  aqueles  que  descrevem  ou  aplicam  alguma  prática 
+pedagógica ou descrevem o uso de jogos digitais como ferramentas de ensino de programação. 
+
+Tabela 2. Critérios de inclusão e exclusão 
+
+Critérios de Inclusão (CI’s) 
+CI1.  Artigos  publicados  entre  os  anos  de  2014  e 
+2018. 
+CI2. Trabalhos escritos em português ou inglês. 
+CI3.  Artigos  completos  (com  quatro  páginas  ou 
+mais).  
+CI4.  Publicações  que  possuam  em  seu  título  a 
+expressão  “jogos  digitais  AND  ensino  de 
+programação”. 
+CI5. Artigos que apresentam e discutem o uso de 
+jogos  digitais  para  o  ensino  de  programação  no 
+ensino fundamental. 
+
+4. Seleção de Trabalhos 
+
+Critérios de Exclusão (CE’s) 
+CE1. Artigos no formato de revisão sistemática de 
+literatura. 
+CE2.  Artigos  que  não  possuíam  em  seu  título  a 
+expressão norteadora de pesquisa. 
+CE3. Artigo duplicado. 
+CE4.  Artigos  voltados  para  o  ensino  de 
+programação  no  ensino  superior  ou  na  educação 
+infantil. 
+
+Aplicando a expressão de busca foram selecionados 97 artigos, cujos resultados podem ser vistos 
+na Tabela 3. 
+
+Tabela 3. Seleção de trabalhos 
+
+Fonte de Pesquisa 
+SBIE 
+WCBIE 
+WIE 
+Total  
+
+Total 
+39 
+29 
+29 
+97 
+
+CI’s 
+07 
+04 
+06 
+17 
+
+CE’s 
+32 
+25 
+23 
+80 
+
+Após  a  leitura  do  resumo  dos  artigos  e  aplicado  os  critérios  de  inclusão  foram 
+selecionados 17 artigos, ao aplicar os critérios de exclusão, 76 artigos foram excluídos. Os artigos 
+descartados  estavam  relacionados  à  pesquisa  bibliográfica  de  revisão  sistemática,  relatos  de 
+experiência com jogos no ensino médio, infantil ou superior. Os artigos selecionados foram lidos 
+para responder as questões de pesquisa. A listagem completa dos 17 artigos está disponível na 
+tabela 4. 
+
+ 
+
+Tabela 4. Lista de Artigos Selecionados 
+
+ID 
+E01 
+
+Título 
+Jogos digitais educacionais como instrumento didático no processo de 
+ensino-aprendizagem das operações básicas de matemática. 
+
+Evento  
+SBIE 
+
+E02  Um framework para criação de jogos voltados para o ensino de lógica 
+
+SBIE 
+
+E03  Conquistando com o Resto: Virtualização de um Jogo para o Ensino de 
+
+SBIE 
+
+de programação. 
+
+Matemática. 
+
+educação básica no Brasil. 
+
+E04  Desafios e  oportunidades  ao  ensino  do  pensamento computacional  na 
+
+WCBIE 
+
+2015 
+
+E05  Um relato de experiência da aplicação de videoaulas de programação 
+
+WIE 
+
+E06 
+
+de jogos digitais para alunos da educação básica. 
+Jogos  Digitais  no  desenvolvimento  de  conceitos  matemáticos  sob 
+perspectiva BYOD e abordagem m-Learning na escola pública. 
+
+E07  Experiência de Uso de Jogos Educacionais Digitais 
+Individuais em Contextos de Colaboração. 
+FORCA: Um editor de jogo educativo personalizável exportável como 
+objeto de aprendizagem. 
+
+E08 
+
+E09  A  Utilização  de  Role  Playing  Games  Digitais  como  Ferramenta 
+Complementar no Processo de Aprendizagem de Crianças Deficientes 
+Visuais. 
+
+E10  Mensurando  o  desenvolvimento  do  Pensamento  Computacional  por 
+meio  de  mapas  auto-organizáveis:  um  estudo  preliminar  em  uma 
+Oficina de Jogos Digitais. 
+
+WCBIE 
+
+2017 
+
+E11  Desenvolvimento de games na Língua Inglesa: lógica e criatividade na 
+
+WCBIE 
+
+2017 
+
+construção do conhecimento. 
+
+E12  A Experiência de Alunos de uma Escola Indígena nos 
+Primeiros Contatos com Jogos Digitais de Matemática. 
+
+E13  Aprendizagem  Baseada  em  Projetos:  Relato  de  Introdução  da  Lógica 
+
+WIE 
+
+E14  Uma  Abordagem  para  o  Desenvolvimento  de  Jogos  Digitais 
+
+SBIE 
+
+no Ensino Fundamental 
+
+Educativos no Ensino Básico. 
+
+E15  Desenvolvimento  e  avaliação  de  um  jogo  digital  educacional  sobre 
+
+SBIE  
+
+2018 
+
+aspectos socioculturais de países hispano falantes. 
+
+E16  O circuito quatro desafios: Atividade lúdica apoiada pelo Pensamento 
+
+WCBIE 
+
+2018 
+
+E17 
+
+Computacional. 
+Jogos  Educativos  no  Ensino  de  Matemática:  Qual  a  Melhor 
+Abordagem? 
+
+WIE 
+
+2018 
+
+A  Figura  1  mostra  a  quantidade  de  artigos  publicados  sobre  jogos  digitais  no 
+
+ensino de programação, distribuídos por ano e evento. 
+
+Ano 
+2014 
+
+2014 
+
+2014 
+
+2016 
+
+2016 
+
+2016 
+
+2017 
+
+2017 
+
+2017 
+
+2017 
+
+2018 
+
+WIE 
+
+WIE 
+
+SBIE 
+
+SBIE 
+
+WIE 
+
+7
+6
+5
+4
+3
+2
+1
+0
+
+WCBIE
+
+WEI
+
+SBIE
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+ 
+Figura 1. Número de artigos publicados entre 2014 e 2018 
+
+De acordo com o gráfico na Figura 1 é possível observar, o crescimento do número de 
+publicações que abordam o uso de jogos digitais para o ensino de programação entre os anos de 
+
+ 
+
+2014 e 2017, com uma queda no ano de 2015 e o mesmo se repete no ano de 2018, considerando 
+todos os eventos.  
+
+5. Resultados da Pesquisa Bibliográfica 
+
+A presente seção expõe os resultados obtidos a partir das respostas das questões de pesquisa (QP) 
+levantadas  nesta  RSL.  A  identificação  dos  estudos  é  representada  pela  coluna  ID,  conforme 
+descrito na Tabela 4. Os resultados serão apresentados e discutidos de forma detalhada, seguindo 
+as questões de pesquisa apresentados na Seção 2.1. 
+
+QP1:  Quais  conceitos/conhecimentos  de  programação  são  abordados/ensinados, 
+com a aplicação do jogo? 
+
+Os estudos [E2, E4, E11, E13 e E16] abordam os conceitos de lógica de programação. Os estudos 
+[E5 e E13] ensinam comandos e instruções de ensino de programação. Os estudos [E8 e E14] 
+abordam  um  editor  para  elaboração  de  um  jogo  educativo  personalizável  como  objeto  de 
+aprendizagem. O [E10] analisa programas desenvolvidos em Scratch por meio de mapas auto-
+organizáveis.  
+
+QP2:  Quais  as  práticas  pedagógicas  mais  utilizadas  como  metodologia,  para 
+aplicar o estudo? 
+
+O uso de jogos digitais foi aplicado em 76,47% dos estudos, o que representa 13 artigos [E1, E3, 
+E4, E5, E6, E7, E8, E9, E11, E12, E14, E15, E16]. Nos estudos [E13 e E17], utilizou-se o método 
+de  computação  desplugada,  como  também  de  jogos  digitais,  e  nos  estudos  [E2  e  E10]  foram 
+aplicados as práticas de linguagem de programação. 
+
+QP3: Quais métodos de avaliação da aprendizagem mais utilizados? 
+
+Os trabalhos [E1, E4 E6, E15 e E17] avaliam a aplicação do jogo por meio de questionários e 
+observação visual. O estudo [E5] aplicou um questionário on-line e observação visual. O estudo 
+[E7]  realizou  uma  análise  individual  e  análise  em  grupo  através  de  teste  de  conhecimento  e 
+questionário. O trabalho [E10] realizou uma análise observacional. Os estudos [E2, E8, E9, E11 e 
+E12] não especificaram. No estudo [E13] o projeto estava em andamento.  
+
+QP4:  Quais  vantagens  e/ou  limitações  foram  encontradas  para  aplicação  da 
+metodologia?  
+
+Vantagens: Os  estudos  [E1,  E9,  E12,  E16  e  E17]  apresentam  como  vantagem  o  trabalho  em 
+equipe,  motivação  ao  praticar  as  atividades.  [E3]  facilita  na  aprendizagem  de  conceitos 
+fundamentais de operação de divisão. O trabalho [E5] facilita a compreensão de programação de 
+jogos,  motivou  a  aprender  outros  conceitos  de  programação.  O  trabalho  [E6]  desenvolve 
+habilidades de raciocínio logico-matemático, resolução de problemas. O estudo [E7] possibilita a 
+aquisição  de  novos  conhecimentos  e  o  desenvolvimento  de  habilidades  cognitivas  e  meta-
+cognitiva. O trabalho desenvolvido no estudo [E8, E11] motivou os alunos e aumentou o interesse 
+pelos  conteúdos  abordados  em  sala  de  aula.  No  estudo  [E13]  observou-se  que  os  alunos 
+apresentavam autonomia na construção dos conhecimentos e evolução do raciocínio logico. No 
+estudo  [E15]  observou-se  o  desenvolvimento  de  competências  intercultural.  Os  estudos  [E4  e 
+E10] não especificaram vantagens. 
+
+Limitações: Em 70,58% (12) dos estudos [E1, E2, E3, E4, E5, E7, E9, E10, E11, E13, E14 e 
+E15] não especificaram suas limitações. O estudo [E6] apresentou como limitação, infraestrutura 
+tecnológica precária e ausência de formação de professores. No estudo [E8] observou-se falta de 
+aprofundamento  sobre  a  elaboração  de  editor  de  jogos  educativos.  O  estudo  [E12]  os  alunos 
+apresentam poucos conhecimentos em informática, dificuldades em utilizar o mouse e o teclado. 
+
+ 
+
+No  estudo  [E16]  os  alunos  apresentam  falta  de  conhecimento  no  assunto  abordado, 
+incompatibilidade de metodologia, individualidade e dificuldade de ouvir sugestões por parte dos 
+alunos.  No  estudo  [E17],  o  jogo  foi  aplicado  na  plataforma  digital  e  também  sem  recursos 
+tecnológicos,  sendo  que  a  forma  desplugada  não  motivou  os  alunos,  pois  esses  apresentavam 
+dificuldades em executar os comandos solicitados. 
+
+6. Proposta Transversal de Ensino 
+
+A presente revisão sistemática de literatura é complementada pela pesquisa de campo em 
+escola de educação básica, na zona da mata norte de Pernambuco, com o intuito de observar como 
+as  questões  referentes  ao  ensino  do  pensamento  computacional  e  da  programação  podem  ser 
+incorporadas ao cotidiano da escola de forma transversal nas disciplinas e através de atividades 
+específicas que envolvam jogos digitais. Assim, apresenta-se aqui uma proposta transversal para 
+ensino do pensamento computacional e programação utilizando jogos. Inicia-se pela computação 
+desplugada,  pois  através  dela  é  possível  desenvolver  a  linha  de  raciocínio  lógico,  sem  a 
+necessidade de recursos computacionais. A técnica classificada como computação desplugada foi 
+desenvolvida por Bell e colegas (2011) e consiste  em  ensinar os fundamentos da  computação, 
+através  de  atividades,  sem  o  uso  do  computador  (BELL  et  al.  2011).  Tais  atividades  têm 
+despertado o interesse de professores e pesquisadores, e tem sido empregada em diversos países 
+ao redor do mundo (SCAICO et al. 2012). 
+
+Isso  é  importante  no  contexto  do  presente  trabalho,  pois  diversas  escolas  da  rede  de 
+educação  pública  brasileira  estão  desatualizadas  quando  se  falam  em  recursos  computacionais, 
+viabilizando que o referido trabalho possa ser aplicado na região.  Para a escolha das atividades, 
+foram  utilizadas  como  referência,  as  atividades  propostas  por  Bell,  no  livro  Computer  Science 
+Unplugged (BELL et al. 2011) e são descritas a seguir: 1)Números Binários; 2)Representação de 
+Imagem; 3) Programação em blocos; 4) Jogo digital Lightbot.  
+
+A  primeira  atividade  é  simples  e  objetiva,  ensina  como  ocorre  o  armazenamento  dos 
+dados nos computadores, através de uma série de zeros e uns (sistema binário) com apenas esses 
+dois dígitos os dados são transmitidos e apresentados para o usuário como palavras e números. 
+Em seguida, parte-se para a atividade que utiliza a representação de uma imagem utilizando zeros 
+e  uns.  A  seguir,  parte-se  para  uma  ação  de  maior  complexidade,  ensinando  noções  de 
+programação em blocos, culminando com o lightbot que é um jogo online, tendo um robô como 
+personagem principal, cuja função é se movimentar para acender as luzes dos ladrilhos de  cor 
+escura. O jogador deve executar uma série de comandos (andar, acender, girar para esquerda ou 
+para a direita e pular). Os comandos devem ser organizados de forma que, quando executados em 
+sequência, façam o robô atingir o objetivo esperado. Após o término das etapas, espera-se que 
+estimular o desenvolvimento do raciocínio lógico, pensamento computacional, noções básicas de 
+programação,  a  partir  de  comandos  visuais  e  jogos  digitais  e  consequentemente  trabalhar  a 
+capacidade de resolver problemas. 
+
+7. Aplicação das Atividades na Escola  
+
+Como esse projeto está em andamento, até o momento da construção deste artigo, foram aplicadas 
+as  duas  primeiras  atividades,  numa  turma  do  9°  ano,  (Ensino  Fundamental  II)  da  Escola 
+Municipal  São  José,  escola  pública  da  Zona  da  Mata  Norte,  do  estado  de  Pernambuco.  Os 
+estudantes desta turma realizam uma vez na semana, no período vespertino, uma aula de reforço. 
+A  turma  é  composta  por  uma  média  de  30  alunos.  O  professor  de  matemática  da  turma 
+acompanhou a  aplicação das  atividades  e o processo de  aprendizagem. Os materiais utilizados 
+para a realização das atividades consistiram em papel e lápis. Para um melhor aproveitamento das 
+atividades e para que os alunos pudessem entender e tirar suas dúvidas a cerca da resolução das 
+
+ 
+
+questões, foi aplicado uma atividade por aula. Foram realizados três encontros, com duração de 1 
+hora cada.  
+
+Com o objetivo de avaliar o nível de conhecimento dos alunos em relação aos conceitos 
+de ciência da computação, e o interesse que os mesmo possuíam em assuntos relacionados à área, 
+foi aplicado um questionário contendo 3 questões,  antes do início das atividades (pré-teste),  e 
+após o término de todas as atividades (pós-teste). São elas: a) você já utilizou o computador para 
+realizar alguma atividade escolar, ou outras atividades do seu interesse? Sim() Não(), b) O que 
+você compreende por pensamento computacional? b) O que você acha que significa computação 
+desplugada? Os conceitos computacionais trabalhados nas atividades foram: sequência e padrão 
+sequencial,  criptografia,  representação  de  imagens,  busca  e  ordenação.  Inicialmente  foi 
+apresentada  aos  alunos  a  finalidade  das  atividades  e  em  seguida,  lhes  foi  solicitado  que 
+respondessem  o  pré-teste.  Os  alunos  deveriam  responder  as  questões  com  base  em  seus 
+conhecimentos prévios ou fazendo uso do seu entendimento pessoal. Nos resultados obtidos com 
+as  respostas  dos  alunos  no  pré-teste,  observou-se  que  mesmo  sem  aulas  prévias  sobre 
+computação,  eles possuíam algum  conhecimento sobre o assunto abordado. Ao mesmo tempo 
+também  foram  analisadas  as  respostas  desses  mesmos  alunos  no  pós-teste,  com  o  objetivo  de 
+fazer comparações entre elas. Na figura 2, encontram-se as respostas de um mesmo aluno no pré-
+teste  e  pós-teste.  Nos  dois  casos  as  respostas  do  aluno  estão  semelhantes  à  definição  de 
+Computação Desplugada e Pensamento Computacional.  
+
+Figura 2 - Resposta de um mesmo aluno no pré-teste e pós-teste 
+
+ 
+Em  alguns  casos  específicos,  os  alunos  não  sabiam  ou  não  tinha  ouvido  falar  em 
+computação  desplugada  e  pensamento  computacional,  entretanto  após  a  participação  nas 
+atividades os alunos conseguiram entender os conceitos de cada um. Na figura 3, encontram-se as 
+respostas  de  um  aluno  na  questão  sobre  computação  desplugada  no  pré-teste  e  ao  lado  a  sua 
+resposta  no  pós-teste.  Na  figura  3,  observa-se  que  o  aluno  tenta  explicar  que  é  computação 
+desplugada no pré-teste, mas relacionando a definição ao uso de rede social e acesso a internet. Já 
+na resposta do pós-teste o aluno relaciona a atividades do computador feitas sem o uso do mesmo. 
+Na atividade Representação de Imagens ocorreu um problema com o transporte escolar e 
+apenas  9  alunos  compareceram.  Nesta  atividade,  os  alunos  seguiram  um  passo  a  passo  para 
+chegar a um desenho específico. A grade onde o desenho foi feito representava os pixels da tela 
+do computador. A folha de atividade continha três grades onde cada uma “escondia” um desenho 
+diferente. Esse desenho era obtido na  medida em que os pixels eram preenchidos, seguido um 
+código  de  decodificação.  Esta  folha  de  atividade  foi  retirada  do  livro,  Computer  Science 
+Unplugged, produzido por Tim Bell, Ian H. Witten e Mike Fellows (2011). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Figura 3. Resposta de um aluno no pré-teste e pós-teste sobre computação desplugada. 
+ 
+
+Também  foi  solicitado  aos  alunos  que  descrevessem  o  nível  de  dificuldade  que 
+encontraram em cada um dos desenhos da atividade em: fácil, médio, difícil. A maioria dos alunos 
+classificaram  os  desenhos  como  fácil.  Na  Tabela  5,  encontra-se  um  comparativo  entre  os 
+desenhos  da  atividade  2  e  o  nível  de  dificuldade  encontrada  pelos  alunos,  para  cada  um  dos 
+desenhos.  Outros  fatores  observados  referem-se  à  falta  de  erros  no  preenchimento  dos  pixels. 
+Alguns alunos sentiram dificuldade em preencher os pixels quando esse iniciava por zero, já que 
+nesse caso a linha começa com um pixel preto. 
+
+Tabela 5. Representação do nível de dificuldade dos desenhos da atividade 2 
+
+ 
+Desenho 1 
+Desenho 2 
+Desenho 3 
+
+7. Conclusões  
+
+Fácil 
+8 
+1 
+3 
+
+Médio 
+1 
+5 
+2 
+
+Difícil 
+0 
+3 
+4 
+
+Nos resultados obtidos através da pesquisa bibliográfica, foi possível identificar, de acordo com os 
+relatos, uma melhora significativa na aprendizagem dos alunos, com uso dos jogos na sala de aula. 
+Os alunos permaneceram motivados e desenvolveram as atividades proposta com êxito. Entre as 
+dificuldades e limitações encontradas pelos pesquisadores na aplicação do jogo, se encontram a 
+falta de infraestrutura nas escolas e a falta de qualificação dos professores com o uso dos jogos. A 
+partir das análises dos artigos foi possível identificar que, para obter resultados positivos, é preciso 
+aplicar os jogos corretamente. Uma vez que os jogos podem ser classificados como ferramentas 
+para  desenvolver  o  aprendizado  do  aluno  de  forma  lúdica,  esses  devem  ser  educativos  e  bem 
+estruturados,  pois  devem  auxiliar  o  professor  no  processo  de  ensino  aprendizagem,  mas  não 
+substituir totalmente  a presença de um docente na sala de aula. Observa-se que a aplicação de 
+atividades utilizando o método da computação desplugada, também pode ser considerada lúdica e 
+atrativa, assim como a utilização dos jogos digitais, pois além de permitir apresentar o conteúdo, 
+também  chamou  a  atenção  dos  alunos,  características  encontradas  com  a  aplicação  dos  jogos 
+digitais  para  o  ensino  de  programação.  Como  trabalho  futuro,  pretende-se  dar  continuidade  a 
+aplicação das atividades 3 e 4, na escola e a partir dos resultados obtidos, propor um plano de ação 
+para  incorporar  tais  práticas  e  estratégias  que  envolvam  o  uso  de  jogos  digitais,  adaptados  à 
+realidade  brasileira,  sobretudo  a  regiões  interioranas  da  região  nordeste.  Essa  metodologia 
+confrontará resultados obtidos na revisão de sistemática  de literatura e os  dados observados na 
+pesquisa de campo, contemplando as séries finais do ensino fundamental brasileiro.  
+
+8. Agradecimentos 
+
+Os  autores  agradecem  o  apoio  da  Pró-reitoria  de  Pesquisa  e  Pós-graduação  da  Universidade 
+Federal Rural de Pernambuco no desenvolvimento deste trabalho, através do incentivo à pesquisa, 
+e ao CNPQ, através da concessão de bolsa de iniciação científica.  
+
+ 
+
+ 
+
+Referências 
+
+Bell,  T.;  Witten,  I.  e  Fellows,  M.  (2011).“Computer  Science  Unplugged  –  Ensinando 
+Ciência  da  Computação  sem  o  uso  do  Computador”.  Disponível  em: 
+<http://csunplugged.org/>. Acesso em janeiro de 2019. 
+
+Brackmann, C. P. (2017). “Desenvolvimento do pensamento computacional através de 
+em: 
+
+atividades 
+<https://www.lume.ufrgs.br/handle/10183/172208 >. Acesso em: fevereiro de 2019. 
+
+desplugadas 
+
+Disponível 
+
+educação 
+
+básica”. 
+
+na 
+
+Marinho, A. R. da S.; Morais, P. S. de M.; Souza,  G. R. de; Nascimento, A. S. L. do. 
+“Relato  de  Experiência  Vivenciada  no  PIBID  sobre  a  Utilização  da  Computação 
+Desplugada,  a  Hora  do  Código  e  do  Scratch  no  Ensino  Médio”.    Disponível  em: 
+<http://portaldeconteudo.sbc.org.br/index.php/wei/article/view/3507/3466>.  Acesso 
+em: Janeiro de 2019. 
+
+Melo,  L.  de  A.;  Costa,  T.  K.  de  L.;  Batista,  A.  C.  D.  (2013).  “Pense  bem:  proposta  e 
+desenvolvimento  de  jogo  digital  para  ensino  de  computação  na  educação  básica”. 
+Disponível  em:  <http://www.br-ie.org/pub/index.php/sbie/article/view/2513/2171>. 
+Acesso em: Fevereiro de 2019. 
+
+Ramos,  D.  K.,  2013.  Jogos  cognitivos  eletrônicos:  contribuições  à  aprendizagem  no 
+Disponível 
+& 
+
+contexto 
+em:<http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1806-
+58212013000100002>. Acesso em: Março de 2019. 
+
+Cognição 
+
+Ciências 
+
+(UFRJ). 
+
+escolar. 
+
+Rodrigues,  S.  R.  C.;  Eduardo  Aranha,  E.;  Silva,  T.  R.  da.  (2018).  “Computação 
+Desplugada  no  Ensino  de  Programação:  Uma  Revisão  Sistemática  da  Literatura”. 
+Disponível  em:  <http://www.br-ie.org/pub/index.php/sbie/article/view/7998/5692>. 
+Acesso em: Janeiro de 2019. 
+
+SCAICO, P. D. ; ALENCAR, Y. M.; et al. Relato da Utilização de uma Metodologia de 
+Trabalho para o  Ensino de Ciência da Computação  no Ensino Médio. Anais do 18º 
+Workshop  de  Informática  na  Escola  (WIE  2012)  -  Simpósio  Brasileiro  de 
+Informática na Educação, 2012, Rio de Janeiro. 
+
+SBC.  (2018).  Diretrizes  para  ensino  de  Computação  na  Educação  Básica.  Disponível 
+<http://www.sbc.org.br/educacao/diretrizes-para-ensino-de-computacao-na-
+
+em: 
+educacao-basica>. Acesso em: Março de 2019. 
+
+Werlich,  C.;  Kemczinski,  A.;  Gasparini,  I.  (2018).  “Pensamento  Computacional  no 
+em: 
+
+Ensino 
+<http://www.tise.cl/Volumen14/TISE2018/375.pdf>. Acesso em: Janeiro de 2019.  
+
+sistemático”.  Disponível 
+
+um  mapeamento 
+
+Fundamental: 
+
+Zanetti1,  H.  A.  P.;  Borges1,  M.  A.  F.;  Ricarte1,  I.  L.  M.  (2016).  “Pensamento 
+Computacional  no  Ensino  de  Programação:  Uma  Revisão  Sistemática  da  Literatura 
+Brasileira”. 
+<http://www.br-
+ie.org/pub/index.php/sbie/article/view/6677/4566>. Acesso em: Janeiro 2019. 
+
+Disponível 
+
+em: 
+
+Wing, J. M. (2006). Computational thinking.Commun. ACM, 49(3):33–35. 
+
+ 
+
+

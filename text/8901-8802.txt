@@ -1,0 +1,615 @@
+O Uso do Software SEBRAN ABC como Recurso 
+Potencializador para o Desenvolvimento de Habilidades 
+Matemáticas nas Pessoas com Deficiência Intelectual 
+
+Sonia Azevedo de Medeiros1, Taciana Pontual Falcão2, Izabel Augusta Hazin3 
+
+1Faculdade Católica Santa Teresinha – FCST. Rua Visitador Fernandes, 78, CEP: 
+593000-000. Caicó/RN, Brasil. 
+
+2Departamento de Computação, Universidade Federal Rural de Pernambuco – UFRPE. 
+Rua Dom Manoel de Medeiros, s/n, Dois Irmãos, CEP 52171-900, Recife-PE – Brasil.  
+
+3 Programa de Pós-Graduação em Inovação em Tecnologias Educacionais, Instituto 
+Metrópole Digital, Universidade Federal do Rio Grande do Norte – UFRN. Av. Senador 
+Salgado Filho, 3000, Lagoa Nova, CEP 59078-970, Natal-RN, Brasil. 
+
+soniaazevedojs@gmail.com,taciana.pontual@ufrpe.br, 
+
+izabel.hazin@gmail.com 
+
+Abstract.  This  article  presents  educational  activities  with  the  SEBRAN 
+ABC  software,  which  can  be  used  by  teachers  who  work  in  the 
+Multifunctional  Resource  Rooms  with  students  with 
+Intellectual 
+Disabilities,  in  particular  related  to  logical-mathematical  reasoning.  We 
+assume that the use of educational software can contribute significantly to 
+the  development  of  skills  and  competences  in  learners,  especially  those 
+with disabilities. Thus, we hope that such proposal will enable a planned 
+and  systematic  insertion  of  technological  resources  in  the  pedagogical 
+practice  of  teachers,  providing  students  with  diversified,  playful  and 
+pedagogical activities. 
+
+Resumo.  Este  artigo  apresenta  uma  sequência  didática  com  o  software 
+SEBRAN ABC, que poderá ser utilizada pelos professores que atuam nas  
+Salas  de  Recursos  Multifuncionais  com  educandos  que  apresentam 
+Deficiência  Intelectual,  com  comprometimento  no  raciocínio  lógico-
+matemático. Parte-se do pressuposto de que o uso de softwares educativos 
+pode  contribuir  de  modo  significativo  para  o  desenvolvimento  de 
+habilidades  e  competências  nos  educandos,  especialmente  os  que 
+apresentam  alguma  deficiência.  Assim,  espera-se  que  tal  proposta 
+viabilize a inserção planejada e sistemática dos recursos tecnológicos na 
+prática  pedagógica  dos  professores,  oportunizando  aos  discentes 
+atividades diversificadas, lúdicas e com fins pedagógicas. 
+
+O uso das Tecnologias Assistivas vem sendo ampliado, especialmente com os discentes 
+da educação especial, uma vez que as instituições contempladas pelas Salas de Recursos 
+Multifuncionais (SRMF) dispõem de equipamentos capazes de potencializar o processo 
+
+ 
+1. Introdução 
+
+ 
+
+de  aprendizagem  das  pessoas  com  deficiência  ou  altas  habilidades/superdotação. 
+Compreendendo  a  tecnologia  como  um  recurso  eficiente  e  necessário  à  melhoria  das 
+aprendizagens  dos  alunos,  tem-se  o  entendimento  de  que  “os  softwares,  ou  programas 
+de  computador,  são  utilizados  em  sua  maioria  para  atender  necessidades  específicas” 
+[SONZA 2013 p. 270]. 
+
+Nesse  contexto,  de  acordo  com  o  diagnóstico  do  professor,  o  seu  processo  de 
+planejamento  e  execução  pode  ser  pensado  a  partir  da  inserção  dos  softwares 
+específicos  capazes  de  potencializar  os  objetivos  traçados  para  o  desenvolvimento  dos 
+seus alunos. Sob esta perspectiva, as tecnologias assistivas, e especialmente o software 
+educacional, ainda são pouco utilizados no âmbito escolar. 
+
+Sendo  assim,  este  artigo  propõe-se  discutir  e  refletir  sobre  a  utilização  do 
+SEBRAN,  sendo  um  software  que  objetiva  desenvolver  habilidades  de  leitura  e 
+matemática,  dotado  de  um  layout  divertido  e  interativo.  É  composto  por  12  jogos  que 
+permitem  serem  trabalhadas  atividades  das  mais  simples,  às  complexas,  como  a 
+identificação  de  letras,  sílabas  ou  palavras,  assim  como,  números,  quantidades  e 
+pequenas  operações  matemáticas.  Assim,  propõe-se  apresentar  aos  professores  da 
+SRMF,  uma  sequência  didática  que  poderá  ser  utlizada  com  alunos  que  apresentam 
+deficiência  intellectual  (DI).  Assim,  tem-se  a  seguinte  problemática:  que  habilidades  e 
+competências  podem  ser  desenvolvidas  nos  alunos  com  deficiência  intelectual,  com  a 
+inserção  do  software  SEBRAN  no  atendimento  educacional  especializado  (AEE)? 
+Buscando responder a esta problemática, traçou-se como objetivo geral para este estudo: 
+identificar habilidades  e competências que o software SEBRAN pode desenvolver nos 
+alunos com deficiência intelectual. 
+
+2. Referencial Teórico 
+
+2.1 Deficiência Intelectual e o desenvolvimento das habilidades matemáticas 
+
+Dentre  as  concepções  de  DI,  certamente  uma  das  mais  conhecidas  é  a  prevista  pelo 
+DSM V (Manual de Diagnóstico e Estatístico de Transtornos Mentais): “um transtorno 
+com  início  no  período  do  desenvolvimento  que  inclui  déficits  funcionais,  tanto 
+intelectuais, quanto adaptativos, nos domínios conceitual, social e prático, que resultam 
+em  fracasso  para  atingir  padrões  de  desenvolvimento  e  socioculturais  em  relação  à 
+independência pessoal e responsabilidade social". 
+
+ 
+Outra  descrição,  utilizada  pelos  setores  públicos  de  atendimento  à  saúde  e 
+educação  no  Brasil,  é  a  do  CID  -  10  (Classificação  Internacional  de  Doenças  e 
+Problemas  Relacionados  à  Saúde),  que  traz  o  conceito  de  deficiência  intelectual  como 
+sendo  uma  “Parada  do  desenvolvimento  ou  desenvolvimento 
+incompleto  do 
+funcionamento  intelectual,  caracterizados  essencialmente  por  um  comprometimento, 
+durante o período de desenvolvimento, das faculdades que determinam o nível global de 
+inteligência,  isto  é,  das  funções  cognitivas,  de  linguagem,  da  motricidade  e  do 
+comportamento  social".  A  partir  das  concepções  supracitadas,  pode-se  compreender  a 
+DI  como  um  transtorno  identificado  por  uma  inteligência  abaixo  da  média,  que  afeta 
+outras  áreas  do  funcionamento  adaptativo  do  indivíduo  [COSTA,  DINIZ,  MIRANDA 
+2017, p. 11]. 
+
+Ao  estudar  a  DI,  Piaget  (1978)  destaca  que  o  aprendizado  ocorre  da  mesma 
+ 
+forma  que  as  demais  pessoas,  sendo  de  modo  mais  lento,  com  aspectos,  em  alguns 
+momentos,  de  regressão  e/ou  oscilação.  Assim,  torna-se  evidente  a  necessidade  de  se 
+
+ 
+
+investir  no  processo  de  ensino  e  aprendizagem  e,  ainda,  de  se  inserir  o  uso  das 
+tecnologias assistivas neste processo, compreendendo que estas estratégias pedagógicas 
+podem permitir a inserção e/ou modificações de estruturas cognitivas necessárias. 
+
+ 
+O  desenvolvimento  intelectual  atípico  das  pessoas  com  DI  também  pode 
+ocasionar  dificuldades  na  compreensão  de  conteúdos  matemáticos,  uma  vez  que  estes 
+são  fortemente  baseados  em  representações  abstratas.  Sendo  assim,  estes  educandos 
+podem  experienciar  obstáculos  nas  aprendizagens  que  envolvam  as  habilidades 
+fundamentais necessárias à consolidação dos conteúdos escolares, tais como: percepção, 
+raciocínio, memória, generalizações, atenção e motivação [MALAQUIAS et al., 2013]. 
+Partindo  desse  pressuposto,  os  métodos  de  ensino  utilizados  pelos  professores  devem 
+basear-se  em  estratégias  concretas,  pautadas  na  realidade  do  aluno  e  ainda,  no 
+conhecimento já adquirido.  
+
+ 
+Ainda  relacionado  aos  métodos  de  ensino,  Carmo  (2012)  alerta  que  o  sucesso 
+das  aprendizagens  matemáticas  também  deve  ser  sequenciado,  com  conteúdos  mais 
+simples  até  chegarem  aos  complexos,  oportunizando  um  desenvolvimento  gradual  e 
+consolidado, construído a partir de jogos e materiais concretos. 
+
+2.2 Softwares Educacionais como Instrumentos de Inclusão 
+
+O  processo  inclusivo  das  pessoas  com  DI  provoca  a  necessidade  de  adequações  no 
+planejamento  pedagógico  do  professor,  assim  como  a  necessidade  de  uma  formação 
+continuada  consistente  e  a  inserção  de  estratégias  que  devem  ser  capazes  de 
+potencializar o processo de ensino e aprendizagem para estes alunos. Ketelin e Chacon 
+(2011)  relatam  que  as  adequações  variam  de  acordo  com  as  especificidades  dos 
+discentes, sendo que estas podem ser mais simples ou, até mesmo, realizadas através da 
+inserção  de  recursos  mais  sofisticados:  como  o  uso  do  computador  e/ou  softwares 
+específicos. Assim, ao inserir o computador e/ou software no planejamento, o professor 
+precisa  estar  atento  aos  objetivos  deste,  oportunizando  aos  alunos  com  DI  a 
+possibilidade de ampliar aspectos da atenção, memória e concentração, além de incluí-
+los no meio digital [BALBINO et al. 2009]. 
+
+Campos  (2001)  destaca  a  necessidade  de  se  perceber  as  características 
+pedagógicas do software: como modelos de aprendizagem, adequação dos conteúdos e 
+aspectos  didáticos,  presentes  no  planejamento  dos  educadores.  Tais  características  são 
+particularmente  relevantes  no  contexto  da  educação  especial:  não  se  trata  apenas  de 
+inserir  o  software  educacional  nas  SRMF,  é  necessário  que  esta  ação  ocorra  de  forma 
+planejada,  para  que  se  possa  atingir  os  objetivos  almejados.  Diante  das  perspectivas 
+acima, ressalta-se que este profissional consiga compreender e atender às necessidades e 
+especificidades dos alunos com deficiência.  
+
+O  uso  das  Tecnologias    assistivas  por  alunos  com  DI  pode  contribuir  para  o 
+desenvolvimento  das  suas  capacidades  cognitivas  necessárias  ao  aprendizado  escolar. 
+Dessa maneira, Mantoan e Batista (2007) ressaltam que as barreiras cognitivas diferem 
+das  outras  deficiências,  uma  vez  que  os  alunos  com  DI  enfrentam  dificuldades  na 
+construção  da  sua  aprendizagem.  Para  dar  conta  desta  premissa,  é  necessário  que  os 
+educadores se percebam como seres inacabados [FREIRE 1996]. O sucesso do processo 
+inclusivo depende das adequações que este educador consiga realizar dentro da sua sala 
+de aula. 
+
+2.3 O Software SEBRAN ABC  
+
+ 
+
+A  função  da  Sala  de  Recursos  Multifuncionais  -  SRMF  é  facilitar  a  acessibilidade  da 
+aprendizagem  do  aluno  através  de  recursos  tecnológicos  adaptados,  considerando  suas 
+necessidades específicas. No trabalho pedagógico da SRMF é interessante a inserção de 
+softwares  educativos,  que  podem  ampliar  as  aprendizagens  dos  educandos  com  DI. 
+Assim, apresenta-se o SEBRAN1 ABC um software gratuito que conjuga atividades de 
+língua  portuguesa  e  matemática,  conjugadas  a  jogos  que  desenvolvem  o  raciocínio 
+lógico-matemático,  a  memória,  a  atenção  e  a  concentração  [FRANÇA,  SANTANA 
+2015]. O SEBRAN ABC “é recomendado para crianças entre os 4 e os 9 anos, que estão 
+na fase de alfabetização e identificação de letras e números” [FERREIRA 2009, p. 64]. 
+Com a utilização destes jogos divertidos, os discentes podem ampliar as habilidades da 
+Matemática e Língua Portuguesa. 
+  
+
+Figura 01: Interface do Software SEBRAN ABC1 
+
+ 
+
+Na  tela  principal  do  software  tem-se  a  apresentação  de  12  jogos  destinados  ao 
+desenvolvimento de aprendizagens em Língua Portuguesa e Matemática, incentivando a 
+identificação  de  letras,  palavras  e  desenhos,  auxilia  ainda  na  formação  de  palavras,  na 
+contagem e identificação dos números, operações de adição, subtração e multiplicação 
+(com níveis: fácil e difícil). Para resolução de todos os desafios propostos pelo software, 
+o discente precisará utilizar estratégias cognitivas e agilidade, pois, a maioria dos jogos 
+tem um tempo específico para resolver. Neste contexto, Dominick e Souza (2011, p. 53) 
+esclarecem  que  “se  trata  de  procedimentos  que  têm  como  objetivo  obter  um 
+determinado resultado e que inclui sempre elementos de criatividade dos indivíduos ou 
+dos grupos que os geram ou usam”. 
+
+Convém  enfatizar  que  a  utilização  deste  jogo  requer  do  professor  um  amplo 
+conhecimento    deste  e,  ainda,  um  planejamento  bem  elaborado,  para  que,  consiga 
+atender  seus  objetivos.  Torna-se  relevante  ressaltar  que  é  de  responsabilidade  do 
+professor  realizar  as  escolhas  corretas,  baseando-se  nas  especificidades  dos  seus 
+educandos,  considerando  que  alguns  materiais  podem  ser  utilizados  com  mais 
+frequência  e,  outros,  de  forma    mais  tímida,  alguns  gratuitos  ou  não  [SONZA  et  al. 
+2013]. 
+
+ 
+3. Metodologia 
+
+Esse estudo teve o objetivo de identificar as principais habilidades e competências que 
+podem ser trabalhadas com o SEBRAN ABC, buscando ampliar a compreensão acerca 
+
+1 Para baixar o software, acessar o site: www.baixaki.com.br/download/sebran-abc.htm,. 
+
+ 
+
+ 
+
+ 
+
+do uso pedagógico deste jogo com crianças com DI. 
+
+Para  tanto,  fez-se  uma  análise  dos  artigos  [GIL  2010]  que  destinavam-se  a 
+discutir  a  inserção  dos  softwares  no  processo  educacional,  da  aplicabilidade  do 
+SEBRAN  ABC  e  a  importância  da  sequência  didática  para  efetivação  dos  objetivos 
+propostos  pelos  professor.  A  seguir,  realizou-se  um  estudo  do  software  objetivando 
+identificar  suas  potencialidades  e,  posteriormente,  organizou-se  a  sequência  didática 
+destinada a ser  efetivada com discentes que apresentam DI, com comprometimento do 
+raciocínio lógico-matemático. 
+ 
+4. Proposta da Sequência Didática 
+
+O planejamento faz parte das atividades cotidianas dos educadores, onde nesta etapa são 
+selecionados  os  objetivos,  conteúdos,  recursos  metodológicos  e  procedimentos 
+avaliativos, ou seja, é planejar uma intervenção na  realidade, baseada na reflexão e na 
+intencionalidade [VASCONCELLOS 2000]. 
+
+No  processo  de  planejamento,  os  educadores  podem  inserir  as  sequências 
+didáticas como sendo uma estratégia eficiente para tornar o trabalho com os conteúdos 
+escolares  mais  significativos.  Assim,  por sequência  didática  tem-se  o  entendimento  de 
+que deve ocorrer a seleção de atividades a serem desenvolvidas de modo organizado e 
+sistemático  [DOLZ,  NOVERRAZ  e  SCHNEUWLY  2004,  p.  97].  Desse  modo, 
+apresenta-se  a  seguir,  uma  sequência  didática  a  ser  trabalhada    pelos  professores  das 
+SRMF  com  os  discentes  que  apresentam  DI,  objetivando  trabalhar  habilidades 
+matemáticas com o uso do software SEBRAN ABC. 
+
+Tabela 01: Proposta da sequência didática 
+
+SEQUÊNCIA DIDÁTICA COM O SEBRAN ABC 
+
+Planejamento da atividade 
+
+Apresentação da situação 
+
+●  Download 
+
+do 
+
+software 
+
+no 
+
+site: 
+
+www.baixaki.com.br/download/sebran-abc.htm 
+
+●  Apropriar-se 
+
+das 
+destinadas às atividades matemáticas. 
+
+atividades 
+
+do 
+
+software 
+
+●  Selecionar os jogos que devem (podem ser utilizados pelos 
+
+alunos). 
+
+●  Objetivos da sequência didática: Identificar 
+números; Reconhecer quantidade numérica; 
+realizar operações de adição, subtração e 
+
+multiplicação. 
+
+●  Apresentar  o  SEBRAN  ABC  ao  aluno  e  explicar  as 
+estratégias que poderão/deverão ser utilizadas por ele; 
+●  Destacar  que  os  jogos  envolverão  o  uso  de  habilidades 
+
+matemáticas que ele já conhece ou 
+
+precisar ampliar. 
+ 
+
+Primeira produção 
+(1 atendimento de 50 min.) 
+
+●  O  discente  deverá  manusear  o  SEBRAN  ABC,  onde  o 
+educador  deverá  apresentar  as  estratégias  que  ele  poderá 
+utilizar,  oportunizando  ao  discente  conhecer  como  ele 
+deverá jogar. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Os módulos 
+(Para cada jogo: 50 min.) 
+
+ 
+
+ 
+
+●  1º Jogo – Quantos: o aluno terá a sua disposição desenhos, 
+onde  ele  precisará  contar  e  escolher  o  número  correto 
+dentre  quatro  que  estão  à  sua  disposição  (as  quantidades 
+são de 0 a 9). 
+
+●  2º  Jogo  –  Somar:  Nesta  etapa  o  aluno  precisará  somar  e 
+escolher  nos  balões  o  resultado  correto.  Existem  dois 
+níveis:  fácil  (resultado  até  09)  e  difícil  (resultado  até  20); 
+Obs.:  nesta  mesma  sequência  de  atividades,  apresenta-se 
+os jogos Subtrair e Multiplicar. 
+
+●  3º  Jogo  –  Chuva  1+  2:  na  tela  do  computador  surgem 
+pequenas operações e o aluno terá que clicar no teclado o 
+resultado correto. 
+
+●  Avaliação 
+
+formativa:  oferecerá 
+continuidade ou reforço no desenvolvimento das 
+
+subsídios  para 
+
+a 
+
+ 
+
+habilidades planejadas. 
+
+Produção final 
+
+(1 atendimento de 50 min.) 
+
+●  Ampliar/consolidar  as  competências  de  identificação  de 
+números,  quantidades 
+realização  de  operações 
+e 
+matemáticas de modo lúdico. 
+
+Fonte: adaptado de Dolz, Noverraz e Schneuwly (2004) 
+
+A  referida  sequência  pode  ser  desenvolvida  com  discentes  que  apresentam 
+diferentes níveis de comprometimento intelectual, sendo necessário que este identifique 
+os  números  até  9,  para  que  consiga  realizar  as  atividades  propostas.  Após  baixar  o 
+software,  não  torna-se  necessário  utilizar  a  internet  para  jogar,  ou  ainda,  atualizar  o 
+programa. 
+
+Durante a utilização dos jogos destinados ao desenvolvimento das competências 
+matemáticas  é  relevante  que  o  professor  esteja  atento  a  algumas  dificuldades  que  o 
+educando possa vivenciar. No jogo intitulado de “Quantos”, cuja tela aparece na figura 
+abaixo, apresenta-se alguns possíveis entraves listados abaixo. 
+ 
+
+Figura 02: Interface do jogo “quantos” 
+
+Nessa etapa do jogo, a criança deverá contar a quantidade de objetos e clicar no 
+balão  cujo  número  corresponde  a  quantidade  correta.  Caso,  o  discente  ainda  não 
+conseguir identificar a quantidade de objetos ao número, o educador precisa orientá-la 
+nesta tarefa, de uma vez que existem quantidades maiores e menores. Outro alerta, deve 
+estar direcionado para os jogos intitulados por “somar, subtrair e multiplicar”, pois estes 
+apresentam níveis fácil ou difícil, que devem ser selecionados antes de iniciar a partida, 
+
+ 
+
+como está exposto na figura abaixo. 
+ 
+ 
+
+Figura 03: Interface do Jogo Multiplicar 
+
+Neste caso, é interessante que ao selecionar os jogos, o educador identifique o 
+nível de aprendizagem do aluno que irá utilizá-lo e quais, objetivos deseja atingir: se é 
+para  ampliação  do  conhecimento  (nível  difícil)  ou  consolidação  de  aprendizagens 
+(nível  fácil).  Assim,  o  educando  tem  a  possibilidade  de  realizar  operações 
+matemáticas de modo mais dinâmico e prazeroso. Por fim, ainda convém ressaltar que 
+no  jogo  “Chuva  1  +  2”  (interface  exposta  na  figura  04),  podem  surgir  algumas 
+dificuldades ou desconfortos por parte dos educandos, no momento da sua aplicação. 
+ 
+
+Figura 04: Interface do jogo chuva de 1 +2 
+
+Neste  jogo,  a  criança  precisa  ter  um  bom  raciocínio  lógico,  domínio  das 
+operações  mais  simples  de  matemática  e  ainda,  boa  coordenação  motora,  pois,  as 
+operações vão descendo na tela do computador e o aluno terá que clicar no teclado do 
+computador o resultado correto. Estas estratégias devem ocorrer dentro de um tempo 
+previsto,  pois  quando  as  operações  chegam  no  fim  da  tela,  não  pode  mais  clicar  no 
+resultado. Assim, o educando também poderá experienciar sentimentos de frustração 
+e  medo  por  não  conseguir  terminar  a  tempo.  As  habilidades  e  competências  que 
+podem  ser  desenvolvidas  e  consolidadas  por  este  jogo  encontram-se  dispostas  na 
+tabela abaixo: 
+
+Tabela 02: conteúdos matemáticos e habilidades  
+
+ 
+
+Jogo 
+
+Conteúdos Matemáticos 
+
+Habilidades Cognitivas 
+
+Quantos 
+
+Contagem e noção de quantidades 
+
+Habilidades  aritméticas:  adição  com  resultado  até 
+09 (fácil), resultado acima de 09 (difícil).  
+
+Habilidades  aritméticas:  subtração  com  resultado 
+menor  que  09  (fácil),  resultado  acima  de  09 
+(difícil) 
+
+aritméticas:  multiplicação 
+
+Habilidades 
+multiplicação  da 
+multiplicação da tabuada acima de 10 (difícil) 
+
+tabuada 
+
+até 
+
+09 
+
+com 
+(fácil), 
+
+Habilidades  pré-aritméticas:  tamanho,  direção, 
+posição e tempo. 
+
+Chuva 1 
++2 
+
+Habilidades  aritméticas:  adição  com  resultado  até 
+09. 
+
+Somar 
+
+Subtrair 
+
+Multiplica
+r 
+
+Memória 
+
+ 
+
+ 
+
+Percepção 
+
+Pensamento e 
+raciocínio 
+
+Memória 
+
+Generalizações 
+
+Atenção 
+
+Motivação 
+
+ 
+Destaca-se ainda que o desenvolvimento das habilidades e competências deve 
+ser planejado a partir da avaliação do repertório de entrada [CARMO 2012] que os 
+discentes já desenvolveram e, então, planejar a inserção de aprendizagens que devem 
+ser ensinadas e/ou consolidadas.  
+  
+5. Considerações Finais 
+
+As SRMF são dispositivos oferecidos para assegurar a melhoria do processo inclusivo 
+nas  escolas  regulares  da  rede  municipal,  estadual  ou  federal.  Compreende-se  que  não 
+basta  matricular  os  alunos  com  deficiência  nas  salas  de  aula,  é  necessário  que  sejam 
+oferecidas condições de permanência e aprendizagem com qualidade. 
+
+Neste  aspecto  importante,  a  figura  do  educador  surge  como  elemento 
+indispensável  para  garantia  deste  desenvolvimento,  pois  é  ele  quem  planeja,  executa, 
+avalia e replaneja as atividades pedagógicas. O professor que atua nas SRMF  necessita 
+de  estratégias  eficientes  para  o  pleno  desenvolvimento  deles.  Objetivando  contribuir 
+para  melhoria  da  oferta  dos  atendimentos  nas  SRMF,  este  estudo  destaca  que  as 
+tecnologias  assistivas  tornam-se  importantes  instrumentos  que  auxiliam  o  professor  a 
+planejar e atingir seus objetivos. 
+
+Assim,  a  sequência  didática  aqui  proposta  propõe-se  a  auxiliar  o  professor  em 
+seu  cotidiano  pedagógico,  para  que  ele  consiga  incluir  com  qualidade,  ou  seja, 
+desenvolva  as  habilidades  e  competências  matemáticas  dos  alunos  com  Deficiência 
+Intelectual,  assegurando-lhes  o  direito  de  permanecer  na  escola,  junto  com  seus  pares, 
+sendo  respeitados  e  compreendidos  como  cidadãos  de  direito,  que  carecem  de 
+estratégias diversificadas para aprender e se desenvolver. 
+
+BALBINO, R. R., et al. (2009) “Jogos educativos como objetos de aprendizagem para 
+
+pessoas com necessidades especiais”. Revista CPNTE. 
+
+Referências 
+ 
+
+ 
+
+CAMPOS,  Gilda  Helena  de.  “A  qualidade  em  Software  Educacional”,  (2001). 
+Disponível em: http://www.cciencia.ufrj.br/publicacoes/artigos.htm. Acessado em 15 
+de dezembro de 2018. 
+
+CARMO,  S  (2012).  Aprendizagens  de  conceitos  matemáticos  em  pessoas  com 
+
+Deficiência Intelectual. “Revista de Deficiência Intelectual”, v. 3, p. 43-48. 
+
+CID. 
+
+“Código 
+
+Internacional 
+
+da  Doença”, 
+
+(2010). 
+
+disponível 
+
+em: 
+
+http://www.medicinanet.com.br/cid10/v.htm. Acessado em 02 de Janeiro de 2019. 
+
+COSTA,  Danielle  de  Souza,  DINIZ,  Leandro  Fernandes  Malloy;  MIRANDA,  Débora 
+Marques  (2017).  “Aprendizagem  de  A  a  Z  -  Deficiências  Intelectuais”.  Disponível 
+em:  www.pearsonclinical.com.br/cartilhadeaprendizagem.  Acessado  em  16  de 
+dezembro de 2018. 
+
+DOLZ,  J;  NOVERRAZ,  M;  SCHNEUWLY,  B  (2004).  Sequências  Didáticas  para  o 
+Oral e a Escrita: Apresentação de um Procedimento. In: “Gêneros orais e escritos na 
+escola”. São Paulo: Mercado de Letras. 
+
+DOMINICK,  Rejany  dos  S.  e  SOUZA,  Neiva  V.  (2011).  Tecnologias  em  diálogo  na 
+formação  de  professores.  Revista  Aleph  (UFF.  Online),  Ano  5,  v.15,  Julho. 
+Disponível em: http://www.uff.br/revistaleph/pdf/revista15.pdf pp. 50-64. 
+
+DSM V. “Manual Diagnóstico e Estatístico de Transtornos Mentais” (2014). Tradução: 
+Maria Inês Corrêa Nascimento ... et al.] ; revisão técnica: Aristides Volpato Cordioli 
+...  [et  al.].  –  5.  ed.  –  Dados  eletrônicos.  –  Porto  Alegre:  Artmed.  Disponível  em: 
+https://www.uniespirito.com.br/arquivos/dsm-v-transtorno-dissociativo-de-identidad 
+e.pdf. Acessado em 02 de janeiro de 2019. 
+
+FERREIRA, Maria de Oliveira. (2009). “O uso de software educativo em ambientes de 
+aprendizagem.  Um  estudo  de  caso  com  alunos  do  1º  Ciclo  do  Ensino  Básico”. 
+Disponível  em:  https://core.ac.uk/download/pdf/55611711.pdf.  Acessado  em  02  de 
+abril de 2019. 
+
+FRANÇA,  Ana  Carol  Pontes  de;  SANTANA,  Domícia  Bernardo  Lins  de  (2015):  “O 
+uso  do  software  educativo  Sebran  na  educação  inclusiva  de  criança  com  sequelas 
+decorrentes  de  paralisia  cerebral”.  Disponível  em:  www.cmr.eb.mil.br/index.php/aj-
+do-ca/category/154-revista-recc-2015-v1?.... Acesso em 01 de abril de 2019. 
+
+FREIRE,  Paulo  (1996).  “Pedagogia  da  autonomia”:  saberes  necessários  à  prática 
+
+educativa-21ª Edição- São Paulo. Editora Paz e Terra. 
+
+GIL, Antônio Carlos (2010): “Como elaborar projetos de pesquisa”. 5. ed. - São Paulo: 
+
+Atlas. 
+
+KETELIN,  Pedro  M.  CHACON,  Miguel  M.  C  (2011).  “Softwares  educativos  para 
+alunos  com  deficiência 
+intelectual:  estratégias  utilizadas”.  Disponível  em: 
+https://halshs.archives-ouvertes.fr/halshs-00801699/document.  Acessado  em  15  de 
+Janeiro de 2019. 
+
+MALAQUIAS,  F.  F.  O.  et  al  (2013).  VirtualMat:  A  serious  games  to  teach  logical-
+mathematical  concepts  for  students  with  intellectual  disability.  “Technology  and 
+disability”, v. 25, n. 2. 
+
+MANTOAN,  M.  T.  E;  BATISTA,  C.  A.  M.  (2007).  Atendimento  educacional 
+especializado  em  deficiência  mental.  In:  BRASIL.  “Atendimento  educacional 
+especializado: deficiência mental”. Brasília: SEESP/MEC. 
+
+ 
+
+PIAGET,  Jean  (1978).  A  teoria  de  Piaget.  In:  MUSSEN,  P.  H.  (org).  “Psicologia  da 
+
+criança. Desenvolvimento Cognitivo”. São Paulo: E.P.U. Vol. 4, p. 71-117. 
+
+SONZA,  Andréa  Poletto  Sonza  (org.)  ...  [et  al.]  (2013).  “Acessibilidade  e  tecnologia 
+assistiva:  pensando  a 
+sociodigital  de  PNEs”.  Disponível  em: 
+www.todosnos.unicamp.br:8080/lab/links-uteis/livrosdominio.../TA_para_PNEs.pdf. 
+Acessado em 20 de novembro de 2018.  
+
+inclusão 
+
+VASCONCELLOS,  Celso  dos  S 
+
+(2000):  “Planejamento  Projeto  de  Ensino-
+Aprendizagem  e  Projeto  Político-Pedagógico  Ladermos  Libertad-1”.  7º  Ed.  São 
+Paulo, 2000. 
+
+ 
+
+

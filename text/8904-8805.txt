@@ -1,0 +1,577 @@
+ 
+
+Plataforma Significa®: Visibilidade à Aprendizagem em 
+Metodologias Ativas 
+
+Diego Thuler, Paula R. P. Oliveira, Karoline F. dos Santos, Elisa Pomari, Lucas O. 
+Lopes 
+
+ Desenvolvimento Pedagógico, Little Maker – Americana, SP – Brasil 
+
+diego@littlemaker.com.br, paula@littlemaker.com.br, 
+karoline@littlemaker.com.br, elisa@littlemaker.com.br, 
+lucas.lopes@littlemaker.com.br. 
+
+Abstract.  Identifying  the  increasing  need  to  think  about  education  in  a  way 
+linked  to  experience,  this  text  proposes  an  account  of  the  experiences  and 
+thoughts that go through Little Maker's program and practices, that aims to give 
+visibility to the learning process by proposing the constructions of authorial and 
+meaningful  projects  by  the  students.  Thus,  one  of  the  challenges  we  tried  to 
+address here was the collection and systematization of information about  the 
+creation process in order to evidence the learning through the documentation, 
+using  digital  portfolio,  data  analysis  and  results  reports  of  the  objective 
+indicators. In doing so, we intent to share some strategies we have adopted to 
+promote a fluid learning relationship, while gathering a rich documentation and 
+several information about the learning process in this a digital platform. 
+
+Resumo. A partir da necessidade social crescente de pensar a educação de uma 
+maneira  atrelado  à  experiência,  o  artigo  traz  um  relato  das  vivências  e 
+pensamentos que perpassam a metodologia da Little Maker cujo objetivo é dar 
+visibilidade  à  aprendizagem  por  meio  da  construção  de  projetos  autorais  e 
+foi  a 
+significativos.  Assim,  um  dos  desafios  que 
+sistematização da coleta de informações acerca do processo de criação com o 
+intuito  de  evidenciar  o  aprendizado  através  da  documentação  em  portfólio 
+digital, do mapeamento de parâmetros e da apresentação dos resultados com 
+indicadores  objetivos.  Para  isso,  são  compartilhadas  as  estratégias  que 
+pautaram  o  desenvolvimento  de  uma  plataforma  digital  a  fim  de  estabelecer 
+uma  relação  fluida  da  aprendizagem,  bem  como  documentação  e  coleta  de 
+informações do processo. 
+
+tentamos  abordar 
+
+1. Introdução 
+
+A  Little  Maker  é  uma  empresa  que  atua  na  educação  Maker  com  programas 
+intracurriculares para todos os segmentos da educação básica. Ao longo de nossos cinco 
+anos  de  existência,  vivenciamos  diversos  desafios.  Um  dos  principais  foi  priorizar  a 
+realização  das  oficinas  em  espaços  formais  de  educação  sob  a  perspectiva  de  uma 
+educação  integrada,  entendendo  que  o  processo  de  aprendizado,  para  se  dar  de  modo 
+significativo, precisa ter como ponto de partida o interesse do próprio aprendiz. Portanto, 
+nesse processo é fundamental a liberdade autoral da criação.  
+
+ 
+
+ 
+
+ 
+
+ 
+Por meio de projetos que partem de si, torna-se mais efetiva a sensibilização do 
+ 
+olhar dos aprendizes para as inúmeras conexões que vinculam o processo de criação aos 
+conhecimentos  trabalhados  na  escola,  o  que  propicia  um  aprendizado  mais  profundo, 
+fluido e transdisciplinar, transbordando a fronteira que costuma segregar o conhecimento 
+da prática.  Porém, ao adentrarmos o ambiente escolar, deparamo-nos com o contraste 
+entre  esta  proposta,  que  articula  metodologias  ativas,  e  as  práticas  tradicionalmente 
+adotadas  pelas  escolas.  Dessa  situação,  surgiu  a  necessidade  de  tornar  visível  as 
+aprendizagens construídas e mobilizadas na oficina. Deixando assim, nossos objetivos e 
+resultados mais claros para alunos, pais e educadores. 
+
+ 
+Abordaremos  neste  trabalho  os  desafios  enfrentados  para  dar  visibilidade  ao 
+aprendizado  durante  o  processo  de  criação  de  forma  automatizada  e  sistêmica,  que 
+culminou na criação de uma plataforma digital de documentação e avaliação processual. 
+Dessa  forma,  ao  compartilhar  nossa  abordagem  e  resultados  temos  o  objetivo  de 
+contribuir com novas iniciativas e formas de registro que busquem ampliar a visibilidade 
+da aprendizagem, bem como incentivar e ampliar a articulação de metodologias ativas, 
+aprendizagem  criativa,  e  oficinas  com  projetos  autorais,  multiplicando  projetos 
+educacionais em que acreditamos. 
+
+Para que seja possível entender melhor a proposta aqui descrita, apresentaremos 
+ 
+na seção “contexto educacional” a atuação da Little Maker, nossos referenciais teóricos, 
+objetivos  pedagógicos  e  os  desafios  da  educação  de  nosso  momento  atual.  Na  seção 
+“desenvolvimento  da  plataforma”,  traremos  o  surgimento  da  plataforma  digital  e  os 
+problemas  abordados  por  ela,  incluindo  estratégias  e  componentes  de  observação 
+adotadas para avaliação processual. Em seguida, demonstraremos um caso real na seção 
+“estudo de caso” e finalizamos com os resultados e conclusões em “conclusão”. 
+
+2. Contexto Educacional 
+
+A Little Maker é uma Metodologia com programas intracurriculares direcionados a todos 
+os segmentos da Educação Básica, da Educação Infantil (crianças a partir de 3 anos e 5 
+meses)  até  o  Ensino  Médio.  Os  cursos  têm  periodicidade  semanal  e  as  aulas  são 
+ministrados  em  espaços  Makers  que  reúnem  grande  diversidade  de  tecnologias, 
+ferramentas e materiais.  O objetivo desses cursos é potencializar conexões entre o que é 
+significativo  para  o  aluno  e  o  currículo  da  escola;  evidenciando,  durante  o 
+desenvolvimento dos projetos autorais, as relações entre o aprendizado e a experiência, 
+movimentando e dando sentido para as descobertas e conhecimentos de cada indivíduo.  
+
+ 
+Para isso, nossa metodologia parte das discussões relativas a metodologias ativas, 
+processos nos quais o próprio estudante comanda e é responsável por sua trajetória dentro 
+da construção de seus conhecimentos, algo que lhe confere autonomia, contribuindo para 
+uma postura mais ativa, sendo, consequentemente, o protagonista do processo. Os debates 
+acerca  de  metodologias  ativas,  suas  características  e  potencialidades  não  é  novo  entre 
+educadores.  Assim,  autores  como  John  Dewey,  Malaguzzi,  Paulo  Freire  e  Seymour 
+Papert,  já  traziam  em  seus  trabalhos,  cada  qual  com  suas  especificidades,  grandes 
+contribuições aproximando educação e sujeito, estimulando o aprendizado por meio da 
+autonomia, exploração, descoberta e experiências. 
+
+ 
+Em diálogo com os debates de metodologias ativas, encontramos outro conceito 
+essencial  nos  cursos  da  Little  Maker:  a  aprendizagem  significativa.  A  aprendizagem 
+significativa,  segundo  David  Ausubel,  é  baseada  em  uma  aprendizagem  contínua  do 
+sujeito que não se limita apenas ao ambiente escolar e relaciona-se diretamente com os 
+interesses  próprios  do  estudante,  mobilizando  conceitos  que  lhe  são  familiares.  Nessa 
+
+ 
+
+ 
+ 
+perspectiva, o aprendizado é construído a partir de conhecimentos prévios desse sujeito, 
+pois ao ser exposto a conhecimentos que se relacionam aos que já possui, esses novos 
+conceitos encontram uma base para serem ancorados, consolidando-os e expandindo o 
+aprendizado - sem deixar de ser um processo envolvente, pois o aprendiz, sua bagagem, 
+repertório e interesses são considerados importantes e utilizados como ponto de partida 
+para  essa  expansão.  Ausubel  aponta  a  importância  de  entender  que  "a  essência  do 
+processo  de  aprendizagem  significativa  é  que  as  ideias  expressas  simbolicamente  são 
+relacionadas às informações previamente adquiridas pelo aluno através de uma relação 
+não arbitrária e substantiva (não literal)." (AUSUBEL, 1968). Assim, é fundamental ao 
+processo  de  aprendizagem  significativa  que  o  sujeito  possa  trazer  seus  próprios 
+referenciais em vez de receber um tema pré-determinado para ser trabalhado ou caminho 
+específico  que  deva  seguir,  visto  que  dificilmente  será  possível  contemplar  a  todos  os 
+sujeitos a partir dos mesmos temas ou caminhos.  
+
+Sendo assim, os projetos autorais são um modo não só de gerar engajamento no 
+ 
+processo de aprendizado, mas também um meio que possibilita ao aluno conectar-se com 
+seus interesses, entender as demandas e responsabilidades envolvidas na concretização 
+das ideias, ao mesmo tempo em que mostra sua capacidade de realizar projetos e entender-
+se enquanto um agente de transformação social.  
+
+ 
+ Identificamos, ainda, a potencialidade destes projetos ao nos depararmos com os 
+conceitos dos 4 P’s fundamentados na Aprendizagem Criativa. Essa  abordagem,  que 
+defende o  aprendizado como fruto de  um processo exploratório, é fundamentada pelas 
+pesquisas  do  grupo  do  MIT  (Massachusetts  Institute  of  Technology),  o  Lifelong 
+Kindergarten dirigido por Mitchel Resnick. Uma das fontes de inspiração para a iniciativa 
+foi a trajetória de Froebel, criador do jardim de infância. Segundo Resnick (2017), em seu 
+livro Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and 
+Play:  “a  aprendizagem  baseada  no  estilo  do  jardim  de  infância  é  exatamente  o  que  é 
+preciso para ajudar as pessoas de todas as idades a desenvolver as capacidades criativas 
+necessárias para prosperar na sociedade de hoje, que vive em constante mudança”. Isso 
+porque, diferentemente dos sistemas de ensino pelos quais comumente passamos durante 
+nossa vida acadêmica, no jardim de infância o aprendizado é adquirido através de uma 
+conduta  ativa  da  criança  ao  interagir  com  o  mundo  e  descobri-lo,  algo  que  se  faz 
+principalmente  quando  há  propostas  e  possibilidades 
+instigantes,  divertidas  e 
+envolventes.  
+
+ 
+Inseridos  neste  contexto,  os  4  P’s  aparecem  como  pilares  da  Aprendizagem 
+Criativa,  na  qual  o  conceito  de  Projeto  não  se  dá  de  pela  transmissão  vertical  de 
+informação entre aluno e professor, mas sim em um processo de materialização da ideia 
+oriunda dos interesses e demandas do aluno. Desse modo, a aprendizagem baseia-se não 
+apenas  na  construção  mão-na-massa:  a  Paixão  pelo  tema  atua  como  combustível  para 
+dedicação  do  aluno  em  relação  ao  seu  processo.  Dessa  forma,  constroem-se  trocas 
+significativas  entre  colegas  e  professores,  configurando  trabalho  entre  Pares,  seja  em 
+trocas  momentâneas  ou  em  construção  compartilhada.  Assim,  o  processo  de  criação 
+torna-se divertido e exploratório, trazendo o Pensar Brincando ao expor os jovens a uma 
+condição de aprendizado em um ambiente envolvente. 
+
+ 
+A aplicação desses conceitos resulta em uma aprendizagem mais significativa que 
+ajuda a desenvolver habilidades socioemocionais e relações interpessoais dos alunos, bem 
+como permite ao jovem entender que é possível mobilizar os conhecimentos em prol de 
+seus  projetos  e  objetivos  de  vida.  Identificamos  então  o  diálogo  entre  os  conceitos 
+apresentados  acima  e  os  valores  presentes  no  Movimento  Maker,  visto  que  trazem  o 
+
+ 
+
+ 
+
+ 
+intuito de promover a autonomia, compartilhar soluções e criar coisas com as quais você 
+se importa ou para pessoas que são importantes para você. 
+
+ 
+No  início  deste  século,  começa  a  se  organizar  o  Movimento  Maker,  um 
+movimento  que  nasce  da  cultura  Faça-Você-Mesmo  (Do-It-Yourself)  para  algo  mais 
+parecido  com  Faça-Junto  (Do-It-Together).  Inicialmente  um  “Hobby  de  adulto”,  é 
+baseado na ideia de que pessoas comuns podem construir, consertar, modificar e fabricar 
+os mais diversos tipos de objetos e projetos. Esta “brincadeira” evoluiu para um conjunto 
+de princípios e valores que empoderam  cidadãos como agentes de mudança e definem 
+uma responsabilidade do Maker com sua comunidade e entorno.  
+
+ 
+Faz-se necessário entender que o Movimento Maker não se trata do espaço cheio 
+de ferramentas de fabricação digital, mesmo que  isso atraia  muitos  Makers, mas sim a 
+postura  e  compromisso  ao  fazer  uso  delas.  Encontramos  muitos  Makers  fazendo 
+marcenaria, culinária, robótica ou programação. O grupo Agency By Design (Project Zero 
+- Harvard) publicou o livro “Aprendizado Centrado no Maker: Empoderando Jovens a 
+Moldar  seu  Mundo”  (tradução  livre),  no  qual  analisa  diversas  iniciativas  Maker  na 
+educação  nos  Estados  Unidos.  O  livro  levanta  diversos  benefícios  pedagógicos  e 
+identifica que o principal valor apontado pelos educadores é o desenvolvimento no aluno 
+da percepção de que o mundo é moldável, e de que ele é um agente que pode e  tem a 
+responsabilidade de fazê-lo [CLAPP E., ROSS J., RYAN J., TISHMAN S., 2017]. 
+
+ 
+Desta forma, o movimento Maker define valores e atitudes muito alinhados com 
+os objetivos da educação e as competências do século XXI. Motivo pelo qual tem ganhado 
+cada  vez  mais  espaço  nas  escolas,  mas  certamente  não  terá  bons  resultados  se  forem 
+adotados  de  uma  forma  tradicional,  com  um  currículo  técnico  próprio,  isolado  da 
+realidade da escola e distante dos significados pessoais de cada Maker. Indo ao encontro 
+deste  pensamento  temos  a  própria  Base  Nacional  Comum  Curricular  (BNCC),  um 
+documento institucional que norteia os objetivos de educação para a formação integral do 
+sujeito,  estabelecendo  competências,  habilidades  e  atitudes  e  valores  a  serem 
+desenvolvidos ao longo da vida escolar. Assim, temos uma quebra hierárquica em relação 
+ao conhecimento, que passa a ser uma entre as 10 competências apresentadas, buscando 
+a formação social, cultural, física e emocional do aluno e a articulação desses conceitos 
+no fluxo entre ensinar e aprender. 
+
+Portanto, as escolas cada vez mais,  começam a  entender a necessidade de uma 
+ 
+transformação,  trazendo  práticas  que  possibilitem  uma  formação  mais  profunda  e 
+significativa,  articulando  metodologias  mais  ativas  e  que  permitem  a  autonomia  dos 
+estudantes dentro de seu processo de aprendizado. Os objetivos passam a ser amplos e os 
+caminhos para a consolidação do desenvolvimento e da aprendizagem se fazem múltiplos, 
+demandando  dos  educadores  a  adoção  de  estratégias  para  dar  visibilidade  ao  que  se 
+aprendeu.  
+
+Partindo dessas demandas, foi desenvolvida a Plataforma Digital Significa®, aqui 
+ 
+apresentada,  buscando  dar  visibilidade  ao  aprendizado  presente  em  nosso  processo  de 
+criação de projetos autorais, tirando o foco apenas do resultado e articulando dados sobre 
+as  escolhas  realizadas,  os  conhecimentos  sensibilizados  e  competências  mobilizadas. 
+Tendo  em  vista  a  infinidade  de  possibilidades  de  caminhos  a  serem  seguidos,  é 
+indispensável  ter  uma  ferramenta  que  seja  capaz  de  documentar  os  mais  diversos 
+processos  existentes  sem  limitá-los,  sendo  “documentação”,  de  acordo  com  o  livro 
+Tornando visível a aprendizagem: crianças que aprendem individualmente e em grupo 
+[Reggio, 2014]:  
+
+ 
+
+ 
+garantir o escutar aos outros e a si próprio é uma das tarefas  primárias da 
+documentação: isto é, produzir traços/documentos capazes de testemunhar e 
+de  tornar  visíveis  as  modalidades  da  aprendizagem  individual  e  de  grupo, 
+capazes de garantir ao grupo e a cada criança individualmente a possibilidade 
+de observar-se de um ponto de vista externo enquanto aprende (tanto durante 
+quanto após os processos).  
+
+ 
+Isso  porque  “uma  documentação  rica  (vídeo,  gravações,  material  fotográfico, 
+anotações  etc.)  é  realizada  e  utilizada  quando  se  faz  a  experiência,  tornando-se  parte 
+inseparável  dela.”  [Reggio,  2014],  transformando-se  em  uma  narrativa  do  projeto, 
+essencial para o compreendimento integral deste. 
+
+ 
+Ao observar o processo criativo de alguém, é possível entender, por exemplo, suas 
+motivações iniciais e a evolução de suas ideias através dos testes realizados. Dessa forma, 
+a  aprendizagem  desse  sujeito  se  torna  visível  nos  mais  diversos  âmbitos,  pois  os 
+momentos cruciais de suas experiências são acessíveis através de registros. O princípio 
+de  documentação  do  processo  através  de  portfólio,  como  utilizado  na  abordagem  de 
+Reggio Emilia, construído de forma pessoal e autônoma pelo próprio aprendiz, é um dos 
+que fundamentam a importância da Plataforma Digital Significa® dentro do contexto da 
+aprendizagem visível. 
+
+3. Desenvolvimento da Plataforma 
+
+A  aprendizagem  Maker  conforme  trabalhamos  em  nosso  programa,  partindo  dos 
+interesses do próprio aluno, ocorre de uma forma muito fluida e natural durante o processo 
+de  construção  e  raramente  é  percebida  por  quem  observar  somente  o  resultado.  Este 
+processo contrasta muito com as metodologias tradicionais da escola e  mesmo  com as 
+atividades  de  laboratório,  nas  quais  o  objeto  de  conhecimento  a  ser  aprendido  é 
+comumente o próprio experimento.  
+
+ 
+Mesmo  quando  o  paradigma  dessa  abordagem  é  superado  por  meio  da 
+conscientização dos pais e gestores escolares, ainda persiste uma problemática concreta 
+no que se refere à documentação e registro do aprendizado ao longo do processo, de forma 
+sistematizada,  com  objetivos,  métricas  e  indicadores.  Quando  se  está  no  contexto  da 
+oficina,  onde  o  educador  acompanha  todo  o  processo  e  observa  as  descobertas  e 
+construção  do  conhecimento,  tudo  é  muito  claro  e  rico,  porém,  acompanharem  esse 
+desenvolvimento pelo lado de fora é um grande desafio para os gestores educacionais.  
+
+ 
+A plataforma não propõe uma métrica de avaliação ao ensino Maker - sabemos 
+que este desafio é complexo e controverso, e vem sendo abordado em diversas linhas de 
+pesquisas acadêmicas. Mas, compreendemos os registros por um viés que dialoga com a 
+abordagem de Reggio Emilia ao trazer  a documentação como algo que “não se limita, 
+então, a tornar visível o que já existe, mas faz as coisas existirem porque as torna visíveis, 
+portanto, possíveis” [Reggio, 2014]. Deste modo,  ela busca dar voz às possibilidades e 
+desdobramentos presentes no processo de criação por meio da documentação.  
+
+ 
+Objetivando tal documentação, identificamos a necessidade de uma ferramenta de 
+apoio dentro da oficina para coleta de informações do processo de desenvolvimento do 
+projeto,  de  forma  a  torná-las  visíveis.  Para  isso,  definimos  quais  informações  seriam 
+importantes,  o  que  acarretou  o  levantamento  objetivo  dos  parâmetros  observados  e 
+estimulados pelos professores em oficina. 
+
+Iniciamos os testes com o preenchimento de fichas e planilhas físicas, mas logo 
+ 
+evoluímos para o desenvolvimento de uma plataforma digital que integrasse o portfólio 
+digital  a  estes  instrumentos  de  observação  e  documentação.  Trabalhando  com  uma 
+
+ 
+
+ 
+
+ 
+
+ 
+ferramenta  digital  única,  acabamos  integrando  também  todo  o  material  de  apoio  ao 
+professor em relação ao nosso programa e repertório de técnicas. 
+
+ 
+Ao  pensarmos  na  organização  dos  parâmetros  e  informações  a  documentar, 
+identificamos três grandes grupos que detalharemos a seguir: informações do projeto pela 
+perspectiva do aluno, mobilização de competências  e os comportamentos apresentados 
+na oficina e, por fim, informações das áreas de conhecimento sensibilizadas. Lembrando 
+que este foi nosso ponto de partida e está longe de ser uma proposta definitiva. Sempre é 
+possível  identificar  melhorias  e  adaptações  de  acordo  com  os  diferentes  objetivos  e 
+realidades; neste caso, apresentamos nossa prática como exemplo. 
+
+ 
+A base da plataforma é a documentação em portfólio digital. Ao longo do processo 
+de  construção  os  alunos  são  incentivados  a  documentar  seus  feitos,  dificuldades  e 
+descobertas na plataforma. Assim, as informações do projeto são captadas pelo próprio 
+aluno estudante ao fazer cada registro. Ele seleciona o tipo de registro e, para cada tipo 
+de  registro,  apresentamos  perguntas  diferentes;  ele  também  seleciona  Tags  que 
+representam  os  materiais  e  técnicas  utilizados  ou  mesmo  opiniões  e  sentimentos  em 
+relação aos projetos e ocorrências. Quanto  à  mobilização  de  competências  e  os 
+comportamentos apresentados na oficina, adotamos um formulário simples com pontos a 
+observar do aluno a cada ciclo de projeto. Nele, identificamos as frequências que estes 
+comportamentos eram apresentados, variando entre “raro” e “frequente”, sendo cada um 
+oriundo  do  cruzamento  entre  os  dados  observados  na  prática  e  as  10  competências  da 
+BNCC.  Deixando,  assim,  visível  para  o  professor,  algo  sucinto  e  objetivo  para  que 
+pudesse ser operacionalizado com facilidade. Esta observação é individual. 
+
+ 
+Novamente,  não  pretendemos  ter  algo  definitivo,  partimos  de  nossa  prática  e 
+objetivos que norteavam os professores em oficina, bem como das 10 competências gerais 
+pontuadas pela BNCC. A seguir apresentamos os 4 eixos que definimos como foco e os 
+elementos que são levados em consideração em cada um. 
+
+ 
+O  Meu:  refere-se  à  relação  direta  entre  projeto  e  aluno  durante  o  processo  de 
+concepção  e  construção  desse,  observando  a  materialidade,  uso  de  ferramentas  e  a 
+documentação feita ao longo do processo. 
+
+ 
+O Eu: diz respeito às habilidades emocionais  individuais do  aluno  ao longo do 
+projeto,  como  a  demonstração  de  autonomia,  responsabilidade,  resiliência  e  olhar 
+panorâmico. 
+
+ 
+O Outro: remete às questões socioemocionais na relação interpessoal, tratando do 
+compartilhamento,  responsabilidade  e  participação  assertiva  em  momentos  de  trocas, 
+bem como organização e cuidado com o espaço e seus materiais. 
+
+ 
+O Mundo: trata das relações entre as experiências dentro e fora da oficina, levando 
+em conta o repertório do aluno e a diversidade cultural ao realizar momentos de reflexão 
+e conexão entre projetos e diferentes contextos e interesses. 
+
+ 
+Em relação às informações das áreas de conhecimento sensibilizadas, a estratégia 
+foi mapear objetos de conhecimento e unidades temáticas previstas para cada ano escolar 
+presentes  na  BNCC,  que  aparecem  em  diferentes  etapas  do  projeto  por  meio  da  nossa 
+abordagem  e  possibilita  ao  professor  identificar  quais  conhecimentos  de  fato  foram 
+mobilizados  e  conscientizados.  A 
+intenção  é  entender  como  está  fluindo  a 
+transdisciplinaridade e a diversidade de temáticas que estão sendo abordadas. 
+
+ 
+Devido a todas as questões supracitadas, a plataforma foi batizada com o nome 
+Significa e conta com 3 aplicativos: Significa Oficina, Significa Pais e Significa Gestor. 
+O Oficina é o aplicativo usado em tablet onde os registros são feitos durante o processo 
+
+ 
+
+ 
+ 
+de construção dos projetos e captura os pontos de vista da criança sobre o processo; o 
+Pais é um aplicativo para celular no qual os pais podem acompanhar os projetos dos filhos 
+e os relatórios gerados pela observação do professor; o Gestor é um aplicativo em nuvem 
+que  possibilita  aos  educadores  e  gestores  educacionais  a  consulta  dos  relatórios, 
+indicadores e registros detalhados sobre os alunos e turmas. 
+
+Figura 1. Foco no processo preservando a conexão emocional 
+
+ 
+
+A  figura  acima  resume  com  excelência  nosso  objetivo  com  a  plataforma. 
+ 
+Enquanto o aluno faz suas descobertas, constrói hipóteses e conecta-se emocionalmente 
+com  a  aprendizagem,  a  plataforma  mapeia  dados  do  processo,  traduzindo-os  em 
+informações objetivas que julgamos importante para a atividade proposta. Desta forma, 
+aos pais e educadores, mudamos o foco principal do projeto - que pode ser elementar aos 
+olhos do adulto -, para o aprendizado do processo, tudo isso sem perder o engajamento e 
+emoções  do  aluno  durante  a  construção,  como  o  orgulho  da  concretização  da  ideia  do 
+Maker. Alguns vídeos de demonstração rápida da plataforma digital podem ser vistos pelo 
+link: https://photos.app.goo.gl/VZ3hBnY9FoVvFXFt8 
+
+4. Estudo de Caso 
+
+Durante  o  processo  de  desenvolvimento  da  plataforma,  tínhamos  muitas  dúvidas  e 
+preocupações em relação à sua dinâmica de funcionamento, pois ela deveria ser mais uma 
+ferramenta na oficina, preservando o processo de criação mão na massa por meio de um 
+acesso e uso fluído e natural dentro do espaço de trabalho, estando à disposição quando 
+necessária, mas usada em momento pontuais, para registros rápidos e objetivos. 
+
+ 
+Acompanhando  seu  uso  prático  pudemos  observar  esta  dinâmica  nas  mais 
+diferentes faixas etárias e perceber que os alunos recorrem à plataforma somente quando 
+necessário, de forma integrada com as demais atividades, mantendo o foco no objetivo 
+do projeto  e muitas vezes deixando-a de lado até surgir uma próxima oportunidade de 
+registro. Isso se dá pelo envolvimento e vínculo que os alunos  acabam desenvolvendo 
+com  o  projeto,  entendendo  as  ferramentas  e  tecnologias  como  meio  para  essa 
+concretização e como forma de potencializá-las. As Figuras 2 e 3 mostram uma coletânea 
+desses momentos com os alunos do 7º ano do Ensino Fundamental. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Figuras 2 e 3. Dinâmica de uso da plataforma por alunos de 7º ano 
+
+Outra  grande  preocupação  era  a  validação  dos  dados  coletados  e  dos  relatórios 
+ 
+gerados, ou seja, observar se eles eram condizentes com a percepção do professor e dos 
+coordenadores  pedagógicos  da  escola.  Para  isso,  apresentamos  os  relatórios  para 
+coordenadores  e  professores  em  diversas  reuniões  e  conseguimos  observar  muitas 
+coerências entre a percepção por eles apresentadas e os dados coletados. Contudo, o que 
+mais nos chamou a atenção foram algumas discrepâncias inesperadas, mas fortuitas que 
+merecem  destaque:  alunos  com  bom  rendimento  em  aulas  tradicionais  e  baixo 
+engajamento  na  oficina  e  alunos  com  baixo  rendimento  em  sala  de  aula  e    bom 
+engajamento na oficina. 
+
+ 
+Os  casos  citados,  que  podem  num  primeiro  momento  parecerem  uma  falha  na 
+consolidação dos dados, na verdade ressaltam outra percepção compartilhada por muitos 
+que  trabalham  com  educação  Maker,  a  de  que  a  educação  tradicional  tem  falhado  em 
+incluir as diversidades de aprendizagem e formar alunos integralmente. Neste ponto, nos 
+surpreendeu  o  quanto  os  educadores  da  escola,  ao  entenderem  o  envolvimento  destes 
+alunos  em  nossa  oficina,  ficaram  sensibilizados  e  motivados  a  buscar  mudanças.  Foi 
+possível  perceber  que  apresentar  os  dados  coletados  de  forma  objetiva  facilita  a 
+identificação acerca da necessidade de mudanças por parte da escola.  
+
+ 
+Com isso, entendemos que a plataforma foi capaz de consolidar e apresentar as 
+informações  de  forma  adequada  conforme  os  parâmetros  mapeados  a  partir  de  nossa 
+vivência,  mesmo  que  de  forma  empírica.  Estas  informações  puderam  ser  validadas, 
+através  de  dados  objetivos,  inclusive  pela  percepção  de  diversos  educadores  que 
+convivem com os alunos avaliados. 
+
+ 
+5. Conclusão 
+
+ 
+
+Ao longo de nossas experiências atuando com educação Maker em diversas escolas, com 
+variados  perfis  de  educadores,  pais  e  gestores  percebemos  que,  apesar  dos  debates 
+teóricos  e  acadêmicos  acerca  das  metodologias  ativas,  da  aprendizagem  criativa  e 
+significativa, além das próprias indicações da BNCC acerca da educação integral, ainda 
+há certa resistência em relação às atividades desenvolvidas nos cursos da Little Maker.  
+
+ 
+Contudo,  acreditamos  que  a  adoção  da  plataforma  tenha  contribuído  de  forma 
+positiva para transformações nessa situação. A partir dos portifólios digitais dos projetos 
+e  dos  dados  de  acompanhamento  processual  compartilhados  em  forma  de  relatório,  as 
+construções  dos  alunos  realizadas  nas  oficinas  e  os  resultados  curriculares  e 
+socioemocionais passaram a ser mais valorizados de forma consciente e concreta.  
+
+ 
+Para  as  escolas,  tronaram-se  mais  compreensíveis  as  potencialidades  das 
+atividades,  que  podem  trabalhar  o  currículo  de  maneira  complementar  à  tradicional  e 
+contribuir para que atitudes e a própria cultura Maker transborde o espaço da oficina para 
+a sala de aula. Para os pais, trouxe o acesso tanto ao processo de construção de seus filhos 
+quanto aos resultados educacionais deles, além de ser uma forma de aproximarem-se da 
+experiência  e  do  cotidiano  escolar  de  seus  filhos.  Para  os  estudantes,  possibilitou  a 
+conscientização de seu processo de construção, a identificação dos problemas enfrentados 
+e  das  soluções  elaboradas  e,  por  consequência,  aumentou  a  visibilidade  de  suas 
+aprendizagens, além de um espaço para mostrar seu ponto de vista sobre aquilo que criou.  
+
+Por acreditar que a educação Maker tem um papel no mundo, precisamos entender 
+ 
+como  ela  pode  ganhar  escala  e  se  tornar  significativa  preservando  seus  valores  e 
+contribuindo  para  uma  transformação  social.  Nesse  trabalho  propusemos,  então,  uma 
+abordagem  que  sistematiza  a  observação  e  torna  visível  o  impacto  deste  processo  de 
+aprendizagem de forma sensível e embasada nas diretrizes curriculares. De modo a evitar 
+que o Maker seja inoculado dentro da educação, com um currículo próprio e isolado das 
+outras disciplinas, deixando de promover uma transformação nas práticas educacionais 
+das escolas. 
+
+ 
+Isto posto, observamos que o esforço em tornar a aprendizagem Maker visível é 
+fundamental para romper a barreira de compreensão de nossa abordagem nos ambientes 
+educacionais  tradicionais.  Dessa  forma,  a  busca  por  ferramentas  e  técnicas  que  se 
+conectem aos princípios e conceitos estabelecidos pela metodologia é fundamental para 
+uma mudança gradual e saudável em relação a sua aceitação e ampliação. 
+
+ 
+Os  dados  que  analisamos  e  compartilhamos  com  os  pais  e  gestores  escolares, 
+mesmo que ainda imperfeitos em sua forma e métrica, demonstraram uma boa resposta 
+às  percepções  empíricas  deles,  o  que  nos  encoraja  a  investir  mais  esforços  a  fim  de 
+promover melhorias e desenvolver mais ferramentas e instrumentos de acompanhamento 
+e registro. Acreditamos que a partir delas é possível não apenas acompanhar processos de 
+construção, seus resultados e desenrolar educacional, como também auto  avaliar nossa 
+metodologia e práticas da oficina. Para além, entendemos que  os dados coletados pela 
+plataforma  podem  contribuir  para  estudos  acerca  de  práticas  educacionais  de 
+aprendizagem  criativa,  aprendizagem  significativa  e  atividades  Maker  em  espaços  de 
+educação  formal  com  alunos  de  diferentes  segmentos  e,  assim,  colaborar  com 
+transformações nas práticas e atividades escolares.  
+
+Vale ressaltar  que  não  acreditamos  na  necessidade  de  uma  ruptura  brusca  com 
+ 
+sistema de educação tradicional, tampouco desvalorizamos suas experiências, por isso, 
+acreditamos  em  uma  transformação  que  considere  novas  propostas  e  espaços  que 
+
+ 
+
+ 
+
+ 
+dialogam  com  o  que  já  existe  na  escola  enquanto  promova  amadurecimento  do  
+entendimento  sobre  as  vantagens  e  desvantagens  de  nossa  abordagem  metodológica  e 
+avaliativa. Levando ao reconhecimento das falhas e melhorias possíveis, assim como ao 
+compartilhamento  de  experiências.  Dessa  forma,  entendemos  que  devemos  ter  planos 
+sobre onde queremos chegar com a  educação Maker é importante, mas sabemos que a 
+rota planejada sofrerá mudanças ao longo de nossas experiências. E  isso tudo também é 
+uma lição que tiramos do próprio jeito Maker de pensar. 
+
+Referências 
+
+Wilkinson, K.; Petrich, M. 2014. The Art of Tinkering. San Francisco: Weldon Owen.  
+
+Tinkering  Studio.  Cardboard  Automata.  https://tinkering.exploratorium.edu/cardboard-
+
+automata. Acessado em 25 de fevereiro de 2016. 
+
+Blikstein, P. 2015. Computationally Enhanced Toolkits for Children: Historical Review 
+and a Framework for Future Design. Foundations and Trends in Human–Computer 
+Interaction v.9, n.1, p. 1–68. 
+
+Base  Nacional  Comum  Curricular.  http://basenacionalcomum.mec.gov.br/a-base. 
+
+Acessado em 20 de Julho de 2018 
+
+Seymour, P. (1988). Mindstorms: children, computers and powerful ideas 
+
+Resnick,  M.  (2017).  Lifelong  Kindergarten:  Cultivating  Creativity  through  Projects, 
+
+Passion, Peers, and Play. 
+
+REGGIO CHILDREN, 2014. Zero, Project- Tornando visível a aprendizagem: crianças 
+que aprendem individualmente e em grupo. Tradução Thaís Helena Bonini. Ed: São 
+Paulo. 
+
+Edward P. Clapp, Jessica Ross, Jennifer O. Ryan, Shari Tishman (2016). Maker-Centered 
+
+Learning: Empowering Young People to Shape Their Worlds. 
+
+ 
+
+

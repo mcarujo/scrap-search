@@ -1,0 +1,325 @@
+ 
+
+Pensando Robótica em Versos e Prosa  
+
+Giselle Maria Carvalho da Silva Lima, Maria do Carmo Lima, Marlene Coelho de 
+Araujo 
+
+Utec Gregório Bezerra – Prefeitura do Recife – R. Amaro Gomes Poroca, 1-109 - 
+Várzea, Recife - PE, 50741-530 
+
+gisamcmary@gmail.com, maria.delima@prof.educ.rec.br, 
+milacoelhoc@gmail.com 
+
+Resumo.  Este  artigo  descreve  o  projeto  Pensando  Robótica  em  Versos  e 
+Prosa, proposto pelas professoras multiplicadoras e desenvolvido em escolas 
+da  RPA4  atendidas  pelas  mesmas,  da  Rede  Municipal  de  Ensino  do  Recife.  
+Tem como objetivo demonstrar como foi vivenciada a experiência exitosa do 
+uso  da  robótica  associada  à  leitura  e  produção  textual,  nas  escolas 
+municipais  do  Recife,  bem  como  relatar  a  participação  dos  envolvidos  neste 
+processo de ensino aprendizagem. Foi vivenciado em aulas de 2h, com leitura 
+de  poemas  e  criação  de  protótipos  de  robótica  para  ilustrar  os  textos 
+trabalhados, bem como confecção de vídeos utilizando os tablets e os cenários 
+compostos por blocos de encaixe. 
+
+Abstract.  This  article  describes  the  project  Thinking  Robotics  in  Verses  and 
+Prose, proposed by the multiplier teachers and developed in schools of RPA4 
+attended  by  them,  of  the  Municipal  Education  Network  of  Recife.  It  aims  to 
+demonstrate  how  the  successful  experience  of  using  robotics  associated  with 
+reading  and  textual  production  in  the  Recife  municipal  schools  was 
+experienced,  as  well  as  to  report  the  participation  of  those  involved  in  this 
+teaching-learning  process.  It  was  experienced  in  2h  classes,  reading  poems 
+and  creating  robotics  prototypes  to  illustrate  the  texts  worked,  as  well  as 
+making videos using tablets and scenarios composed of docking blocks. 
+
+1. Introdução 
+
+Estimular  os  estudantes  ao  prazer  da  leitura  e  da  escrita  são  desafios  vivenciados  na 
+prática  docente  e  são  temas  essencialmente  discutidos  nos  programas  de  formação 
+continuada  de  professores,  pois  bem  se  sabe  que  a  leitura  e  a  escrita  possibilitam  ao 
+estudante sonhar e criar dentro e fora da sala de aula. No cotidiano das salas de aulas, 
+ler  para  responder  perguntas  é  uma  prática  frequente,  porém  nem  sempre  desperta  o 
+interesse nos estudantes.  
+
+ 
+Assim, é necessário planejar outros propósitos de incentivo à leitura e escrita de 
+modo que os estudantes enxerguem as duas práticas como algo prazeroso e estimulante. 
+Nesta  perspectiva,  pode-se  aliar  a  leitura  e  a  escrita  com  as  tecnologias  inseridas  no 
+mundo  atual  e  a  escola  precisa  saber  utilizá-las  para  favorecer  o  processo  de  ensino  e 
+aprendizagem.  Diante dessa realidade, o projeto Pensando Robótica em Versos e Prosa 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+pretende, através do uso das tecnologias, incentivar estudantes dos 5º anos ao prazer da 
+leitura e da escrita. 
+
+ 
+Este projeto foi pensado por professoras multiplicadoras para atuarem junto aos 
+professores  das  turmas  de  5º  ano,  em  três  escolas  municipais  da  Região  Político-
+Administrativa 04, da Rede Municipal de Ensino do Recife, no sentido de integrar o uso 
+da tecnologia, destacando a robótica, ao desenvolvimento de atividades relacionadas ao 
+componente  curricular  de  Língua  Portuguesa  enfatizando  o  gênero  textual  Poema. 
+Conforme o Programa Rede Aprendizagem, da Prefeitura do Recife, que busca garantir 
+o acesso de estudantes e professores a  
+
+“A  Robótica  por  sua  vez,  constituem-se  instrumentos  contemporâneos  que 
+utilizam recursos que podem ser considerados sintonizados com a linguagem 
+dos jovens que, sendo bem orientados pela mediação dos professores, podem 
+se transformar em excelentes instrumentos de apoio ao processo pedagógico, 
+ampliando a motivação e o interesse pelo conteúdo curricular. Com a devida 
+orientação, esses equipamentos serão fortes aliados no estímulo à leitura e ao 
+desenvolvimento  de  pesquisas  em  tecnologia  e  inovação,  contribuindo 
+inclusive  no  desenvolvimento  de  projetos  de  autoria  e  colaborativa  para 
+sistematização  e  publicação  (ou  socialização)  das  produções  em  plena 
+sintonia  com  os  fundamentos  da  Política  de  Ensino  da  Rede  Municipal  de 
+Ensino do Recife” (RECIFE, 2017, p. 4). 
+
+O  projeto  teve  como  objetivo  estimular  nos  estudantes  dos  Anos  Iniciais  do 
+ 
+Ensino  Fundamental  o  prazer  da  leitura  e  da  escrita  utilizando  a  robótica  de  encaixe 
+como facilitadora da aprendizagem. 
+
+Já este artigo visa demonstrar como foi vivenciada a experiência exitosa do uso 
+ 
+da  robótica  associada  à  leitura  e  produção  textual,  nas  escolas  municipais  do  Recife, 
+bem como relatar a participação dos envolvidos neste processo de ensino aprendizagem. 
+
+2. Metodologia 
+
+Dentro  da  proposta  de  acompanhamento  do  professor  multiplicador  às  escolas 
+municipais  da  Rede  Municipal  de  Ensino  do  Recife,  foram  pensadas,  neste  projeto, 
+atividades que contemplassem o incentivo à leitura e a escrita e que fizesse articulação 
+com  as  mais  variadas  tecnologias  disponíveis  na  escola,  sobretudo  a  robótica  de 
+encaixe,  portanto    foi  escolhido  o  gênero  textual  Poema  para  o  desenvolvimento  do 
+projeto visto o gosto dos estudantes pelo  gênero em questão.  
+
+ 
+Então, foi pensado inicialmente um cronograma com 5 encontros, em turmas dos 
+anos iniciais do Ensino Fundamental, especificamente os 5º anos de algumas escola da 
+Rede Municipal do Recife.  Em cada encontro foi vivenciado a leitura de um poema de 
+forma compartilhada seguido da reflexão do tema central do texto seguido da utilização 
+da  robótica  de  encaixe  através  da  montagem  do  protótipo  que  representasse  o  poema 
+disposto da seguinte forma: 
+
+Poema 
+
+Recife dos corações1, do poeta Gleidson 
+Melo 
+
+Montagem 
+
+Ponte 
+
+1 Disponível no site Pensador: https://www.pensador.com/frase/NDgxMTc/ 
+
+ 
+
+ 
+
+A bailarina2, de Cecília Meireles 
+
+O relógio3, de Vinícius de Moraes 
+
+Bailarina 
+
+Relógio 
+
+Barco de papel4, de Manoel de Andrade 
+
+Barco a remo 
+
+Após  a  apresentação  do  projeto  nas  escolas  aos  coordenadores  pedagógicos  e 
+ 
+professores  regentes  das  turmas  atendidas,  foi  elaborado  um  cronograma  com  os 
+encontros, onde cada um teve a duração de 3h/a realizados na própria sala de aula dos 
+estudantes. 
+
+ 
+No  primeiro  encontro  foi  vivenciado  o  poema  Recife  dos  corações,  do  poeta 
+Gleidson  Melo,  foi  executada  a  montagem  da  Ponte,  acompanhada  no  manual  do 
+professor (FORTES, 2010). Após a leitura e estudo do poema, os estudantes criaram os 
+lados  da  ponte  e  posteriormente  juntaram  e  compuseram  as  mesmas.  Com  as  pontes 
+montadas, os  estudantes conversaram sobre a  importância das pontes para a cidade do 
+Recife, bem como enumeraram as mais conhecidas e importantes. 
+
+Figura 1. Montagem da Ponte. Acervo Pessoal 
+
+ 
+
+ 
+A bailarina, de Cecília Meireles, foi o poema escolhido para o segundo encontro 
+onde foi trabalhado além do texto escrito, o vídeo e a música homônimos. Os estudantes 
+puderam declamar e  conversar sobre a poesia. A montagem  executada posteriormente, 
+seguindo o manual, também leva o mesmo nome bailarina. Depois de pronta, a bailarina 
+realiza movimentos de giro, em sentido horário e anti-horário. Foi solicitado, ainda, que 
+os  estudantes  desenvolvessem  vídeos  utilizando  a  câmera  do  tablet  Positivo  YPY 
+AB10I  e  o  aplicativo  editor  e  criador  de  vídeo  com  imagens  Photogrid.  Para  a 
+
+ 
+
+2 Disponível em https://www.tudoepoema.com.br/cecilia-meireles-a-bailarina/ 
+3 Disponível em: https://www.letras.mus.br/vinicius-de-moraes/87218/ 
+4Disponível em: https://palavrastodaspalavras.wordpress.com/2007/11/20/barco-de-papel-poema-de-
+manoel-de-andrade/ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+construção dos vídeos, os estudantes utilizaram os cenários confeccionados com os kits 
+Lego  45100  Story  Starter.  Posteriormente,  os  estudantes  fizeram  a  socialização  das 
+produções (montagem da bailarina e dos vídeos) em uma mostra na escola. 
+
+Figura 2 - Montagem da bailarina em movimento. Acervo pessoal. 
+
+ 
+
+ 
+
+Figura 3 - Confecção de vídeos a partir das montagens sobre bailarina. Acervo 
+pessoal. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 4 - Apresentação e socialização da montagem Bailarina e do vídeo 
+confeccionado. Acervo pessoal. 
+
+ 
+
+ 
+Seguindo a sequência planejada no terceiro encontro foi vivenciado o poema O 
+relógio,  de  Vinícius  de  Moraes,  os  estudantes  se  divertiram  e  declamaram  fazendo  a 
+ritmo da poesia, quase cantando. Na ocasião, eles conversaram sobre os diversos tipos 
+de  relógio  e  de  formas  de  marcar  o  tempo  no  curso  da  humanidade,  seguidos  pela 
+montagem do protótipo do relógio.  
+
+ 
+Figura 5 - Montagem O relógio. Acervo pessoal. 
+
+ 
+No  quarto  encontro  foi  trabalhado  o  poema  Barco  de  papel,  de  Manoel  de 
+Andrade, além do texto em si, os estudantes confeccionaram um barquinho de papel de 
+origami  e  conversaram  sobre  a  infância,  as  brincadeiras  e  brinquedos.  Na  sequência, 
+houve a montagem do barco  a remo, seguindo o  manual  de montagem e os estudantes 
+fizeram adaptações no protótipo para uma corrida entre os barquinhos. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Figura 6. Montagem Barco a Remo. Acervo Pessoal. 
+
+ 
+
+ 
+Além da leitura dos poemas  foi vivenciado a leitura  o livro Bom dia todas as 
+cores5,  de  Ruth  Rocha,  com  posterior  construção  do  camaleão.  Nesta  montagem,  o 
+camaleão, a partir do uso de um motor, alimentado com baterias de 1.5 V, muda o lado 
+da gravura do camaleão ora verde, num plano de fundo verde, ora laranja, num plano de 
+fundo marrom. 
+
+ 
+Figura 7 - Montagem Camaleão. Acervo pessoal. 
+
+ 
+O  quinto  encontro  teve  como  proposta  a  criação  de  um  texto  em  prosa  pelos 
+estudantes  utilizando  como  base  da  produção  as  palavras-chaves:  ponte,  bailarina, 
+relógio e barco, de acordo com as montagens feitas a cada encontro, como uma espécie 
+de desafio utilizando a escrita.  
+
+5 Disponível em: https://pt.slideshare.net/emeicantinhodoceu/bom-dia-todas-as-cores-14804669 
+
+ 
+
+ 
+
+ 
+
+Figura 8 – Elaboração de texto – atividade final. Acervo pessoal. 
+
+Após as produções os estudantes puderam socializar seus protótipos e produções 
+
+ 
+na Feira de Conhecimentos da escola, apresentando o que aprenderam. 
+
+3. Conclusão e Perspectivas 
+
+A  vivência  do  projeto  foi  bastante  positiva  para  o  trabalho  com  o  gênero  Poema.  Os 
+estudantes  se  mostraram  bastante  participativos  em  todas  as  etapas  e  propostas  do 
+projeto.  Os  professores  se  mostraram  satisfeitos  com  os  resultados  obtidos,  tanto  na 
+contribuição com os conteúdos e eixos  temáticos de  Língua Portuguesa, quanto com  a 
+participação  e  desenvoltura  dos  estudantes  nas  montagens  dos  protótipos  e  confecção 
+dos vídeos. 
+
+ 
+A  cada  encontro  vivenciado  os  estudantes  se  envolviam  com  a  atividade  com 
+interesse  e  empolgação.  As  relações  interpessoais  também  foram  trabalhadas  a  cada 
+montagem  feita,  pois  como  o  trabalho  foi  realizado  em  grupo,  os  estudantes  passaram 
+por  situações  de  conflito  onde  tiveram  a  oportunidade  de  refletir  sobre  seus  atos  para 
+com  os  outros.  A  etapa  de  socialização  foi  muito  importante,  tendo  em  vista  o 
+reconhecimento do esforço do aluno e a demonstração do seu aprendizado. A partir da 
+vivência e resultados obtidos com este projeto, viu-se como é possível atrelar a robótica 
+e  suas  noções  aos  conteúdos  de  Língua  Portuguesa  e  a  importância  de  desenvolver 
+atividades deste tipo para favorecer a compreensão de outras disciplinas. 
+
+Referências 
+
+FORTES,  Renata.  “Fascículo  de  Educação  para  a  Vida  Zoom:  introdutória:  meu 
+
+primeiro robô”. 2ª ed. Curitiba, PR: Zoom Editora Educacional, 2010 
+
+RECIFE.  Secretaria  de  Educação.  Política  de  ensino:  tecnologias  na  educação. 
+organização:  Jacira  Maria  L’Amour  Barreto  de  Barros,  Élia  de  Fátima  Lopes 
+Maçaira, Katia Marcelina de Souza.  Recife: Secretaria de Educação, 2015. 
+
+RECIFE.  Secretaria  de  Educação.  Diretoria  Executiva  de  Tecnologia  na  Educação. 
+Programa  Rede  de  Aprendizagens.  Prefeitura  do  Recife;  Recife,  2017.  Disponível 
+em:http://www.portaldaeducacao.recife.pe.gov.br/sites/default/files/arquivos_inform
+ativos_home/programa_rede_de_aprendizagens.pdf. 
+
+ 
+
+ 
+
+ 
+
+

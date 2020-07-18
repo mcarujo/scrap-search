@@ -1,0 +1,602 @@
+Vamos Jogar Matemática: utilizando o RPG Maker para 
+produzir um recurso educacional digital para o ensino de 
+Matemática 
+
+Igor Eduardo de Lima Moreira¹, Arianny de Sousa Lira² ³, Darlene Alves Leitão¹ ², 
+Jéssica de Alencar Rios¹, Rafaela Gomes Nobre¹, Sarah Nidia Costa de Lima¹, 
+Juscileide Braga de Castro¹ ² ³. 
+
+¹Faculdade de Educação (FACED) – Universidade Federal do Ceará (UFC) – Fortaleza, 
+CE – Brasil. 
+
+²Grupo de Pesquisa e Produção de Ambientes Interativos e Objetos de Aprendizagem - 
+PROATIVA. Instituto UFC Virtual 
+
+³Pós-Graduação em Ensino de Ciências e Matemática (PGECM) – Instituto Federal de 
+Educação Tecnológica do Ceará (IFCE) – Fortaleza, CE – Brasil 
+
+{arianny_sousa}@hotmail.com,{darlenealvesleitao,final.eduardo.7,jessic
+arios4496,rafaella.rgn,sarahnidia21}@gmail.com,juscileide@virtual.ufc.
+br 
+
+Abstract. This article aims to describe the digital educational resource (DER), 
+Let's Play Math, created from RPG Maker, this being a free software that allows 
+the creation of electronic RPG games. During its production, it was verified the 
+need  to  learn  mathematical  concepts  from  the  production  and  use  of  digital 
+technologies,  exploring  competences  related  to  protagonism,  autonomy  and 
+authorship. The DER was developed to meet the number skills predicted by the 
+BNCC  for  the  4th  year  of  Elementary  School.  Among  the  results,  a  new 
+perspective for the teacher is emphasized, since it can create a game, promote 
+its use or even build with the students. 
+
+Resumo. Este artigo tem como objetivo descrever o recurso educacional digital 
+(RED), Vamos Jogar Matemática, criado a partir do RPG Maker, sendo este 
+um software livre que permite a  criação de jogos RPGs eletrônicos. Durante 
+sua  produção,  verificou-se  a  necessidade  da  aprendizagem  de  conceitos 
+matemáticos  a  partir  da  produção  e  uso  de  tecnologias  digitais,  explorando 
+competências relacionadas ao protagonismo, à autonomia e à autoria. O RED 
+foi desenvolvido para atender às habilidades de números previstas pela BNCC 
+para o 4° ano do Ensino Fundamental. Ressalta-se como resultado uma nova 
+perspectiva para o professor já que o mesmo poderá criar um jogo, promover 
+sua utilização ou ainda, construir junto com os estudantes. 
+
+Antes mesmo de iniciar uma vida escolar, a criança já tem seus primeiros contatos com a 
+leitura, com a escrita e com os conceitos matemáticos. Quando a criança se depara com o 
+conteúdo  de  aritmética  na  escola,  por  exemplo,    muitas  vezes  já  vivenciou,  em  seu 
+
+1. Introdução 
+
+ 
+
+convívio  social,  situações  aditivas  (ideias  de  juntar,  separar,  acrescentar,  retirar, 
+comparar,  entre  outras)  e/ou  multiplicativas  (ideias  de  proporcionalidade,  combinação, 
+produto  de  medidas,  partição,  cotição,  entre  outras).  Isto  acontece,  pois,  as  crianças 
+trazem consigo, na bagagem, a sua própria aritmética pré-escolar [Vygotsky 1989]. 
+
+Nesse  âmbito,  reconhecemos  que  a  Matemática  é  uma  das  disciplinas  que 
+desempenha um papel decisivo em relação a vida escolar, pois une o raciocínio à muitas 
+aplicações no cotidiano, auxilia no processo de resolução de problemas e funciona como 
+instrumento de base para outras disciplinas curriculares, como a Física e a Química, por 
+exemplo. Contudo, verifica-se que a escola explora muito pouco a bagagem cultural dos 
+estudantes, pois costuma ensinar e avaliar a todos da mesma forma, ignorando a existência 
+de  diferentes  competências:  cognitivas,  pessoais  e  sociais;  e  que  estas,  para  serem 
+desenvolvidas, precisam de abordagens diferenciadas [Morán 2015]. 
+
+O aprendizado de  matemática  tem como alguma  das finalidades, desenvolver o 
+raciocínio  lógico,  a  criatividade  e  a  capacidade  de  desenvolver  problemas.  Miskulin 
+(2003,  p.  226)  afirma  que:  “[...],  a  matemática  deve  ser  mediada  também  por 
+metodologias  alternativas,  em  que  o  aluno  em  formação  vivencie  novos  processos 
+educacionais,  plenos  de  sentido  e  relacionados  com  seus  significados  e  valores.  [...]”. 
+Nessa direção, observamos  a  importância de trabalhar a Matemática numa perspectiva 
+diferenciada, colocando os estudantes como protagonistas da aprendizagem, o que pode 
+promover  a  reflexão  e  a  autonomia,  e  propiciando  aulas  participativas,  em  que  todos 
+possam realizar descobertas e produzir conhecimentos. 
+
+Competências como o protagonismo, a autonomia e a colaboração são previstas 
+pela Base Nacional Comum Curricular (BNCC) e podem ser desenvolvidas a partir da 
+exploração da cultura digital e da utilização de diferentes linguagens [Brasil 2017]. 
+
+Neste  viés,  é  importante  ressaltar  que  a  utilização  de  Tecnologias  Digitais  de 
+Informação e Comunicação (TDIC), trabalhadas de forma integrada com os conteúdos de 
+Matemática, podem desenvolver um maior interesse e envolvimento dos alunos diante do 
+processo  de  aprendizagem.  Portanto,  atrelar  o  uso  de  tecnologias  digitais  com  uma 
+metodologia  de  ensino  significava,  pode  estimular  e  proporcionar  uma  relação  de 
+interação entre os alunos e o professor [Leitão 2018]. 
+
+É  notório  que  o  uso  de  tecnologias  digitais  tornou-se,  de  certa  forma,  algo 
+necessário na sociedade atual. No ambiente escolar, o desenvolvimento de práticas que 
+envolvam TDIC é cada vez mais comum. Nesse contexto, é importante salientar que o 
+uso das tecnologias digitais não deve ser pensado como uma forma de transferência de 
+informação,  e  sim  como  uma  forma  de  transformar  o  ser  em  alguém  ativo  e  dono  do 
+processo de construção do seu conhecimento [Papert 1985]. 
+
+Diante das questões apresentadas, essa pesquisa tem como objetivo descrever o 
+processo de produção, além de apresentar e analisar o recurso educacional digital (RED), 
+Vamos Jogar Matemática. Esse RED foi construído com a ferramenta RPG Maker1 para 
+auxiliar o ensino de Matemática nos anos iniciais do Ensino Fundamental, podendo trazer 
+contribuições ao educador por meio de aprendizagens significativas sobre os conceitos 
+matemáticos explorados, bem como a sua aplicabilidade em sala de aula. 
+
+ 
+
+1  É um estilo de jogo que começou como “Jogos de representação” de mesa e tinha elementos básicos: 
+Batalhas baseados em turnos, forte presença narrativa, teatralidade e temáticas que envolviam fantasia. 
+Quando os jogos saíram da mesa e foram para os meios eletrônicos ganharam nova roupagem, mas os 
+elementos base permanecem, em sua grande maioria, até os dias de hoje. 
+
+ 
+
+Cabe ressaltar que este jogo foi desenvolvido de forma colaborativa, com o intuito 
+de trabalhar com conjuntos numéricos e suas operações, tais como: Sistema de numeração 
+decimal  -  leitura,  escrita,  comparação  e  ordenação  de  números  naturais  de  até  cinco 
+ordens; Composição e decomposição de um número natural de até cinco ordens, por meio 
+de  adições  e  multiplicações  por  potências  de  10;  Propriedades  das  operações  para  o 
+desenvolvimento de diferentes estratégias de cálculo com números naturais; Problemas 
+envolvendo  diferentes  significados  da  multiplicação  e  da  divisão:  adição  de  parcelas 
+iguais,  configuração  retangular,  proporcionalidade,  repartição  equitativa  e  medida; 
+Problemas de contagem e Números racionais: frações unitárias mais usuais.  
+
+O estudo tem como referência contribuições teóricas de Seymour Papert (1985), 
+alinhando  com  outras  abordagens  teóricas  atuais  como  as  Metodologias  Ativas,  o  que 
+implica  a  exploração  do  protagonismo  e  da  autoria,  competências  que  são  citadas  na 
+BNCC [Brasil 2017] e que podem vir a ser relacionadas com a formação docente. 
+
+Essa abordagem de pesquisa, assemelha-se com os trabalhos desenvolvidos por 
+Fernandes et al (2018) e por Castro et al (2017). Ambos trabalhos tratam de produção de 
+recursos educacionais digitais para o Ensino de Matemática. 
+
+Em  seu  trabalho,  Castro  et  al  (2017)  apresentam  o  Design  Thinking  como  um 
+processo  de  construção  de  RED.  Este  processo  foi  desenvolvido  junto  a  estudantes  de 
+Pedagogia, como forma de fazê-los refletir sobre conceitos, teorias e metodologias que 
+poderiam  estar  envolvidos  nos  conteúdos  contemplados  por  cada  RED.  A  pesquisa 
+apresenta evidências de que esta abordagem contribuiu para “a troca de experiências e 
+saberes, a reflexão, a construção, a pesquisa, a análise e a formulação de métodos próprios 
+para resolver situações matemáticas” [Castro et al 2017, p. 489].   
+
+Fernandes  et  al  (2018)  apresentam  um  RED  para  o  ensino  de  Estatística  nas 
+escolas. A construção deste RED foi pensada considerando o processo de aprendizagem 
+de conteúdos curriculares matemáticos com a utilização de tecnologias digitais. Sendo 
+assim, além dos conteúdos matemáticos, foram verificados elementos como personagens 
+e  narrativa,  como  forma  de  proporcionar  um  contexto  adequado  para  o  trabalho  com 
+gráficos. 
+
+Ainda  que  estas  pesquisas  apresentem  processos  semelhantes  ao  que  se  propõe 
+neste artigo, nenhuma delas utilizou a ferramenta RPG Maker como uma possibilidade 
+de produção de RED. Neste sentido, na próxima seção, discorre-se sobre o contexto e o 
+desenvolvimento do jogo digital. Em seguida, apresenta-se o recurso e a análise realizada, 
+seguida das considerações finais. 
+
+2. Contexto e Desenvolvimento 
+
+Este  artigo  caracteriza,  descreve  e  analisa  o  RED,  Vamos  Jogar  Matemática, 
+desenvolvido no decorrer da disciplina de Ensino de Matemática do curso de Pedagogia 
+da Faculdade de Educação (FACED) da Universidade Federal do Ceará (UFC), durante 
+o semestre 2018.2.  
+
+ 
+O  desenvolvimento  deste  RED  foi  proposto  como  uma  das  atividades  da 
+disciplina,  como  forma  de  explorar  conceitos,  teorias  e  metodologias  relacionadas  ao 
+Ensino  de  Matemática  nos  anos  iniciais  do  Ensino  Fundamental.  Para  isso,  utilizou-se 
+como  abordagem  o  Design  Thinking,  no  qual  contempla  métodos  e  processos  para 
+resolução de problemas, divididos em 4 etapas não lineares:  
+
+ 
+
+[1] imersão – nesta etapa toma-se conhecimento da situação geral, do tipo de 
+problema  que  se  deseja  resolver,  além  das  necessidades  de  todas  as  partes 
+interessadas no produto final, em especial o cliente-alvo; [2] análise e síntese 
+– considera-se, nesta etapa, os dados recolhidos durante o processo de imersão 
+e as especificações do problema a ser resolvido são delimitadas; [3] ideação – 
+etapa  em  que  busca-se  a  síntese  do  problema,  sendo  lançadas  propostas  de 
+solução, que são anotadas, filtradas e reunidas até se chegar numa proposta 
+final; e [4] prototipação e testes, onde a partir da proposta final se gera um 
+produto  puramente  funcional  que  então  será  testado  na  sua  capacidade  de 
+resolver o problema antes de ser finalizado [Castro et al 2017, p. 486-487]. 
+
+Neste  contexto,  ao  longo  do  processo,  analisou-se  diferentes  soluções  para  a 
+narrativa proposta no jogo, assim como, para os conceitos matemáticos trabalhados.  A 
+unidade temática números foi escolhida por meio de sorteio, sendo considerado, para isso, 
+as cinco unidades de  matemática: números, álgebra, geometria, grandezas  e medidas e 
+probabilidade e estatística [Brasil 2017].  
+
+O  RED  foi  desenvolvido  considerando  as  habilidades  a  serem  trabalhadas  na 
+unidade de números para os estudantes do 4° ano do Ensino Fundamental, contemplando 
+nove habilidades, conforme quadro 1, a seguir. 
+
+ 
+Quadro 1. Habilidades da BNCC exploradas no jogo digital: Vamos Jogar Matemática  
+
+(EF04MA01) Ler, escrever e ordenar números naturais até a ordem de dezenas de milhar 
+
+(EF04MA02) Mostrar, por decomposição e composição, que todo número natural pode ser escrito por 
+meio  de  adições  e  multiplicações  por  potências  de  dez,  para  compreender  o  sistema  de  numeração 
+decimal e desenvolver estratégias de cálculo 
+
+(EF04MA03)  Resolver  e  elaborar  problemas  com  números  naturais  envolvendo  adição  e  subtração, 
+utilizando estratégias diversas, como cálculo, cálculo mental e algoritmos, além de fazer estimativas do 
+resultado 
+
+(EF04MA04) Utilizar as relações entre adição e subtração, bem como entre multiplicação e divisão, para 
+ampliar as estratégias de cálculo 
+
+(EF04MA05) Utilizar as propriedades das operações para desenvolver estratégias de cálculo 
+
+(EF04MA06)  Resolver  e  elaborar  problemas  envolvendo  diferentes  significados  da  multiplicação 
+(adição de parcelas iguais, organização retangular e proporcionalidade), utilizando estratégias diversas, 
+como cálculo por estimativa, cálculo mental e algoritmos 
+
+(EF04MA07) Resolver e elaborar problemas de divisão cujo divisor tenha no máximo dois algarismos, 
+envolvendo os significados de repartição equitativa e de medida, utilizando estratégias diversas, como 
+cálculo por estimativa, cálculo mental e algoritmos 
+
+(EF04MA08)  Resolver,  com  o  suporte  de  imagem  e/ou  material  manipulável,  problemas simples  de 
+contagem, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento 
+de uma coleção com todos os elementos de outra, utilizando estratégias e formas de registro pessoais 
+
+(EF04MA09) Reconhecer as frações unitárias mais usuais (1
+ e  
+2
+medida menores do que uma unidade, utilizando a reta numérica como recurso 
+
+10
+
+1
+
+3
+
+1
+
+4
+
+1
+
+5
+
+1
+
+,
+
+,
+
+,
+
+,
+
+1
+
+100
+
+ ), como unidades de 
+
+Vale  ressaltar  que,  ainda  que  o  RED  tenha  sido  desenvolvido  para  atender  as 
+habilidades de números previstas para o 4° ano do Ensino Fundamental, a aplicação do 
+recurso adapta-se igualmente a outros níveis escolares. 
+
+ 
+
+Escolhemos a produção de um RED com as características de um jogo de RPG, 
+pois, neste tipo de jogo, o usuário é convidado a imergir na narrativa do jogo, devido a 
+interação necessária nos diferentes cenários. Ademais, pensamos em tornar a disciplina 
+de matemática mais significativa, fazendo com que o estudante associe o conhecimento 
+adquirido à sua vida cotidiana, já que, ao mesmo tempo, a utilização do jogo funciona 
+como  um  meio  de  transição  do  pensamento  concreto  para  o  abstrato,  facilitando  o 
+desenvolvimento do raciocínio lógico.  
+
+Sendo assim, verificamos que o RPG Maker VXace poderia ser usado como uma 
+ferramenta  para  o  desenvolvimento  do  jogo  que  teríamos  que  produzir,  pois  possui 
+recursos  para  criação  de  funções  gráficas,  além  de  opções  para  acrescentar  física  aos 
+objetos, trilhas sonoras, entre outras ações. Embora o programa seja comercial, é possível 
+utilizá-lo gratuitamente baixando a distribuição RPG Maker VXace Lite. Essa versão se 
+mostra extensa o suficiente para permitir a criação de projetos simples e divertidos. 
+
+Essa ferramenta é, como o nome sugere, utilizada para criar jogos do gênero RPG 
+(Role Playing Game) eletrônicos. A primeira versão da ferramenta foi criada pela empresa 
+japonesa ASCII, as versões posteriores que foram desenvolvidas assumidas pela, também 
+japonesa,  Enterbrain,  incluindo  a  que  foi  utilizada  na  construção  de  nosso  jogo.  O 
+Software  foi  criado  com  o  objetivo  de  tornar  popular  a  criação  de  jogos  de  RPG 
+eletrônico,  isso  porque  é  possível  criar  jogos  de  grande  dimensão,  sem  grandes 
+dificuldades,  não  necessitando  ter  um  grande  conhecimento  em  linguagem  de 
+programação [Rosa; Maltempi 2003]. 
+
+Além disso, é possível perceber que o programa tem por base e inspirações nos 
+RPG’s clássicos, tais como Chrono Trigger e Final Fantasy III, da 4ª Geração de games, 
+como o Super Nintendo, que foram lançados na década de 90, o que contribuiu para uma 
+popularização do uso do programa, uma vez que não é necessário ter um computador ou 
+hardware potente para poder produzir os recursos do RPG Maker. Cabe ressaltar, que a 
+sua utilização em processos de ensino e aprendizagem é válido, uma vez que é um tipo 
+de  mídia  que  tem  linguagem  e  mecânica  acessíveis  para  públicos  diversos,  inclusive 
+alunos em idade escolar. 
+
+A  seguir,  em  resultados  e  discussões,  apresentar-se-á  e  analisar-se-á  o  RED 
+
+Vamos Jogar Matemática. 
+
+3. Resultados e discussões 
+
+A  apresentação  e  a  análise  do  RED  serão  divididas  em  duas  seções.  A  primeira, 
+apresentará  uma  descrição  do  RED  produzido,  explicitando  os  conceitos  matemáticos 
+abordados. Na segunda, será feita uma análise das contribuições e limitações do RED. 
+
+3.1 O RED Vamos Jogar Matemática 
+
+No  projeto  do  RPG  Maker  VXace,  do  jogo  Vamos  Jogar  Matemática2,  a  interface  de 
+programação  apresentada  na  Figura  1,  possui  12  cenários  (Vila,  Casa,  Parquinho, 
+Corredores  da  Escola,  entre  outros),  porém,  em  apenas  6  ambientes  tem  desafios  que 
+buscam trabalhar habilidades do ensino de Matemática. 
+
+ 
+
+2 
+  Disponível  para  download,  em  formato  WinRAR,  compartilhado  no  Google  Drive,  em: 
+https://drive.google.com/file/d/1w7A4lOFviSkjPV-m66eOe51OcfUZZEgk/view?usp=drivesdk.  Direitos 
+autorais  para  a  música  do  jogo  Vamos  Jogar  Matemática:  Chrono  Trigger  –  Jogo  RPG  Eletrônico 
+desenvolvido pela Square Co. 
+
+ 
+
+ 
+
+Figura 1. Projeto do RPG Maker VXace: jogo VAMOS JOGAR MATEMÁTICA 
+
+O propósito é vivenciar a história para além do game player. Cada personagem 
+possui uma pequena fala, direcionando o usuário  as ações do  jogo, e  as mesmas serão 
+executadas a partir da utilização do controle de ação, que é o comando Z. Os eventos de 
+gatilho e desafios iniciam por meio do comando Z, e nesses 6 ambientes apresentados no 
+Quadro 2, é o local onde ocorrerá tais desafios. 
+
+AMBIENTES 
+
+Sala de Aula 
+
+Quadro 2. Ambientes e Ações: Desafios - jogo VAMOS JOGAR MATEMÁTICA 
+
+AÇÃO NECESSÁRIA 
+
+Terá um cartaz de aviso, e ao tocar o sinal de intervalo, Kaio senta em sua carteira 
+e a partir desse momento, apertando o comando Z ele será  teletransportado ao 
+desafio;  
+
+Sala de Informática  O personagem será direcionado ao computador localizado no fundo da sala, e ao 
+
+ativar o comando Z, terá acesso às informações do próximo desafio; 
+
+Cantina 
+
+Biblioteca 
+
+Pátio 
+
+Quadra 
+
+No espaço da cantina o personagem irá interagir com a merendeira para descobrir 
+os passos para próximo desafio; 
+
+Na biblioteca, Kaio estará à procura do bibliotecário, o mesmo lhe direcionará 
+ao próximo desafio; 
+
+O personagem irá se deparar com o monstro do pátio ao explorar o local até a 
+caixa  de  areia,  e  tendo  como  objetivo  derrotá-lo  para  avançar  aos  próximos 
+desafios. 
+
+Na quadra se encontra o último desafio, e para desvendá-lo o personagem deverá 
+interagir  com  o  professor  de  Educação  Física,  que  se  encontra  no  centro  da 
+quadra. 
+
+Temos como personagem o Kaio, o  avatar que será utilizado pelos usuários do 
+jogo. Kaio está muito ansioso por conta de um evento cultural na escola, a narrativa inicial 
+vai se desenvolvendo em um mundo de fantasia projetado por ele em um sonho. 
+
+Inicialmente Kaio dormirá e ao acordar irá conversar com seus pais sobre o evento 
+cultural, após o diálogo, o mesmo se dirige a escola. Ao conversar com seus colegas da 
+escola,  ele  será  direcionado  a  seu  primeiro  desafio,  que  é  vencer  o  monstro  do  pátio, 
+resolvendo  um  questionamento  sobre  combinações:  quantas  combinações  você  pode 
+fazer  para  que  todos  os  5  amigos  brinquem  com  você  na  gangorra?  Esta  situação  tem 
+como referência a habilidade EF04MA08, como apresentada no Quadro 1.   
+
+ 
+
+Concluindo o desafio de forma assertiva, Kaio passará pelo corredor da escola e 
+encontrará na primeira porta, a Sala de Aula, onde a atividade proposta pela professora 
+Marielle é ordenar os números até a quarta ordem, habilidade EF04MA01, tendo como 
+representatividade de números os próprios alunos. Outro local, apresentado na segunda 
+porta do corredor, é a Cantina, onde a merendeira conversa com Kaio, e o questiona com 
+o  seguinte  desafio:  distribua  5  décimos  de  frutas  para  cada  aluno,  qual  será  a 
+representação fracionária correta? - habilidade EF04MA09. 
+
+No  próximo  corredor  encontramos  a  Sala  de  Informática  (Figura  2),  o  desafio 
+presente nesse cenário faz com que Kaio e seus colegas de classe vençam com a ajuda de 
+Norton, o antivírus, uma batalha de composição e decomposição de números,  em que o  
+número 8653 estava escrito por meio de adições e multiplicações por potências de dez, 
+explorando a habilidade EF04MA02. 
+
+O desafio da Sala de Informática apresenta uma narrativa interdisciplinar, tendo 
+em  vista,  que  as  questões  apresentadas  agem  de  forma  integrada  com  o  ensino,  ao 
+apresentar  uma  batalha  contra  um  vírus  de  computador,  reforçando  situações  que 
+envolvem vivências no ambiente escolar, desde os espaços internos e externos da escola. 
+Os desafios consolidaram a validação da narrativa e das atitudes interdisciplinares como 
+caminho  para  o  saber  compartilhado  e  construído,  demonstrando  ainda  que  o  Vamos 
+Jogar  Matemática  apresenta  perfil  para  ser  uma  ferramenta  adequada  no  processo 
+educativo, desde que sejam aproveitados seus ambientes, cenários e desafios. 
+
+ 
+Figura 2. Sala de Informática: jogo VAMOS JOGAR MATEMÁTICA 
+
+ Na Biblioteca, em conversa com o bibliotecário, Kaio percebe que um espírito 
+guardião dos livros vem assombrando o local. O guardião o questiona sobre a operação 3 
+x  7  x  0,  habilidade  EF04MA04.  Precisamos  levar  em  consideração  que  os  desafios 
+apresentam mais de uma habilidade da BNCC, pois devemos utilizar as propriedades das 
+operações  para  desenvolver  estratégias  de  cálculo,  utilizando  assim  a  habilidade 
+EF04MA05. 
+
+E por fim, a Quadra, onde seu professor de Educação Física, que encontra-se no 
+meio da quadra, o orientará sobre a atividade proposta que envolve localização, já que a 
+quantidade de passos é descrita a partir da resolução de operações de soma e subtração, 
+habilidade EF04MA03. Obtendo como resposta: 4 passos para baixo, 1 passo a direita, 
+11 passos para a esquerda e 5 passos para cima, e assim encontrando o prêmio final. Ao 
+final desses desafios, Kaio retorna ao seu quarto, e se questiona: Foi tudo um sonho, como 
+
+ 
+
+assim? Mas, por fim, deseja que consiga resolver todas as situações problemas no evento 
+cultural da escola, assim como conseguiu no seu sonho. 
+
+Por  ser  um  jogo  de  estilo  RPG,  foi  possível  por  meio  das  caixas  de  diálogo 
+presentes  nas  interações  entre  os  personagens,  momentos  de  batalhas,  eventos  e  criar 
+situações em que os problemas propostos estivessem coerentes com o público alvo e com 
+os objetivos de aprendizagem que desejamos alcançar. 
+
+Na sessão a seguir, apresentaremos as contribuições e limitações do RED, tendo 
+como  implicações  o  papel  do  professor  e  abordando  a  teoria  construcionista  como 
+embasamento teórico. 
+
+3.2 Contribuições e limitações do RED 
+
+Vamos  Jogar  Matemática,  apresenta  uma  interação  constante  do  jogador  com  os 
+elementos presentes no recurso, visto que para avançar de fase é necessário descobrir e 
+concluir  os  desafios  apresentados.  Deste  modo,  o  jogador  deverá  desbravar  todos  os 
+ambientes, buscar dicas e vencer batalhas, mediante acerto de questões de Matemática.   
+
+A utilização do RED em sala de aula traz como proposta que os alunos explorem 
+o  jogo,  resolvam  as  situações  problema,  passando  por  todas  as  fases  até  o  jogo  ser 
+finalizado. O recurso será utilizado como uma estratégia, com o intuito de apresentar um 
+material de design digital mais atraente ao aluno, envolvendo-o nos desafios ao mesmo 
+tempo  em  que  apresenta  situações  que  envolvam  problemas  matemáticos.  O  professor 
+estará  envolvido  nas  atividades  com  a  turma,  auxiliando  em  quaisquer  dúvidas  que 
+possam surgir e no processo de ensino. Caso não existam máquinas suficientes para cada 
+aluno, o jogo poderá ser explorado em duplas ou trios. 
+
+Essa concepção pode ser associada com as competências gerais 2 e 5 definidas 
+
+pela BNCC [Brasil 2017]: 
+
+Competência  2:    Exercitar  a  curiosidade  intelectual  e  recorrer  à  abordagem 
+própria das ciências, incluindo a investigação, a reflexão, a análise crítica, a 
+imaginação e a criatividade, para investigar causas, elaborar e testar hipóteses, 
+formular e resolver problemas e criar soluções (inclusive tecnológicas) com 
+base  nos  conhecimentos  das  diferentes  áreas.[...]  Competência  5: 
+Compreender,  utilizar  e  criar 
+informação  e 
+comunicação  de  forma  crítica,  significativa,  reflexiva  e  ética  nas  diversas 
+práticas  sociais  (incluindo  as  escolares)  para  se  comunicar,  acessar  e 
+disseminar  informações,  produzir  conhecimentos,  resolver  problemas  e 
+exercer protagonismo e autoria na vida pessoal e coletiva. (BRASIL, 2017, sn, 
+grifo do autor) 
+
+tecnologias  digitais  de 
+
+Nesse contexto, unindo tecnologia com a educação, procuramos nos fundamentar 
+na teoria pedagógica do construcionismo [Papert 1985], que relaciona as tecnologias com 
+a  educação.  As  tecnologias  digitais  têm  chegado  às  escolas,  a  partir  da  disposição  de 
+ferramentas  como  computadores  e  dispositivos  portáteis.  Essa  conexão  pode  propiciar 
+experiências relevantes, possibilitando o desenvolvimento de projetos interdisciplinares, 
+a geração de dados em tempo real e a interação [Castro e Castro-Filho 2012].  
+
+ O construcionismo corrobora com o uso da tecnologia, com ênfase, na utilização 
+do computador tendo o usuário como centro do processo de construção do aprendizado. 
+Entretanto,  é  importante  salientar  que  o  recurso  da  pesquisa  também  apresenta  ações 
+instrucionistas, todavia não invalida a perspectiva geral do jogo, que permite ao usuário, 
+explorar  vários  ambientes  e  cenários,  interagir  com  os  elementos  presentes  e  buscar 
+compreender as situações com o objetivo de avançar os desafios. 
+
+ 
+
+O RED, sendo jogo de estilo RPG, no âmbito do ensino de matemática assume 
+uma  nova  perspectiva  para  o  professor  já  que  o  mesmo  poderá  criar  um  jogo,  pois  a 
+linguagem  de  programação  nos  permite  esse  procedimento,  ou  construir  de  forma 
+juntamente  com  os  alunos,  apresentando  assim  uma  abordagem 
+colaborativa 
+construcionista  e, a partir disso, promover sua utilização com os alunos de forma apenas 
+instrucionista com foco na resolução de situações problemas. 
+
+É  necessário  entender  que  sua  elaboração  ocorreu  a  partir  de  uma  plataforma 
+básica  de  elaboração  de  jogos,  não  se  fazendo  necessário  conhecimento  aprofundado 
+sobre  programação,  apresentando  facilidade  e  rapidez  na  criação  de  protótipos.  Outra 
+vantagem são os modelos pré-configurados de mapas, personagens e itens de cenários, 
+presentes na versão, possuindo também gerenciadores de plugins. 
+
+No  entanto,  conseguimos  perceber  no  âmbito  de  estruturação  que  este  possui 
+algumas  limitações  específicas,  tais  como  as  questões  não  serem  randômicas,  os 
+personagens serem limitados, a qualidade dos gráficos é baixa, a parte física e o sistema 
+de  mensagens  é  limitado,  o  gameplay  e  interface  não  apresentam  muitas  opções  de 
+personalização,  os  ambientes  criados  não  possuírem  uma  maior  diversidade,  e  se  for 
+necessário utilizar outros ambientes ou expandir as opções dos personagens e cenários, 
+há a necessidade de baixar outras extensões do programa que são pagas e com exceção 
+da versão MV, o RPG Maker produz jogos apenas para o Windows.  
+
+4. Considerações Finais 
+
+Nesse  artigo  apresentamos  e  analisamos  o  RED,  Vamos  Jogar  Matemática,  no  qual  é  
+detalhado como o RED funciona, a importância do seu uso no ensino e aprendizado de 
+conceitos matemáticos sobre conjuntos numéricos e suas operações, sua ligação com as 
+TDIC,  suas  contribuições  e  limitações,  assim  como,  reconhecemos  o  construcionismo 
+como subsídio a aprendizagem por meio da construção de jogos digitais.  
+
+O  desenvolvimento  do  RED  foi  um  processo  que  viabilizou  aprendizagens  de 
+conceitos matemáticos, como também, de reflexões e análises metodologias envolvendo 
+as TDIC. Nesta perspectiva ressaltamos a importância desse processo de construção de 
+mídias  digitais  pelos  estudantes  da  licenciatura  como  práticas  que  possibilitem  essa 
+reflexão acerca da inserção das TDIC nas práticas docentes. 
+
+Desse modo, conclui-se que o processo de construção dos recursos, possibilitou o 
+desenvolvimento  de  uma  nova  percepção  dos  participantes  perante  o  uso  de  TDIC  no 
+ambiente educacional e diante das abordagens metodológicas de ensino. Vale ressaltar, 
+que a Base Nacional Comum Curricular apresenta em uma de suas competências, que a 
+cultura digital, está ligada à compreensão, à criação e o uso de tecnologias digitais, como 
+forma de produzir conhecimento, resolver problemas, dentre outros [Brasil 2017].  
+
+Por  fim,  espera-se  que  outras  questões  possam  ser  abordadas  e  discutidas  com 
+novos olhares sobre o uso de TDIC, como no caso do recurso desta pesquisa, podendo 
+assim  trazer  futuras  contribuições  para  o  processo  de  ensino  e  de  aprendizado. 
+Possibilitando  que  as  mídias  desenvolvidas,  sejam  formas  de  reflexão  dos  conceitos, 
+metodologias e teorias, e que estas sejam aplicadas e validadas no ambiente escolar.  
+
+Brasil, Ministério da Educação (2017). “Base Nacional Comum Curricular”. Disponível 
+
+em <http://basenacionalcomum.mec.gov.br/> Acesso em: 31 Mar. 2018. 
+
+Referências 
+
+ 
+
+Castro, J. B.; Soares, I. O.; Vianna, E. P. N.; Sousa, J. S. “Lógica Criativa: a construção 
+de  mídias  digitais  para  o  ensino  de  matemática”.  In:  Anais  dos  Workshops  do  VI 
+Congresso  Brasileiro  de  Informática  na  Educação  (WCBIE  2017).  VI  Congresso 
+Brasileiro de Informática na Educação (CBIE 2017). Disponível em: <http://www.br-
+ie.org/pub/index.php/wcbie/article/view/7431/5227>. Acesso em: 23 mar. 2019. 
+
+Castro, J. B.; Castro-Filho, J. A. (2012) 'Projeto Um Mundo de Informações: Integração 
+de Tecnologias Digitais ao Currículo Escolar'. In: Congresso Brasileiro de Informática 
+na Educação, 1., 2012, Rio de Janeiro. Anais... Rio de Janeiro: SBC. 
+
+Fernandes,  K.;  Sousa,  G.;  Kelly,  F.;  Lima,  G.;  Leitão,  D.;  Souza,  D.;  Castro,  J.. 
+“Tecnologias Digitais e o Ensino de Estatística: explorando a Estatística a partir de um 
+recurso educacional digital”. 2018. Mostra de Práticas de Informática na  Educação. 
+VII Congresso Brasileiro de Informática na Educação (CBIE 2018). Disponível em: 
+<http://dx.doi.org/10.5753/cbie.wcbie.2018.357>. Acesso em: 28 fev. 2019. 
+
+Miskulin, R. G. S. “As possibilidades didático-pedagógicas de ambientes computacionais 
+na  formação  colaborativa  de  professores  de  Matemática.  In  FIORENTINI,  Dário. 
+“Formação de Professores de Matemática”. Campinas–SP. Mercado de Letras, 2003. 
+
+Papert,  Seymour.  “Logo:  Computadores  e  Educação”.  3ª  ed.  São  Paulo:  Editora 
+
+brasiliense s.a. 1985. 
+
+Rosa, M.; Maltempi, M. V. “RPG MAKER: uma proposta para unir jogo, informática e 
+educação  matemática”.  2003.  20  f.  TCC  (Graduação)  -  Curso  de  Matemática, 
+Universidade  Estadual 
+em: 
+Paulista,  Rio  Claro, 
+<http://www.rc.unesp.br/igce/demac/maltempi/Publicacao/Rosa-Maltempi-
+sipem03.pdf>. Acesso em: 30 nov. 2018. 
+
+2003.  Disponível 
+
+Leitão, D. A. “Um olhar pedagógico sobre o processo de construção de recursos digitais 
+de matemática com Scratch”. Fortaleza 2018. 54f. Monografia, Curso de Pedagogia – 
+Universidade Federal do Ceará (UFC)  
+
+Morán, J. “Mudando a Educação com metodologias ativas. In: Convergências Midiáticas, 
+Educação  e  Cidadania:  aproximações 
+II.  Coleção  Mídias 
+Contemporâneas. SOUZA, Carlos Alberto e MORALES, Ofelia Elisa Torres (Orgs.). 
+PG: 
+em: 
+<http://www2.eca.usp.br/moran/wp-content/uploads/2013/12/mudando_moran.pdf> 
+Acesso em: 05 set. 2018. 
+
+FotoPROEX/UEPG, 
+
+jovens”.  Vol. 
+
+Disponível 
+
+2015. 
+
+Foca 
+
+Vygotsky, L. S. “Pensamento e linguagem”. São Paulo: Livraria Martins Fontes, 1989. 
+
+ 
+
+

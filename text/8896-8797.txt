@@ -1,0 +1,483 @@
+Desafios da Tutoria em um Curso On-Line de Formação de 
+Professores para Desenvolvimento do Raciocínio 
+Computacional 
+
+Ecivaldo Matos1, Claudia Borges Coutinho1, Euma Santos1, Hugo M. Dourado1, 
+Leonardo Ribeiro1, Ranansamir Sousa da Silva1, Silvana Santos de Jesus1, Thácio 
+Kevin Oliveira1, Pauleany Simões de Morais2 
+
+ 
+1Instituto de Matemática e Estatística – Universidade Federal da Bahia (UFBA) 
+2Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) 
+ 
+ecivaldo@ufba.br, claudiabcout@gmail.com, eumasantos@gmail.com, 
+hmdmarvin@gmail.com, leonardo.azevedo@ufba.br, 
+ranansamir.silva@ufba.br, silvanasj18@gmail.com, 
+kevin.thacio@gmail.com, pauleany.morais@ifrn.edu.br 
+ 
+Abstract.  This  paper  presents  an  experience  report  about  the  perceived 
+challenges 
+for  “Developing 
+Interdisciplinary  Skills  with  Computational  Reasoning  for  Teachers  of  Basic 
+Education”.  The  course  was  performed  by  Federal  University  of  Bahia  in 
+collaboration with Federal University of São Carlos, and reached over 90 people 
+including undergraduate students (of teacher training degree courses), beginner 
+teachers in basic education (up to five years) and experienced teachers (over five 
+years  in  basic  education).  In  addition  to  the  challenges  related  to  the  course 
+theme  and  the  intergenerational  perspective  of  the  participants,  there  were 
+intrinsic  challenges  to  undergraduate  students'  online  tutoring.  This  article 
+discusses  these  challenges  using  the  reports  of  tutors  and  enrolled  teachers, 
+especially  those  reflecting  upon  the  on-line  formation  of  teachers  to  develop 
+Computational Thinking. 
+
+tutoring  an  80-hour  online  course 
+
+in 
+
+Resumo. Este artigo apresenta um relato dos desafios percebidos na tutoria de 
+um  curso  on-line  de  80  horas  para  “Desenvolvimento  de  Competências 
+Interdisciplinares  com  o  Raciocínio  Computacional  para  Professores  da 
+Educação  Básica”.  O  curso  foi  promovido  em  colaboração  por  duas 
+universidades  federais  e  alcançou  mais  de  90  pessoas  entre  estudantes  de 
+licenciatura  (professores  em  formação),  professores  iniciantes  na  educação 
+básica (com até cinco anos de atuação) e professores experientes, com mais de 
+cinco  anos  de  atuação  na  Educação  Básica.  Para  além  dos  desafios 
+relacionados  à  temática  do  curso  e  à  perspectiva  intergeracional  dos 
+participantes,  houve  desafios  intrínsecos  ao  exercício  da  tutoria  on-line  por 
+estudantes  de  graduação.  Foram  utilizadas  as  narrativas  dos  tutores  e  dos 
+professores-participantes para relatar os desafios apontados neste artigo, com 
+endereçamento  de  reflexões  acerca  da  formação  de  professores  on-line  para 
+desenvolvimento do Raciocínio Computacional.  
+
+ 
+
+ 
+
+1. Introdução 
+
+A capacidade de resolver problemas e aprender a aprender estão dentre as necessidades 
+cognitivas para o século XXI (Cachapuz et al., 2004: 28). Isso sugere que o aprendizado 
+não ocorra apenas no viés de decorar conteúdos, mas que os aprendizes sejam estimulados 
+a  identificar,  analisar  e  resolver  problemas,  assim  como  tais  conteúdos  devam  ter 
+aplicabilidade no seu cotidiano.        
+
+É  nesse  contexto  que  propusemos  a 
+
+formação  de  professores  para 
+desenvolvimento  do  Raciocínio  Computacional  (RC),  tradução  livre  do  inglês 
+“Computational Thinking”, e suas habilidades. Ao contrário do que se pode pensar, essas 
+habilidades tratam muito mais da forma como estruturamos ideias do que com o uso de 
+ferramentas  tecnológicas.  Não  à  toa,  Jeannette  M.  Wing  (2006,  p.  4)  nos  diz  que  o 
+Raciocínio Computacional  “(...) é uma forma para seres humanos resolverem problemas; 
+não é tentar fazer com que seres humanos pensem como computadores”. 
+
+Ribeiro et al. (2017) afirmam que o grande objetivo da Computação é “raciocinar 
+sobre o raciocínio” e que a “formalização do raciocínio está intimamente relacionada à 
+resolução de problemas”. Essa afirmação baseia-se na ideia de que, não necessariamente, 
+precisamos de sentenças verdadeiras ou falsas para resolver um problema como exige o 
+raciocínio lógico, mas um conjunto de regras qualquer, entradas e saídas, que resultarão 
+em  um  produto  (solução).  Nesse  sentido  entendemos  que  o  desenvolvimento  das 
+habilidades  do  RC  “é  fundamental  para  todos,  não  somente  para  cientistas  da 
+Computação” (Wing, 2016, p. 2). Logo, relevante como um recurso didático-pedagógico 
+tanto  para  o  professor  em  sua  prática,  quanto  para  o  estudante  em  seu  processo  de 
+aprendizagem.  
+
+É  importante,  portanto,  que  novas  abordagens  metodológicas  e  conceitos 
+emergentes sejam disponibilizados para os professores em suas formações. Nesse sentido 
+foi desenvolvido em 2018 o curso on-line intitulado “Desenvolvimento de Competências 
+Interdisciplinares  com  o  Raciocínio  Computacional  para  Professores  da  Educação 
+Básica”,  promovido  pela  Universidade  Federal  da  Bahia  (UFBA)  em  parceria  com  a 
+Universidade  Federal  de  São  Carlos  (UFSCar),  cujo  objetivo  foi  apresentar  as 
+potencialidades  didático-pedagógicas  do  RC  para  professores  da  educação  básica,  de 
+diferentes áreas, disciplinas e níveis, de modo a servir como um recurso na/para prática 
+docente. 
+
+Um  curso  dessa  natureza  apresenta  diversos  desafios.  Um  desses  desafios  é  a 
+
+própria tutoria, nesse caso exercida por estudantes de graduação. 
+ 
+Este  artigo  relata  os  principais  desafios  enfrentados  pelo  grupo  de  tutores  que 
+atuou no curso. O texto está escrito em primeira pessoa por considerá-lo com o um relato 
+da nossa experiência em tutoria de um curso de formação de professores em EaD para 
+desenvolvimento  do  RC.  Esperamos  que  a  nossa  história  seja  útil  para  (re)pensar 
+estratégias de formação em Computação voltadas aos professores da educação básica.  
+O  texto  está  organizado  em  mais  cinco  seções:  primeiro  trazemos  trabalhos 
+ 
+anteriores relacionados à tutoria on-line. Em seguida, descrevemos brevemente o curso e 
+o perfil dos tutores. Na terceira seção, apresentamos alguns dos desafios enfrentados pelo 
+grupo de tutores. Por fim, apresentamos considerações finais seguidas das referências. 
+
+ 
+
+2. Trabalhos Anteriores  
+
+Segundo  os  Referenciais  de  Qualidade  para  Educação  Superior  a  Distância  (BRASIL, 
+2007), o tutor é definido como: 
+
+[...]  um  dos  sujeitos  que  participa  ativamente  da  prática 
+pedagógica.  Suas  atividades  desenvolvidas  a  distância  e/ou 
+presencialmente devem contribuir para o desenvolvimento dos 
+processos  de  ensino  e  de  aprendizagem  e  para  o 
+acompanhamento e avaliação do projeto pedagógico. (p. 21) 
+
+O  tutor  é,  portanto,  um  sujeito  de  fundamental  importância  no  ensino  e  na 
+aprendizagem em EaD. Dentro desse contexto, é de fundamental relevância refletir sobre 
+o papel/importância de acordo com a perspectiva de alguns autores. 
+
+Vargas & Castro (2010) apresentam experiências de tutores em um  curso Superior 
+de Tecnologia em Sistemas para Internet oferecido pela IFSul (Instituto Federal Sul-rio-
+grandense). As autoras definem o tutor como facilitador do processo de aprendizagem, 
+considerando que ele será a pessoa com conhecimentos técnicos e pedagógicos capazes 
+de diminuir as dificuldades do corpo discente. Além disso, o tutor deve estar apto para 
+interpretar todo material pedagógico pertencente ao curso bem como o manuseio deste 
+material no ambiente virtual, de modo que o aluno não seja prejudicado caso haja alguma 
+dificuldade. 
+
+Rodrigues & Ramos (2016) destacam a importância do tutor salientando que ele 
+é  o  elo  entre  o  aluno  e  a  instituição  de  ensino.  Os  Referenciais  de  Qualidade  para 
+Educação Superior a Distância (BRASIL, 2007, p. 10) afirmam que “um dos pilares para 
+garantir a qualidade de um curso a distância é a interatividade entre professores, tutores 
+e  estudantes.”.  A  autora  elenca  algumas  características  específicas    para  que  o  tutor 
+desenvolva um bom trabalho: dinamismo, criticidade, capacidade de  interagir e propor 
+interações  entre  os  alunos,  conhecimento  e  disposição  com  as  novas  tecnologias  de 
+informação e comunicação. 
+
+Dotta  e  Giordan  (2014)  apresentam  uma  reflexão  sobre  as  estratégias  de 
+comunicação escrita, a partir de uma concepção dialógica de Educação, que privilegia a 
+coparticipação de estudantes e tutores na trajetória de aprendizagem. Os autores partiram  
+do pressuposto de que o tutor tem o papel de educador e é um dos sujeitos responsáveis 
+pela  formação  de  estudantes,  uma  vez  que  ele  media  a  aprendizagem  e  estabelece  um 
+diálogo ao  mesmo tempo acolhedor e  instigador da problematização do conhecimento. 
+Essas  estratégias  foram  analisadas  a  partir  de  uma  experiência  na  qual  uma  tutora 
+elaborou um  jogo de perguntas e respostas  e, com  isso, conseguiu, em alguns casos, o 
+envolvimento  de  estudantes  por  meio  do  estabelecimento  de  empatia,  do 
+compartilhamento  do  processo  de  construção  de  ideias  e  da  prevalência  da  função 
+dialógica  do  discurso.  Para  finalizar  o  trabalho,  foi  proposta  uma  reflexão  sobre  a 
+importância da autonomia do estudante em cursos a distância e como impulsionar  essa 
+autonomia. 
+
+Por  sua  vez,  Silva  e  Vitoriano  (2015)  analisaram  o  papel  do  tutor  como 
+intermediador  da  aprendizagem  e  favorecedor  da  participação  de  professores  em 
+formação  inicial  no  fórum  acadêmico  da  disciplina  de  Estágio  I:  Teoria  e  Prática  do 
+Ensino. Realizaram a  análise do gênero textual fórum na perspectiva do Interacionismo 
+Sociodiscursivo. Essa análise permitiu identificar desafios da atuação  e possibilidades de 
+atuação  do  tutor  no  ensino  e  aprendizagem  em  cursos  na  modalidade  a  distância. 
+Atribuíram a oscilação da participação dos estudantes à pouca ou nenhuma participação 
+do  tutor  nos  fóruns.  Por  fim,  pressupuseram  que,  embora  os  estudantes  tenham 
+conseguido um bom desempenho de autonomia na  construção do seu conhecimento, o 
+
+ 
+
+tutor  exerce  papel  importante  na  intermediação  do  ensino  e  aprendizagem  como  um 
+propulsor das discussões, exigindo participação efetiva de todos os sujeitos envolvidos 
+no processo de ensino e de aprendizagem. 
+
+Os trabalhos apresentados fundamentam o que observamos e vivenciamos durante 
+o  curso  no  que  diz  respeito  a  importância  da  tutoria.  No  decorrer  do  trabalho,  mais 
+especificamente na seção "desafios da tutoria" será possível observar e confirmar o que 
+os  autores  apresentam  em  relação  ao  tutor  como  um  facilitador.  Em  nosso  curso,  esse 
+facilitador  tornou-se  figura  indispensável  para  os  resultados  proporcionando  uma 
+comunicação direta com o aluno, interagindo e intermediando o aprendizado.  
+
+3. O Curso  
+
+O curso foi uma parceria do Programa de Ações Pedagógicas para Formação de Docente 
+em  Computação  (PROFCOMP)  da  UFBA  com  a  UFSCar,  no  âmbito  da  Rede  de 
+Aprendizagem e Desenvolvimento da Docência (ReAD). 
+
+Ele foi estruturado em três unidades. A Unidade 1 foi dedicada à ambientação e 
+apresentação do curso, onde os participantes conheceram todos os demais participantes e 
+entenderam como o curso seria desenvolvido; a Unidade 2 focalizou-se nos estudos sobre 
+as habilidades do Raciocínio Computacional; e a Unidade 3 foi voltada à atividade final, 
+na qual os participantes tiveram que aplicar seus conhecimentos no desenvolvimento de 
+um  plano  de  aula  de  sua  disciplina  utilizando  as  habilidades  do  RC.  Mesmo  com  essa 
+divisão,  durante  todo  o  curso  fizemos  atividades  interdisciplinares  de  forma  a  pensar 
+possibilidades reais para a prática pedagógica do professor. 
+ 
+Foram 274 professores inscritos no processo seletivo, de várias partes do Brasil. 
+Desses,  tivemos  91  professores  efetivamente  matriculados,  sendo  46  na  categoria 
+Professor Experiente (mais de 5 anos de exercício de atuação docente), 26 na categoria 
+Professor Iniciante e 18 na categoria Professor em Formação (estudante de licenciatura). 
+Durante a Unidade 2, os participantes foram divididos em quatro turmas. Houve 
+a  preocupação  em  manter  o  equilíbrio  entre  os  diferentes  grupos  de  professores 
+(Experientes, Iniciantes e Em Formação). As turmas foram nomeadas de A a D e para 
+cada uma delas foi designado um tutor. O objetivo foi possibilitar acompanhamento mais 
+próximo, entendendo o contexto do professor para construção do conhecimento, sempre 
+com  seriedade  e  retidão,  uma  vez  que,  foi  nesse  período  que  as  dúvidas  quanto  ao 
+conteúdo começaram a se consolidar.    
+ 
+ 
+Na  Unidade  3,  a  divisão  por  turmas  foi  desfeita  para  reequilibrar,  dado  que 
+algumas  turmas  tinham  muitos  participantes,  enquanto  outras  muito  poucos.  Nesse 
+momento os participantes foram agrupados em duplas, respeitando o binômio <professor 
+experiente, professor iniciante> ou <professor experiente, professor em formação>. Cada 
+tutor recebeu um conjunto de duplas para acompanhamento. 
+
+Durante a Unidade 3, concentramos-nos em apenas uma atividade, cujas entregas 
+foram divididas em pequenas partes ao longo do período. As entregam eram etapas para 
+a atividade final, de modo que favorecesse o acompanhamento do seu desenvolvimento, 
+para que fosse possível ao tutor conseguir colaborar para o planejamento com a utilização 
+do RC durante a aula. Os resultados dos trabalhos finais, aplicados ou não em sala de aula 
+foram  apresentados  presencialmente  ou  por  vídeo  no  IV  Fórum  Interdisciplinar  Sobre 
+Formação Docente com Tecnologias: Tecnologia, Educação e Democracia. 
+
+Os  tutores  do  curso  são  membros  do  grupo  Computação  Desplugada  Interdisciplinar 
+(CDI). O CDI tem atuado desde 2014 em escolas públicas de Salvador com atividades de 
+
+3.1. Equipe Tutorial 
+
+ 
+
+Computação Desplugada. A partir de 2017, começamos a fazer formações de professores 
+para o desenvolvimento de habilidades do Raciocínio Computacional.  
+
+Ao longo do curso foram  dez colaboradores: seis estudantes de graduação, uma 
+professora da rede pública estadual, dois estudantes de mestrado, além do coordenador e 
+idealizador do projeto.  
+
+A equipe de tutores foi composta por cinco pessoas: um mestrando em Ciência da 
+Computação,  já  licenciado  em  Computação,  dois  estudantes  de  Licenciatura  da 
+Computação e dois estudantes de Engenharia. Nenhum dos tutores possuía experiência 
+em tutoria de cursos EaD. A supervisão de tutoria ficou sob a responsabilidade de um 
+estudante de mestrado. 
+
+4. Desafios da Tutoria 
+
+4.1. Infraestrutura 
+
+Nesta  seção  descreveremos  alguns  desafios  percebidos  pelos  tutores  do  curso.  Para 
+melhor  entendimento,  agrupamos  os  desafios  em  grupos  temáticos:  Infraestrutura, 
+Comunicação e Acompanhamento e Formação e (in)experiência em tutoria em EaD. 
+
+O  curso  foi  realizado  por  meio  da  plataforma  Moodle,  sistema  livre  para  gestão  de 
+aprendizagem em Ambiente Virtual, na versão 3.4, e hospedado na rede da da UFSCar. 
+Nesse  contexto,  nos  disponibilizaram  a  permissão  de  administração  do  curso  e  fomos 
+responsáveis pela configuração e postagem dos conteúdos e atividades. O Moodle permite 
+a quem tem qualificações de gerente, realizar alterações de conteúdo e estrutura no curso 
+que está sendo desenvolvido. 
+
+A  equipe  já  havia  trabalhado  com  o  Moodle  anteriormente,  na  versão  3.4, 
+realizando um curso mais intensivo abordando o RC para estudantes de licenciatura, que 
+nos serviu de piloto. Durante esse curso, tivemos experiências na adequação do ambiente, 
+o que colaborou para melhorar a atuação da equipe em um curso com maior dimensão. 
+Contudo, a transição do curso do ambiente Moodle da UFBA para o ambiente da UFSCar 
+apresentou alguns desafios, principalmente por causa da diferenças entre as versões do 
+AVA. O Moodle da UFSCar estava em uma versão mais atualizada, 3.7, contendo novos 
+recursos  e  que,  em  primeiro  momento,  atrasou  a  disponibilização  de  conteúdos  que  já 
+estavam prontos.  
+
+A disponibilização de material ocorria toda segunda-feira, após a última reunião 
+da  equipe  para  discussão  e  liberação  dos  conteúdos  e  atividades.  Assim,  a 
+disponibilização do material era realizada pelos tutores. Surgiram então, os desafios com 
+as limitações do ambiente, que identificamos na ausência de recursos demandados pelo 
+grupo, o que impossibilitou ou alterou a disposição de alguns conteúdos ou atividades. 
+Uma dessas limitações foi a impossibilidade de integração com recursos externos, como 
+jogos digitais, o que nos obrigou a fornecer apenas os links para os sites externos. Isso 
+impactou  no  design  e  interatividade  que  gostaríamos  de  proporcionar,  além  de  não 
+permitir  o  acompanhamento  que  as  ferramentas  do  Moodle  permitem.  Para  essas 
+propostas, incentivamos a interação pelos fóruns, onde os participantes compartilhavam 
+suas experiências com os jogos e as percepções acerca das habilidades do RC.  
+
+Os desafios quanto à infraestrutura descritos foram contornados pela equipe após 
+um tempo utilizando a plataforma, como as disparidades entre os AVA, dificultando  a 
+portabilidade  dos  conteúdos  e/ou  a  alteração  do  planejamento  inicial  a  para  atender  as 
+limitações do ambiente.  
+
+Contudo, outros desafios surgiram com o Ambiente Virtual e que não puderam 
+ser  resolvidos  pela  equipe  de  tutores,  como  queda  de  servidores  e  inconsistências  nos 
+
+ 
+
+grupos que separavam as turmas. Para esses desafios, contatamos a equipe de manutenção 
+do Moodle na rede UFSCar para o devido apoio técnico. 
+
+4.2.  Comunicação e Acompanhamento 
+
+Segundo Vargas e Castro (2010),  um dos aspectos importantes durante um curso EAD é 
+a  forma  como  os  tutores  mantém  contato  com  os  estudantes.  É  importante  que  toda 
+estrutura do curso seja pensada de forma que venha propiciar uma comunicação clara e 
+dinâmica entre todos os envolvidos no processo. Durante a formação para professores, o 
+tema comunicação foi um ponto de extrema importância. Destacamos aqui a possibilidade 
+de interação entre as diferentes áreas do conhecimento, a comunicação entre os atores do 
+processo, ou seja tutor e/ou organização e também a comunicação entre tutor e ambiente 
+virtual de aprendizagem.  
+
+A  pluralidade  das  áreas  de  conhecimentos,  tanto  dos  tutores  quanto  dos 
+participantes foi um fato que exigiu bastante cuidado e atenção, e foi um grande desafio 
+para os tutores.  Por se tratar de um curso interdisciplinar os tutores encontraram áreas 
+totalmente distintas entre os participantes e muitas vezes distintas também de sua área de 
+formação. Esse fator fez com que, durante todo o curso, o tutor se dedicasse um pouco à 
+área de seu participante. Isso permitiu que muitas dúvidas envolvendo o RC e a disciplina 
+do professor fossem discutidas, respeitando cada uma de suas peculiaridades e chegando 
+a um entendimento para ambos, como observado no relato de um dos professores em seu 
+diário  de  bordo1:  “...  Gosto  muito  de  poder  discutir  com  os  colegas  e  ser  respeitada, 
+respeitando também a opinião de todos, além do feedback que os tutores nos dão…”. 
+
+De  acordo  com  o  desenho  pedagógico  do  curso,  precisaríamos  ao  longo  da 
+formação, relacionar as habilidades com os conteúdos do currículo escolar para que essa 
+relação contribuísse com o aprendizado do professor. “Relacionar as habilidades do RC 
+com  o conteúdo curricular” requer maior clareza no diálogo entre tutores e professores. 
+Ainda que os professores tenham conhecido estabelecido sobre sua disciplina, isso ainda 
+pode  não  ter  acontecido  com  o  RC.  Essa  construção  de  conhecimento  acontece  aos 
+poucos, por meio de discussões e exemplos práticos em que o tutor tenta encaminhar o 
+professor  à  proposta  do  curso,  sempre  estabelecendo  diálogos  com  os  conceitos 
+abordados.  Nessas  situações  a  comunicação  requereu  bastante  cuidado  por  parte  dos 
+tutores pois, a depender do professor, as críticas nem sempre era bem vindas. 
+
+Em  cursos  longos,  como  foi  o  caso  da  formação  a  que  se  refere  esse  trabalho, 
+acabamos criando uma relação de afetividade com os professores. Essa relação permitiu 
+um trabalho “leve”, em que o tutor esteve à vontade para dialogar com seu tutorando e 
+ajudá-lo no percurso da formação. Procuramos sempre tratar o professor de modo pouco 
+formal.  No  entanto,  mantendo  sempre  o  respeito  e  a  cordialidade.  Essa  modo  de 
+tratamento  contribuiu  para  a  aproximação  dos  professores  que,  apesar  de  estarem 
+geograficamente distantes, não precisaram perceber tal distanciamento na relação com o 
+seu tutor. 
+
+A interação dos tutores com o ambiente virtual do curso foi satisfatória. Ao longo 
+do percurso verificamos que a tutoria precisava manter uma assiduidade maior no sistema. 
+Apesar dos horários estabelecidos para monitoria e respostas em fóruns, verificamos que 
+muitos  participantes  acessam  o  ambiente  e  realizam  atividades  em  horários 
+completamente aleatórios tornando necessário que o tutor também seja mais frequente no 
+acesso ao ambiente, principalmente em períodos de atividades avaliativas.  
+
+1 Cada professor tinha um espaço reservado no ambiente do curso para escrever um relato semanal 
+sobre a sua participação, experiências e aprendizagens. 
+
+ 
+
+ 
+
+No quesito “comunicação e acompanhamento”, outro problema observado foi a 
+demora  no  acesso  ao  ambiente  e  as  caixas  de  e-mail,  tanto  pelos  tutores  quanto  pelos 
+participantes, provocando o desconhecimento de informações importantes e mensagens 
+de participantes precisando de alguma ajuda.  
+
+Para colaborar com a falta de familiaridade com o Moodle alguns tutoriais foram 
+criados  para  facilitar  o  acesso  para  participantes  e  também  evitar  que  atividades 
+importantes não fossem realizadas por falta de ajuda imediata do tutor.  
+
+4.3. Formação e (In)experiência em Tutoria em EaD  
+
+Como  já  mencionado,  a  maioria  dos  tutores  é  formada  por  estudantes  de  graduação, 
+inclusive de cursos distantes da Computação ou da Educação. Nesse contexto, realizamos 
+previamente  um  curso  piloto  no  Moodle  da  UFBA  para  alunos  de  licenciaturas,  onde 
+tivemos um primeiro contato com a tutoria e verificamos as primeiras dificuldades que 
+iríamos ter em um curso de maior escala. Uma delas surgiu com a teoria do RC, que por 
+ser uma proposta inovadora, apresentou  um desafio para os tutores sobre como elaborar 
+o material e as atividades. 
+
+A  equipe  de  coordenação  colaborou  com  equipe  de  tutoria,  dado  que  possuem 
+experiência no estudo do RC e na realização de cursos de formação de professores. Isso 
+possibilitou maior segurança para nossa equipe de tutores durante o curso e auxílio em 
+momentos de dúvidas que  não conseguíamos sanar. Além da tutoria, nos organizamos 
+internamente em duplas para desenvolver o material didático para o curso. Desse modo, 
+foi possível cada dupla se aprofundar mais em uma determinada habilidade e, assim, além 
+de otimizar a confecção do material, também seria possível que essa dupla tivesse maior 
+conhecimento em alguma habilidade e, portanto, serviria de apoio aos outros tutores em 
+caso de dificuldades. 
+
+Essa estratégia adotada se mostrou eficaz à medida que o curso se desenvolvia. 
+Quando  o  tutor  não  conseguia  sanar  algum  tipo  de  dúvida,  a  equipe  auxiliava, 
+possibilitando uma resposta rápida ao participante.  Essa mesma  estratégia foi utilizada 
+em  momentos  em  que  nós  precisávamos  fazer  correções  em  atividades  desenvolvidas 
+pelos participantes. A falta de vivência docente atrasou os procedimentos no curso, que 
+foram sanados com as intervenções do orientadores. 
+
+Mesmo com a inexperiência na prática de tutoria, desenvolvemos estratégias para 
+conseguir  melhorar  nossa  interação  com  os  participantes,  de  modo  a  contribuir  e 
+incentivar o sucesso desses dentro do curso. Um exemplo de uma dessas estratégias foi o 
+tempo de resposta aos comentários e dúvidas dos participantes. Foi estabelecido dentro 
+da equipe o limite de 24h para dar um retorno aos participantes. Com isso, seria possível 
+sempre  incentivar  o  participante  ao  contínuo  desenvolvimento  do  curso  e  também 
+demonstrar que a equipe estava próxima a ele, disposta a ajudá-lo. Foi possível, então, 
+mesmo com a rotina de afazeres que nós tutores tínhamos no decorrer do curso, realizar 
+um acompanhamento constante dos participantes. 
+
+Além disso, ao responder os participantes nos fóruns de atividade, buscávamos 
+incentivar  a  discussão  sobre  determinado  tópico  em  pauta.  Com  isso,  esperávamos 
+despertar  nos  participantes  mais  interesse  e  novas  perspectivas  com  relação  aos 
+conteúdos,  além  de  aprofundar  mais  as  discussões,  visando,  portanto,  uma  melhor 
+compreensão do RC e suas habilidades. 
+
+5. Considerações Finais 
+
+Um curso com quase 100 professores inscritos e com um acompanhamento próximo foi 
+um grande passo para o grupo. Com a experiência conseguimos entender as dificuldades 
+
+ 
+
+que  tivemos  e  listar  contramedidas  para  resolvê-las.  Assim,  temos  em  mente  novos 
+projetos  para  aproximar  universidade,  professores  da  Educação  Básica  e  ensino  de 
+Computação;  principalmente  que  reflita  sobre  discussões  acerca  das  habilidades  do 
+Raciocínio Computacional.  
+ 
+O Raciocínio Computacional nos fez ver um mundo um pouco diferente. Vemos 
+que tudo está interligado, não somente os conhecimentos sistematizados na Computação, 
+mas rompemos, muitas vezes, a parede disciplinar e criamos links entre conhecimentos 
+“isolados” pelas nomenclaturas disciplinares. Ousamos dizer que ampliamos até a leitura 
+de mundo. 
+ 
+Atuar  em  um  curso,  on-line  ou  não,  necessita  de  muito  preparo  e  desenvoltura 
+para os percalços que irão surgir. Mesmo em meio às dificuldades surgentes, conseguimos 
+dar o melhor de nós, conseguimos sistematizar um trabalho que achamos ser proveitoso 
+para os participantes, tanto quanto foi para a equipe. Professores já sabem, o aprendizado 
+não  é  somente  para  quem  está  no  condição  de  aluno,  mas  também  para  os  que  estão 
+lecionando.  O  nosso  maior  desafio  foi  entender  nosso  papel  e  responsabilidade  como 
+representante desse novo conhecimento que estávamos apresentando e fazer de tudo para 
+que  os  participantes  conseguissem  sistematizar  o  conhecimento  que  ali  estávamos 
+construindo. Para assim, com esse conhecimento, ter autonomia e domínio do que farão 
+com ele em sua sala de aula.  
+
+Referências 
+
+Brasil.  (2007).  Parâmetros  Curriculares  Nacionais.  Referenciais  de  Qualidade  para 
+Educação  Superior  a  Distância.  Secretaria  de  Educação  a  Distância.  Ministério  da 
+Educação. 
+em: 
+<http://portal.mec.gov.br/seed/arquivos/pdf/legislacao/refead1.pdf>. Acesso em 20 de 
+abril de 2019, v. 15, 2007. 
+
+Disponível 
+
+Cachapuz, A., Sá-Chaves I. and Paixão, F. (2004). Saberes básicos de todos os cidadãos 
+
+no século XXI. Lisboa: CNE. 
+
+Dotta, S. and Giordan, M. (2014). Estratégias para Condução do Diálogo a Distância. In: 
+Revista  Brasileira  de  Informática  na  Educação,  v.  22,  n.  2.  Disponível  em: 
+<http://www.br-ie.org/pub/index.php/rbie/issue/view/84>.  Acesso em 05 de maio de 
+2019. 
+
+Freire, P. (1996). Pedagogia da autonomia: saberes necessários à prática educativa. São 
+
+Paulo: Paz e Terra 25ª edição. 
+
+Ribeiro,  L.,  Foss,  L.  and  Cavalheiro,  S.  A.  C.    (2017)  Entendendo  o  pensamento 
+
+computacional. ArXiv Preprint ArXiv:1707.00338.  
+
+Rodrigues, A. K. and Ramos, C. S.  (2016). O papel do tutor no curso de licenciatura em 
+Computação  na  UFPB  virtual.  In:    Anais  III  CONEDU  -  Congresso  Nacional  de 
+Educação. Natal. V.1. 
+
+Silva, M. C. and Vitoriano, M. V. T. C. (2015). O agir comunicativo do tutor a distância 
+como fomento de participação e de interação no gênero textual fórum acadêmico. In: 
+Anais  da  Revista  Tecnologias  na  Educação,  ano  7.  n.  13.  Disponível  em: 
+<https://tecedu.pro.br/ano7-numerovol13-2015/> Acesso em 03 de maio de 2019.  
+
+Vargas,  L.  M.  and  Castro,  G.  J.  (2010).  O  papel  do  tutor  a  distância  no  ensino  de 
+informática:  a  experiência  do  curso  de  tecnologia  em  sistemas  para  internet 
+UAB/IFSUL. In: Anais 16º CIAED - Congresso Internacional ABED de Educação a 
+Distância. Foz do Iguaçu.  
+
+ 
+
+Wing, J. (2016). Pensamento Computacional. Um conjunto de atitudes e habilidades que 
+todos,  não  só  cientistas  da  Computação,  ficaram  ansiosos  para  aprender  e  usar.  In: 
+Revista Brasileira de Ensino de Ciência e Tecnologia, v. 9, n. 2. 
+
+ 
+
+ 
+
+

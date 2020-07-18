@@ -1,0 +1,566 @@
+IV Congresso sobre Tecnologias na Educação (Ctrl+E 2019) 
+
+ 
+
+Recife, Pernambuco – Brasil 
+
+28 a 30 de agosto de 2019 
+
+Utilização de Recursos Educacionais Digitais (RED) em Aulas 
+de Língua Portuguesa nos Anos Finais do Ensino 
+Fundamental: Contribuições e Desafios 
+
+Rayssa Araújo Hitzschky1, Juliana Silva Arruda1, Cintia Arruda Lima1, Liliane 
+Maria Ramalho de Castro Siqueira1, José Aires de Castro Filho² 
+
+1 Universidade Federal do Ceará – UFC. 
+
+² Instituto Universidade Virtual – UFC Virtual. 
+
+{hitzschkyrayssa,julianarruda24,arrucintia,lilianeramalho1609}@gmail.c
+om, aires@virtual.ufc.br 
+
+Abstract.  This  study  aims  to  investigate  the  use  of  RED  of  Portuguese 
+Language, selected after a course of teacher training, in classes undertaken in 
+the final years of Elementary School. For this, the following research actions 
+were  carried  out:  1)  Offering  a  teacher  training;  2)  Selection  of  RED  of 
+Portuguese  Language  available  in  a  digital  educational  repository;  3) 
+Planning  and  conducting  classes  with  the  selected  NETs.  It  was  verified  the 
+importance  of  the  formative  moment  offered  for  the  strengthening  of  the 
+pedagogical mediation during the use of the RED,  as well as of the previous 
+planning  and  pedagogical  intentionality.  In  addition  to  the  use  of  resources, 
+students  were  able  to  take  advantage  of  the  multifaceted  nature  of  ICT, 
+strengthening student autonomy. 
+
+Resumo.  Este  estudo  busca  investigar  a  utilização  de  RED  de  Língua 
+Portuguesa,  selecionados  após  um  curso  de  formação  docente,  em  aulas 
+empreendidas  nos  anos  finais  do  Ensino  Fundamental.  Para  isso,  foram 
+realizadas  as  seguintes  ações  de  pesquisa:  1)  Oferta  de  uma  formação  de 
+professores;  2)  Seleção  de  RED  de  Língua  Portuguesa  disponíveis  em  um 
+repositório educacional digital; 3) Planejamento e realização de aulas com os 
+RED  selecionados.  Verificou-se  a  importância  do  momento  formativo 
+oferecido  para  o  fortalecimento  da  mediação  pedagógica  durante  o  uso  dos 
+RED,  bem  como  do  planejamento  prévio  e  da  intencionalidade  pedagógica. 
+Para além da utilização dos recursos, os alunos puderam aproveitar o caráter 
+multifacetário das TIC, fortalecendo a autonomia discente. 
+
+1. Introdução 
+
+A  utilização  de  recursos  digitais  vem  se  tornando  expressiva  nos  ambientes 
+educacionais.  Hoje,  existe  uma  preocupação  contemporânea  em  inserir  as  chamadas 
+Tecnologias  da  Informação  e  Comunicação  (TIC)  nas  práticas  pedagógicas,  para 
+atender  as  demandas  de  comunicabilidade,  conhecimento  e  formação  profissional 
+existentes.  Porém,  como  aponta  Valente 
+inserção  carece  de 
+aprofundamento,  tendo  em  vista  que  as  salas  de  aula  ainda  apresentam  a  mesma 
+
+(2014),  esta 
+
+ 
+
+ 
+
+ 
+
+ 
+
+estrutura e utilizam os mesmos métodos da educação do século passado. Nesse sentido, 
+documentos que norteiam a educação brasileira discutem e fomentam o uso das TIC nos 
+processos de ensino e de aprendizagem. Os Parâmetros Curriculares Nacionais (PCN), 
+por  exemplo,  tecem  como  um  dos  seus  objetivos  gerais  para  o  Ensino  Fundamental, 
+"saber  utilizar  diferentes  fontes  de  informação  e  recursos  tecnológicos  para  adquirir  e 
+construir  conhecimento"  [Brasil,  1997,  p.  69].  Mais  recentemente,  a  Base  Nacional 
+Comum Curricular (BNCC) aprofundou as discussões sobre o uso das TIC em sala de 
+aula, ampliando  a visão trazida pelos PCN. Segundo a BNCC, não basta apenas que o 
+aluno  saiba  utilizar  as  TIC,  mas  ele  deve  utilizá-las  a  partir  de  uma  compreensão, 
+utilização e criação crítica, significativa, reflexiva e ética nas práticas sociais, incluindo 
+as  escolares.  Objetiva-se,  com  isso,  que  o  aluno  manipule  as  tecnologias  digitais  para 
+uso  próprio  e  coletivo,  acessando  e  disseminando 
+informações;  produzindo 
+conhecimentos,  resolvendo  problemas  e  exercendo  protagonismo  e  autoria  nos 
+diferentes  campos  sociais  [Brasil,  2017,  p.  9].  Dentre  as  TIC  com  finalidades 
+pedagógicas,  têm-se  os  Recursos  Educacionais  Digitais  (RED).  Os  RED,  de  forma 
+geral,  são  qualificados  como  recursos  digitais,  incluindo  softwares,  aplicativos 
+educacionais  e  Objetos  de  Aprendizagem  (OA),  constituídos  a  partir  de  suas 
+ferramentas  multimidiáticas,  como  textos,  imagens,  áudios,  vídeos  e  animações 
+[Medeiros  et  al.  2018].  Observa-se,  por  exemplo,  que  na  área  de  Língua  Portuguesa 
+ocorre uma progressiva influência dos RED, nos quais os conteúdos escolares incluem 
+as  chamadas  práticas  sociais  de  referência,  marcadas  pela  diversidade  cultural, 
+linguística  e  tecnológica  [Caiado  e  Morais  2013;  Catto  2013].  A  BNCC  reforça  essa 
+discussão,  a  partir  das  denominadas  "práticas  de  linguagem  contemporâneas"  [Rojo  e 
+Moura  2012].  Desse  modo,  a  utilização  de  RED  mostra-se  como  uma  alternativa 
+relevante  para  que  as  TIC  sejam  inseridas  em  práticas  educacionais,  em  especial,  no 
+estudo da Língua Portuguesa. Partindo dessa premissa, surge o questionamento: De que 
+forma  RED  de  Língua  Portuguesa,  selecionados  após  um  curso  de  formação  docente, 
+podem ser utilizados em aulas transcorridas nos anos finais do Ensino Fundamental? 
+
+ 
+O presente estudo, oriundo de um projeto de extensão, tem como objetivo geral 
+investigar  a  utilização  de  RED  de  Língua  Portuguesa,  selecionados  após  um  curso  de 
+formação  docente,  em  aulas  empreendidas  nos  anos  finais  do  Ensino  Fundamental. 
+Como  objetivos  específicos,  apresenta-se:  1)  Compreender  as  possíveis  contribuições 
+proporcionadas pela utilização de RED de Língua Portuguesa; 2) Identificar os desafios 
+vivenciados durante a utilização de RED de Língua Portuguesa em aulas nos anos finais 
+do  Ensino  Fundamental.  A  pesquisa,  qualitativa  e  com  caráter  descritivo,  busca 
+aprofundar as discussões em torno da utilização de Recursos Educacionais Digitais em 
+práticas  pedagógicas,  com  ênfase  na  área  de  Língua  Portuguesa.  Além  disso,  busca-se 
+estreitar  o  compartilhamento  de  experiências  que  fizeram  uso  de  RED  em  contextos 
+escolares, aliados à formação docente. 
+
+2. Referencial Teórico 
+
+2.1. Recursos Educacionais Digitais e a área de Língua Portuguesa: reflexões para 
+o ensino e para a aprendizagem 
+
+tecnologias  digitais  vêm  sendo  progressivamente  utilizadas  em  práticas 
+As 
+contemporâneas, seja para realizar a compra de algum produto, para a comunicação ou 
+para a busca de informação e conhecimento. Os smartphones, tablets, laptops e desktops 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+estão cada vez mais integrados às ações corriqueiras do dia a dia, mostrando que muito 
+do real acontece no meio virtual e/ou digital. Os avanços encontrados, por exemplo, no 
+campo  da  inteligência  artificial,  evidenciam  a  presença  marcante  das  tecnologias 
+digitais  a  curto  e  longo  prazo.  Ainda  na  Modernidade,  um  longo  processo  de  inserção 
+das TIC nas escolas foi consolidado. Em 1983, iniciou-se o Projeto  EDUCOM, marco 
+inicial  para  a  disseminação  das  tecnologias  digitais  no  ensino  brasileiro  [Loureiro  e 
+Lopes  2012].  Quase  quarenta  anos  depois,  as  TIC  evidenciam  o  seu  poder,  estando 
+presentes em diversas instâncias sociais, dentre  elas, as escolares. Percebe-se,  assim, a 
+promoção de diversos projetos com fins educacionais, como o Projeto Um Computador 
+Por Aluno (UCA), que teve como objetivo a distribuição de  laptops  educacionais para 
+cerca de 300 escolas de cinco municípios brasileiros, além do fornecimento de Internet e 
+de capacitação para gestores e professores [Castro-Filho et al. 2015]. Dentre as diversas 
+TIC  disponíveis,  observa-se  a  ampla  produção  e  disponibilização  dos  intitulados 
+Recursos  Educacionais  Digitais  (RED)  [Ramos  et  al.  2011].  Esses  recursos, 
+caracterizados por serem digitais  e por possuírem  a finalidade de auxiliar o ensino  e a 
+aprendizagem, estão sendo cada vez mais difundidos no meio digital. Exemplo disso é a 
+Plataforma  MEC  de  Recursos  Educacionais  Digitais,  do  Ministério  da  Educação 
+(MEC), concebida em 2015. Esta plataforma tem como objetivo reunir e disponibilizar 
+RED oriundos dos principais repositórios brasileiros, como Portal do Professor e Banco 
+Internacional  de  Objetos  Educacionais  (BIOE),  facilitando  a  busca  e  o  acesso  aos 
+recursos.  Os  RED  podem  ser  encontrados  em  diferentes  tipos,  dentre  eles  simulações, 
+animações, hipertextos, hipermídias e inclusive, Objetos de Aprendizagem. Para Ramos 
+et  al.  (2011),  um  recurso  educativo  digital,  intitulado  assim  pelos  autores,  que  possua 
+elementos que permitem a simulação, a combinação multimídia e a interatividade, pode 
+ajudar a desenvolver estratégias de ensino e de aprendizagem diversificados, levando à 
+manipulação dos objetos, à interação com os elementos do recurso, à observação ou à 
+representação dos fenômenos, ou ainda, à aprendizagem de conceitos e teorias por meio 
+da combinação de imagens, palavras e sons. Nesse sentido, os RED, denominados dessa 
+forma neste trabalho, podem oferecer possibilidades multimidiáticas aos docentes e aos 
+alunos,  com  o  desenvolvimento  e  a  vivência  de  práticas  educativas  que  diferem 
+daquelas dos tradicionais meios de ensino, dinamizando a aprendizagem. A ideia não é 
+desconsiderar os meios consagrados de ensino, como o lápis, o livro ou o quadro, mas 
+sim  de  considerar  a  diversidade  oferecida  por  meio  dos  RED,  a  partir  de  suas 
+ferramentas digitais e, algumas vezes, on-line e colaborativas. 
+
+Na área de Língua Portuguesa, a discussão em torno da influência das TIC para 
+ 
+a  abordagem  de  conteúdos  curriculares  vem  sendo  fortalecida.  A  BNCC  reforça  a 
+necessidade  de  utilização  desses  recursos,  afirmando  que  uma  de  suas  competências 
+específicas  é  "mobilizar  práticas  da  cultura  digital,  diferentes  linguagens,  mídias  e 
+ferramentas  digitais  para  expandir  as  formas  de  produzir  sentidos  (nos  processos  de 
+compreensão  e  produção),  aprender  e  refletir  sobre  o  mundo  e  realizar  diferentes 
+projetos autorais" [Brasil, 2017, p. 85]. O rol de ferramentas multimidiáticas oferecidas 
+linguagens 
+pelos  RED  envolve  possibilidades  de 
+contemporâneas, como as visuais, as sonoras, as icônicas, além das textuais. Quando se 
+fala em inserir novos elementos à dinâmica de aprendizagem, percebe-se que "o desafio 
+consiste  em  criar  condições  didáticas  que  contribuam  efetivamente  para  transformar  a 
+diversidade em uma vantagem pedagógica" [Lerner, 2002, p. 6], permitindo articular o 
+trabalho  colaborativo  e  as  individualidades  dos  alunos  ao  uso  das  TIC.  Para  Caiado  e 
+Morais (2013), as atividades de Língua Portuguesa com as tecnologias digitais tornam-
+
+trabalho  com  as  diversas 
+
+ 
+
+se  instigantes  e  significativas  quando  é  possível  visualizar,  ouvir  e  sentir  o  que  está 
+sendo  estudado,  devido  à  multimodalidade  propiciada  pelas  TIC.  Assim,  a  inserção 
+destes  recursos  no  espaço  escolar  "permite  desenhar  uma  nova  configuração  desse 
+contexto  e  implementar  novas  formas  de  se  relacionar  com  ele.  A  partir  dele,  os 
+professores têm que, necessariamente, planejar novas práticas educativas e desenvolver 
+novos  tipos  de  interação  com  seus  alunos”  [Caiado  e  Morais,  2013,  p.  583-584].  Os 
+RED,  portanto,  podem 
+influenciar  positivamente  os  espaços  educacionais, 
+diversificando  as práticas pedagógicas por  meio de suas ferramentas multimidiáticas. A 
+área de Língua  Portuguesa,  em  especial,  pode  favorecer-se  das  TIC  para  o  estudo  das 
+linguagens contemporâneas, aproximando o conhecimento prévio dos alunos vivenciado 
+fora do ambiente escolar aos conteúdos curriculares formalmente estudados, a partir de 
+planejamentos escolares que mesclem abordagens tradicionais de ensino aos elementos 
+proporcionados pelos RED. 
+
+2.1. Formação docente e a utilização de Recursos Educacionais Digitais 
+
+A influência das tecnologias digitais no âmbito social impulsiona o desenvolvimento e o 
+compartilhamento de RED para o ensino e para a aprendizagem. Segundo Amaral et al. 
+(2011),  as  TIC  têm  favorecido  consideravelmente  a  reformulação  das  estratégias  de 
+ensino,  proporcionando  diferentes  ferramentas  e  artefatos  para  o  apoio  ao  processo  de 
+aprendizagem. Em vista dessa atual conjuntura, faz-se necessária a promoção de cursos 
+de  formação  envoltos  de  intencionalidades  pedagógicas  e  experimentações  práticas, 
+buscando proporcionar aos professores autonomia e criticidade para a inserção de RED 
+em  suas  práticas.  Nesse  sentido,  durante  a  realização  de  formações,  os  docentes 
+precisam  ter  acesso  a  conhecimentos  sobre  conceituação  teórica  dos  RED,  suas 
+especificidades e possíveis aplicações na escola,  trazendo, por  exemplo, a importância 
+das ferramentas que os compõem. Veiga e D'Ávila  (2008) consideram que a formação 
+docente deve ser continuada e aliada à profissão de ser professor, que é constituída pela 
+práxis  em  sala  de  aula  e  pelas  situações  e  relações  em  sociedade.  A  prática  docente, 
+portanto,  deve  ser  pautada  na  reflexão,  ou  seja,  o  professor  em  sala  de  aula  também 
+aprende  por  meio  da  sua  experiência  prática,  sendo  esse  conhecimento  uma  fonte  de 
+ações  reflexivas.  Por  isso,  a  importância  da  formação  continuada  partir  do  próprio 
+contexto de trabalho dos professores [Arruda et al. 2016]. Essa relevância reflete-se em 
+uma  ação  de  formação  na  qual  os  sujeitos  participantes,  os  professores,  tornam-se 
+agentes ativos do processo de conhecimento,  apropriando-se, como  enfatiza  Fernandes 
+(2005), do pensar educacional, ultrapassando a visão de um mero receptor das políticas 
+públicas.  Dessa  maneira,  abrange-se  um  processo  anterior  de  internalização  e  de 
+reflexão  estabelecido  pelo  próprio  docente.  Ainda  nesse  caminho,  Hitzschky  et  al. 
+(2016) enfatizam a necessidade de compreensão das TIC como um suporte educacional 
+que pode proporcionar possibilidades de aprendizagem quando incorporadas às práticas 
+pedagógicas.  A  partir  dos  estudos  recentes  que  dissertam  sobre  a  preocupação  com  a 
+formação de professores e as TIC, surge a necessidade de se analisar como os docentes 
+vêm inserindo e utilizando RED em suas práticas após processos formativos anteriores, 
+o que demanda um caráter permanente de aprofundamento. A seguir, será apresentado o 
+contexto da pesquisa, assim como a descrição dos instrumentos de coleta dos dados e os 
+procedimentos de análise. 
+
+ 
+
+ 
+
+3. Metodologia 
+
+O presente estudo, de abordagem qualitativa e com natureza descritiva, foi realizado no 
+âmbito  do  Projeto  Athena  –  Desenvolvimento  e  uso  de  um  repositório  virtual  aberto: 
+importância  da  catalogação  de  Recursos  Educacionais  Digitais  (RED),  pertencente  ao 
+Grupo  de  Pesquisa  e  Produção  de  Ambientes  Interativos  e  Objetos  de  Aprendizagem 
+(PROATIVA), da Universidade Federal do Ceará (UFC). O projeto teve como objetivo 
+investigar a realização de quatro aulas que utilizaram RED de Língua Portuguesa, após 
+a  promoção  de  um  curso  de  formação  docente.  A  pesquisa  é  qualitativa,  pois  a  fonte 
+direta dos dados foi o ambiente natural, no qual os investigadores estiveram em contato 
+contínuo com a situação onde os fenômenos emergiram [Bogdan e Biklen 1991]. Para 
+estes autores, o estudo é descritivo, visto que a análise dos dados buscou descrever em 
+detalhes  o  processo  realizado.  As  aulas  foram  ministradas  por  quatro  professores  de 
+Língua  Portuguesa  dos  anos  finais  do  Ensino  Fundamental  em  uma  escola  pública  de 
+Fortaleza (CE). Anteriormente às aulas, uma equipe pedagógica e técnica ofereceu uma 
+formação aos professores, com o objetivo de apropriar os docentes para a utilização de 
+um repositório educacional digital, chamado Athena, e outros repositórios que possuem 
+RED, para o uso em suas práticas pedagógicas. Ao final, os professores transporam os 
+conhecimentos  trabalhados  ao  longo  dos  momentos  formativos  e  levaram-nos  para  as 
+suas práticas exercidas em sala de aula. Vale ressaltar que, como foco deste trabalho, a 
+investigação  concentrou-se  nos  momentos  finais  do  ciclo  do  projeto,  no  qual  foram 
+analisadas  as  quatro  aulas  especificamente.  É  oportuno  destacar  que  o  objetivo  deste 
+acompanhamento  não  foi  o  de  avaliar  as  práticas  educacionais  exercidas  pelos 
+professores em sala de aula,  mas sim o de verificar a utilização dos RED escolhidos e 
+trabalhados  pelos  docentes  em  seus  planejamentos  pedagógicos.  As  aulas  observadas 
+foram realizadas em dias distintos, com turmas do 6º ao 9º ano, no turno da manhã e da 
+tarde.  A  escolha  da  escola  deu-se  pela  abertura  da  gestão  para  o  curso  de  formação, 
+além  da  existência  de  um  Laboratório  de  Inovação  Tecnológica  equipado  com 
+chromebooks,  fruto  da  parceria  entre  a  UFC,  a  Prefeitura  de  Fortaleza  e  a  Google.  As 
+aulas  foram  acompanhadas  pelos  formadores,  a  fim  de  auxiliar  os  professores  nas 
+aplicações. Os  instrumentos  utilizados  para  a  coleta  dos  dados  foram  observação 
+participante,  diário  de  campo,  registros  fotográficos,  bem  como  conversas  informais 
+com  os  alunos  e  com  os  professores.  Ao  final,  aplicou-se  um  questionário  on-line  do 
+Google Drive, para avaliação do curso de formação. Destaca-se que este formulário não 
+será  trabalhado  nos  resultados  desta  pesquisa,  tendo  em  vista  o  objetivo  desta 
+investigação. Dessa forma, as ações da pesquisa (Figura 1) foram assim organizadas: 1) 
+Oferta  da  formação;  2)  Seleção  dos  RED  oriundos  do  repositório  educacional  digital 
+Athena;  3)  Planejamento  e  realização  das  aulas  com  os  RED  escolhidos  pelos 
+professores.  A  formação  buscou  aproximar  os  docentes  da  temática  em  questão, 
+entendendo que o trabalho com os RED requer uma apropriação prévia para o alcance 
+de  bons  resultados.  A  seleção  dos  RED  teve  como  objetivo  a  escolha  do  recurso  que 
+seria trabalhado pelo professor em sua aula, entendendo que a utilização das tecnologias 
+digitais  não  se  dá  de  forma  isolada,  mas  acontece  em  conjunto  com  momentos 
+formativos  de  estudo  e  de  compartilhamento  de  experiências.  O  planejamento  e  a 
+realização  das  aulas  refletiram  a  transposição  dos  conhecimentos  aprendidos  para  a 
+prática in locus, com o uso dos RED. 
+
+ 
+ 
+
+ 
+
+ 
+
+Figura 1. Ações da pesquisa 
+
+ 
+
+ 
+A  metodologia  foi  traçada  a  partir  da  compreensão  de  que  o  uso  de  RED  em 
+práticas  pedagógicas  pode  oferecer  resultados  satisfatórios  quando  aliados  à  formação 
+docente  e  à  apropriação  destes  recursos  pelos  docentes  que  os  utilizarão  em  seus 
+planejamentos.  O  uso  de  RED  deve  se  sustentar  no  pressuposto  de  que  as  TIC  não 
+podem  ser  vistas  como  corpos  estranhos,  inseridos  isoladamente  na  escola.  Pelo 
+contrário,  elas  devem  ser  integradas  às  práticas  educacionais  em  sua  compreensão 
+global, contribuindo para o ecossistema escolar. 
+
+4. Resultados e Discussões 
+
+4.1 Primeira aula: utilizando o RED Sinais de pontuação 
+
+A  primeira  aula  observada  foi  ministrada  pela  Professora  A,  intitulada  assim  neste 
+excerto.  Ela  selecionou  e  utilizou  o  RED  chamado  Sinais  de  pontuação  (Figura  2), 
+presente  no  repositório  Athena.  O  recurso  trata-se  de  um  vídeo  e  tem  como  objetivo 
+apresentar os diferentes sinais de pontuação utilizados na Língua Portuguesa, assunto da 
+aula. A aula foi iniciada com a retomada de um conteúdo já trabalhado, por meio de um 
+vídeo em rima, um áudio e uma explicação em slides. Após esse momento, a professora 
+solicitou  que  os  alunos  anotassem  em  seus  cadernos  o  que  estava  sendo  projetado  no 
+quadro.  Durante  a  atividade,  ela  utilizou  elementos  de  uma  metodologia  cooperativa, 
+organizando  os  alunos  em  papéis  previamente  organizados:  coordenador,  relator, 
+guardião do tempo e presidente. Os alunos mantiveram-se organizados em seus papéis, 
+contudo,  mostraram-se  inquietos  com  o  simples  comando  de  cópia  das  informações 
+vistas  no  quadro.  Como  forma  de  ganhar  a  atenção  dos  alunos,  a  professora  iniciou  o 
+trabalho com o RED Sinais de pontuação. Nesse momento, alguns alunos reconheceram 
+o vídeo apresentado, evidenciando que outros vídeos da série já haviam sido trabalhados 
+em aulas anteriores. Os alunos mostraram-se atentos durante a apresentação do RED. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Figuras 2 e 3. Imagem do RED Sinais de pontuação; e Imagem do RED Argumentação no 
+texto 
+
+ 
+Pode-se inferir que a Professora A utilizou diferentes recursos midiáticos, porém 
+a  aula  foi  estritamente  expositiva,  na  qual  os  alunos  não  fizeram  uso,  em  nenhum 
+momento, dos chromebooks, mesmo tendo-os disponíveis. Além disso, a professora não 
+desenvolveu  com os  alunos  nenhuma  atividade  em  sala  como  forma  de  aprofundar  os 
+conhecimentos  apresentados  em  formato  de  slides  ou  por  meio  do  RED  trabalhado. 
+Observou-se, então, que as tecnologias digitais, em geral, e o RED foram utilizados sem 
+uma intencionalidade pedagógica clara. 
+
+4.2 Segunda aula: utilizando o RED Argumentação no texto 
+
+A segunda aula foi ministrada pela Professora B, que trabalhou o RED Argumentação 
+no  texto  (Figura  3),  também  presente  no  repositório  Athena.  O  objetivo  da  aula  foi 
+trabalhar as conjunções, e foi iniciada com o uso do Google Classroom, vinculado aos 
+chromebooks disponíveis na escola. A professora, previamente, organizou o conteúdo e 
+as atividades utilizadas na aula e os alunos, individualmente, tiveram acesso ao material. 
+A professora teceu uma explanação sobre o conteúdo abordado, apontando as formas de 
+utilização  dos  conectivos.  Depois,  pediu  que  dois  alunos  lessem  o  texto  da  atividade, 
+resgatando  exemplos  do  texto  para  explicar  o  uso  das  conjunções  nas  orações 
+coordenadas  e  subordinadas,  enquanto  outro  aluno  foi  convidado  a  ler  um  texto 
+diferente. A professora explicou, mais uma vez, a presença das conjunções em algumas 
+orações  e,  ao  final,  pediu  que  os  alunos  respondessem  as  questões  da  atividade.  Para 
+concluir  a  aula,  a  professora  pediu  que  os  alunos  acessassem  o  repositório  Athena  e 
+procurassem  o  RED  Argumentação  no  texto.  Por  meio  do  recurso,  os  alunos  puderam 
+responder questões relativas às conjunções, trabalhando, novamente, com o conteúdo da 
+aula.  Apesar  de  conversas  paralelas,  a  professora  conseguiu  a  atenção  de  grande  parte 
+da  turma,  nos  quais  os  alunos  responderam  rapidamente  as  atividades  do  RED. 
+Percebeu-se  que  a  professora  conseguiu  aplicar,  de  forma  planejada  e  direcionada,  os 
+conhecimentos  vistos  na  formação  e  encontrou  no  recurso  escolhido,  uma  forma  de 
+revisão  para  o  conteúdo  explicado  anteriormente.  Além  disso,  ela  aproveitou 
+amplamente  a  estrutura  disponível,  organizando  os  alunos  entre  os  chromebooks,  e 
+pensando a sua aula em torno de diferentes ferramentas digitais. 
+
+4.3 Terceira aula: utilizando o RED Café com Língua Portuguesa: Morfossintaxe 
+
+A  terceira  aula  foi  ministrada  pela  Professora  C,  que  selecionou,  dentre  as  opções  do 
+repositório Athena, o RED Café com Língua Portuguesa: Morfossintaxe (Figura 4). A 
+aula  teve  como  objetivo  trabalhar  o  conteúdo  regência  verbal  e  foi  iniciada  com  a 
+explicação  da  professora  sobre  o  tema.  Em  seguida,  a  professora  pediu  que  os  alunos 
+acessassem  o  repositório  e  buscassem  o  RED.  Os  discentes  não  demonstraram 
+dificuldade  em  encontrá-lo,  no  entanto,  tiveram  dificuldades  quanto  à  resolução  das 
+atividades  presentes  no  recurso.  Observou-se  que,  diante  das  dificuldades,  os  alunos 
+releram  o  texto  explicativo  presente  no  RED  em  vários  momentos,  apoiando-se  no 
+próprio  recurso  para  elucidarem  suas  dúvidas.  Percebeu-se,  ainda,  que  frente  às 
+dificuldades  enfrentadas  pelos  alunos,  a  professora  não  os  instigou  a  compreender  os 
+enunciados em sua amplitude, mas, apenas, apontou as respostas nas orações, para que a 
+atividade  fosse  concluída.  Entende-se,  portanto,  que  o  trabalho  com  RED  demanda  o 
+entendimento  de  que  as  tecnologias  digitais  não  assumem  o  papel  do  professor  na 
+mediação  pedagógica.  Pelo  contrário,  a  presença  do  docente  torna-se  ainda  mais 
+
+fundamental  quando  surgem  dúvidas  por  parte  dos  alunos,  pois  é  necessário  que  as 
+hesitações  sejam  trabalhadas  sem,  necessariamente,  apontar  as  respostas  corretas, 
+incluindo, assim, uma reflexão que deve ser feita pelos alunos. 
+
+ 
+
+ 
+
+ 
+
+Figuras 4 e 5. Imagem do RED Café com Língua Portuguesa: Morfossintaxe; e Imagem 
+do RED Viagem ao cérebro: relações de sentido 
+
+4.4 Quarta aula: utilizando o RED Viagem ao cérebro: relações de sentido 
+
+A  quarta  aula  foi  realizada  pelo  Professor  D,  que  inicialmente,  explanou  sobre  o 
+conteúdo  da  aula,  que  foi  interpretação  textual,  e  depois  ressaltou  a  importância  da 
+leitura  atenta  para  a  compreensão  global  de  textos  variados.  Em  seguida,  os  alunos 
+foram  orientados  a  acessarem  o  repositório  Athena  e  a  buscarem  alguns  RED  que 
+tratassem sobre o  tema da aula, a partir das informações disponíveis. Observou-se que 
+os alunos demonstraram dificuldades para abrir os recursos devido à lenta conexão. Aos 
+poucos,  os  alunos  conseguiram  acessar  o  recurso  Viagem  ao  cérebro:  relações  de 
+sentido  (Figura  5),  indicado  no  planejamento  pelo  professor.  Todos  os  alunos 
+exploraram o recurso a partir das orientações do professor, realizando, primeiramente, a 
+leitura  do  texto  proposto  no  recurso  e,  depois,  iniciando  a  resolução  das  atividades. 
+Nesse  momento,  verificou-  se  que  alguns  estudantes  aproveitaram  para  acessar  outros 
+sites, como por exemplo, o YouTube, mas, logo, voltaram a atenção para a atividade no 
+recurso.  Percebeu-se  que  os  alunos  estavam  empolgados  com  o  jogo  de  perguntas  e 
+respostas,  ao  mesmo  tempo  que  comemoravam  os  acertos  dos  itens  propostos.  Como 
+afirma  Kapp  (2012),  a  reestruturação  dos  processos  de  aprendizagem  com  o  uso  de 
+elementos de gamificação são atividades que despertam interesse e motivam os jovens 
+da  atualidade  e,  portanto,  são  essenciais  para  o  ambiente  de  sala  de  aula.  Durante  a 
+leitura  do  texto  presente  no  RED,  observou-se  que  alguns  alunos  tiveram  dificuldades 
+em  compreender  o  conceito  de  determinadas  palavras.  Buscando  sanar  suas  dúvidas, 
+eles  abriram  a  ferramenta  de  busca  do  Google  e  procuraram  o  significado  dos  termos 
+desejados,  evidenciando  autonomia  ao  buscar  alternativas  que  pudessem  auxiliá-los. 
+Nesse  caso,  as  TIC  constituíram-se  um  instrumento  de  suporte  para  a  autonomia 
+demonstrada, já que os alunos tinham fácil acesso aos motores de busca proporcionados 
+pela  Internet.  Ao  final  da  atividade,  o  professor  solicitou  que  os  alunos  pesquisassem 
+mais  recursos  no  repositório,  explorando,  assim,  a  curiosidade  do  grupo.  O  professor 
+também pediu que os alunos falassem a respeito de suas impressões e opiniões sobre a 
+aula, bem como sobre os recursos disponíveis no repositório. Os discentes afirmaram ter 
+gostado  da  aula  e  falaram  sobre  o  encantamento  frente  à  diversidade  de  recursos 
+existentes  no  repositório,  mostrando  que  eles  reconheceram  os  RED  como  aliados  em 
+seu  processo  de  aprendizagem.  A  partir  dessa  aula,  pode-se  compreender  que  apesar 
+dela ter sido planejada em torno de um recurso específico, a utilização das TIC não se 
+resumiu apenas a uma seleção isolada. Os alunos aproveitaram o caráter multifacetário 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+das tecnologias, utilizando-se de ferramentas de pesquisa e outros RED disponíveis em 
+prol do desenvolvimento da aprendizagem. 
+
+5. Considerações finais 
+
+A partir das vivências dos professores, procurou-se investigar a utilização de RED com 
+base  em  questões  teóricas  e  práticas,  objetivando  responder  à  pergunta  inicial  da 
+pesquisa:  De  que  forma  RED  de  Língua  Portuguesa,  selecionados  após  um  curso  de 
+formação  docente,  podem  ser  utilizados  em  aulas  transcorridas  nos  anos  finais  do 
+Ensino  Fundamental?As  ações  docentes  com  uso  de  RED  promoveram  interações  e 
+aplicações,  por  meio  de  atividades  que  possibilitaram  uma  abordagem  mais 
+multimidiática para os conteúdos propostos. Esse contexto levou ao alcance do objetivo 
+geral  de  investigar  a  utilização  de  RED  de  Língua  Portuguesa,  selecionados  após  um 
+curso  de  formação  docente,  em  aulas  empreendidas  nos  anos  finais  do  Ensino 
+Fundamental. O  primeiro  objetivo  específico  buscou  compreender  as  possíveis 
+contribuições  proporcionadas  pela  utilização  de  RED  de  Língua  Portuguesa  em  aulas 
+realizadas  nos  anos  finais  do  Ensino  Fundamental.  A  partir  dele,  verificou-se  o  papel 
+exercido pelos professores, demonstrando a sua função mediadora e crucial, a partir da 
+seleção  dos  RED  e  da  inserção  dos  recursos  em  seus  planejamentos,  perpassando  a 
+aplicabilidade  prática  em  sala  de  aula.  Durante  esse  percurso,  constatou-se  que  os 
+formação,  aliados  aos 
+conhecimentos  aprendidos  e  vivenciados  durante  a 
+conhecimentos  prévios  dos  professores,  possibilitaram  que  as  aulas  se  tornassem  mais 
+dinâmicas e ilustrativas, ao trazer diversas linguagens presentes nos RED, paralelamente 
+às  práticas  subjetivas  dos  professores.  Promoveu-se  também,  dessa  forma,  situações 
+desafiadoras que favoreceram a autonomia discente. Para o alcance do segundo objetivo 
+específico,  que  foi  identificar  os  desafios  vivenciados  durante  a  utilização  de  RED, 
+observou-se  que,  para  os  professores,  a  seleção  de  um  RED  para  inserção  em  seu 
+planejamento,  por  si  só,  caracterizou-se  como  um  desafio,  tendo  em  vista  que  eles 
+precisaram  relacionar  o  conteúdo  que  seria  trabalhado  às  abordagens  com  o  recurso. 
+Nesse  ponto,  a  intencionalidade  pedagógica  mostrou-se  um  aspecto  importante. 
+Algumas  das  aulas  a  envolveram,  entretanto,  outras  não,  mostrando  que  pensar 
+pedagogicamente  a  utilização  de  RED  ainda  é  um  desafio.  Além  disso,  problemas  de 
+conexão dificultaram a utilização dos RED. Para os alunos, as dificuldades envolveram 
+a busca pelos RED e, por vezes, a resolução dos exercícios. Mais uma vez, a mediação 
+docente mostrou-se indispensável para a inserção dos recursos em práticas pedagógicas. 
+Para pesquisas futuras, pensa-se em ampliar o escopo da investigação para outros tipos 
+de  RED,  como  aplicativos  educacionais,  aliado  à  formação  de  professores.  Ainda, 
+objetiva- se um estudo mais aprofundado em torno da aprendizagem e a sua facilitação 
+com os RED. 
+
+Referências 
+
+Amaral,  E.  M.  H.;  Ávila.  B.;  Zednik,  H.;  Tarouco,  L.  (2011)  "Laboratório  Virtual  de 
+
+Aprendizagem: uma proposta taxonômica". CINTED: UFRGS, v. 9, nº 2, dez. 
+
+Arruda,  J.  S.;  Silva,  L.  M.  R.  de  C.  e;  Castro  Filho,  J.  A.  (2016)  “Uso  das  novas 
+tecnologias  na  formação  dos  saberes  da  docência  em  professores  do  ensino 
+fundamental”. In: Congresso Regional sobre Tecnologias na Educação - CTRL+e. 
+
+Brasil.  (1997)  "Parâmetros  curriculares  nacionais: 
+curriculares nacionais". Brasília: MEC/SEF. 126p. 
+
+introdução  aos  parâmetros 
+
+ 
+
+Brasil. (2017) “Base Nacional Comum Curricular”. Brasília, DF: MEC, 2017. 
+
+Bogdan, R.; Biklen, S. (1991) "Investigação qualitativa em educação: uma introdução à 
+
+teoria e aos métodos". Portugal: Porto. 336p. 
+
+Caiado, R.; Morais, A. G. de. (2013) "Práticas de ensino de Língua Portuguesa com as 
+
+TDICS". 
+
+Educação Temática Digital - ETD, v. 15, nº 3, Campinas: São Paulo. p. 578-594. 
+
+Castro-Filho, J.; Silva, M. A; Maia, D. L. (2015) "Lições do projeto um computador por 
+
+aluno: estudos e pesquisas no contexto da escola pública". Fortaleza: EdUECE. 
+
+Catto, N. R. (2013) "A relação entre o letramento multimodal e os multiletramentos na 
+literatura  contemporânea:  alinhamentos  e  distanciamentos".  Fórum  Linguístico: 
+Florianópolis, v. 10, nº 2, p. 157-163. 
+
+Fernandes, O. P. (2005) "O computador/internet na formação de pedagogos: um diálogo 
+
+possível?" REUNIÃO ANUAL DA ANPED, 28.  
+
+Hitzschky,  R.  A.;  Brito,  M.  A.  F.;  Arruda,  J.  S.;  Melo,  M.  B.  O.;  Castro-Filho,  J.  A. 
+(2016)  “Práticas  educativas  com  o  uso  de  dispositivos  móveis  em  aulas  de  campo: 
+aprendizagem  para  além  dos  muros  da  escola”.  In:  I  Congresso  Regional  sobre 
+Tecnologias na Educação. 
+
+Kapp,  K.  (2012)  “The  gamification  of  learning  and  instruction:  Game-based  methods 
+
+and strategies for training and education”. San Francisco: Pfeiffer. 
+
+Lerner, D. (2002) "A autonomia do leitor: Uma análise crítica". Revista da Educação. 
+
+Loureiro, C. B; Lopes, M. C. (2012) "Tecnologias da informação e comunicação: outras 
+formas de condução das condutas". 35º Reunião da ANPEd. Porto de Galinhas: PE. 
+
+Medeiros, N. A. A. de; Xavier, C. R. S.; Melo, E. M. de; Andrade, M. A. A. de; Maia, 
+D.  L.  (2018)  “Recursos  educativos  digitais:  uma  revisão  de  literatura  em  anais  de 
+congressos  em  Informática  na  Educação”.  In:  III  Congresso  sobre  Tecnologias  na 
+Educação (Ctrl+E). 
+
+Ramos,  J.  L.;  Teodoro,  V.  D.;  Ferreira,  F.  M.  (2011)  “Recursos  educativos  digitais: 
+
+reflexões sobre a prática”. Universidade de Évora: Portugal. p. 11-34. 
+
+Rojo,  R.  H.  L;  Moura,  E.  (Orgs.)  (2012)  "Multiletramentos  na  escola".  Parábola 
+
+Editorial: São Paulo. 264p. 
+
+Valente,  D.  (2014)  "A  Comunicação  e  a  Educação  baseada  no  uso  das  Tecnologias 
+Digitais da Informação e da Comunicação". Revista UNIFESO, 1(1), p. 141-166. 
+
+Veiga, I. P. A. (2008) “A aventura de formar professores”. In: Veiga, I. P. A.; D’Avila, 
+C. M. Profissão docente: novos sentidos, novas perspectivas. Campinas: Papirus. 
+
+ 
+
+ 
+
+

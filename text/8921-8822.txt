@@ -1,0 +1,380 @@
+Dino no Vale dos Dinossauros: um Recurso Educacional 
+Digital para Auxiliar Conceitos Básicos de Contagem  
+
+Erasmo Dantas da Silva Fernandes¹, Márcio Matoso de Pontes³, Arianny de Sousa 
+Lira² ³, Darlene Alves Leitão¹ ², Marlon Procópio Martins¹, Thais Kelly da Silva 
+Moreira¹, Juscileide Braga de Castro¹ ² ³. 
+
+¹Faculdade de Educação (FACED) – Universidade Federal do Ceará (UFC) – Fortaleza, 
+CE – Brasil. 
+
+²Grupo de Pesquisa e Produção de Ambientes Interativos e Objetos de Aprendizagem - 
+PROATIVA. Instituto UFC Virtual 
+
+³Pós-Graduação em Ensino de Ciências e Matemática (PGECM) – Instituto Federal de 
+Educação Tecnológica do Ceará (IFCE) – Fortaleza, CE – Brasil 
+
+erasmodantas.22@gmail.com,{marciomatos,arianny_sousa,thaismoreira57}@h
+otmail.com,{darlenealvesleitao,marlonprocopiom}@gmail.com, 
+juscileide@virtual.ufc.br 
+
+Abstract.  This  article  aims  to  present  and  analyze  the  prototype  digital 
+educational  resource  (DER)  named,  Dino  in  the  Valley  of  the  Dinosaurs, 
+developed  to  meet  the  counting  skills  planned  by  the  National  Curricular 
+Common  Base  (NCCB)  for  4th  year  classes  of  Elementary  School.  It  was 
+created  from  the  use  of  Scratch  software,  a  programming  language  used  to 
+create  animated  stories,  games  and  other  interactive  programs.  Among  the 
+results, we verified that the DER enabled learning of mathematical concepts, as 
+well as reflections and methodological analyzes, assisting in the process of the 
+use  and  production  of  digital  information  and  communication  technologies 
+(DICT). 
+
+Resumo. Este artigo tem como objetivo apresentar e analisar o protótipo de um 
+recurso educacional digital (RED) denominado, Dino no Vale dos Dinossauros, 
+desenvolvido  para  atender  às  habilidades  de  contagem  previstas  pela  Base 
+Nacional  Comum  Curricular  (BNCC)  para  turmas  do  4º  ano  do  Ensino 
+Fundamental.  Foi  criado  a  partir  da  utilização  do  software  Scratch,  uma 
+linguagem  de  programação  utilizada  para  criar  histórias  animadas,  jogos  e 
+outros  programas  interativos.  Dentre  os  resultados,  verificamos  que  o  RED 
+viabilizou aprendizagens de conceitos matemáticos, como também, reflexões e 
+análises  metodológicas,  auxiliando  no  processo  do  uso  e  de  produção  de 
+tecnologias digitais de informação e comunicação (TDIC).  
+
+1. Introdução 
+
+É comum se constatar, em diferentes escolas brasileiras, as dificuldades que estudantes 
+possuem  em  relação  à  Matemática.  Avaliações  de  larga  escala,  como  o  Sistema  de 
+Avaliação da Educação Básica (SAEB), verificaram que cerca de 83,30% dos estudantes 
+brasileiros, cursando o 5° ano do  Ensino Fundamental, não estão no nível considerado 
+
+ 
+
+adequado em Matemática, ou seja, acima de 7, em uma escala que vai de 0 a 10 [Brasil 
+2017a].  
+
+Pesquisas [Maia 2012; Nacarato, Passos e Mengali 2009] também apontam que 
+algumas destas dificuldades enfrentadas por estudantes dos anos iniciais também podem 
+ser  verificadas  em  professores  da  Educação  Básica,  como  os  que  atuam  na  Educação 
+Infantil e nos anos inicias do Ensino Fundamental. 
+
+Neste contexto, entende-se a importância de promover, desde a formação inicial, 
+ações que contribuam na compreensão de conceitos matemáticos, teorias e metodologias 
+que possam auxiliar estes docentes a possibilitarem a compreensão da Matemática por 
+seus estudantes. 
+
+Estudos feitos por Prado (2000) sobre formas de apoio ao ensino da Matemática 
+nos justificam a  importância da utilização de alguns recursos que auxiliem o professor 
+para  contextualizar  os  conteúdos  abordados.  Como  exemplo,  a  criação  e/  ou 
+aprimoramento  de  jogos  matemáticos.  Para  desenvolver  esta  proposta  é  preciso  tempo 
+para o planejamento e desenvolvimento de projetos que envolvam problemas do cotidiano 
+escolar,  e  por  meio  desses  problemas,  objetiva-se  a  possibilidade  de  serem  agregados 
+cálculos,  para  que  os  alunos  possam  ter  maior  aproximação  com  o  conhecimento 
+matemático [Prado 2000]. 
+
+Embora seja possível se utilizar diferentes abordagens metodológicas e recursos 
+didáticos,  optou-se  por  explorar  uma  das  competências  apontada  pela  Base  Nacional 
+Comum  Curricular  (BNCC),  em  que  prevê  a  cultura  digital  nas  escolas,  seja  para 
+compreender,  utilizar  e/ou  criar  tecnologias  digitais,  como  possibilidade  de  produzir 
+informação e conhecimento [Brasil 2017b].  
+
+Além das competências, explorou-se ainda na BNCC, as habilidades matemáticas 
+previstas  para  serem  trabalhadas  em  cada  ano  escolar,  buscando  a  integração  entre 
+habilidades da Matemática com as de outras áreas de conhecimento, como a Geografia e 
+a História. 
+
+Assim,  este  artigo  tem  como  objetivo  apresentar  e  analisar  o  protótipo  de  um 
+recurso  educacional  digital  (RED)  Dino  no  Vale  dos  Dinossauros,  desenvolvido  no 
+âmbito da formação inicial, como forma de refletir conceitos matemáticos e abordagens 
+metodológicas estudadas ao longo de uma disciplina do curso de Pedagogia. 
+
+Essa  abordagem  de  pesquisa,  assemelha-se  com  o  trabalho  desenvolvido  por 
+Castro  et  al  (2017),  em  que  os  estudantes  de  Pedagogia  utilizaram  e  apresentaram  o 
+Design Thinking como um processo de produção de RED para o Ensino de Matemática 
+sobre conteúdos como: álgebra, padrões, medidas antropométricas, gráficos e situação de 
+multiplicação.  A  pesquisa  apresenta  evidências  de  que  esta  abordagem  construcionista 
+contribuiu  para  “a  compreensão  conceitual,  teórica  e  metodológica  dos  conteúdos 
+trabalhados” [Castro et al 2017, p. 485].   
+
+Diante  das  questões  citadas,  este  artigo  organiza-se  da  seguinte  forma:  a 
+introdução,  já  descrita,  o  contexto  e  desenvolvimento,  a  apresentação  do  recurso 
+educacional digital (RED), Dino do Vale dos Dinossauros, e por fim, as considerações 
+finais. 
+
+2. Contexto e Desenvolvimento 
+
+Dino no Vale dos Dinossauros é um RED que foi elaborado na disciplina de Ensino de 
+Matemática do Curso de Pedagogia da Faculdade de Educação (FACED) da Universidade 
+Federal do Ceará (UFC), durante o semestre 2018.2. 
+
+ 
+
+A elaboração considerou a abordagem do Design Thinking, na qual contempla 4 
+etapas: (1) imersão; (2) análise e síntese; (3) ideação e (4) prototipação e testes; sendo 
+estas etapas não lineares, já que, durante a produção, pode-se verificar a necessidade de 
+voltar às etapas iniciais [Castro et al 2017]. 
+
+No decorrer do processo, definiu-se como público alvo os estudantes do 4° ano 
+do  Ensino  Fundamental  devido  a  este  nível  de  ensino  ser  área  de  atuação  de  um  dos 
+proponentes do grupo, contudo, reforçamos que a aplicação do jogo pode adequar-se a 
+outros níveis escolares, por meio do acompanhamento do professor como mediador no 
+processo de ensino e de aprendizagem. 
+
+Para a produção do RED utilizou-se o Scratch1, ferramenta que pode ser utilizada 
+por professores que desejam construir simulações e jogos autorais de maneira simples. 
+Não é necessário um entendimento vasto e complexo de programação, pois o Scratch é 
+intuitivo.  A  sequência  de  comandos  é  realizada  a  partir  de  uma  linguagem  de 
+programação, na qual o computador compreende e executa as ações programadas, além 
+de permitir o reuso de jogos disponíveis na plataforma, no qual o usuário pode utilizá-los 
+como base de programação no desenvolvimento de um novo jogo. 
+
+A  seguir  será  apresentado  o  RED,  Dino  no  Vale  dos  Dinossauros2,  a  narrativa 
+interdisciplinar,  e  os  desafios  apresentados  em  cada  fase,  além  de  reforçar  o  papel  do 
+professor como mediador no processo de ensino e de aprendizado, bem como pesquisas 
+relacionadas ao uso das tecnologias digitais de informação e comunicação (TDIC). 
+
+3. Apresentação do protótipo produzido: Dino no Vale dos Dinossauros 
+
+O RED apresenta uma proposta de ensino interdisciplinar, apresentando como objeto de 
+conhecimento  matemático  os  problemas  de  contagem  presentes  na  unidade  temática 
+números, da BNCC. Relaciona-se também conhecimentos de História ao explorar como 
+era a representação de desenhos e símbolos pelos nossos antepassados, e de Geografia, 
+ao apontar o Piauí como localização do maior sítio arqueológico do Nordeste.  
+
+Em  relação  aos  conhecimentos  matemáticos,  visa-se  desenvolver  no  aluno  a 
+habilidade  de  resolver  problemas  simples  de  contagem,  com  suporte  de  imagens,  para 
+determinar  o  número  de  elementos  possíveis  ao  se  combinar  cada  elemento  de  uma 
+coleção  com  todos  os  elementos  de  outra,  por  meio  de  estratégias  e  registros  pessoais 
+(EF04MA08) [Brasil, 2017b]. 
+
+Sabe-se que os alunos do 4º ano, de acordo com o  que é proposto pela BNCC, 
+devem desenvolver a habilidade (EF04MA08), e nessa perspectiva surgiu a proposta de 
+elaboração de um recurso que deu origem ao protótipo Dino no Vale dos Dinossauros. 
+
+O  recurso  foi  produzido  utilizando  a  linguagem  de  programação  Scratch, 
+escolhido por ser uma ferramenta de fácil manuseio e acesso livre. Resnick (2012), foi o 
+idealizador do Scratch juntamente com o grupo Media Lab. do MIT, no qual apresenta 
+como  seu  objetivo  tornar  a  codificação  acessível  e  atraente  para  todos,  por  meio  da 
+linguagem de programação. O Scratch pode ser utilizado online por meio de um cadastro 
+de acesso ou após download e instalação. 
+
+Dessa  forma  o  protótipo  traz  em  seu  contexto  um  passeio  pelo  vale  dos 
+dinossauros, em que os alunos irão desbravar situações de contagem, com uma narrativa 
+que retrata a história do nosso Nordeste. O Dino, personagem do recurso, é um dinossauro 
+
+1 Disponível através do endereço eletrônico: https://scratch.mit.edu/ 
+2 Disponível em: https://scratch.mit.edu/projects/324089549/fullscreen/ 
+
+ 
+
+ 
+
+que mora no maior sítio arqueológico de fósseis do país, Parque Nacional da Serra da 
+Capivara localizado no estado do Piauí, região noroeste do Nordeste.  
+
+O material desenvolvido é construído por níveis de dificuldades, e as fases foram 
+desenvolvidas em formas de perguntas, na qual foram escolhidos em pesquisa a partir de 
+livros didáticos do 4º ano. Cada pergunta respondida certa é mais um passo para o jogador 
+vencer o jogo.   
+
+Enquanto protótipo, o recurso ainda não possui em sua programação situações de 
+resposta a falhas cometidos pelo jogador, apesar de não possuir ainda uma configuração 
+concluída sabe-se da importância de uma ampliação no recurso de situações que permita 
+ao usuário uma reflexão diante de um possível erro. 
+
+Para a criação do jogo foi utilizado o processo de programação, que tem início 
+quando o sujeito decide externalizar uma ideia para o computador, e após a informação 
+ter sido descrita, o computador realiza e executa as sequências de comando, apresentando 
+ao sujeito um resultado (Figura 1).  
+
+ 
+
+Figura 1. Interface de usuário: programação do jogo no Scratch 
+
+As  sequências  de  atividades  no  jogo  foram  pensadas  levando  em  consideração 
+atividades do dia a dia do Dino, durante a hora de comer e em suas brincadeiras com os 
+amigos no Vale.  
+
+A abertura do jogo se dá com a escolha do  jogador, existem dois personagens, 
+uma menina  e um menino, o jogador escolhe seu  avatar  e está pronto para cumprir os 
+desafios. Logo após o narrador, Dino, irá se apresentar falando um pouco sobre o local 
+onde  vive,  assim  ocorrendo  uma  interdisciplinaridade  e  integração  dos  conteúdos  de 
+Matemática, História e Geografia. 
+
+No primeiro desafio, representado na Figura 2, Dino irá em busca de alimento no 
+Vale, o jogador irá escolher a fruta de sua preferência, podendo ser caju, buriti ou bacuri, 
+por serem frutas tropicais típicas do Piauí. Ao fazer sua escolha, será cronometrado um 
+tempo de 30 segundos para que se possa recolher a maior quantidade possível da fruta 
+selecionada.  Ao  finalizar  o  tempo,  teremos  o  momento  em  que  a  capivara  informa  ao 
+jogador  quantas  frutas  foram  recolhidas  no  desafio,  representando  a  habilidade 
+EF04MA08, assim como o questiona com algumas perguntas envolvendo as operações 
+de  soma  e  subtração,  de  forma  a  abordar  no  jogo  situações  para  auxiliar  o  aluno  a 
+desenvolver habilidades presentes na BNCC.  
+
+ 
+
+Visa-se  assim,  no  decorrer  do  primeiro  desafio,  que  o  aluno  possa  resolver  e 
+elaborar  problemas  com  números  naturais  envolvendo  adição  e  subtração,  utilizando 
+estratégias diversas, como cálculo, cálculo mental e algoritmos, além de fazer estimativas 
+do resultado (EF04MA03) e utilizar as relações entre adição e subtração, bem como entre 
+multiplicação  e  divisão,  para  ampliar  as  estratégias  de  cálculo  (EF04MA04)  [Brasil, 
+2017b]. 
+
+Figura 2. Sequência da fase inicial do jogo  
+
+ 
+
+ Tendo êxito segue a narrativa sobre seu dia a dia, o segundo desafio é na casa do 
+Dino, que encontra-se situada em uma caverna, nessa fase a pergunta direciona-se para a 
+escolha de diferentes possibilidades de combinar a cor de roupa que ele terá, diante das 
+peças disponíveis em seu guarda roupa, habilidade EF04MA08 e reconhecer as frações 
+unitárias mais usuais (1
+ ), como unidades de medida menores do que uma 
+2
+unidade, utilizando a reta numérica como recurso (EF04MA09) [Brasil, 2017b]. 
+
+ e  
+
+100
+
+10
+
+5
+
+1
+
+1
+
+3
+
+1
+
+1
+
+4
+
+1
+
+,
+
+,
+
+,
+
+,
+
+Segue para o terceiro desafio, teremos mais dois personagens inseridos, Hepe e 
+Pop,  amigos  do  Dino  que  irão  ajudá-lo  na  busca  de  fósseis  no  Parque  Nacional  da 
+Capivara. O desafio será sobre a quantidade de fósseis recolhidos por cada personagens. 
+Ao  terminar  as  buscas  o  jogador  responderá  uma  sequência  de  perguntas  (Figura  3), 
+permite assim um contato com as habilidades EF04MA03 e EF04MA04. 
+
+Figura 3. Sequência de perguntas - terceiro desafio do jogo 
+
+Ressaltamos a importância dessa incorporação de práticas que permitem que, o 
+professor se torne atuante no processo de aprendizagem. Nessa perspectiva, é importante 
+ressaltar que o aluno como aprendiz em um processo de aprendizagem, quando consegue 
+incorporar os elementos apresentados, a aprendizagem se torna algo simples, e de certa 
+forma proveitoso, caso contrário, o processo se torna extremamente difícil [Papert 1985]. 
+
+ 
+
+Desta forma, reforça-se a importância da inserção de práticas que envolvam o uso 
+das  TDIC  em  formações  iniciais  e  continuadas.  Que  possibilitem  aos  docentes,  esse 
+contato com práticas que utilizem as TDIC e que permitam trocas de ideias entre demais 
+professores, ou profissionais da área da educação [Leitão 2018]. 
+
+4. Considerações Finais 
+
+ 
+
+A escola está inserida em um contexto, no qual as TDIC estão cada mais presentes no 
+campo educacional. É perceptível que essa visibilidade tecnológica, vem modificando as 
+relações na sociedade. E dentro do espaço escolar essa realidade não é diferente. Nessa 
+perspectiva,  a  produção  e  uso  de  recursos  tecnológicos,  pode  vir  a  colaborar 
+positivamente para o processo de aprendizagem [Leitão 2018]. 
+
+Desta forma, ressalta-se que diante da proposta de criação com Scratch existe uma 
+percepção, por parte do grupo idealizador, de que,  a capacidade de escrever códigos é 
+importante diante da sociedade atual. Resnick (2013) enfatiza que quando se aprende a 
+programar  no  Scratch,  aprendem-se  estratégias  importantes  para  resolver  problemas, 
+desenvolver projetos e partilhar ideias.   
+
+Evidencia-se  deste  modo,  as  contribuições  que  esse  processo  de  construção  e 
+reflexão  do  recurso  podem  oportunizar  aos  envolvidos  no  processo  de  ensino  e  que 
+puderam ser vivenciadas pelos participantes, tais como: a apropriação das habilidades que 
+são propostas pela BNCC, a criação de mídias digitais e a reflexão sobre a aprendizagem 
+da programação. Neste sentido, visualizamos o processo de criação como facilitador de 
+reflexões conceituais e metodológicas, auxiliando no processo do uso e de produção das 
+TDIC aliados ao ensino de Matemática.  
+
+É importante  elencar que o recurso, enquanto protótipo, ainda não foi utilizado 
+em  sala  de  aula,  e  possui  algumas  limitações,  como  fases  ainda  não  concluídas,  e 
+implementações no quesito do potencial pedagógico. O recurso precisa ser aperfeiçoado, 
+trazendo mais fases e situações que permitam aprendizagens de conceitos matemáticos, 
+contemplando outras habilidades da BNCC. 
+
+Acreditamos que para o professor, a formulação de problemas com a  interação 
+dos jogos digitais, é uma estratégia de ensino que fornece subsídio aos alunos em relação 
+aos conceitos matemáticos, além de permitir a produção colaborativa. Esperamos permitir 
+novos olhares e novas perspectivas de práticas pedagógicas, com ênfase na formação do 
+estudante  para  aprendizagem  significativa  com  o  envolvimento  de  TDIC  no  âmbito 
+educacional. 
+
+Finalizamos esse artigo, cientes da importância de ações que propicie reflexões e 
+discussões acerca do uso de TDIC, com o objetivo de levar para a escola práticas ativas 
+de ensino que permitam que o processo de aprendizagem seja significativo. Apresentamos 
+o  jogo,  Dino  no  Vale  dos  Dinossauros,  um  protótipo  de  recurso  digital  por  meio  do 
+Scratch, como auxílio no ensino de conceitos básicos de contagem. Contudo esperamos 
+que  outras  questões  possam  ser  abordadas  e  discutidas  com  novos  olhares  sobre  esse 
+tema, trazendo novas contribuições para o processo de ensino e de aprendizado.  
+
+Brasil. Ministério da Educação. (2017a) “SAEB 2017”. Brasília: INEP. 
+
+Brasil, Ministério da Educação. (2017b) “Base Nacional Comum Curricular”. Brasília: 
+
+MEC/ Secretaria de Educação Fundamental. 
+
+Referências 
+
+ 
+
+Castro,  J.  B.;  Soares,  I.  O.;  Vianna,  E.  P.  N.;  Sousa,  J.  S.  (2017)  “Lógica  Criativa:  a 
+construção de mídias digitais para o ensino de matemática”. In: Anais dos Workshops 
+do VI Congresso Brasileiro de Informática na Educação (WCBIE 2017). VI Congresso 
+Brasileiro de Informática na Educação (CBIE 2017), Disponível em: <http://www.br-
+ie.org/pub/index.php/wcbie/article/view/7431/5227>. Acesso em: 23 mar. 2019 
+
+Leitão, D. A. (2018) “Um olhar pedagógico sobre o processo de construção de recursos 
+digitais de matemática com Scratch”. Fortaleza. 54f. Monografia, Curso de Pedagogia 
+– Universidade Federal do Ceará (UFC). 
+
+Maia, D. L. (2012) “Ensinar Matemática com o uso de tecnologias digitais: um estudo a 
+partir da representação social de estudantes de Pedagogia”. 2012. 190p. Dissertação 
+(Mestrado Acadêmico em Educação) – Universidade Estadual do Ceará, Fortaleza.  
+
+Nacarato, A. M.; Mengali, B. L. da S.; Passos, C. L. B. (2009) “A matemática nos anos 
+iniciais  do  Ensino  Fundamental:  tecendo  fios  do  ensinar  e  do  aprender”.  Belo 
+Horizonte: Autêntica. 
+
+Papert, Seymour. (1985) “Logo: Computadores e Educação”. 3ª ed. São Paulo: Editora 
+
+brasiliense s.a. 
+
+Prado, I. G. (2000) “Ensino de Matemática: O Ponto de Vista de Educadores e de seus 
+Alunos sobre Aspectos da prática pedagógica”. Rio Claro. 255f. Tese de Doutorado – 
+Educação  Matemática,  Universidade  Estadual  Paulista,  Instituto  de  Geociência  e 
+Ciências exatas (UNESP). 
+
+Resnick,  Mitch.  (2012)  “Let's  teach  kids  to  code”.  TED:  Ideas  Worth  Spreading. 
+Disponível:  <https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code>. 
+Acesso em: 11 Dez 2018 
+
+Resnick, M. (2013) “Learn to code, code to learn”. Technology in School, [Burlingame], 
+May  8.  Disponível  em:  <https://www.edsurge.com/news/2013-05-08-learn-to-code-
+code-to-learn>. Acesso em: 01 Dez 2018. 
+
+ 
+
+ 
+
+

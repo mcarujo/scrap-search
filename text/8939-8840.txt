@@ -1,0 +1,400 @@
+Software Educativo Encantando Cordel 
+
+Amanda Maria D. de Oliveira, Adriana Virgínia M. de Azevedo, Gelly Viana 
+Mota, Roberia S. da P. Lourenço, Felipe Gilberto R. Dantas, Dennys L. Maia 
+
+Instituto Metrópole Digital – Universidade Federal do Rio Grande do Norte (UFRN) 
+Lagoa Nova – 59.064-741 – Natal – RN – Brasil 
+
+{amanda.marry, roberiamatematica}@hotmail.com, {adrianavmazevedo, 
+gellyvianamota1988, felipegdantas}@gmail.com, dennys@imd.ufrn.br 
+
+Abstract. Motivated by the deficient situation in the school text production work, 
+with a view to literacy and reading and writing, we developed the educational 
+software  Encantando  Cordel  for  elementary  school  students.  Educational 
+software  is  characterized  by  the  use  and  production  of  cordéis  (creation, 
+reading, and cordel history) in three activities that explore the elements of this 
+genre.  Encantando  Cordel  was  developed  as  free  software  by  a  multi  and 
+interdisciplinary  team  and  in  a  collaborative  way  between  students  and 
+professor of Pedagogy and Information Technology. This experience shows that 
+it is possible to develop quality software using free or open resources, even if 
+there are still certain limitations and difficulties. 
+
+Resumo. Motivados pela situação deficitária no trabalho escolar de produção 
+textual,  com  vistas  à  alfabetização  e  letramento,  desenvolvemos  o  software 
+educativo Encantando Cordel para alunos dos Ensino Fundamental. O software 
+educativo  se  caracteriza  pelo  uso  e  produção  de  cordéis  (criação,  leitura,  e 
+história do cordel) em três atividades que exploram os elementos desse gênero. 
+O Encantando Cordel foi desenvolvido como um software livre por uma equipe 
+multi  e  interdisciplinar  e  de  forma  colaborativa  entre  alunos  e  professor  de 
+Pedagogia e Tecnologia da Informação. Esta experiência mostra que é possível 
+desenvolver  softwares  de  qualidade  utilizando  recursos  livres  ou  abertos, 
+mesmo que ainda existam certas limitações e dificuldades. 
+
+1. Introdução 
+
+A dificuldade na leitura e escrita dos alunos é evidenciada nos resultados das avaliações 
+de  larga  escala,  como  a  Avaliação  Nacional  de  Alfabetização  (ANA),  atualmente 
+denominado  Sistema  de  Avaliação  do  Ensino  Básico  (Saeb),  e  o  Exame  Nacional  do 
+Ensino Médio (ENEM). Segundo a plataforma QEdu1 que utiliza os dados do ANA ou 
+Saeb, demonstra que 35% dos alunos do 5º ano do fundamental no Rio Grande do Norte 
+(RN)  aprenderam  adequadamente  as  competências  leitura  e  interpretação  de  textos,  ou 
+seja,  estão  aptos  a  continuar  os  estudos.  No  entanto,  o  RN  está  atrás  de  Estados  do 
+Nordeste como Ceará (63%) e Pernambuco (42%). Outro fator sinalizado pelos dados é 
+que  o  RN  ocuparia  o  5º  lugar,  em  um  ranking  dos  piores  estados  do  Brasil  nessas 
+competências. Logo, novas práticas pedagógicas são necessárias e urgentes, conforme a 
+meta que consta no Programa Educação para Todos, o que espera que 70% dos alunos do 
+
+1 Dados disponíveis em: <https://www.qedu.org.br/>. Acesso em: 17 de Março de 2019. 
+
+ 
+
+ 
+
+5º ano alcancem o aprendizados adequado até 2022.  
+
+Diante  disso  [Almeida  2008],  o  aprendizado  dos  alunos  pode  ser  facilitado  por 
+ 
+meio da utilização dos recursos multimidiáticos para o ensino do letramento, porque os 
+alunos estão inseridos numa sociedade cada vez mais tecnológica, trazendo consigo toda 
+essa  carga  de  novidades  para  aula,  logo,  faz-se  necessário  o  acompanhamento  de  tal 
+evolução pelo professor. Aliado a isso, os resultados do PISA2 [Brasil 2016] apresentou 
+que os alunos possuem maior facilidade para lidar com textos argumentativos, no formato 
+de  blogs  e  e-mails.    Fato  esse  que  reforça  a  importância  da  utilização  das  Tecnologias 
+Digitais da Informação e Comunicação (TDIC) na formação do aprendiz.  
+
+Segundo  a  Base  Comum  Curricular  (BNCC)  é  papel  da  escola  estimular  e 
+ 
+desenvolver práticas de linguagem e produções textuais, visto que os padrões hodiernos 
+de linguagem envolvem, também, gêneros e textos cada vez mais multimidiáticos, bem 
+como novas formas e recursos para produção, disponibilização e interação, com fins de 
+atender  às necessidades sociais para um uso qualificado e ético dos  ambientes da  Web 
+[Brasil  2017].  A  evolução  do  conhecimento,  científico  ou  social,  se  dá  a  partir  da 
+disseminação e do compartilhamento, permitindo o desenvolvimento de uma sociedade 
+intelectual livre, democrática e justa [Da Silveira 2004]. Portanto, no atual contexto sócio-
+tecnológico, as TDIC assumem papel relevante para viabilizar essa realidade buscada. 
+ 
+Com  isso,  no  presente  artigo,  apresentamos  o  Software  Educativo  Livre  (SEL) 
+Encantado  Cordel  que  visa,  por  meio  do  uso  da  metáfora  do  cordel,  auxiliar  na 
+disseminação  da  cultura  regional  associando-a  ao  desenvolvimento  do  letramento  por 
+meio  do  ensino  da  leitura  e  da  escrita  de  cordéis  a  durante  o  Ensino  Fundamental. 
+Idealizado e desenvolvido por uma equipe multidisciplinar das Universidades Estadual do 
+Ceará (UECE) e Federal do Rio Grande do Norte (UFRN), o Encantado Cordel está sob 
+a licença Creative Commons (CC-BY), que dá o direito do usuário modificar, adaptar e 
+compartilhar o código fonte do software, mesmo com finalidades comerciais, entretanto é 
+necessário fazer referência ao projeto original. Este SEL se classifica como um Objeto de 
+Aprendizagem (OA), tratando-se, portanto, de um recurso educativo digital utilizado no 
+ensino  de  conteúdo  específico  com  forte  característica  de  reusabilidade  [Oliveira  et  al 
+2017]. 
+ 
+O  OA  aqui  apresentado  procura  se  aproximar  da  abordagem  construcionista 
+[Papert 2008], pois proporciona ao aluno o desenvolvimento de suas estruturas cognitivas 
+a partir da exploração de obras já existentes de cordelistas, e produção de seus próprios 
+cordéis, que possuem em sua essência histórica o poder de despertar no escrevente o senso 
+crítico,  por  meio  das  rimas  que  retratam  os  problemas  do  cotidiano.  A  produção  de 
+cordéis, potencializa ainda o desenvolvimento do raciocínio e do pensamento lógico dada 
+a necessidade de cumprir as devidas regras de formação de uma sextilha (caracterizada 
+por ser um texto escrito em versos, no qual as rimas acontecem apenas nos versos pares), 
+por exemplo. Dessa forma o próprio aluno se vê como participativo e construtor de sua 
+aprendizagem,  tornando-se  responsável  e  co-autor  do  processo  de  ensino  e  de 
+aprendizagem. É preciso, ainda, apontar que o Encantado Cordel apresenta uma proposta 
+inter e multidisciplinar, na medida em que explora competências de diferentes áreas do 
+conhecimento - Língua Portuguesa, Literatura e Artes - integrando-as no desenvolvimento 
+das atividades apresentadas.  
+ 
+Por fim, este artigo está estruturado com: Introdução, onde o leitor é apresentado 
+ao  tema  tratado  e  a  relevância  do  OA  proposto;  Metodologia,  onde  é  descrita  a 
+composição  da  equipe  e  suas  ações  na  participação  no  desenvolvimento  do  recurso; 
+
+2 PISA 2015: Resultados da Avaliação de Leitura. 
+
+ 
+
+ 
+
+Apresentação do software, que apresenta a atual versão do Encantado Cordel, indicando 
+e  justificando  as  relações  pedagógicas  e  técnicas  para  o  desenvolvimento  do  OA; 
+fechando  com  as  Considerações  finais  onde  é  apresentado  o  que  foi  aprendido  com  a 
+experiência de desenvolvimento deste OA e algumas demandas de trabalhos futuros.   
+
+2. Metodologia 
+
+O Encantando Cordel teve sua concepção iniciada pelos alunos do curso de Pedagogia da 
+universidade UECE e, no ano de 2015, os alunos do curso de Bacharelado em Tecnologia 
+da Informação (BTI) da UFRN  iniciaram sua produção gráfica, que foi utilizada como 
+base para o desenvolvimento da versão do OA aqui apresentada. No semestre de 2018.2, 
+no contexto da disciplina de Software Livre, Educação e Cultura, do BTI, foi retomado o 
+desenvolvimento do Encantando Cordel. A turma teve por volta de 7 semanas para realizar 
+este  trabalho,  que  veio  a  compor  parte  da  avaliação  da  disciplina.  A  turma  foi  então 
+dividida em três grupos, sendo cada grupo responsável pelas demandas Pedagógicas, de 
+Design e Técnicas, respectivamente.  
+
+referência  metodológica  para  este 
+
+ 
+Imbuídos de atender à filosofia de Cultura Aberta [Maia, Pinheiro & Arrais 2015], 
+foi decidido que  todos os grupos deveriam utilizar apenas recursos livres ou abertos. Essa 
+mesma metodologia para o desenvolvimento de SEL foi adotada também no caso dos SEL 
+ContaKg e Brincalculo [Oliveira et al, 2018; Oliveira et al, 2016] que, apesar de ambos 
+tratarem  de  conteúdos  distintos  do  proposto  no  Encantando  Cordel,  serviram  como 
+principal 
+trabalho,  dado  que  abordam  o 
+desenvolvimento colaborativo de OA de acordo com os parâmetros da Cultura Livre. No 
+caso  do  Encantando  Cordel,  optou-se  que  em  cada  equipe  fossem  escolhidos  dois 
+integrantes (gerentes da equipe) para gerenciar e mediar a comunicação entre os grupos, 
+devido o elevado número de participantes na turma. Os gerentes das equipes optaram por 
+criar  um  grupo  de  discussão  em  um  aplicativo  de  mensagens  instantâneas  para  tirar 
+dúvidas,  solicitar  e  informar  demandas,  visto  que  todos  faziam  uso  constante  desse 
+aplicativo essa demonstrou ser a opção mais adequada para a situação. 
+
+À  equipe  pedagógica  foram  atribuídas  as  atividades  acerca  da  fundamentação 
+ 
+pedagógica, como: definição de público-alvo, conteúdos e habilidades a serem abordados; 
+elaboração  das  mensagens  de  interação  com  usuário  dentro  da  abordagem  pedagógica 
+construcionista; e a escrita do manual do usuário destinado aos professores que desejam 
+utilizar  o  software.  A  ferramenta  Draw.io3  foi  utilizada  pela  equipe  pedagógica  para  a 
+elaboração  do  fluxo  de  navegação  do  Encantando  Cordel.  As  atividades  da  equipe 
+pedagógica foram gerenciadas e organizadas por meio de compartilhamento de arquivos 
+na  nuvem  via  Google  Drive4  e  as  demandas  foram  geridas  com  suporte  da  ferramenta 
+Trello5,  um  software  gerenciador  de  tarefas  que  auxilia  na  organização  de  etapas, 
+demandas pendentes e prazos.  
+
+Com  as  diretivas  deixadas  pelas  equipes  que  iniciaram  o  projeto  e  da  equipe 
+ 
+pedagógica, aà equipe de Design ficou incubida do aperfeiçoamento gráfico do SEL; da 
+produção e escolha das imagens (utilizando  editores e repositório de imagens livres ou 
+abertas);  e  o  desenvolvimento  do  storyboard  presente  no  manual  do  usuário.  Devido  a 
+grande  dificuldade  na  busca  de  imagens  livres,  ou  com  permissão  de  uso  aberta, 
+relacionadas  com  cordel  ou  xilogravuras,  foi  necessária  a  criação  de  imagens  que 
+atendessem às demandas. Dentro do que havia sido estabelecido, o grupo procurou utilizar 
+
+ 
+
+3 Editor gráfico online no qual é possível desenvolver desenhos, gráficos, diagramas e outros. 
+4 Serviço do Google de armazenamento na nuvem ou backup de arquivos. 
+5 Ferramenta de gerenciamento de projeto idealizado por Fog Creek Software em 2011. 
+
+ 
+
+os softwares de edição/criação de imagens Gimp6 e Inkscape7, porém esses softwares se 
+mostraram de difícil utilização para a criação de gráficos vetoriais, por isso foi aberta uma 
+exceção e foi utilizado o software de edição Photoshop8.  
+
+À  equipe  técnica,  foram  delegadas  as  atividades  de  implementação,  teste  e 
+ 
+implantação do Encantando Cordel. Quando a equipe iniciou o trabalho existiam apenas 
+as definições pedagógica e de design, portanto, a parte de codificação foi realizada desde 
+o  ponto  zero.  O  software  foi  desenvolvido  utilizando  as  linguagens  CSS,  JavaScript  e 
+HTML5, visto que se  trata de um  software Web e essas são as tecnologias comumente 
+utilizadas para o desenvolvimento deste tipo de software. Para auxílio na implementação 
+das  funcionalidades  do  Encantando  Cordel,  foi  utiliza  a  biblioteca  React  de  códigos 
+JavaScript, dado que era a biblioteca de conhecimento mútuo entre os membros da referida 
+equipe. O React é uma biblioteca considerada eficiente e flexível para criação de interfaces 
+de usuário dinâmicas. 
+
+Dado o caráter colaborativo adotado no processo de desenvolvimento do OA, foi 
+ 
+criado  um  projeto  no  sistema  de  controle  de  versões  distribuído  GitHub9,  para 
+armazenamento  e  controle  das  versões  do  código-fonte,  auxiliando  nas  situações  de 
+conflito que surgem no processo colaborativo de desenvolvimento de software. O OA está 
+hospedado para acesso público no HerokuApp10. 
+
+Para a escolha do tipo de licença do Encantado Cordel, a equipe técnica criou e 
+disponibilizou para toda a turma um formulário online do Google Drive que, de acordo 
+com a maioria dos votos, resultou na escolha da licença Creative Commons - Atribuição 
+CC  BY,  licença  mais  flexível  da  Creative  Commons,  pois  permite  o  livre  acesso, 
+distribuição,  adaptação  e  compartilhamento  das  alterações  feitas  a  partir  do  que  já  foi 
+desenvolvido. É permitindo ainda que este OA e suas novas versões sejam utilizadas para 
+fins comerciais, desde que, em qualquer caso, sejam atribuídos os devidos crédito pela 
+criação original. 
+
+3. Apresentação do software 
+
+O  referido  OA  visa  auxiliar  no  desenvolvimento  do  interesse  pela  leitura  e 
+desenvolvimento de textos, com a valorização da cultura nordestina, pelo contato com um 
+gênero  textual  bastante  popular  na  região  -  a  Literatura  de  Cordel.  Por  meio  de  suas 
+atividades (funcionalidades), o Encantando Cordel  oportuniza ao usuário criar  cordéis, 
+conhecer um pouco sobre sua história e acessar alguns exemplos. 
+
+A tela inicial do software é animada, caracterizando elementos inerentes ao cordel 
+e à cultura nordestina. Nesta tela existe a opção de iniciar a navegação ou ver os créditos 
+do OA (figura 1). 
+
+ 
+
+6 Gimp disponível para dowload  em <https://www.gimp.org/> 
+7 Inkscape disponível para download em: <https://inkscape.org/pt-br/> 
+8 Disponível para download em: <https://www.adobe.com/br/products/photoshop.html/> 
+9 Repositório acessível em: <https://github.com/encantando-cordel/encantando-web> 
+10 Plataforma em nuvem utilizada para armazenar softwares Web. 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Tela Inicial 
+
+Figura 2. Escolha do personagem guia 
+
+Para  iniciar  a  navegação  pelo  Encantado  Cordel  é  necessário  escolher  o 
+personagem que vai guiar o aluno durante a utilização do OA, que pode ser o Erivaldo ou 
+a Sirlia, dois cordelistas potiguares da atualidade (figura 2). 
+
+Após a escolha do personagem, é apresentada a tela de  escolha da atividade que 
+será realizada. Destaca-se que não há um roteiro ou sequência pré-definida que o usuário 
+precise seguir, podendo o professor ou aluno traçar o próprio caminho dentro do escopo 
+de atividades do OA. Tal característica é uma das que aproxima o Encantando Cordel da 
+abordagem Construcionista. Nessa tela, tem-se as três opções de atividades: i) conhecer 
+a história do Cordel; ii) acessar exemplos de cordel; e iii) criar um cordel (figura 3). 
+
+Figura 3. Escolha da atividade 
+
+ 
+
+Na atividade História do Cordel é apresentada a história do gênero cordel, desde 
+onde surgiram os primeiros relatos de cordéis e suas relações com a cultura nordestina. 
+Essa atividade permite que professores e alunos trabalhem o primeiro contato com esse 
+elemento literário da cultura nordestina, conhecendo a origem deste tipo de literatura.   
+
+Já na opção de exemplo de cordel, são apresentados três cordéis e o usuário pode 
+navegar  pelos  botões  de  avançar  e  voltar  para  conhecer  os  três  exemplos.  Na  última 
+exemplificação  é mostrado um cordel que explica e demonstra uma sextilha, que foi a 
+estrutura de cordel escolhido para o desenvolvimento do OA. Esta atividade proporciona 
+ao aluno um contato com um texto de cordel e pode servir de referência, por exemplo, na 
+realização da atividade de criar um cordel, apresentada a seguir. 
+
+Na atividade Ciar Cordel o personagem escolhido orienta como deve ser criada 
+uma  sextilha,  a  principal  atividade  do  Encantando  Cordel,  a  qual  apresenta  uma 
+abordagem  totalmente  construcionista  visto  que,  como  propõe  Papert  [Valente  1997], 
+nesse  momento  o  aluno,  com  o  auxílio  do  computador,  atua  autonomamente  na 
+construção  do  próprio  conhecimento  acerca  do  que  é  abordado  pelo  software  e  com  a 
+devida mediação. Por isso, é de grande importância que na equipe de desenvolvimento de 
+um software educativo atuem, também, profissionais especializados em educação. 
+ 
+Para  criação  do  cordel  o  usuário  tem  uma  tela  na  qual  é  possível  escolher  a 
+xilogravura, simulando a técnica de gravação na madeira para reproduzir uma imagem 
+como um carimbo, utilizado nos desenhos de cordéis. O usuário pode montar livremente 
+as ilustrações do seu cordel, utilizando as opções de “carimbos” e as opções de cor para 
+
+ 
+
+capa, além de colocar um título e digitar o texto de seu cordel (figura 4). 
+
+ 
+
+ 
+
+Figura 4. Tela de criação e validação do cordel 
+
+O  texto  do  cordel  deve  ser  feito  em  sextilha.  No  software  existe  um  sistema 
+validador  desse  tipo  de  texto  (botão  Concluir).  Essa  validação  verifica  se  o  trabalho 
+contém  título,  xilogravura  e  texto  em  sextilha,  caso  não  for  preenchido  algum  desses 
+requisitos surge uma mensagem de ajuda informando os pré requisitos necessários (figura 
+4). É preciso destacar que a validação da sextilha se dá apenas em número de versos, não 
+havendo qualquer implementação que verifique a presença das rimas para esse formato 
+de texto. 
+O usuário tem a opção de gerar um arquivo PDF com a sua produção, única forma 
+ 
+de poder acessar posteriormente o cordel produzido. Contudo, dessa forma o aluno pode 
+visualizar  sua  produção  em  diversos  dispositivos  e  socializar  com  os  membros  da 
+comunidade escolar (por impressão, por exemplo) ou mesmo fora da escola. 
+ 
+É preciso evidenciar que em todas as telas das atividades estão disponíveis, no 
+canto superior direito, um botão de ajuda que apresenta informações sobre a navegação 
+para realização da atividade. Bem como, estão disponíveis botões de navegação (menu, 
+voltar  e  exemplos),  que  possibilitam  ao  usuário  abandonar  a  atividade  a  qualquer 
+momento que deseje e iniciar uma outra atividade. Todo o funcionamento do OA pode 
+ser visto no vídeo disponível em https://youtu.be/j6sfdnHIm6U. 
+ 
+
+5. Considerações finais 
+
+A  deficiência  no  letramento  dos  brasileiros  é  comprovado  não  somente  nas  pesquisas, 
+como também no cotidiano escolar. Essa foi uma das motivações que levou este grupo a 
+desenvolver o Encantando Cordel, com vistas a possibilitar que o professor trabalhe com 
+seu  aluno  diversas  habilidades  em  diferentes  competência  da  Língua  Portuguesa,  do 
+Raciocínio  Lógico  e  das  Artes,  aproximando  o  aluno  da  vasta  e  enriquecedora  cultura 
+nordestina por meio da literatura de Cordel.  
+ 
+O processo de desenvolvimento no decorrer da disciplina oportunizou aos alunos 
+que  nunca  vivenciaram  a  construção  de  um  SEL  a  aplicar  conhecimentos  técnicos  e 
+pedagógicos  prévios,  adquiridos  nesta  disciplina  e  em  outras  disciplinas.  Com  isso, 
+ampliou-se  o  leque  de  experiências  adquiridas  na  academia  que  tem  ainda  caráter 
+profissional, no escopo de atuação do profissional da Computação.  
+ 
+Por se tratar de um grande grupo dividido  em outros três, cada um incubido de 
+uma  responsabilidade,  ocorreu,  inicialmente,  uma  dificuldade  na  sincronização  das 
+equipes, pois cada equipe dependia de alguma forma do produto gerado pela outra. Isso 
+culminou  em  situações  que  exigiam  habilidades  de  trabalho  em  equipe,  resolução  de 
+problemas e gestão de tempo para o cumprimimento dos prazos estabelecidos. Por isso, o 
+Encantando  Cordel  possui,  ainda,    funcionalidades  que  precisam  ser  melhoradas  e 
+acrescentadas, para ampliar e otimizar a experiência do usuário com o SEL. 
+ 
+
+Como trabalho futuro é prevista uma avaliação acerca da aplicação do  software 
+
+ 
+
+em  sala  de  aula,  analisando  o  uso  por  parte  dos  professores  e  alunos  dos  ensino 
+fundamental,  extraindo  informações  e  feedback  dos  usuários.  Com  isso,  espera-se  que 
+sejam identificadas demandas que elevem o potencial pedagógico do Encantando Cordel. 
+
+Referências 
+
+Básica”. 26 slides. 
+
+INEP, 14 p. 
+
+Almeida,  M.  E.  B.  (2008).  “Tecnologias  e  conteúdos  multimidiáticos  na  Educação 
+
+Brasil. Ministério da Educação. (2016). “Resultados da Avaliação de Leitura”. Brasília: 
+
+Brasil. 
+
+(2017). 
+
+“Base  Nacional  Comum  Curricular”.  Disponível 
+
+em: 
+
+<http://basenacionalcomum.mec.gov.br/abase/#fundamental/lingua-portuguesa>. 
+Acesso em: 30 de Junho de 2019. 
+
+Oliveira,  A.  M.  D.  et  al.  (2017).  “Levantamento  e  Catalogação  de  Objetos  de 
+Aprendizagem para Matemática para Atualização de um  Repositório”.  In: Anais do 
+Congresso sobre Tecnologias na Educação (Ctrl+E 2017). Mamanguape-PB,  p.47-58. 
+Maia, D. L.; Pinheiro, J. L.; Arrais, G. de A. (2015). “Cultura Livre: fundamentos éticos 
+para  as  TDIC  na  Educação”.  In:  RIBEIRO,  R.  et  al.  (Orgs.).  Ética,  Sociabilidade  e 
+Educação. 1ed. Fortaleza: EdUECE, p.187-198. 
+
+Oliveira, A. M. D. et al. (2016). “Software Educativo Brincálculo”.  In: Congresso sobre 
+Tecnologias  na  Educação  (Ctrl+E  2016)  -  Universidade  Federal  do  Rio  Grande  do 
+Norte, 2018, Natal, p.640-645. 
+
+Oliveira,  A.  M.  D.  et  al.  (2018).  “Software  Educativo  ContaKg”.  In:  Congresso  sobre 
+Tecnologias  na  Educação  (Ctrl+E  2018)  Universidade  Federal  do  Ceará,  Fortaleza, 
+p.590-596. 
+
+Oliveira,  C.  C.;  Costa,  J.  W.  da;  Moreira,  M.  (2001).  “Ambientes  informatizados  de 
+aprendizagem:  produção  e  avaliação  de  software  educativo”.  1ed.  Campinas,  SP: 
+Papirus (Coleção Prática Pedagógica). 
+
+Papert, S. (2008). “A máquina das crianças: repensando a escola na era da informática”. 
+
+Tradução de Sandra Costa. Ed. revisada. Porto Alegre: Artmed. 
+
+Silveira. S. A. (2004). “Software livre: a luta pela liberdade do conhecimento”. Editora 
+
+Fundação Perseu Abramo, pp 9-23. 
+
+Valente,  J.  A.  (1997).  “Informática  na  educação:  instrucionismo  x  construcionismo”. 
+
+Manuscrito não publicado, NIED: UNICAMP. 
+
+ 
+
+ 
+
+

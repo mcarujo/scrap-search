@@ -1,0 +1,605 @@
+ 
+ 
+
+ 
+
+O Uso das Tecnologias na Formação Inicial de Licenciandos 
+em Ciências Biológicas: o que Dizem as Pesquisas na Área?  
+
+Micaelle G. Silva1, Dayane G. Silva1, Luiz G. Souza Neto1, Zélia M. Soares Jófili1 
+
+1Programa de Pós-Graduação em Ensino das Ciências (PPGEC) – Universidade Federal 
+Rural de Pernambuco (UFRPE) 
+Cep-52.171.900 – Recife – PE – Brazil 
+
+{micaellegomes93,zjofili}@gmail.com,{Dayane.guimaraes2010,neto.hu}@hot
+mail.com 
+
+Abstract.  Information  and  Communication  Technologies  (ICTs)  have  been 
+increasingly expanding in the educational sphere, seeking to meet the constant 
+needs of education. The present work had as objective to analyze the use of the 
+technologies in the initial formation of Biology teachers. For this, a mapping 
+of  articles  in  periodicals  and  scientific  events  was  carried  out,  covering  the 
+period from 2013 to 2017, and a total of 22 studies were identified on the use 
+of technologies in the initial training of biology teachers. Despite the growing 
+number  of  studies,  it  is  still  necessary  to  make  progress  in  the  use  of 
+technologies, to better subsidize teacher education. 
+
+Resumo.  As  Tecnologias  da  Informação  e  Comunicação  (TIC)  vêm  se 
+expandindo  cada  vez  mais  no  âmbito  educacional,  buscando  suprir  as 
+necessidades constantes da educação. O presente trabalho teve como objetivo 
+analisar o uso das tecnologias na formação inicial de professores de Biologia 
+e, para isto, foi realizado um mapeamento de artigos em periódicos e eventos 
+científicos,  abrangendo  o  período  de  2013  a  2017.  Foi  identificado  um  total 
+de  22  estudos  abordando  o  uso  de  tecnologias  na  formação  inicial  de 
+professores de biologia, mas apesar do crescente número de estudos, ainda se 
+faz  necessário  avançar  quanto  ao  uso  das  tecnologias,  de  modo  a  melhor 
+subsidiar a formação docente. 
+
+1. Introdução 
+
+As  instituições  educacionais  vêm  demonstrando  inquietações  no  que  se  refere  ao 
+ensino-aprendizagem  de  conteúdos  específicos  em  qualquer  área  do  conhecimento, 
+sempre buscando a inclusão de estratégias didático-pedagógicas. No entanto, as lacunas 
+persistem, fazendo-se necessário promover intervenções principalmente no que tange à 
+base de conhecimento e formação docente.  
+
+Nesse  cenário,  as  Tecnologias  da  Informação  e  Comunicação  (TIC)  vêm 
+ganhando  espaço  em  diversas  áreas  do  conhecimento,  sendo  seu  uso  entendido  como 
+importante para apoiar o ensino. No entanto, [Gouvêa e Errobidart 2015] destacam que 
+
+ 
+
+no contexto das atividades relacionadas ao ensino, a utilização das TIC ainda ocorre de 
+forma limitada e ressaltam que os professores possuem a responsabilidade de avaliar os 
+instrumentos pedagógicos de que fazem uso nas aulas, de modo a sanar as dificuldades 
+no processo de ensino e aprendizagem. 
+
+Muitas dessas limitações encontram-se no processo de formação docente, onde é 
+verificada a necessidade de estreitar relações entre teoria e prática nas aulas ministradas 
+na  licenciatura,  unindo  os  conteúdos  específicos,  aos  pedagógicos  e  tecnológicos.  Isto 
+implica  acesso  aos  recursos,  tempo  suficiente  para  familiarização  e  adequação  do 
+material e suporte técnico, além é claro, da infraestrutura. Ou seja, a tecnologia por si só 
+não significa solução e, mais do que isso, não funcionará para a melhoria da educação 
+se não for utilizada com este propósito. Por isso, mudanças mais intensas devem ocorrer 
+na formação docente, uma vez que são os professores, os responsáveis pela introdução 
+dessas inovações no contexto do ensino. 
+
+[Bonzanini 2015] destaca a  importância de promover, no decorrer da formação 
+inicial,  espaços  para  a  reflexão  crítica  sobre  o  uso  das  TIC,  de  modo  a  possibilitar  a 
+inserção  adequada  das  tecnologias  no  ensino  dos  conteúdos,  propiciando,  assim,  uma 
+prática  pedagógica  mais  atual  e  dinâmica,  que  leve  à  construção  dos  novos 
+conhecimentos.  
+
+[Oeiras et al. 2001] fazem menção a um saber específico recomendando que os 
+professores, durante sua formação, sejam orientados a lançar mão dele no processo de 
+ensino  e  aprendizagem  de  conteúdos  específicos,  garantindo  não  apenas  um  simples 
+domínio instrumental, mas fornecendo subsídios para incorporar as TIC em suas aulas.  
+
+Desta  forma,  verifica-se  a  importância  desses  recursos  na  formação  inicial  de 
+professores, nas distintas áreas do conhecimento. Neste estudo destacamos o Ensino de 
+Biologia, tendo em vista as mais variadas formas de trabalhar conteúdos desta área por 
+meio das tecnologias tão disseminadas atualmente. 
+
+Sendo  assim,  tecemos  o  estudo  de  forma  a  responder  as  seguintes  questões  de 
+pesquisa:  quais  são  as  tecnologias  educacionais  utilizadas  na  formação  inicial  de 
+licenciandos  em  Ciências  Biológicas?  Quais  as  contribuições  dessas  tecnologias  na 
+formação  dos  futuros  professores  de  Ciências  Biológicas?  Em  quais  modalidades  de 
+ensino as tecnologias são trabalhadas? 
+
+Para  tanto,  o  presente  trabalho  teve  como  objetivos  analisar  o  uso  das 
+tecnologias  na  formação  inicial  de  licenciandos  em  Ciências  Biológicas,  de  modo  a 
+verificar as contribuições dessas tecnologias na formação dos  futuros professores, bem 
+como  identificar  os  tipos  de  tecnologias  mais  utilizados  nesse  processo  de  formação 
+inicial, como também em quais modalidades de ensino foram abordadas. 
+
+2. As tecnologias na formação inicial de professores de Biologia 
+
+A  formação  de  professores  é  um  tema  central  ao  se  pensar  na  qualidade  do  ensino, 
+incluindo  o  de  Biologia.  Os  docentes  têm  sido  expostos  a  muitos  desafios,  como 
+acompanhar as descobertas científicas e tecnológicas e torná-las compreensíveis para os 
+alunos.  Isto  exige  aprofundamento  por  parte  do  docente,  tanto  no  campo  do 
+conhecimento  teórico  como  no  metodológico  e  tecnológico  [Mishra  e  Koehler  2006]. 
+Somado a isso, tais desafios podem ser agravados pelas deficiências nas licenciaturas, já 
+que  à  medida  que  novas  tecnologias  surgem,  assim  como  os  conceitos  se  ampliam,  a 
+
+ 
+
+ 
+
+formação  do  professor  passa  a  ser  “obsoleta”  poucos  anos  após  a  graduação  dos 
+mesmos [Lima e Vasconcelos 2006]. 
+
+Nesse  contexto,  para  auxiliar  o  docente  nas  questões  de  fazer  com  que  os 
+estudantes  assimilem  da  melhor  forma  o  que  está  sendo  ensinado,  as  Tecnologias,  se 
+utilizadas de modo adequado, podem favorecer o processo de ensino e aprendizagem.  
+
+Nesse  sentido,  [Persich  et  al.  2015]  destacam  que  no  contexto  da  formação 
+inicial  dos  licenciandos  em  Ciências  Biológicas,  se  faz  necessária  a  percepção  da 
+importância  das  TIC  como  ferramentas  e  recursos  didáticos  aliados  do  processo  da 
+aprendizagem e do ensino.  
+
+Sendo  assim,  se  faz  necessária  a  inclusão  das  TIC  como  ferramentas  didáticas 
+importantes  na  construção  do  conhecimento  pelos  alunos  das  licenciaturas,  em 
+específico  da  área  da  Biologia  para  que  possa  auxiliar  tanto  no  processo  de 
+aprendizagem durante a graduação, como no processo de ensino, para utilização efetiva 
+desses meios tecnológicos nos ambientes escolares.  
+
+Na tentativa de verificar o que está sendo investigado no campo do Ensino das 
+Ciências,  sobre  a  utilização  das  tecnologias  na  formação  inicial  de  licenciandos  em 
+Ciências Biológicas, apresentamos, neste trabalho,  um levantamento de pesquisas com 
+esta abordagem em eventos e periódicos nacionais e internacionais. 
+
+ Vale destacar a expansão da produção científica acerca das tecnologia nas áreas 
+de ensino, seja no âmbito da  Educação Básica, seja no Ensino Superior. No Ensino de 
+Biologia,  estas  têm  tomando  uma  dimensão  bastante  significativa.  De  acordo  com 
+[Oliveira  2015]  aspectos  biológicos  são  tidos  como  complexos  e  aprender  Biologia  é 
+muito  mais do que decorar conceitos,  é também reconhecer processos que ocorrem na 
+natureza.  Nesse  sentido,  [Gianotto  e  Diniz  2010]  ressaltam  a  utilização  da  tecnologia 
+para  uma  aprendizagem  eficaz  no  que  se  refere  ao  Ensino  de  Biologia  de  modo  a 
+desmitificar os conteúdos tidos como complexos. 
+
+Mediante  a  disseminação  dos  meios  tecnológicos  na  contemporaneidade  e  por 
+verificarmos nos canais de divulgação de trabalhos  científicos, artigos sobre o uso das 
+tecnologias no Ensino de Biologia para a Educação Básica, decidimos investigar o uso 
+dessas  tecnologias  na  formação  inicial  de  licenciandos  em  Ciências  Biológicas,  tendo 
+em vista que para ser utilizados no Ensino de Biologia no campo da Educação Básica, 
+de forma  a contribuir na aprendizagem dos  estudantes é relevante  a abordagem dessas 
+ferramentas na formação inicial desses profissionais. 
+
+3. Caminhar Metodológico 
+
+ O  presente  estudo  caracteriza-se  por  uma  abordagem  de  cunho  quanti-qualitativa 
+[Minayo  2011],  e  investiga  o  estado  da  arte  das  produções  cientificas  de  artigos,  em 
+determinado assunto, considerando: tempo, espaço e mecanismo de publicação [Ferreira 
+2002].  Foi  realizado  um  mapeamento  em  publicações  no  período  temporal  de  2013  a 
+2017, pois demarcamos um período de cinco anos para está análise, em um evento e em 
+revistas nacionais e internacionais do seguimento de ensino. 
+
+O  corpus  da  análise  da  pesquisa  é  constituído  por  artigos  do  principal  evento 
+nacional de Ensino de Ciências Brasileiro e de quatro revistas nacionais e internacionais 
+de  Qualis  A1  e  A2  na  área  de  Ensino,  de  acordo  com  a  última  avaliação  quadrienal 
+(2013-2016).  A  seleção  das  revistas  analisadas  se  deu  pelo  perfil  de  publicação  das 
+mesmas  e  o  objeto  da  investigação  da  pesquisa,  conforme  a  lista  a  seguir:  Evento  - 
+
+ 
+ 
+
+ 
+
+ 
+
+Encontro Nacional de Pesquisa em Educação em Ciências (ENPEC) dos anos de 2013, 
+2015 e 2017; Revistas Nacionais - Revista Brasileira de Ensino de Ciência e Tecnologia 
+(RBECT) - Qualis A2 de 2013 a 2017 e Investigações em  Ensino de Ciências (IEC)  - 
+Qualis  A2  -  de  2013  a  2017;  e  Revistas  Internacionais  -  Ensenãnza  de  Las  Ciencias  - 
+Qualis A1 dos anos de 2013 e 2017 e Revista Latinoamericana de Tecnología Educativa 
+(RE) - Qualis A2 de 2013 a 2017.   
+
+A  busca  dos  artigos  foi  feita  através  de  sites.  No  caso  do  único  evento,  foi  a 
+partir  de  sua  promotora  que  é  a  Associação  Brasileira  de  Pesquisa  em  Educação  em 
+Ciências (ABRAPEC) que nos subsidiou o link de acesso aos anais do evento. No caso 
+das revistas nacionais e internacionais os artigos foram localizados a partir dos sites de 
+busca. Para a seleção inicial dos artigos realizamos uma identificação prévia dos textos 
+utilizando,  como  meio  de  filtragem:  título,  resumo,  palavras-chave  (buscando  pelos 
+termos  “Formação  Inicial”,  “Licenciandos”,  “Ensino  de  Biologia”,  “Tecnologia”  e 
+“TIC”. A exclusão de artigos não condizentes com a temática, embora houvesse alguma 
+das palavras destacadas nos títulos, resumos e palavras-chaves, ocorreu no momento da 
+exploração do material, na leitura aprofundada destacado a seguir. 
+
+Logo  após  esse  momento  nos  guiamos  e  seguimos  para  a  análise  dos  corpus 
+coletados  seguindo  alguns  passos  da  Análise  de  Conteúdo  de  [Bardin  2011].  Desta 
+forma, ocorreram os respectivos polos cronológicos indicados pela autora: Pré-análise – 
+leitura  flutuante  e  construção  dos  indicadores;  Exploração  do  material  -  leitura 
+aprofundada  e  categorização  e  tratamento  dos  resultados,  inferência  e  interpretação. 
+Ressaltamos que o agrupamento e, como resultado, as categorizações, ocorreram em um 
+momento a posteriori, partindo das tendências que identificamos de uso das tecnologias 
+na formação inicial de licenciandos em Ciências Biológicas. 
+
+4. Resultados e Discussões 
+
+A partir das técnicas anteriormente mencionadas foi possível coletar e montar a seguinte 
+amostra do corpus do estudo e, consequentemente, montar um quadro dos artigos e suas 
+fontes de publicações, conforme demonstrado no Quadro 1. Tal resultado  expõe como 
+determinada  temática  está  sendo  publicada  na  área  de  ensino  no  período  temporal  de 
+2013-2017 no seguimento de práticas e teorias da formação inicial de licenciandos em 
+Ciências Biológicas correlacionados com as tecnologias. 
+
+ 
+De  acordo  com  os  termos  de  busca  especificados  para  a  pesquisa  foram 
+retornados 24 artigos científicos, contudo no momento da exploração dos achados, com 
+uma  leitura  aprofundada,  dois  artigos  foram  excluídos,  pois  embora  os  títulos 
+apresentassem  termos  destinados  para  seleção  dos  artigos  o  conteúdo  apresentado  no 
+corpo do artigo não era condizente com os objetivos traçados nesta pesquisa. 
+
+Quadro 1. Distribuição e quantitativo dos artigos por Evento, Revistas 
+Nacionais e Internacionais nos anos investigados.  
+
+Fontes das 
+publicações 
+
+Evento 
+Revistas Nacionais 
+
+Revistas 
+Internacionais 
+
+ENPEC 
+
+RBECT 
+
+IEC 
+
+Evento e Revistas  
+
+Anos 
+2013  2014  2015  2016  2017 
+4 
+0 
+
+4 
+1 
+
+- 
+3 
+
+5 
+1 
+
+- 
+0 
+
+Total de artigos por 
+Evento e Revistas 
+13 
+5 
+
+Ensenãnza  de  Las 
+Ciencias 
+
+RELATEC 
+
+0 
+
+2 
+
+0 
+
+0 
+
+- 
+
+0 
+
+0 
+
+- 
+
+0 
+
+0 
+
+- 
+
+0 
+
+0 
+
+2 
+
+0 
+
+0 
+
+4 
+
+0 
+
+ 
+
+ 
+
+ 
+ 
+
+Quantitativo  
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+22 
+
+Dentre  a  amostra  selecionada,  detectamos  e  exemplificamos  um  maior  número 
+de  artigos  sobre  a  temática  em  estudo  no  ENPEC,  em  suas  três  edições  no  período 
+investigado, totalizando treze dos 22 artigos. Ressaltamos que tal dado deve-se ao fato 
+do maior quantitativo de artigos que um evento aceita por edição, em relação às revistas. 
+Posteriormente, conseguimos coletar quatro dos demais artigos na Revista Internacional 
+“Ensenãnza  de  Las  Ciencias”  resultante  das  duas  últimas  edições  do  “Congreso 
+Internacional  sobre  Investigación  en  Didáctica  de  las  Ciencias”  que  aconteceram 
+respectivamente  nas  cidades  de  Girona  e  Sevilha,  na  Espanha,  com  quatro  artigos  e 
+também na Revista Nacional RBECT onde, em três anos, dos cinco investigados, foram 
+obtidos cinco artigos, totalizando assim nove artigos nas duas revistas. Não detectamos 
+artigos  da  temática  sob  estudo  nem  na  Revista  Nacional  IENCI  nem  na  Revista 
+Internacional RELATEC, no período investigado.   
+
+Durante  a  análise  qualitativa  dos  corpus  empíricos  dos  artigos  supracitados, 
+conseguimos elencar duas categorias de interesse da pesquisa: A. Modalidade de ensino 
+e B. Tipos de tecnologias.  
+
+A. Modalidade de Ensino (Presencial, Semipresencial e Educação a Distância  -
+EAD): A presente categoria parte da perspectiva de que na formação de licenciandos em 
+ciências  biológicas  no  ensino  superior,  existem  diferentes  tipos  de  modalidades  de 
+ensino  tanto  em  instituições  públicas  federais  e  estaduais  como  em  instituições 
+particulares. Por conseguinte, na análise detectamos um número relevante de artigos na 
+modalidade EAD, o que nos pareceu importante para ser discutido na pesquisa. 
+
+B.  Tipos  de  Tecnologias:  Nesta  categoria  detectamos  o  uso  de  diferentes 
+recursos  tecnológicos  utilizados  na  formação  dos  licenciandos,  o  que  também  nos 
+pareceu importante para ser discutido na pesquisa. 
+
+No que se refere ao foco do estudo verificamos um predomínio da  modalidade 
+presencial de ensino com treze artigos: [Bastos, Rezende Filho e Pastor 2013] e [Corrêa 
+e Caldeira 2017]. Tal resultado já era esperado,  tendo em vista a quantidade de cursos 
+na  modalidade  presencial  na  formação  dos  licenciandos.  Seguidamente,  a  modalidade 
+EAD  apresentou  cinco  artigos  com  discussões  relevantes  acerca  dos  desafios, 
+potencialidades e reflexões do papel didático do ambiente virtual sobre a tecnologia já 
+incorporada  na  formação  dos  licenciandos  como  o  ambiente  hipermídia  [Espíndola 
+Santos e Silva 2013] [André 2014]. 
+
+Os artigos de [Costa e Rezende 2013] e [Silva, Ribeiro e  Gastal 2013] tiveram 
+como  viés  de  interesse  um  olhar  sobre  os  licenciandos  oriundos  da  Educação  à 
+Distância,  tanto  para  verificar  à  reflexão  na  formação  inicial  quanto  na  dos  futuros 
+profissionais e a construção da identidades destes licenciandos. Cabe ressaltar que essa 
+modalidade de ensino foi regulamentada desde 1996 com a Lei de Diretrizes e Bases nº 
+9.394/96, tendo então mais de duas décadas de existência.  
+
+Para a modalidade semipresencial  encontramos e analisamos dois artigos. O de 
+[Bonzanini 2015] que apresentou uma reflexão sobre a formação pedagógica para o uso 
+das  tecnologias  em  licenciandos  de  diferentes  anos  de  turmas  semipresenciais;  e  o  de 
+[Maganha et al. 2017] que teve como objetivo compreender como os tutores mediavam 
+os fóruns de uma disciplina e realizavam perguntas em turmas em determinado período 
+de tempo, também na modalidade semipresencial.  
+
+ 
+
+ 
+
+Por fim, salientamos que foram analisados dois artigos que não exemplificaram 
+nenhuma  modalidade  de  ensino,  tendo  em  vista,  serem  pesquisas  bibliográficas.  O 
+estudo  de  [Silva  et  al.  2014]  teve  o  objetivo  de  investigar  o  perfil  tecnológico  dos 
+licenciandos de ciências biológicas e o artigo de [Possas e Alves 2015] fez uma revisão 
+bibliográfica  com  o  objetivo  de  responder  questionamentos  sobre  o  uso  das  TIC  no 
+ensino de biologia no geral, enfocando a formação dos licenciandos. 
+
+No  que  se  refere  ao  subtópico  Tipos  de  Tecnologia,  buscamos  investigar  o 
+corpus  dos  artigos  com  a  preocupação  de  identificar  as  tecnologias  que  foram 
+empregadas nas publicações acadêmicas. A partir da amostra do estudo notamos que as 
+tecnologias  foram  empregadas  e  citadas  como  uma  importante  ferramenta  de  auxílio 
+durante o momento de ensino e  aprendizagem dos licenciandos, conforme o trecho do 
+artigo de [Pereira e Lopes 2015] que foi um artigo de viés teórico,  
+
+(...) as TIC influenciam diretamente no processo de formação do aluno, pois 
+ferramentas  no  processo  de  aprendizagem, 
+quando  usadas  como 
+contextualizam o educando na sociedade em que está inserido, tornando-o um 
+cidadão crítico e sujeito do seu processo de formação [p.4]. 
+
+Outro olhar que constatamos nos artigos foi a utilização do Ambiente Virtual de 
+Aprendizagem  (AVA)  partindo  do  uso  da  hipermídia  no  ensino  dos  licenciandos, 
+apontadas  nas  potencialidades  que  os  professores  trazem  no  estudo  de  [Espíndola 
+Santos e Silva 2013] Pela fala dos professores, percebe-se que a hipermídia cumpriu um 
+aspecto predominantemente “facilitador” da compreensão e como meio de “despertar o 
+interesse dos alunos” 
+
+A hipermídia contribuiu de maneira positiva para o aprendizado dos alunos, 
+que tiveram a oportunidade de estudar o tema de maneira dinâmica, divertida, 
+interessante e didática, uma alternativa importante de ferramenta de estudos 
+[Espíndola Santos e Silva 2013]. 
+
+Esta perspectiva também foi discutida por [André 2014] partindo de reflexões da 
+Educação à Distância e do AVA, no que diz respeito à função e ao papel dos docentes 
+no ambiente hipermídia, tendo que se aprimorar para propiciar  melhores momentos de 
+ensino e aprendizagem nas suas aulas. Outro  aspecto  relevante  foi  observado  no  estudo 
+de  [Montenegro  Petrovich  e  Araújo  2013]  quando  trazem  um  relato  de  experiência  de 
+licenciandos,  alunos  da  Educação  à  distância,  que  descreve  uma  oficina  presencial  na 
+Universidade  Federal  do  Rio  Grande  do  Norte  com  conteúdos  da  zoologia  em  que 
+utilizaram  tanto  modelos  didáticos  de  biscuit  quanto  recursos  tecnológicos,  como 
+computadores,  apresentação  de  slides  e  apresentação  de  vídeos,  apontando  assim,  a 
+possível  relação  entre  o  uso  de  aulas  práticas,  materiais  didáticos  e  recursos 
+tecnológicos na formação inicial de licenciandos da Educação à Distância.  
+
+Verificamos  também  a  reprodução  de  vídeos,  produção  de  vídeo  didático  e 
+análise de vídeos como funcionalidades dadas a este recurso tecnológico recorrente nos 
+relatos dos artigos analisados. Por fim, trazemos três outras funções observadas em três 
+artigos  distintos:  primeiramente  o  texto  de  [Maganha  et  al.  2017]  quando  analisam  a 
+condução  de  tutores  em  atividades  assíncronas,  por  meio  de  fóruns.  Em  seguida, 
+trazemos o artigo de [Eichler e Del Pino 2014] no qual relatam o uso do software Ĵigo 
+que  é  um  editor  de  criação  que  possibilita  a  construção  de  objetos  de  aprendizagem, 
+onde é possível planejar paisagens, ambientes e espaços naturais.  
+
+A última função destacada foi o relato de [Corrêa e Caldeira 2017] quando, em 
+uma  disciplina  pedagógica  da  licenciatura,  solicitam  que  duas  turmas  de  licenciandos 
+elaborem atividades didáticas mediadas por TIC, onde foram  propostos e  indicados os 
+
+ 
+
+ 
+
+seguintes  recursos:  (1)  As  redes  sociais  como  ferramenta  de  ensino;  2)  Ensinando  por 
+meio de jogos digitais; 3) Giz e lousa versus computadores e datashow na sala de aula. 
+Dessa  forma  foi  possibilitado  um  planejamento  pedagógico  correlacionado  com 
+recursos tecnológicos, tornando possível um questionamento dos licenciandos ainda na 
+formação inicial.     
+
+Apesar dos trabalhos encontrados estarem direcionados para as três modalidades 
+de  ensino  (presencial,  semipresencial  e  educação  à  distância)  na  formação  de 
+professores,  assim  como  diferentes  tipos  de  tecnologias  utilizados  nesses  artigos.  O 
+número  de  produções  destinadas  a  essa  temática  no  processo  de  formação  inicial  de 
+professores  de  ciências  biológicas,  ainda  se  encontra  incipiente.  Um  dos  aspectos  que 
+podem  ser  citados  se  relaciona  ao  fato  da  aproximação  dos  docentes  formadores  com 
+esses tipos de tecnologias, podendo nos cursos de formação  continuada de professores 
+ser  promovida  formações  para  utilização  da  tecnologias  no  processo  de  ensino  e 
+aprendizagem. 
+
+5. Considerações Finais 
+
+Os  trabalhos  analisados  destacaram  o  uso  das  tecnologias  na  formação  inicial  dos 
+licenciandos  em  diferentes  modalidades  de  ensino  como  Educação  à  distância, 
+semipresencial  e  presencial,  chamando  a  atenção  para  o  números  de  pesquisas  nos 
+Cursos de Educação à Distância (EAD) que foi a segunda mais abordada uma vez que a 
+EAD vem se expandindo bastante nos últimos anos.   
+
+Em suma, as pesquisas aqui analisadas demonstraram um direcionamento do uso 
+das  tecnologias  e  suas  implicações  para  o  processo  de  ensino  e  aprendizagem  dos 
+discentes  dos  cursos  de  Ciências  Biológicas  em  formação  inicial,  bem  como  as 
+contribuições  desses  meios  tecnológicos  na  futura  prática  docente.  Contudo,  ainda  se 
+faz necessário avançar nas pesquisas quanto ao uso das tecnologias na formação inicial 
+de professores de Ciências Biológicas, de modo a oferecer um panorama acerca do que 
+está  sendo  estudado  nesta  perspectiva  e  promover  mais  subsídios  para  a  formação 
+docente. 
+
+Referências 
+
+André, B.P. (2014). O lugar da didática no ambiente virtual de aprendizagem. Revista 
+
+Brasileira de Ensino de Ciência e Tecnologia, v. 7, n. 3, p. 63-77.  
+
+Bastos,  W.G.;  Rezende  Filho,  L.A.C.;  Pastor,  A.A.  (2013).  Produção  de  vídeos 
+educativos  por  licenciandos  de  Biologia:  uma  análise  do  endereçamento  e  do 
+significado  preferencial.  In:  Encontro  Nacional  de  Pesquisa  em  Educação  em 
+Ciências,  São  Paulo,  Atas  do  IX  ENPEC  Encontro  Nacional  de  Pesquisa  em 
+Educação em Ciências. São Paulo: ABRAPEC. 
+
+Bardin, L. (2011). Primeira parte – história e Teoria; Terceira parte – Método. Análise 
+
+de Conteúdo. Lisboa: Editora 70. 
+
+Bonzanini,  T.K.  (2015).  A  formação  do  professor  para  o  uso  pedagógico  das 
+tecnologias:  investigações  em  um  curso  de  licenciatura  em  ciências.  In:  Encontro 
+Nacional  de  Pesquisa  em  Educação  em  Ciências,  Águas  de  Lindóia,  Atas  do  X 
+ENPEC  Encontro  Nacional  de  Pesquisa  em  Educação  em  Ciências.  São  Paulo: 
+ABRAPEC. 
+
+ 
+ 
+
+ 
+
+ 
+
+Corrêa,  A.L.;  Caldeira,  A.M.A.  (2017).  Proposta  de  competências  necessárias  para  o 
+ensino  de  Ciências  e  Biologia  em  atividades  mediadas  por  TIC.  In:  Encontro 
+Nacional de Pesquisa em Educação em Ciências, Florianópolis, Atas do XI ENPEC 
+Encontro  Nacional  de  Pesquisa  em  Educação  em  Ciências.  Santa  Catarina: 
+ABRAPEC.  
+
+Costa,  M.L.R.;  Rezende,  F.  (2013).  Construção  da  identidade  docente  em  um  curso  a 
+distância  de  Licenciatura  em  Biologia.  In:  Encontro  Nacional  de  Pesquisa  em 
+Educação  em  Ciências,  São  Paulo,  Atas  do  IX  ENPEC  Encontro  Nacional  de 
+Pesquisa em Educação em Ciências. São Paulo: ABRAPEC.  
+
+Eichler,  M.L.;  Del  Pino,  J.C.  (2014).  Ĵigo:  um  editor  de  objetos  de  aprendizagem  de 
+temas  de  Ciência,  Tecnologia  e  Sociedade  (CTS).  Revista  Brasileira  de  Ensino  de 
+Ciência e Tecnologia, v. 7, n. 1, p. 119-141.  
+
+Espíndola,  M.B.;  Santos,  J.V.A.;  Silva,  C.F.  (2013).  Análise  do  processo  de 
+desenvolvimento e uso de uma hipermídia no ensino superior de Ciências Biológicas. 
+In: Encontro Nacional de Pesquisa em Educação em Ciências, São Paulo, Atas do IX 
+ENPEC  Encontro  Nacional  de  Pesquisa  em  Educação  em  Ciências.  São  Paulo: 
+ABRAPEC. 
+
+Ferreira,  N.S.A.  (2002)  As  pesquisas  denominadas  “estado  da  arte”.  Educação  & 
+
+Sociedade, n. 79, p. 257-272. 
+
+Gianotto, D.E.P.; Diniz, R.E.S. (2010).  Formação  inicial de professores de Biologia: a 
+metodologia  colaborativa  mediada  pelo  computador  e  a  aprendizagem  para  a 
+docência. Ciência & Educação, Bauru, v. 16, n. 3, p. 631-648.  
+
+Gouvêa,  S.M.O.;  Errobidart,  N.C.G.  (2015).  A  formação  de  professores  para  novas 
+tecnologias: reflexões a partir da literatura.  In: X Encontro Nacional de Pesquisa em 
+Educação em Ciências, Águas de Lindóia, Atas do X ENPEC- Encontro Nacional de 
+Pesquisa em Educação em Ciências. Águas de Lindóia: ABRABEC. 
+
+Lima, K.E.C.; Vasconcelos, S.D. (2006). Análise da metodologia de ensino de ciências 
+nas escolas da rede municipal de Recife.  Ensaio: Avaliação e Políticas Públicas em 
+Educação. Rio de Janeiro, v.14, n.52, p. 397-412.  
+
+Maganha,  L.F.  et  al.  (2017).  O  papel  do  tutor  em  fóruns  de  discussão  em  um  curso 
+semipresencial de Licenciatura em Ciências: A importância do tipo de pergunta. In: 
+Encontro Nacional de Pesquisa em Educação em Ciências, Florianópolis, Atas do XI 
+ENPEC  Encontro  Nacional  de  Pesquisa  em  Educação  em  Ciências.  Santa  Catarina: 
+ABRAPEC. 
+
+Minayo, M.C.S. (2011). Pesquisa social: teoria, método e criatividade. Rio de Janeiro: 
+
+Editora Vozes Limitada. 
+
+Mishra,  P.;  Koehler,  M.  (2006).  Technological  pedagogical  content  knowledge:  a  new 
+framework  for  teacher  knowledge.  Teacher  College  Record,  v.  108,  n.  6,  p.  1017-
+1054. 
+
+Montenegro,  L.A.;  Petrovich,  A.C.I.;  Araújo,  M.F.F.  (2013).  Modelos  biológicos  no 
+estudo  de  vertebrados:  utilização  e  importância  na  formação  inicial  à  distância  de 
+professores para o ensino de ciências e biologia. In: Encontro Nacional de Pesquisa 
+em  Educação  em  Ciências,  São  Paulo,  Atas  do  IX  ENPEC  Encontro  Nacional  de 
+Pesquisa em Educação em Ciências. São Paulo: ABRAPEC. 
+
+ 
+
+ 
+
+Oeiras, J.Y.Y. et  al. (2001). Contribuições de conceitos de Comunicação Mediada por 
+Computadores e visualização de informação para o desenvolvimento de ambientes de 
+aprendizagem colaborativa. In: XII SIMPÓSIO BRASILEIRO DE INFORMÁTICA 
+NA  EDUCAÇÃO,  SBC,  Vitória  do  Espírito  Santo.  Espírito  Santo:  Anais  do 
+Simpósio. 
+
+Oliveira, B.I.N. (2015). Tecnologias aplicadas ao ensino de biologia: o uso dos  tablets 
+em escolas estaduais do município de patos – PB. 34f. Trabalho de Conclusão de Curso 
+(Licenciatura em Ciências Biológicas). Universidade Federal de Campina Grande. 
+
+Persich, G.D.O. (2015). O uso de Tecnologias de Informação e Comunicação (TIC) por 
+participantes  do  PIBID  Ciências  Biológicas  em  Santo  Ângelo  (RS)  e  Ciências  da 
+Natureza  em  Senhor  do  Bonfim  (BA).  In:  X  Encontro  Nacional  de  Pesquisa  em 
+Educação em Ciências, Águas de Lindóia, Atas do X ENPEC Encontro Nacional de 
+Pesquisa em Educação em Ciências. São Paulo: ABRAPEC.  
+
+Pereira,  M.;  Lopes,  L.A.  (2015).  Tecnologias  de  Informação  e  Comunicação  na 
+Educação:  horizontes  para  a  formação  de  professores  de  Ciências.  In:  Encontro 
+Nacional  de  Pesquisa  em  Educação  em  Ciências,  Águas  de  Lindóia,  Atas  do  X 
+ENPEC  Encontro  Nacional  de  Pesquisa  em  Educação  em  Ciências.  São  Paulo: 
+ABRAPEC. 
+
+Possas,  I.M.M.;  Alves,  J.M.  (2015).  Estudo  exploratório  das  pesquisas  sobre  TIC  no 
+ensino  de  Biologia.  In:  Encontro  Nacional  de  Pesquisa  em  Educação  em  Ciências, 
+Águas de Lindóia, Atas do X ENPEC Encontro Nacional de Pesquisa em Educação 
+em Ciências. São Paulo: ABRAPEC. 
+
+Silva,  S.L.R.  et  al.  (2014).  Perfil  tecnológico  de  acadêmicos  de  cursos  de  licenciatura 
+das ciências da natureza. Revista Brasileira de Ensino de Ciência e Tecnologia, v. 7, 
+n. 3, p. 135-147.  
+
+Silva,  C.M.;  Ribeiro,  A.M.;  Gastal,  M.L.A.  (2013).  Formação  de  professores  de 
+Ciências: refletindo sobre a prática docente através do estágio supervisionado em um 
+curso de licenciatura à distância em biologia. In: Encontro Nacional de Pesquisa em 
+Educação  em  Ciências,  São  Paulo,  Atas  do  IX  ENPEC  Encontro  Nacional  de 
+Pesquisa em Educação em Ciências. São Paulo: ABRAPEC.  
+
+ 
+ 
+
+ 
+
+ 
+
+

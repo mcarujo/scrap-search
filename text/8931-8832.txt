@@ -1,0 +1,258 @@
+ 
+
+ 
+
+Automatização do Controle de Fluxo dos Livros de uma 
+Biblioteca Universitária 
+Ivanicio B. S. Junior, José Wenzel Trieste Ribeiro, Felipe Francisco Bezerra 
+Araújo 
+
+Instituto de Educação Superior Raimundo Sá (IESRSA) – Picos, PI – Brasil 
+
+Departamento de Ciência da Computação 
+
+ivaniciojr@gmail.com, wenzel_contato@hotmail.com, 
+felipefba@hotmail.com 
+
+Abstract: This paper describes how the use of  RFID technologies and automation 
+processes  with  Arduino  was  measured  to  optimize  the  control  and  workflow  of  a 
+university library. The goal of the project is to verify the feasibility of this technology 
+to  control  the  flow  of  books  in  a  university  library.  For  this,  we  interviewed  the 
+supervisor of a library and used his answers to define the system requirements. It will 
+be implemented as a middleware in order to provide support for the existing system. 
+
+Resumo:  O  presente  trabalho  descreve  como  foi  mensurada  a  utilização  das 
+tecnologias RFID e de processos de automatização com Arduino, para otimizar o 
+controle e fluxo de trabalho de uma biblioteca universitária. O objetivo deste projeto 
+é  verificar  a  viabilidade  desta  tecnologia  no  controle  de  fluxo  de  livros  em  uma 
+biblioteca universitária. Para isto, foi feita uma entrevista com o supervisor geral de 
+uma biblioteca, cujas respostas serviram de base para determinar os requisitos do 
+sistema. Este será implementado no formato de middleware, de modo a dar apoio ao 
+sistema já existente. 
+
+1. Introdução 
+
+A  tecnologia  RFID  (do  inglês  Radio  Frequency  Identification,  Identificação  por 
+Radiofrequência) é uma tecnologia para identificação de transmissores através de sinais 
+de rádio. Ela serve como alternativa a outros métodos de identificação, como o código de 
+barras, possibilitando o controle de fluxo e monitoramento de produtos de forma eficiente. 
+A vantagem da RFID é que ela permite identificar objetos mesmo que o transmissor não 
+esteja visível. 
+
+Esta tecnologia está associada a implantação de leitores e transmissores que irão 
+emitir  sinais  e  captá-los.  O  leitor  transmite  ondas  de  rádio,  que  são  captadas  pelos 
+transmissores e geram energia para os mesmos. Com isto, os transmissores conseguem 
+gravar os dados recebidos e enviar uma resposta ao leitor. Existem vários tipos de leitores 
+e transmissores de tamanhos e capacidades variados, que devem ser utilizados de maneira 
+mais  apropriada  para  sua  finalidade.  Alguns  transmissores  possuem  capacidade  de 
+armazenamento  facilitando  seu  uso  para  determinada  situação,  como  por  exemplo  no 
+gerenciamento  de  empréstimos  de  uma  biblioteca,  em  que  o  próprio  transmissor  pode 
+armazenar informações sobre o empréstimo e situação do exemplar. 
+
+Neste  trabalho  verificamos  a  possibilidade  de  implementação  de  um  sistema 
+utilizando  as  tecnologias  RFID  e  Arduino  na  biblioteca  José  Antenor  de  Castro  Neiva 
+Júnior, do campus do Instituto de Educação Superior Raimundo Sá (IESRSA). O restante 
+deste artigo está dividido da seguinte forma. Na Seção 2 apresentamos uma breve revisão 
+bibliográfica  sobre  o  tema.  Na  Seção  3  descrevemos  as  principais  características  do 
+
+ 
+ambiente  em  que  o  sistema  será  implantado  com  base  em  uma  entrevista  com  o 
+bibliotecário  e  supervisor  da  biblioteca.  Na  Seção  4  apresentamos  os  requisitos  do 
+sistema,  elaborados de acordo com os dados das seções anteriores. Por fim, a Seção 5 
+encerra o artigo, apresentando conclusões e propondo trabalhos futuros. 
+
+2. Revisão bibliográfica 
+
+A tecnologia RFID foi aprimorada ao longo dos anos de modo a se tornar acessível para 
+seu uso e ser disseminado de forma confiável. Através do seu crescimento gradativo esta 
+tecnologia passou-se a ser uma excelente opção, na qual sua implementação é bastante 
+eficiente, em que consequentemente o levou a ser um possível substituto do código de 
+barras. Ainda é necessário ser realizado um trabalho considerável para que a tecnologia 
+RFID  seja  difundida  tanto  quanto  a  do  código  de  barras,  embora  ela  esteja  sendo 
+rapidamente implementada, conforme Roberts (2006). 
+
+A RFID tem um bom custo benefício, visto que o mesmo equipamento pode ser 
+reutilizado  várias  vezes  para  armazenar  dados  diferentes,  além  de  ser  de  fácil 
+implementação  como  melhoria  para  o  desenvolvimento  acadêmico.  O  emprego  desta 
+tecnologia  é  comumente  utilizado  em  acervos  bibliotecários  de  modo  a  automatizar  a 
+efetivação de empréstimos, mostrando avanço significativo na finalidade acadêmica. De 
+acordo  com  França  Neto  (2008),  o  uso  de  códigos  de  barras  consome  muito  tempo  e 
+resulta em custos adicionais, além de requerer que as etiquetas estejam alinhadas com o 
+leitor. Estes problemas podem ser contornados pela implementação da tecnologia RFID. 
+
+A utilização do sistema RFID tende a ser um sistema abrangente no qual atende 
+todas  as  necessidades  de  segurança  e  rastreamento  de  materiais  de  uma  biblioteca,  de 
+acordo com Sahid (2005). A aplicação de  leitores para a emissão dos sinais auxilia no 
+desenvolvimento  de  sistemas  antifurto,  no  qual  é  de  suma  importância  para  garantir  a 
+confiabilidade e segurança em bibliotecas em que será verificado se a obra está ou não 
+emprestado. 
+
+O  modo  utilizado  para  gerir  o  processo  de  empréstimo  na  biblioteca  é  fixando 
+transmissores adesivos pouco perceptíveis em exemplares das obras que irão gravar dados 
+no  transmissores  assim  podendo  agilizar  e  garantir  o  empréstimo.  Através  dos  leitores 
+será  feita  a  identificação  se  o  exemplar  está  ou  não  emprestado  assim  garantido  a 
+confiabilidade do sistema antifurto que irá detectar qualquer alteração feita nos dados do 
+transmissor. 
+
+A  implementação  de  uma  nova  tecnologia  não  é  somente  para  praticidade  e 
+eficiência em determinada situação, mas também para ter um retorno no investimento que 
+foi gasto. Coyle (2005) menciona que todo um investimento em uma nova tecnologia que 
+irá ser aplicada, terá seu custo equiparado ao aumento dos seus lucros, e caso seus lucros 
+aumentem serão suficientes para pagar a nova tecnologia empregada. 
+
+3. Entrevista com o bibliotecário 
+
+Conforme  dito  anteriormente,  este  trabalho  visa  verificar  a  viabilidade  de  um  sistema 
+utilizando  as  tecnologias  RFID  e  Arduino  na  biblioteca  José  Antenor  de  Castro  Neiva 
+Júnior, do campus do Instituto de Educação Superior Raimundo Sá (IESRSA). Para isto, 
+foi  realizada  uma  entrevista  com  o  bibliotecário  e  supervisor  geral,  José  de  Sousa,  de 
+modo a compreender e extrair  informações de como o sistema já implantado funciona, 
+quais são as dificuldades enfrentadas no dia a dia do campus e como esta nova tecnologia 
+pode  tornar  o  processo  de  aquisição,  manutenção,  empréstimo  e  devolução  dos  livros 
+mais conveniente para os alunos e para a Instituição. 
+
+O  sistema  implantado  na  biblioteca  da  IESRSA  é  o  Biblios,  no  qual  visa 
+administrar várias funções requeridas no dia a dia de uma biblioteca, como gerenciamento 
+
+ 
+
+ 
+do  acervo  bibliográfico,  entrada  e  saída  de  livros,  geração  de  relatórios  com  os  mais 
+variados filtros, gerenciamento de fluxo de caixa apurado com o dinheiro das multas de 
+atraso e etc. No que se faz de base a um sistema com regras de negócio de uma biblioteca, 
+o  Biblios  consegue  adequar  e  conciliar-se  muito  bem  às  tarefas  do  dia  a  dia  em  uma 
+biblioteca universitária. 
+
+Apesar  do  sistema  oferecer  diversos  recursos  técnicos,  ainda  se  faz  necessária 
+bastante  operação  manual  para  a  realização  de  funções  simples,  como  por  exemplo  a 
+digitação do código de barras do item do acervo no momento do empréstimo do exemplar. 
+Este processo manual torna o fluxo de empréstimos inconveniente para os profissionais e 
+alunos.  Em  um  dia  com  um  fluxo  elevado  de  pessoas,  a  dificuldade  de  gerenciar  e 
+controlar  a  saída  de  livros,  bem  como  a  conservação  dos  mesmos,  é  complicada  e 
+improdutiva, podendo gerar resultados  inesperados  para a Instituição, para os alunos e 
+para os professores, que consomem os itens do acervo diariamente. Acontecimentos como 
+furtos  ou  danos  aos  exemplares,  que  trazem  prejuízos  à  Instituição,  são  relativamente 
+raros.  Uma  situação  frequente  citada  por  José  de  Sousa  foi  que,  em  horários  de  fluxo 
+elevado de pessoas, não haver certeza se   o(s) aluno(s) já realizaram o empréstimo do 
+exemplar nas suas mãos. Esse tipo de questionamento varia em situações que há uma alta 
+demanda  de  empréstimos  e,  como  já  citado,  com  o  pico  do  tráfego  dos  estudantes  e 
+profissionais do campus. Esta é uma situação comum e bastante inconveniente, tanto para 
+o  aluno  quanto  para  o  profissional.  Outra  situação  comum  é  o  estresse  causado  pelo 
+acúmulo  de  multas  por  longos  períodos  de  atraso,  causado,  às  vezes,  por  puro 
+esquecimento do aluno, causando desgaste financeiro e bloqueando o acesso das outras 
+pessoas ao exemplar. Isto é agravado devido ao sistema utilizado atualmente não possuir 
+mecanismos eficientes de lembrete sobre empréstimos atrasados. 
+
+A Figura 1 apresenta um esboço do layout da biblioteca. É importante destacar 
+que  a  biblioteca  possui  apenas  duas  portas  de  acesso  situadas  ao  lado  do  balcão  de 
+empréstimo. Além disso, a biblioteca se encontra no segundo andar do prédio, acessível 
+apenas por elevador ou escada. Nesta figura, indicamos também os locais propostos para 
+a  instalação  dos  leitores  antifurto,  escolhidos  por  serem  de  passagem  obrigatória  por 
+estudantes que queiram acessar a biblioteca. 
+
+A tecnologia RFID se encaixa perfeitamente para resolver os problemas descritos 
+acima. Uma implantação eficiente, onde os leitores e transmissores se comunicam com 
+exatidão, relativos ao  espaço no qual eles se encontram, poderá  trazer benefícios tanto 
+para  os  profissionais  e  alunos,  quanto  para  a  Instituição.  Contudo,  há  o  fator 
+manutenibilidade  com  relação  a  implantação  de  uma  tecnologia  como  essa.  A 
+computação em si, ao longo dos seus anos de aprimoramento e surgimento de tecnologias, 
+nos  ensina  diariamente  que  ao  resolver  grandes  problemas,  surgem  outros  (grandes) 
+problemas,  por  isso,  os  fatores  manutenibilidade  e  alto  acoplamento  causados  pelo 
+sistema  já  existente,  entram  como  possíveis  obstáculos  diários  na  implantação  dessa 
+aplicação. 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Layout do andar da biblioteca da IESRSA 
+
+ 
+
+4. Resultados 
+
+O  padrão  que  formamos  para  o  bom  funcionamento  do  processo  de  automatização  do 
+fluxo,  tem  como  base  a  ideia  de  que  cada  item  do  acervo,  incluindo  TCCs  e  revistas, 
+tenham uma etiqueta que seja capaz de armazenar seus dados pertinentes. Essa etiqueta 
+carrega consigo um código único, gerado no momento da gravação da mesma, que é capaz 
+de ser comparado ao item do acervo no sistema, além de ter seu bit de sinal que indica o 
+status do item, sendo 0 para emprestado e 1 para livre. Com este recurso, o bibliotecário 
+é  capaz  de  realizar  o  empréstimo  e  verificar  se  uma  obra  está  emprestada  apenas 
+transpondo o livro sobre o leitor, eliminando a necessidade de digitar qualquer código. O 
+leitor  fica  então  encarregado  de  fazer  a  leitura,  verificação  do  status  do  exemplar  e 
+consulta ao banco de dados com o código correspondente para finalizar a operação, seja 
+de empréstimo ou devolução. 
+
+Para a aplicação do sistema RFID foi necessário o estudo dos mais diversos tipos 
+de transmissores e leitores para que não ocorram erros e interferências nos quais poderiam 
+causar problemas futuros. Para escolher os materiais a serem usados no sistema, levamos 
+em  consideração  a  distância  de  leitura  e  escrita  do  leitor  e  das  etiquetas,  bem  como  a 
+capacidade de armazenamento destas. O leitor deve ter alcance curto, o que exige que o 
+item a ser identificado esteja bastante próximo do leitor. Com isto, evitamos que outros 
+itens próximos sejam detectados por engano. Quanto aos transmissores, eles devem ser 
+do tipo etiqueta, o que permite que eles sejam anexados às obras do acervo com pouca ou 
+nenhuma  interferência  no  armazenamento  nas  prateleiras  da  biblioteca.  As  etiquetas 
+devem também ter capacidade de armazenamento suficiente para identificar todos os itens 
+do  acervo,  bem  como  informações  adicionais  sobre  o  empréstimo.  Uma  vez  que  a 
+biblioteca  utilizada  neste  projeto  possui  cerca  de  40  mil  exemplares,  estimamos  uma 
+capacidade  mínima  de  armazenamento  de  17  bits.  Destes  16  bits  são  usados  para 
+identificar o exemplar, o que permite a identificação de até 65535 itens. O bit restante 
+indica  se  o  exemplar  está  emprestado  ou  não.  Além  disso,  as  etiquetas  devem  ser 
+regraváveis, o que possibilita alterar a situação do empréstimo conforme necessário. 
+
+Em vista disto, foram escolhidos para a realização de testes um leitor MultiTag 
+com frequência de 13,56 Mhz que possibilita  a leitura e gravação dos transmissores, e 
+além  de  transmissores  que  trabalham  na  mesma  frequência,  que  são  regraváveis  para 
+realizar a mudança de status do empréstimo  e visualizar  a situação do exemplar. Estes 
+transmissores de baixa frequência são boas opções para garantir que não haja interferência 
+de outros equipamentos, como o sistema antifurto disparar mesmo o exemplar tendo sido 
+emprestado  ocasionando  constrangimento  com  todos  os  envolvidos.  Para  efetivar  o 
+sistema  antifurto serão  comprados 2  leitores com antenas que serão dispostas  em cada 
+saída da biblioteca, cada leitor terá o alcance essencial para que seja captado o sinal do 
+transmissores nos exemplares. 
+
+5. Conclusão 
+
+Neste  trabalho  verificamos  a  viabilidade  de  implementação  de  um  sistema  utilizando 
+RFID  e  Arduino  em  uma  biblioteca  universitária.  Foi  constatado  que  o  sistema  atual 
+utilizado é bem completo e atende todas as necessidades de uma biblioteca de pequeno 
+porte, se fazendo desnecessário uma total reescrita, por isso, o indicado para uma maior 
+eficiência na aplicação do RFID, no contexto problemático deste projeto, será adaptá-lo 
+ao  sistema  já  existente.  Uma  técnica  conveniente  para  esse  tipo  de  aplicação  é  a 
+implementação  de  um  middleware  de  empréstimos  com  técnicas  de  crawler,  que  é 
+responsável  por  procurar  informações  relevantes  em  uma  página  web  já  existente, 
+filtrando o necessário e indexando a um banco de dados local. Assim, poderá ser feita a 
+busca de dados do acervo e atender de modo efetivo a demandas do sistema, e garantir a 
+segurança e confiabilidade da biblioteca, deixando o fluxo de processos não apenas mais 
+rapido, como produtivo, diminuindo equívocos e otimizando todo o processo. 
+
+Este trabalho foi financiado pelo Programa Institucional de Bolsas de Iniciação Científica 
+(PIBIC) do Instituto de Educação Superior Raimundo Sá. 
+
+ROBERTS, C.M. Radio frequency identification (RFID). Computers & Security, Volume 
+
+FRANÇA  NETO,  Zamith.  Aplicação  de  tecnologia  RFID  para  gestão  acadêmica,  de 
+
+pessoal e operacional de patrimônio e biblioteca. SPOLM, 2008. 
+
+SHAHID,  Syed  Md.  Use  of  RFID  Technology  in  Libraries:  a  New#  Approach#  to 
+Circulation,  Tracking,  Inventorying,  and  Security  of  Library  Materials.  Library 
+Philosophy and Practice, 2005. 
+
+COYLE, Karen. Managing technology: Management of RFID in Libraries. The Journal 
+
+of Academic Librarianship, 2005. 
+
+Agradecimentos 
+
+Referências 
+
+25, 2006, 
+
+ 
+
+ 
+
+

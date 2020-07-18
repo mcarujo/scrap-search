@@ -1,0 +1,406 @@
+Uma Aplicação Mobile para Mediação de Aulas de Educação 
+Ambiental e Biologia. 
+
+Francisco José Carvalho Costa¹, Matheus William Gomes dos Santos1, Átila R. 
+Lopes¹, ² 
+¹Universidade Estadual Do Piauí (UESPI) – Parnaíba-PI – Brasil 
+
+²Instituto de Ciências Matemática e de Computação (ICM/USP) - Universidade de São 
+Paulo 
+Caixa postal13.566-590 – São Carlos- SP-Brasil 
+
+{franciscojoseatdl3, karoene.d.s.mendonca, Matheuswilliamsantos22 
+atilarlopes}@gmail.com  
+
+Resumo: Neste trabalho apresentaremos uma proposta de desenvolvimento de 
+uma  aplicação  móvel  para  auxiliar  em  aulas  de  biologia  e  conscientização 
+ambiental, mostrando com base em aportes teóricos como a educação baseada 
+em  M-learning  pode  ser  positivamente  produtiva.  A  problemática  de 
+desenvolvimento partiu da dificuldade em apresentar as atividades de educação 
+ambiental,  desenvolvidas  no  II  trail  de  Barra  Grande  –  Pi,  por  questões  de 
+locomoção  do  alunado.  A  aplicação  terá  seu  funcionamento  baseado  na 
+montagem de uma composteira virtual e espaços de interação com usuário com 
+conteúdos  relacionados  a  botânica.  A  aplicação  proposta  terá  sua  avaliação 
+baseada  na  experiência  do  usuário,  como  uma  ferramenta  educacional,  os 
+resultados  finais  de  cada  jogada  servirão  como  base  para  análise  do 
+desempenho dos alunos, a partir de relatórios gerados no próprio jogo. 
+
+Abstract:  In  this  work,  we  will  present  a  proposal  to  develop  a  mobile 
+application to assist in biology and environmental awareness classes, showing, 
+based on theoretical contributions, how education based on M-learning can be 
+positively  productive.  The  issue  arose  from  the  difficulty  in  presenting  the 
+environmental education activities, developed in the II trail of Barra Grande - 
+Pi, due to the student’s locomotion. The application will have its operation based 
+on the assembly of a virtual composter and spaces of interaction with user that 
+will  have  contents  related  to  botany.  The  proposed  application  will  have  its 
+evaluation based on the user experience, as an educational tool, the final results 
+of each play will serve as a basis for analyzing the students’ performance from 
+reports generated in the game itself. 
+
+1. Introdução 
+No Brasil, a sociedade informacional moderna, tem sido sinônimo de produção residual 
+excessiva  em  suas  práxis  cotidianas.  Dados  do  Instituto  Brasileiro  de  Geografia  e 
+Estatística  –  IBGE,  apontam  que  pelo  menos  metade  das  (5.507)  cidades  do  país  não 
+planejam  o  manuseio  de  detritos  residuais,  ainda:  segundo  relatório  da  Associação  de 
+
+ 
+
+Empresas de Limpeza Pública e resíduos especiais – Abrelpe, em 1600 cidades do Brasil 
+existem uma média de 3.000 lixões a céu aberto. 
+
+Esses excessos impactam negativamente na qualidade de vida dos indivíduos em 
+contato direto ou indireto com o lixo, o fluxo natural do meio ambiente e das cidades. 
+Alagamentos, doenças virais e contaminação de lençol freático, são alguns exemplos de 
+consequências acarretadas pelo descarte inadequado de lixo1. Neste aspecto, destaca-se o 
+lixo orgânico, caracterizado por sobras alimentícias como legumes, frutas, dentre outros 
+exemplos  de  materiais  orgânicos,  e  que  também  impactam  no  volume  de  produção 
+residual. Uma pratica para amenizar tal problema é a compostagem.  
+
+Em relação ao lixo orgânico, a compostagem é uma técnica de reciclagem simples 
+e  eficiente  para  o  tratamento  de  detritos  orgânicos.  Um  processo  biológico  de 
+transformação de resíduos orgânicos em substâncias húmicas que consiste no resultado 
+da  mistura  de  matéria  orgânica2,  dada  principalmente  por  meio  de  microrganismos, 
+podendo ser dividida em desintegração física e desintegração química. [CT/50, Embrapa 
+Agrobiologia, dez. /2001, p.2]. Tal processo consiste na mistura de matéria orgânica com 
+terra e folhagem em vasilhames com furos na região inferior que servirão para a coleta 
+do chorume, excreção líquida decorrente da síntese da composteira.   
+
+No entanto, o ensino prático do processo de compostagem deve ser realizado em 
+locais  abertos,  com  chão  de  areia,  onde  os  participantes  dessa  atividade  devem  levar 
+consigo todo o material necessário para esse tipo de reciclagem. Essas dificuldades podem 
+comprometer a execução desse tipo de atividade e dificultar na aprendizagem mais clara 
+do assunto. 
+
+O uso de tecnologias móveis como recurso didático em educação ambiental pode 
+ajudar a minimizar as dificuldades relacionadas às práticas de compostagem, devido às 
+características  e  os  benefícios  que  a  computação  móvel  pode  oferecer  para  o  processo 
+educacional,  tais  como  mobilidade,  motivação,  interatividade,  entre  outros.    A  M-
+Learning  (Aprendizagem  móvel)  é  entendida  como  a  aprendizagem  utilizando 
+dispositivos característicos da computação móvel (Parsons & Ryu, 2006), desta forma, o 
+objetivo principal desta produção é apresentar a proposta de uma aplicação móvel, para 
+auxiliar  em  aulas  de  biologia  e  conscientização  ambiental,  mostrando  com  base  em 
+aportes  teóricos  como  a  educação  baseada  em  M-learning  pode  ser  positivamente 
+produtiva. 
+
+A  educação  ambiental  conjuntamente  à  tecnologia,  têm  sido  fortes  aliadas  na 
+busca por soluções aos problemas suscitados anteriormente. Durante o desenvolvimento 
+desta pesquisa, as tecnologias digitais, serão utilizadas na construção de sentido de uma 
+aprendizagem com foco em estruturas informacionais móveis. Uma vez que o presente 
+trabalho  é  fruto  de  uma  análise  etnográfica  a  partir  da  aplicação  de  um  projeto  de 
+educação  ambiental,  desenvolvido  pelos  alunos  do  curso  de  licenciatura  em  ciências 
+biológicas da Universidade Federal do Piauí, campus Parnaíba no ano de 2018. 
+
+Por  questões  de  dificuldade  na  locomoção  intermunicipal,  a  metodologia  de 
+desenvolvimento,  as  práticas  e  os  resultados  do  projeto  de  educação  ambiental  não 
+puderam ser presentados aos alunos da escola municipal Edson Cunha, uma vez que o 
+
+ 
+
+1Disponivel em: https://g1.globo.com/natureza/noticia/2018/09/14/brasil-tem-quase-3-mil-lxoes-em-
+1600-cidades-diz-relatorio.ghtml 
+2 Substâncias de coloração escura, sintetizado por meio da mistura de resíduos orgânicos de plantas, 
+animais e micro-organismos. 
+
+ 
+
+mesmo se deu em outra cidade. Neste contexto, a problemática de desenvolvimento desta 
+pesquisa, parte da salientação de como ensinar educação ambiental a alunos de escolas 
+públicas por meio da montagem de composteiras sem sair de suas escolas, com auxílio de 
+tecnologias moveis.  
+
+A  presente  discussão  foi  baseada  em  aspectos  educacionais  levando  em 
+consideração características e conceitos de no contexto da conscientização social sobre 
+práticas de manejo de detritos orgânicos. Uma vez que educação, segundo Aurélio (2010) 
+é  a  “aplicação  dos  métodos  próprios  para  assegurar  a  formação  e  o  desenvolvimento 
+físico, intelectual e moral de um ser humano; pedagogia, didática, ensino”, tomaremos o 
+meio  formacional  como  ambiente  etnográfico,  sem  desconsiderar  que  a  composição 
+social contemporânea, tem sua aprendizagem fomentada pela extensão que ultrapassa o 
+ambiente escolar [Barbero 2014]. 
+
+2. Computação Mobile: implicações na educação e fatores integrantes. 
+A  existência  da  sociedade  moderna  é  marcada  pelo  uso  constante  de  mídias  digitais 
+móveis, isto possibilita a imersão em um contexto de aprendizagem contínua, de acesso 
+independente  ao  conhecimento,  “as  tecnologias  invadem  as  nossas  vidas,  ampliam  a 
+nossa memória, garantem novas possibilidades” Kenski (2012).  
+
+Santaella  (2013,  p  17)  define  a  computação  móvel  “pela  possibilidade  de 
+movimentação  física  humana  levando  junto  consigo  serviços  computacionais”,  logo, 
+quebra-se a ideia de limite e o acesso à tecnologia se torna ininterrupto no contexto dos 
+espaços físicos e assim temos uma ressignificação do conceito de “lugar”. Mobilidade, 
+em caráter de seu conceito tecnológico, como descrito anteriormente, passa a ser um fator 
+de sentido mediador na efetivação do que se tem em face da educação moderna, notada 
+pela presença enfática do acesso facilitado a informação a qualquer momento e/ou espaço. 
+
+Notadamente, temos o enviesar ao conceito de aprendizagem mobile. O ensino e a 
+aprendizagem tornam-se mais lúdicos e dinâmicos com uso das mídias digitais, e aqui “o 
+professor  não  é  mais  aquele  que  transmite  determinado  saber  pronto.  Ser  professor  na 
+cultura digital implica coordenar, orientar, incentivar a aprendizagem colaborativa cada 
+vez  mais  personalizada.  Não  se  trata  mais  de  uma  tarefa  para  todos  num  determinado 
+espaço e tempo. O professor agora é aquele que coordena as atividades em torno de algum 
+problema” Couto (2013 p. 2) 
+
+Kambourakis, Kontoni e Sapounas (2004) citam a aprendizagem móvel como  “o 
+ponto  em  que  a  computação  móvel  e  o  e-Learning  se  cruzam  para  produzir  uma 
+experiência  de  aprendizagem  a  qualquer  hora  e  em  qualquer  lugar”.  A  aprendizagem 
+então  se  fundamenta  na  utilização  de  componentes  computacionais  móveis,  e  estes 
+servem como instrumentos mediadores na construção do conhecimento, celulares, tablete 
+e notebook, são alguns exemplos. 
+
+A  educação  abstraiu  as  múltiplas  facetas  da  evolução  social,  do  caminhar  das 
+culturas, e se resinificou junto às tecnologias e da ensino e aprendizagem. A mobilidade 
+expande as possibilidades do acesso ao conhecimento, junto a conexão facilitada com a 
+internet. Jekins (2009) destaca a imersão do indivíduo, ao ser permeado pelas mídias, e 
+elenca  ainda  as  implicações  expressivas  nas  relações  sociais,  desencadeando  novas 
+concepções  de  educação.  E  isto  não  se  distância  da  conscientização  sobre  aspectos 
+ambientais e conduta social. 
+
+ 
+
+3. Descrição da Proposta 
+Usando  dos  conceitos  de  mobilidade,  propomos  então,  o  desenvolvimento  de  uma 
+aplicação  mobile,  atrelada  a  algumas  práticas  de  gameficação,  para  apresentar  aos 
+estudantes da rede pública municipal de ensino em Parnaíba-Pi, as etapas e implicações 
+da atividade de montagem de uma composteira, e auxiliar no trabalho dos professores e 
+estagiários  no  ensino  de  biologia  e  educação  ambiental  no  universo  da  aprendizagem 
+mobile.  
+
+A  aplicação  será  desenvolvida  no  laboratório  de  tecnologias  educacionais,  da 
+Universidade Estadual do Piauí - Parnaíba; com base na arquitetura Cliente-Servidor. Na 
+camada  servidor,  serão  dispostas  as  informações  necessárias  ao  funcionamento  da 
+aplicação,  tais  como:  dados  sobre  o  espaço,  cadastro  de  usuários,  e  manuseio  de 
+informações  geradas  a  partir  da  experiência  do  usuário,  base  dedados,  relatórios  de 
+desempenho  e  formulários.  A  interface  de  interação  com  o  usuário  será  disposta  na 
+camada  cliente,  ambiente  composto  pelo  conteúdo  informacional/instrucional  da 
+aplicação.  
+
+4. Caracterização do ambiente M-learning 
+Parte de seu funcionamento se baseia em uma interface de interação com o usuário, que 
+apresenta telas de perguntas e respostas e conteúdos instrucionais organizado por etapas 
+onde na fase final do conteúdo, um jogo interativo é caracterizado pela montagem de uma 
+composteira virtual. O material para reciclagem a ser adicionado na composteira ficará a 
+escolha do usuário e neste espaço ficarão dispostos, a exemplo: folhas, garrafas, sobras 
+de legumes, dentre outros compostos, sejam eles orgânicos ou não. 
+
+A intenção é fazer com que o usuário, por meio da pratica virtual, entenda o que 
+pode ou não estar presente no processo de reciclagem e conheçam tal processo. Além da 
+montagem do espaço de reciclagem do material orgânico (composteira), será reservado 
+um espaço voltado ao conteúdo de botânica, imagens, textos e perguntas sobre o conteúdo 
+potencializando  a  conhecimento  dos  alunos  em  relação  aos  espaços  naturais  e  suas 
+características. 
+
+ 
+O professor poderá analisar o desempenho dos alunos por meio dos relatórios de 
+experiência na aplicação enviados pelos alunos logo após o termino da utilização, ou por 
+meio do quadro de desempenho local de cada aplicativo. Por sua característica móvel, o 
+professor poderá usar o aplicativo para mediar suas aulas dentro e fora das salas ou escola, 
+efetivando mais uma vez a m-learning, a aplicação também servirá como uma referência 
+para montagem de uma composteira física, dando passo a passo da montagem e dicas de 
+produção como disposto na figura 1 abaixo. 
+
+ 
+
+                                   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1. 
+
+A lista de materiais na contida na figura 1.0, é parte da instrução para montagem da 
+composteira  física,  o  botão  representado  pelo  ícone  de  uma  “casa”  inicia  o  manual  de 
+instruções  e  o  acompanhamento  da  montagem  da  composteira  física,  como  mostra  a 
+figura 1. 
+
+Figura 2. 
+
+No  botão  “fazer  composteira  aqui”,  a  montagem  da  composteira  virtual  será 
+iniciada,  e  o  usuário  redirecionado  para  telas  de  informações  sobre  como  a  prática  de 
+montagem virtual acontecerá (figura 2). Na tela de escolha do material a ser adicionado 
+na  composteira  virtual,  diferentes  tipos  de  matéria  orgânicas  e  não  orgânicas  serão 
+exibidas para que ao fim haja resultado de êxito ou não no processo de maturação, todos 
+os resultados são listados numa projeção cronológica, para formação de um panorama do 
+desempenho do aluno envolvido na atividade. 
+
+Na fase maturação (figura 3), todos os materiais adicionados à composteira serão 
+analisados,  se  adicionada  a  matéria  orgânica  adequada,  o  processo  seguirá  até  que  o 
+composto orgânico esteja pronto, se não, o aluno será aconselhado a escolher novamente 
+os  produtos  e  o  processo  de  maturação  será  reiniciado,  ao  final,  uma  mensagem  será 
+exibida com o resultado da sintetização.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 3. 
+
+ 
+
+ 
+
+5. Discussões 
+O  enfoque  central  deste  trabalho  é  mediar  a  comunicação  entre  a  educação  formal 
+descentralizada,  conscientização  ambiental  e  aprendizagem  mobile  com  auxílio  de 
+tecnologias  digitais  moveis.  “A  sociedade  e  as  tecnologias  não  seguem  um  rumo 
+determinista. O rumo depende muito dos seres humanos e, sobretudo, da sua capacidade 
+de  discernimento  coletivo”  Kenski  (2012,  p.  67)  apud  Ponte  (2014)  e  as  escolas  não 
+podem ficar fora da evolução social caracterizada pelo uso de tecnologias digitais. 
+
+A  proposta  de  produção  da  aplicação  aqui  apresentada,  levará  ao  ambiente 
+educacional as aplicações e possibilidades das tecnologias móveis, configurando-se como 
+ferramenta  de  extensão  dos  espaços  de  conhecimento.  “A  escola  não  vai  perder  sua 
+posição de instituição social e educacional, vai sim, ampliar sua missão” (Azevedo 2014), 
+isso  potencializa  ao  indivíduo  presente  no  ambiente  formacional  “responder  a  uma 
+pluralidade de mandatos sociais (de instrução, de socialização, de profissionalização de 
+participação cívica de formação ética, de desenvolvimento estético) ” (Azevedo 2014).  
+
+  
+A ferramenta dará possibilidades ao entendimento e interpretação da presença do 
+aspecto computacional nas escolas e de como o conhecimento permeia pelas tecnologias 
+móveis,  levando  em  consideração  que  “o  conhecimento  é  uma  mistura  fluida  de 
+experiência emoldurada, valores, informação contextual e insight” Danvenport e Prusak 
+(1998, apud liaw et al.,2010). Promover o uso da ferramenta aqui proposta, resinificará a 
+dinâmica do ambiente das salas de aula, levando a sociedade informacional, se baseando 
+em processos abertos de educação3. 
+
+6. Considerações Finais e Trabalhos Futuros  
+
+Com base na discussão aqui apresentada, entende-se como relevante o uso de tecnologias 
+móveis  para  aperfeiçoamento  de  resultados  em  ambientes  de  educação  formalizada, 
+expandir os espaços das salas e potencializar o caráter tecnológico e social de objetos de 
+aprendizagem.  Como  proposta  de  trabalhos  futuros  do  laboratório  de  tecnologias 
+educacionais,  temos  a  conclusão  do  desenvolvimento  da  ferramenta  aqui  apresentada, 
+teste e analise de resultados com alunos da rede pública de educação e a implementação 
+de maiores funcionalidades como demonstração, por meio de  imagens e vídeos 3D do 
+espaço de projeção do conteúdo trabalhado no aplicativo. As imagens serão visualizadas 
+
+³Processos de aprendizagem abertos significam processos espontâneos, assistemáticos e mesmo caóticos, 
+atualizados ao sabor das circunstancias e de curiosidades contingentes. O advento dos dispositivos moveis 
+ativou esses processos(...) - Santaella, Lucia (2013). 
+
+ 
+
+com  um  auxílio  de  óculos  VR  (Realidade  Virtual),  proporcionando  assim  uma 
+experiência de imersão ao espaço mostrado nas imagens, este espaço poderá ser opcional 
+e, o foco inicial  é que cada aluno produza seus óculos com ajuda  materiais recicláveis 
+como garrafas, papelões com auxílio dos colegas de sala e profissionais presentes. 
+
+Referências 
+
+AQUINO,  A.  M.  de; RICCI,  M.  dos  S.  F.; FEIDEN,  A.  Embrapa  Agrobiologia, 
+
+Comunicado técnico –Compostagem; SOUZA, F. A. de;   
+
+Kenski, Vani Moreira. Educação e tecnologias: O novo ritmo da informaçã0. 8ª edição – 
+
+Campinas, SP, 2012. 
+
+paulus, 2013 
+
+Aleph,2009 
+
+Santella, Lucia, Aprendizagem ubíqua: repercussões na cultura e na educação. São Paulo:    
+
+Jekins, Henry. Cultura da convergência. Tradução: Susana Alexandria. 2. Ed. São Paulo: 
+
+Martin-Barbero,  jesus,  A  comunicação  na  educação.  Tradução:  Maria  Immacolata 
+
+Vassallo de Lopes e Dafne Melo. São Paul: Contexto 2104. 
+
+Liaw, shu-sheng; HATALA, Marek, HUANG, Hsi-Mei. “Investigating acceptance towad 
+mobile learnig to assist individual knowledge management: Based on activity theory 
+approach”. Computer & Education 2010. 
+
+Couto, Evaldo Souza. Educação 3.0 é a tecnologia que integra pessoas. 26 de março de 
+2013.  Disponível  em:  http://porvir.org/educacao-3-0-e-tecnologia-integra-pessoas/. 
+Acesso em: 01 de março de 2019.  
+
+Conheça  algumas  tecnologias  para  tratamento  de  resíduos  sólidos.  VGresiduos,  7  de 
+novembro  de  2017.  Disponível  em:  https://www.vgresiduos.com.br/blog/conheca-
+algumas-tecnologias-para-tratamento-de-residuos-solidos/. Acesso 25 de fev. 2019. 
+
+Brasil tem quase 3 mil lixões em 1.600 cidades, diz relatório disponível, por Elaine Bast, 
+
+Globo. 
+
+TV 
+<https://g1.globo.com/natureza/noticia/2018/09/14/brasil-tem-quase-3-mil-lxoes-em-
+1600-cidades-diz-relatorio.ghtml >. Acesso: 26 de março 2019. 
+
+disponivel 
+
+2018 
+
+set. 
+
+14 
+
+de 
+
+em:     
+
+Júlia 
+
+de 
+
+Almeida 
+
+Costa  Montesanti. 
+
+Lixão. 
+
+Disponível 
+
+em: 
+
+https://www.infoescola.com/ecologia/lixao/ 
+
+STEVERSON, F.J. Humus chemisty: genesis, composition, reactions. 2 ed New York: 
+
+John Willey, 1994, 496p. 
+
+Kambourakis,  G.,  Kontoni,  D.  P.  N.,  &  Sapounas,  I.  (2004).  Introducing  Attribute 
+Certificates  to  Secure  Distributed  E-Learning  or  M-Learning  Services.  Anais  da 
+Conferência Internacional IASTED. Innsbruck, Austrália. p 436-440. 
+
+Parsons, D., & Ryu, H. (2006). A framework for assessing the quality of mobile learning. 
+
+Massey University website 
+
+ 
+
+ 
+
+ 
+
+

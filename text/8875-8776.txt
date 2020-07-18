@@ -1,0 +1,581 @@
+ 
+
+Virtualização de Jogos Matemáticos: uma Avaliação do 
+
+Cubra Doze 
+
+Ana Carolina Santos Silva, Taciana Pontual Falcão 
+
+Departamento de Computação - Universidade Federal Rural de Pernambuco (UFRPE) – 
+Recife – PE - Brasil 
+
+a.caroolinasantos@gmail.com, taciana.pontual@ufrpe.br 
+
+Abstract.  The  present  research  is  guided  by  the  growing  use  of  games  in 
+education,  as  a  teaching  methodology  that  joins  fun,  logical  reasoning, 
+strategic  planning,  among  other  aspects.  With  the  increasing  ubiquity  of 
+technological  devices  in  people’s  daily  lives,  using  digital  technology  in 
+education  is  an  inevitable  trend.  The  aim  of  this  research  is  to  analyze  the 
+contributions  of  the  digital  version  of  an  educational  game  about  basic 
+Mathematical  operations,  aiming  at  bringing  together  the  positive  results  of 
+traditional games in teaching and the growing demand and interest of children 
+and  young  people  for  digital  games.  To  do  this,  the  game  Cubra  Doze  was 
+transformed into a digital version and conducted a study with students of the 
+1st  year  of  high  school  to  gauge  the  motivation  and  aspects  of  Human-
+Computer  Interaction  with  the  game.  The  results  revealed  that  there  were 
+positive results both in terms of engaging in learning using a digital game and 
+in the collaboration and educational content attached to it, thus demonstrating 
+that games are good educational tools.  
+
+Resumo.    A  presente  pesquisa  é  norteada  pelo  uso  crescente  de  jogos  na 
+educação,  como  uma  metodologia  de  ensino  que  une  diversão,  raciocínio 
+lógico,  planejamento  estratégico,  entre  outros  aspectos.  Com  a  crescente 
+ubiquidade  de  dispositivos  tecnológicos  no  cotidiano  das  pessoas,  utilizar-se 
+da  tecnologia  digital  na  educação  é  uma  tendência  inevitável.  Visando 
+aproximar  os  resultados  positivos  dos  jogos  tradicionais  no  ensino,  e  a 
+crescente  demanda  e  interesse  de  crianças  e  jovens  por  jogos  digitais,  o 
+objetivo  dessa  pesquisa  é  analisar  as  contribuições  da  versão  digital  de  um 
+jogo  educacional  sobre  as  operações  básicas  de  Matemática.  Para  isso,  foi 
+transformado  o  jogo  Cubra  Doze  em  uma  versão  digital  e  conduzido  um 
+estudo com estudantes do 1º ano do Ensino Médio para aferir a motivação e 
+aspectos  de  Interação  Humano-Computador  com  o  jogo.  Os  resultados 
+revelaram  que  houve  resultados  positivos  tanto  em  relação  ao  engajamento 
+em  aprender  utilizando  um  jogo  digital  como  na  colaboração  e  conteúdo 
+educacional  atrelado  a  ele,  demonstrando  assim  que  jogos  são  boas 
+ferramentas educacionais. 
+
+ 
+ 
+
+ 
+
+ 
+
+1. Introdução 
+
+A evolução das tecnologias digitais no âmbito escolar traz uma nova visão ao modelo de 
+ensino-aprendizagem tradicionalmente utilizado em sala de aula. Cada vez mais, essas 
+tecnologias  estão  inseridas  na  escola  e  no  processo  de  aprendizagem  do  aluno,  seja 
+através de equipamentos digitais ou projetos que a envolvam. O uso crescente de jogos 
+digitais  na  educação,  como  uma  metodologia  de  ensino  lúdica  que  une  diversão, 
+raciocínio lógico, planejamento estratégico  e pensamento computacional, vem gerando 
+cada vez mais reflexões quanto ao papel da escola em relação a essa evolução. 
+
+Entretanto, jogos educacionais sem aspectos digitais, comumente utilizados com 
+ 
+resultados positivos no ensino, têm sido substituídos por jogos digitais que muitas vezes 
+não  possuem  base  psicopedagógica  e  que  têm  a  função  lúdica  se  sobrepondo  ao 
+contexto  pedagógico  [Felicia,  2009].  Visando  maximizar  os  benefícios  que  os  jogos 
+digitais  têm  no  ensino-aprendizagem  é  possível  encontrar  na  literatura  alguns  autores, 
+como  dos  Santos  et  al.  [2015]  abordando  o  que  chamam  de  “virtualização  de  jogos 
+tradicionais”,  que  é  uma  técnica  que  une  os  princípios  pedagógicos  consolidados  nos 
+jogos tradicionais às novas plataformas digitais, dando suporte aos professores para que 
+trabalhem de forma lúdica, mas com conteúdos pré estabelecidos [Santos et al., 2013]. 
+
+ 
+Todos  esses  dados  nos  levam  a  considerar  três  aspectos  importantes  sobre  a 
+eficácia  de  jogos  no  âmbito  escolar:  o  conteúdo  pedagógico  atrelado  a  eles,  a 
+ludicidade,  e  o  engajamento  que  geram  nos  alunos.  Isto  leva  ao  objetivo  geral  da 
+presente  pesquisa,  que  pretende  analisar  as  contribuições  da  versão  digital  do  jogo 
+educacional  Cubra  Doze,  no  contexto  de  aprendizagem  das  operações  básicas  de 
+Matemática. A fim de alcançar o objetivo, foi desenvolvida uma versão digital do jogo 
+escolhido, a qual foi aplicada em uma turma de 1º ano de uma escola estadual. Por meio 
+de  observação  do  uso  do  jogo  e  questionários  passados  aos  alunos,  pôde-se  analisar 
+aspectos pedagógicos, de interação e engajamento. 
+
+ 
+O  que  se  espera  com  este  trabalho  é  incentivar  mais  profissionais  a  trabalhar 
+com a abordagem de adaptação de jogos tradicionalmente utilizados na educação a um 
+formato  digital,  visando  aproveitar  as  suas  contribuições  para  a  aprendizagem  e 
+proporcionar  experiências  mais  motivadoras  aos  alunos.  O  artigo  está  estruturado  da 
+seguinte  forma:  na  seção  2,  apresentamos  uma  visão  geral  sobre  uso  de  jogos  digitais 
+para  aprendizagem  de  matemática.  Na  seção  3,  descrevemos  a  metodologia  adotada 
+para  o  experimento  e  avaliação  do  jogo  proposto.  Na  seção  4,  apresentamos  os 
+resultados obtidos, e uma discussão acerca do engajamento dos estudantes com o jogo, e 
+aspectos  relacionados  à  usabilidade  da  interface.  As  conclusões  são  apresentadas  na 
+seção 5. 
+
+2. Jogos digitais na educação Matemática 
+
+A  crescente  demanda  de  desenvolvimento  de  jogos  digitais  tem  despertado  interesse 
+entre pesquisadores de tecnologias voltadas à educação. Há evidências de que os jogos 
+podem ajudar no desenvolvimento cognitivo e propiciar um conhecimento mais sólido 
+do que os conteúdos adquiridos através do modelo tradicional de ensino por transmissão 
+de conhecimento [Brom et al., 2011]. 
+
+ 
+Levando em consideração que essas tecnologias expandem as possibilidades de 
+aprender e ensinar, vários pesquisadores confirmam essa teoria em relação  a educação 
+matemática,  como:  da  Silva  Neto  et  al.  [2013],  que  defendem  o  uso  de  jogos  digitais 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+como um meio motivacional no processo de aprendizagem, principalmente em matérias 
+com um índice maior de rejeição, sendo apontado por eles as disciplinas de Matemática 
+e Física; Kafai [1995] e Rosa [2004] com a construção de jogos digitais para trabalhar 
+conteúdos matemáticos como frações e números inteiros, enfatizando assim o potencial 
+de se utilizar jogos digitais para trabalhar conteúdos educacionais. 
+
+Santos  e  da  Silva  Junior  [2014]  afirmam  que  com  o  passar  dos  anos,  os  jogos 
+ 
+tradicionais utilizados para ensino de Matemática foram entrando em desuso na mesma 
+medida  em  que  pesquisas  e  jogos  digitais  educacionais  foram  sendo  projetados.  Pela 
+disparidade  encontrada  pelos  autores  entre  os  jogos  tradicionais  e  os  jogos  digitais, 
+quanto  ao  seu  conteúdo  pedagógico,  eles  defendem  a  necessidade  de  resgatar  jogos 
+anteriormente usados no formato físico, agora na forma digital. 
+
+ 
+Essa ideia da virtualização de jogos tradicionais também se baseia no fato de que 
+estudos  como  da  Silva  e  Costa  [2017]  e  Batista  et  al.  [2017]  têm  tido  resultados 
+consideráveis  do  uso  de  jogos  digitais  como  o  aumento  da  motivação  dos  alunos  em 
+participar  de  aulas  que  utilizem  jogos  digitais  como  ferramenta  de  apoio  à 
+aprendizagem,  da  mesma  forma  há  pesquisas  como  a  de  de  Oliveira  [2014]  e  Ribeiro 
+Junior  [2018]  que  demonstram  que  os  jogos  tradicionais  ainda  possuem  uma 
+contribuição  para  o  pensamento  lógico.  Sendo  assim,  para  que  não  se  percam  os 
+benefícios  do  jogo  físico,  propõe-se  essa  transformação,  pois  conforme  pode  ser  visto 
+em de Santana e dos Santos [2018], através da comparação da aplicação de um jogo em 
+sua forma  tradicional (sem  aparatos digitais)  e sua  forma digital, fica claro que há um 
+maior  engajamento  por  parte  dos  estudantes  de  hoje  quando  o  jogo  encontra-se  em 
+formato digital. 
+
+3. Metodologia 
+
+Com  o  objetivo  de  analisar  as  contribuições  da  versão  digital  de  um  jogo  educacional 
+sobre as operações básicas de Matemática, foi desenvolvida uma versão digital do jogo 
+Cubra Doze, que foi então avaliada com estudantes, conforme a metodologia descrita a 
+seguir. 
+
+3.1. Transformação do jogo Cubra Doze para formato digital 
+
+A transformação de um jogo tradicional (físico) para sua versão digital, que dos Santos 
+[2018]  chama  de  “virtualização”,  consiste  em  preservar  os  conceitos  educacionais  do 
+jogo  e  combiná-los  com  elementos  de  design  de  interação,  a  fim  de  aumentar  o 
+engajamento por parte dos jovens e favorecer a  aprendizagem. O jogo Cubra Doze foi 
+escolhido  após  um  levantamento  bibliográfico  de  jogos  matemáticos  de  tabuleiro 
+existentes  e  que  ainda  não  possuíam  uma  versão  digital,  e  devido  à  possibilidade  de 
+trabalhar com questões primordiais para alunos tanto do Ensino Fundamental quanto do 
+Ensino  Médio,  como:  conteúdos  matemáticos  envolvendo  as  quatro  operações 
+aritméticas, cálculo mental, atenção, agilidade de raciocínio, além de desenvolvimento 
+cognitivo, afetivo e emocional. Em entrevista informal com o professor de Matemática 
+parceiro da pesquisa, foi possível constatar que a sua turma de 1o ano do Ensino Médio 
+possui dificuldades em trabalhar os conteúdos mais elaborados e indicados para seu ano 
+letivo, por conta de deficiências no conhecimento básico. 
+
+ 
+O  jogo  original  consiste  em  um  tabuleiro  com  enumerações  de  um  a  doze  em 
+suas  laterais,  além  de  dois  dados  e  vinte  e  quatro  marcadores.  Ao  lançar  os  dados,  é 
+
+ 
+
+necessário  realizar  operações  matemáticas  com  os  números  sorteados,  e  marcar  o 
+resultado  em  um  dos  doze  números  do  tabuleiro.  Vence  o  jogador  que  preencher 
+primeiro  todos  os  números  do  seu  lado  do  tabuleiro.  Visando  aumentar  o  grau  de 
+dificuldade  do  jogo  e  a  possibilidade  de  se  trabalhar  com  o  conteúdo  de  ordem  das 
+operações,  foi  adicionado  na  versão  digital  mais  um  dado  (totalizando  três),  fazendo 
+com que as operações tenham que ser feitas com os três números que forem sorteados, e 
+respeitando  a  regra  de  ordem  das  operações  (desconsiderando  a  existência  de 
+parênteses), ou seja: as operações de multiplicação e divisão não podiam ser feitas antes 
+das  operações  de  soma  e  subtração.  Um  temporizador  de  60  segundos,  com  efeito 
+sonoro,  também  foi  adicionado  a  cada  rodada.  A  validação  das  ações  dos  jogadores  é 
+feita  pelo  jogo  e  exibida  na  tela  de  acordo  com  os  seguintes  casos:  o  jogador  errou  o 
+resultado da operação (o jogo informa o resultado correto); o jogador errou a ordem das 
+operações  (o  jogo  indica  que  é  necessário  realizar  as  operações  na  ordem  correta);  o 
+jogador  tentou  preencher  um  campo  do  tabuleiro  que  já  estava  preenchido  (o  jogo 
+notifica);  e  o  jogador  acertou  a  operação  (nesse  caso  o  campo  correspondente  ao 
+resultado é preenchido). 
+
+ 
+
+O jogo digital foi dividido em: 
+
+•  Tela de introdução: onde é possível visualizar a explicação do objetivo e regras 
+do  jogo,  através  de  um  avatar,  além  de  conter  um  componente  sonoro  de 
+inicialização de jogo. 
+
+•  Tela  de  criação  de  partida:  onde  criam-se  nomes  para  as  equipes,  e  de  forma 
+
+randômica o jogo decidirá quem vai iniciar com a vez de jogo. 
+
+•  Tela de início de partida: apresenta os 24 campos do tabuleiro, separados de 1 a 
+12 em dois lados, bem como a informação de qual equipe iniciará a partida e o 
+botão de “sortear números” (Figura 1). 
+
+•  Tela de resposta: onde são exibidos os três números gerados randomicamente, e 
+há  componentes  de  interface  para  que  o  jogador  selecione  os  números  e  os 
+operadores (montando a operação que deseja efetuar). Para esse preenchimento, 
+o  usuário  utiliza  um  componente  de  escolha1  que  disponibiliza  as  opções 
+possíveis (ou seja, os números sorteados, ou as operações matemáticas). Já para 
+o  preenchimento  do  resultado  da  operação,  é  utilizado  um  componente  para 
+preenchimento manual do valor2 através do teclado. Nesta tela é possível “Pular 
+a  vez“  ou  “Responder”  e  há  um  temporizador  visual  (no  canto  superior 
+esquerdo), complementado com um som de “tique taque” de relógio, indicando 
+o tempo restante para montar a operação (Figura 2). 
+
+•  Tela de vitória:  a  equipe ou o  jogador que  completar os doze campos primeiro 
+vence o jogo, e é exibida uma tela de vitória com um efeito sonoro e a opção de 
+“Jogar novamente” ou “Sair”. 
+
+ 
+
+1 Este componente permite disponibilizar uma ou mais opções em um menu para que o usuário selecione 
+o elemento desejado. 
+
+2 Componente utilizado para receber dados do usuário. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Figura 1. Tela de Início 
+
+ 
+
+ 
+
+Figura 2. Tela de Resposta 
+
+ 
+O jogo inicialmente foi projetado para dispositivos móveis, no entanto precisou 
+ser  adaptado  para  execução  via  navegador  web,  para  utilização  dos  computadores  do 
+tipo  netbook,  disponibilizados  pela  escola  participante.  Antes  da  aplicação  foram 
+realizados  a  configuração  e  testes  do  jogo  em  todos  os  netbooks  disponibilizados  de 
+forma individual visando validar o seu funcionamento e a conexão com a internet. 
+
+3.2. Aplicação do Jogo 
+
+Os  participantes  da  pesquisa  foram  alunos  do  1º  ano  do  Ensino  Médio  de  uma  escola 
+técnica estadual. Ao todo participaram 32 (trinta e dois) alunos, sendo 13 participantes 
+do  sexo  feminino  e  19  participantes  do  sexo  masculino,  com  idades  variando  entre  14 
+(quatorze)  e  17  (dezessete)  anos.  O  professor  de  Matemática  da  turma  participou  do 
+experimento  auxiliando  na  concepção,  aplicação  e  observação  da  pesquisa.  O  estudo 
+ocorreu em dois encontros, dando um total de 3 horas e 30 minutos. 
+
+ 
+No primeiro encontro com a turma, foram apresentados o contexto do trabalho e 
+o  objetivo  da  pesquisa,  e  foi  explicado  aos  alunos  quais  conteúdos  matemáticos  eram 
+
+ 
+
+possíveis  de  serem  trabalhados  com  a  utilização  do  jogo  Cubra  Doze.  Para  um  maior 
+esclarecimento,  o  jogo  foi  demonstrado  em  seu  formato  físico  de  tabuleiro,  que  foi 
+jogado  com  o  professor  da  turma  para  que  os  alunos  compreendessem  as  regras  e 
+objetivo. Após essa breve demonstração a turma foi dividida em grupos, postos a jogar 
+entre  si  a  versão  digital,  nos  netbooks.  Não  foi  dada  nenhuma  instrução  aos 
+participantes  sobre  o  funcionamento  do  jogo  no  dispositivo,  com  o  intuito  de 
+analisar aspectos  de  Interação  Humano-Computador  relacionados  a  usabilidade. 
+Neste primeiro dia, a turma foi dividida em 12 equipes, sendo 10 delas compostas por 3 
+alunos  cada,  1  composta  por  2  alunos  e  1  composta  por  1  aluno.  Os  alunos  também 
+responderam  a  um  questionário  semiestruturado  composto  por  perguntas  abertas  e 
+fechadas com o intuito de identificar seu perfil, com questões como idade, sexo, aptidão 
+em Matemática e opinião quanto ao uso de materiais extras em sala de aula. O foco da 
+primeira  aplicação  do  jogo  foi na  observação  do  desempenho  e  interação  dos  alunos 
+com o jogo, anotando as observações em um diário de campo. Para esta primeira etapa 
+teve-se  a  participação  5  voluntários  para  o  registro  de  dados:  a  pesquisadora,  a 
+professora  orientadora  da  pesquisa,  o  professor  de  Matemática,  e  duas  monitoras  da 
+feedback  dos 
+turma.  Todos realizaram observações  e  anotações  acerca  do 
+alunos, problemas  de  interação  com  o  jogo  e  melhorias  sugeridas  pelos  alunos 
+participantes. 
+
+No segundo encontro, a turma tornou a ser dividida e foi criado um campeonato 
+ 
+onde  as  equipes  jogavam  entre  si,  através  de  chaveamentos,  até  chegar  numa  equipe 
+vencedora.  A  mediação  e  observações  de  campo  foram  realizadas  pela  pesquisadora, 
+professora  orientadora,  e  professor  de  Matemática.  Após  aplicação  do  jogo,  foi 
+distribuído para os alunos da turma um questionário baseado no modelo de avaliação de 
+jogos  educacionais  proposto  por  Savi  et  al.  [2010],  que  é  direcionado  a  jogos  com 
+objetivos  educacionais  bem  definidos  e  que  sirvam  de  material  de  ensino  para 
+professores. O questionário proposto pretende avaliar se o jogo (i) consegue motivar os 
+estudantes a utilizarem o recurso como material de aprendizagem; (ii) proporciona uma 
+boa experiência aos usuários; e (iii) gera uma percepção de utilidade educacional entre 
+seus usuários (ou seja, se os alunos acham que estão aprendendo com o jogo) (Savi et al. 
+(2010), p.2).   
+
+4. Resultados e Discussões 
+
+Pudemos  verificar  com  as  informações  obtidas  através  do  questionário  inicial 
+aplicado, que  apenas  6%  dos  participantes  estão  fora  da  faixa  etária  adequada  para 
+alunos  do  1º  ano  do  Ensino  Médio,  além  de  identificar  que  boa  parte  da  turma 
+(72,7%) tem  dificuldades  com  a  disciplina  de  Matemática,  mesmo  mais  da  metade  da 
+turma  (66,7%)  informando  que  gosta ou  acha interessante  a  disciplina.  Foi  possível 
+notar  também  que  mais  da  metade  da  turma  (57,6%)  já  fez  uso  de  materiais  de  apoio 
+lúdicos como jogos e videoaulas, para complementar seu aprendizado.  
+
+4.1. Análise de Aspectos de Interação Humano-Computador 
+
+Com base nas observações qualitativas registradas em diário de campo, percebe-se que 
+os estudantes conseguiram interagir bem com o jogo, visto que não houve dificuldades 
+impeditivas  em termos de design de interação para  concluir o  jogo. Entretanto,  alguns 
+aspectos de melhoria foram identificados. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Foi  verificado  quanto  à  questão  de  usabilidade  do  jogo  que  os  participantes 
+tentavam  inicialmente  (e  repetidas  vezes)  tocar  com  a  caneta  touch  nos  números 
+sorteados  e  arrastá-los  para  os  campos  de  entrada das  operações,  ficando  surpresos 
+diante  da  impossibilidade  de  executar  a  ação.  Boa  parte  das  equipes  demonstrou 
+dificuldade  em  entender  como  deveriam  ser  preenchidos  os  números  sorteados  e  as 
+operações  a  serem  realizadas  na  tela  de  Resposta,  mas  após  algumas  repetições  neste 
+formato  de  utilização  (selecionando  dentre  as  opções,  por  meio  do  pequeno  menu  no 
+próprio  componente  de  entrada),  os  participantes  começaram  a  interagir  mais  rápido. 
+Ainda assim, percebeu-se que a forma de  interação  ideal para o público-alvo seria por 
+tocar e arrastar os elementos. 
+
+ 
+Outro problema identificado foi em relação à posição dos números no tabuleiro 
+virtual. Na tela inicial, cada time possui uma cor específica e uma posição na tela (Time 
+1  na borda  superior  e  Time  2  na borda  inferior),  conforme  pode  ser  visto  na  Figura  1, 
+com  os  respectivos  campos  de  números  de  1  a  12. No  entanto,  na  tela  de  resposta,  a 
+disposição  da  interface  muda,  e  o  conjunto  de números fica sempre  na  borda  superior, 
+independentemente  do  time.  Embora  a  tela  de  resposta  tenha  sido  pensada  da  forma 
+mais conveniente para o time que está na vez, a alternância da disposição dos elementos 
+na tela quebra o princípio de consistência e gerou certa confusão para os usuários sobre 
+de quem era a vez realmente (Figura 2). 
+
+Por  fim,  a  inclusão  do  tempo  de  resposta  para  cada  equipe  funcionou 
+ 
+especialmente bem como um fator motivacional, e a sonorização em algumas etapas do 
+jogo foi vista como agradável, tendo uma observação por parte de um participante que 
+relatou que “a música deveria estar presente durante todo o jogo”. 
+
+4.2. Análise do Engajamento 
+
+Com base nas observações qualitativas registradas em diário de campo, de forma geral a 
+turma  aparentou  um  grande  engajamento,  conforme  os  seguintes  indícios. Após  a 
+primeira rodada do primeiro encontro, todos quiseram jogar novamente e todos optaram 
+por manter os grupos e desafiar as mesmas equipes como uma “revanche”. Na segunda 
+rodada  do  jogo  foi  notório  que  os  alunos  estavam  mais  concentrados  e  já  haviam 
+escolhido  uma  estratégia  para  seguir,  refletindo  também  nos  momentos  de  efusão 
+(alguns gritos, palmas e risos) que diminuíram. No segundo encontro, houve grupos que 
+foram eliminados da competição, mas quiseram continuar jogando entre si, mesmo não 
+fazendo mais parte da competição geral. Nenhum estudante se recusou a jogar ou quis 
+abandonar as partidas. 
+
+ 
+Pudemos  observar  que  o  formato  de  tela  do  netbook  na  vertical  gerava  certa 
+distração por parte da equipe que não estava com a vez, já que a tela estava virada para 
+a equipe adversária e não  tinha como acompanhar  de forma fácil a vez do outro time. 
+Esse formato da tela também gerou certa desconfiança na ação do time adversário e foi 
+possível  perceber  também,  em  alguns  grupos,  que  enquanto  estava  na  vez  do  time 
+oponente,  o  time  que  aguardava  ficava  tentando  distraí-los  para  que  perdessem  a  vez 
+devido a tempo esgotado. 
+
+ 
+Ao  chegar  perto  do  fim  da  execução  das  atividades,  pôde-se  notar  que  alguns 
+participantes se distraíam em conversas ou com o uso de celular, pois como a equipe foi 
+formada por 3 integrantes, acabou predominando um jogador como “líder”, na maioria 
+dos casos. Ainda assim, praticamente todos os integrantes do grupo interagiam durante a 
+
+ 
+
+atividade  e  opinavam  quanto  à  melhor  estratégia  para  se  preencher  os  valores.  Foi 
+possível identificar que houve uma colaboração positiva por parte das equipes, onde os 
+grupos  discutiam  possíveis  soluções  e  estratégias  para  conseguir  marcar  mais  um 
+resultado. Houve casos  em  que  os  participantes  pensavam  em  operações  em  ordens 
+diferentes mas que davam o mesmo resultado e durante discussão acabaram perdendo a 
+vez devido ao tempo. 
+
+ 
+Foi possível perceber que boa parte das equipes  utilizava predominantemente a 
+operação de soma, e somente perto do fim do jogo, quando as opções de campos para se 
+preencher haviam diminuído, utilizavam mais as outras operações. Na segunda rodada, 
+quando  os  participantes  estavam  familiarizados  com  o  jogo,  foi  possível  perceber  que 
+tentavam preencher os números “mais difíceis” de serem encontrados, então começaram 
+a  utilizar  de  estratégias  com  o  uso  de  todas  as  operações.  Constatamos  que  os  alunos 
+erraram poucas vezes os resultados das operações e não tiveram dificuldade em seguir a 
+regra  da  ordem  das  operações. No  entanto,  a  predominância  do  uso  da  soma  foi  um 
+ponto  a  ser  estudado  no  sentido  de  achar  uma  forma  de  estimular  os  estudantes  a 
+buscarem outras soluções, para que assim exercitem mais o raciocínio matemático. 
+
+4.3. Análise do Questionário de Avaliação de Jogos Educacionais 
+
+À medida em que os participantes finalizavam as atividades do jogo, foi distribuído um 
+questionário de afirmações, para indicarem se concordam ou não, baseado no modelo de 
+avaliação de jogos educacionais proposto por Savi et al. (2010) e que pretende avaliar se 
+o jogo consegue motivar os estudantes a utilizá-lo como material de apoio ao ensino, se 
+os estudantes sentem que estão aprendendo com ele e se proporciona  uma experiência 
+válida. 
+
+ 
+Os resultados obtidos com a aplicação do questionário permitiram perceber que 
+o  design  simples  e  direto  fez  com  que  o  entendimento  do  jogo  fosse  satisfatório,  bem 
+como a clareza dos objetivos educacionais ligados a ele. O entendimento por parte dos 
+jogadores quanto ao conteúdo educacional ligado ao jogo foi um fator que motivou os 
+alunos, que pode ser visto na afirmação “O conteúdo do jogo será útil para mim” onde 
+93,8% concordaram além de 96,9% afirmarem que o conteúdo  do  jogo  está  relacionado 
+com  coisas  que  já  sabia”.  Podemos  destacar  também  que  87,1%  dos  participantes 
+afirmaram  que  o 
+jogo  permite  contribuições  para  compreensão  dos  assuntos 
+matemáticos  atrelados,  além  de  afirmarem  ser  uma  ferramenta  motivadora  e  que  gera 
+satisfação ao conseguir atingir seus objetivos. 
+
+ 
+Percebeu-se  ainda  a  partir  das  respostas  do  questionário  que  90%  dos 
+participantes gostou do jogo e o 93,8% o utilizaria novamente. Mesmo que 90,3% dos 
+alunos  afirmarem  que  se  sentiram  estimulados  a  aprender  com  o  jogo,  pudemos 
+constatar que devido ao  jogo ser bastante objetivo e não possuir  novos desafios, como 
+níveis  de  dificuldade,  não  seria  uma  ferramenta  com  um  bom  aproveitamento  a  longo 
+prazo  para  motivação  do  aprendizado.  Isto  pode  ser  visto  através  do  resultado  da 
+afirmação  “Eu  gosto  de  utilizar  este  jogo  por  bastante  tempo”,  da  qual  56,3%  dos 
+participantes discordaram. 
+
+ 
+Ainda referente a experiência do usuário, tivemos como resultado que 90% dos 
+alunos se sentiram estimulados a aprender com o jogo e se sentiram bem-sucedidos no 
+decorrer do desafio. O sentimento de colaboração também é um ponto a ser destacado, 
+
+ 
+
+ 
+
+pois  96,9%  dos  participantes  concordaram  com  as  afirmações  “senti  que  estava 
+colaborando com outros colegas” e “a colaboração no jogo ajuda a aprendizagem”.  
+
+ 
+Em  relação  ao  sentimento  de  aquisição  de  conhecimento,  90,3%  dos 
+participantes concordaram com  a afirmação “Depois do jogo sinto que consigo aplicar 
+melhor os temas relacionados com o jogo”, o que evidencia o benefício de se utilizar de 
+objetos digitais para apoio da aprendizagem. 
+
+ 
+Apesar  de  ser  um  jogo  inicialmente  projetado para  dois  jogadores,  percebe-se 
+que  foi  possível  e  proveitoso,  do  ponto  de  vista  de  engajamento  e  aprendizagem 
+colaborativa, propor as partidas em equipes. Esses resultados confirmam as observações 
+realizadas pelos pesquisadores, quando destacam a interação nos momentos em que era 
+necessário elaborar uma expressão matemática mais complicada que conseguisse como 
+resultado  o  valor  a  ser  preenchido.  Apesar  dessa  interação  não  ocorrer  durante  todo  o 
+momento do jogo, todas as observações apontaram que havia um diálogo no grupo para 
+planejamento da operação ou explicação da expressão proposta. 
+
+5. Conclusão 
+
+A  utilização  de  jogos  digitais  voltados  à educação  tem  sido,  cada  vez  mais,  alvo  de 
+pesquisa enquanto ferramenta para auxílio do processo de ensino-aprendizagem. Dessa 
+forma,  e  com  todos  os  benefícios  encontrados  por  experimentos  em  trabalhos 
+relacionados, faz-se necessário que a escola (como um todo) faça uso dessas tecnologias 
+para  promover  não  só  a  formação  do  conhecimento,  mas  também  propiciar  ao  aluno 
+experiências com trabalho em equipe e autonomia, de uma forma lúdica. 
+
+O principal intuito da presente pesquisa foi a análise da experiência de jovens ao 
+ 
+interagir  com  um  jogo  digital  para  aprendizagem  de  Matemática.  Para  isso  foi 
+desenvolvida  a  versão  digital  do  jogo  matemático  Cubra  Doze,  que  foi  aplicada  em 
+ambiente  escolar.  Os  dados  foram  coletados  por  meio  de  observações  de  campo  e 
+questionários. 
+
+ 
+Os  resultados  confirmam o  interesse  e  entusiasmo  dos  jovens  na  utilização  de 
+atividades  lúdicas  digitais  atreladas  a conteúdos  matemáticos.  Além  de  ter  ficado 
+evidente  que  o  jogo  despertou  um  grau  considerável  de  engajamento  nos  alunos,  é 
+importante  ressaltar  as  vantagens  que  o  jogo  digital  traz  em  comparação  a  sua  versão 
+física: a possibilidade de feedback imediato, amenizando assim a necessidade constante 
+de  um  educador,  que  nem  sempre  é  viável  dada  a  grande  quantidade  de  alunos  por 
+turma; e  a  possibilidade  de  ter  um  material  disponível  e  validado,  e  que  pode  ser 
+facilmente modificado para incorporar novos aspectos motivadores, como foi o caso do 
+temporizador  em  cada  jogada. Os  resultados  obtidos  confirmam  que  a  abordagem  de 
+tem  grande  potencial  merece  atenção  de 
+virtualização  de 
+pesquisadores. 
+
+tradicionais 
+
+jogos 
+
+ 
+Como  trabalhos  futuros,  seria  interessante a  aplicação  do  jogo  em  turmas  de 
+diferentes  anos  letivos,  visando  identificar  os  benefícios  de  acordo  com  cada  nível 
+escolar, comparando o engajamento, além de uma avaliação mais longitudinal, em que o 
+jogo estivesse integrado ao planejamento didático do professor. 
+
+ 
+ 
+
+ 
+
+ 
+
+Referências 
+
+Batista,  E.  J.  S.,  Mioto,  J.,  Bogarim,  C.  A.  C.,  Lima,  A.,  e  Araujo,  Q.  (2017).  As 
+
+Aventuras de Calculino: jogo para ensino de raciocínio lógico. 
+
+Brom,  C.,  Preuss,  M.,  e  Klement,  D.  (2011).  Are  educational  computer  micro-games 
+engaging  and  effective  for  knowledge  acquisition  at  high-schools?  A  quase-
+experimental study. 
+
+da  Silva,  K.  e  Costa,  M.  (2017).  JOGOS  DIGITAIS  NA  ESCOLA:  a  utilização  como 
+
+objetos de aprendizagem no ensino da matemática. 
+
+da  Silva  Neto,  S.  R.,  Santos,  H.  R.  M.,  de  Souza,  A.  A.,  e  dos  Santos,  W.  O.  (2013). 
+
+Jogos Educacionais como Ferramenta de Auxílio em Sala de Aula. 
+
+de  Oliveira,  R.  G.  (2014).  A  aplicação  do  jogo  Sudoku  no  ensino  médio  como 
+
+ferramenta para auxiliar o discente a pensar e refletir. 
+
+de  Santana,  S.  J.  e  dos  Santos,  W.  O.  (2018).  Jogos  Educativos  no  Ensino  de 
+
+Matemática: Qual a Melhor Abordagem? 
+
+dos  Santos,  W.  O.  (2018).  EGV:  A  Methodology  Proposal  to  Educational  Games 
+
+Virtualization. 
+
+dos  Santos,  W.  O.  e  da  Silva  Junior,  C.  G.  (2014).  Uso  de  Jogos  no  ensino  da 
+Matemática: Uma análise entre os jogos tradicionais e os jogos digitais, baseada em 
+pesquisa e mapeamento dos materiais encontrados na Web. 
+
+dos  Santos,  W.  O.,  da  S.  Neto,  S.  R.,  e  da  Silva  Junior,  C.  G.  (2015).  Processo  de 
+Virtualização de Jogos para Uso como Mecanismo de Apoio ao Processo de Ensino e 
+Aprendizagem da Disciplina de Matemática. 
+
+Felicia, P. (2009). Digital games in schools: Handbook for teachers. 
+
+Kafai,  Y.  B.  (1995).  Minds  in  Play:  Computer  Game  Design  As  A  Context  for 
+
+Children’s Learning. 
+
+Ribeiro Junior, O. A. (2018). Desenvolvimento do Raciocínio Lógico por Meio do Jogo 
+
+de Sudoku: Um estudo no 1º ano do Ensino Médio do IFTO – Campus Paraíso. 
+
+Rosa, M. (2004). Role Playing Game Eletrônico: uma tecnologia lúdica para aprender e 
+
+ensinar Matemática. Pós-graduação em educação matemática. 
+
+Santos, W. O., Silva Neto, S. R., e Silva Junior, C. G. (2013). Uso de Games no ensino 
+da Matemática. Uma proposta de virtualização dos jogos tradicionais, para uso como 
+mecanismo de apoio ao processo de ensino e aprendizagem. 
+
+Savi,  R.,  von  Wangenheim,  C.  G.,  Ulbricht,  V.,  e  Vanzin,  T.  (2010).  Proposta  de  um 
+
+Modelo de Avaliação de Jogos Educacionais. 
+
+ 
+
+ 
+
+

@@ -1,0 +1,629 @@
+Desafios da Gestão de uma Creche no Uso Pedagógico das 
+TDIC e Alinhamento com a BNCC 
+
+ 
+
+¹Amanda Caroline Marques da Cunha, ¹Flávia Luiza de Lira 
+
+¹Programa de Pós Graduação em Educação Matemática e Tecnológica - EDUMATEC - 
+Universidade Federal de Pernambuco (UFPE) Caixa Postal 7851. 50732-970 Recife, PE 
+– Brasil 
+
+amandaline.f@gmail.com, prof.flavialuiza@gmail.com 
+
+Abstract.  The  study  aims  to  analyze  the  strategies  and  proposals  for  teacher 
+education  adopted  by  the  management  of  a  day  care  center,  in  view  of  the 
+pedagogical use of ICT in order to meet what is proposed in  the  BNCC. The 
+methodological  course  has  a  qualitative  character,  where  we  use  some  of 
+elements of discourse analysis. For this we conducted an interview, in which we 
+analyzed in the discourse of professionals the level of knowledge of their duties 
+and alignment with the BNCC. The results reveal an active management body 
+that seeks to meet the wishes of the school community in the construction and 
+conduct  of  the  PPP,  but  there  is  a  gap  in  the  development  of  strategies  and 
+articulation with the teachers. 
+
+Resumo.  O  estudo  tem  por  objetivo  analisar  as  estratégias  e  propostas  de 
+formação  docente  adotadas  pela  gestão  de  uma  creche,  frente  ao  uso 
+pedagógico  das  TDIC  de  modo  a  atender  o  que  está  proposto  na  BNCC.  O 
+percurso metodológico possui um caráter qualitativo, onde nos utilizamos de 
+alguns  de  elementos  da  análise  de  discurso.  Para  isto  realizamos  uma 
+entrevista,  na  qual  analisamos  no  discurso  das  profissionais  o  nível  de 
+conhecimento das suas atribuições e o alinhamento com a BNCC. Os resultados 
+revelam um corpo gestor atuante, que busca atender os anseios da comunidade 
+escolar  na  construção  e  condução  do  PPP,  porém  há  uma  lacuna  no 
+desenvolvimento de estratégias e articulação com os docentes. 
+
+1. Introdução 
+
+A educação em seus diversos níveis de ensino no que corresponde a gestão, atravessou 
+décadas livre de questionamentos sobre sua forma de funcionamento, na qual os aspectos 
+da gestão estavam pautados na administração. O gestor e o coordenador eram vistos como 
+uma autarquia.   Ao passar dos anos as questões de  concentração de poder nessas duas 
+figuras foram sendo questionadas, e começou a ser pensada uma perspectiva humanista 
+destes cargos.  
+
+As discussões a respeito da descentralização do poder começaram a ganhar força, 
+ 
+fazendo-se  necessário  lançar  um  olhar  para  a  gestão  levando  em  consideração  as 
+peculiaridades correspondentes ao âmbito escolar, pois o que está em jogo é a formação 
+cognitiva, emocional, afetiva e social dos estudantes.  
+
+ 
+Tendo  em  vista  a  importância  da  Educação  Infantil  para  o  desenvolvimento 
+integral  da  criança,  é  indispensável  levar  em  consideração  no  processo  de  ensino  e 
+
+ 
+
+aprendizagem o meio social no qual o educando está inserido, pois as crianças estão  a 
+todo momento propondo desafios para o contexto educacional, no qual a gestão escolar 
+deve desenvolver estratégias de  mobilização da sua equipe pedagógica para atender  as 
+demandas do novo contexto educacional. 
+
+ 
+No  presente  artigo  objetivamos  analisar  as  estratégias  e  propostas  de  formação 
+docente adotadas pela gestão de uma creche situada no Recife, frente ao uso pedagógico 
+das Tecnologias Digitais da Informação e Comunicação (TDIC) de modo a atender o que 
+está  proposto  na  Base  Nacional  Comum  Curricular  (BNCC)  que  é  um  documento  de 
+caráter  normativo  que  define  o  conjunto  orgânico  e  progressivo  de  aprendizagens 
+1essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades 
+da Educação Básica, bem como conhecer as dificuldades enfrentadas.  
+
+ 
+Além  dessa  introdução  o  estudo  apresenta  uma  discussão  sobre  as  TDIC  e  as 
+atribuições  do  gestor  e  do  coordenador  pedagógico,  em  seguida  discorremos  sobre  as 
+contribuições  da  BNCC  para  a  gestão  escolar.  Na  sequência  apresentamos  nossa 
+metodologia, os resultados da pesquisa e nossas considerações finais. 
+
+2. As TDIC e as Atribuições do Gestor e do Coordenador Pedagógico 
+
+Para  entendermos  a  importância  do  coordenador  pedagógico  é  de  suma  importância 
+compreender as suas atribuições dentro do contexto escolar.  Encontramos na literatura 
+subsídio para uma melhor compreensão das atribuições do mesmo. Para Cunha (2006) o 
+coordenador  pedagógico  é  o  principal  mediador  para  que  as  ações  de  formação 
+continuada aconteçam, tendo essas ações consequências direta na prática dos docentes.  
+
+Libâneo  (2003)  aponta  que  este  profissional  responde  pela  viabilização, 
+integração  e  articulação  do  trabalho  didático-pedagógico  com  foco  na  qualidade  de 
+ensino.  Sendo  assim,  as  atribuições  do  coordenador  pedagógico  estão  diretamente 
+relacionadas a excussão de uma prática pedagógica eficiente por parte dos docentes, com 
+a realização de um planejamento da rotina de formação continuada significativa.  
+
+Compreendemos que são inúmeras as demandas de um coordenador pedagógico, 
+todavia é de suma importância que o mesmo zele pela sua própria formação profissional, 
+pois assim estará habilitado para prestar formação continuada aos docentes, bem como 
+administrar conflitos que podem surgir no contexto  escolar. Sendo indispensável a sua 
+participação em palestras, seminários, congressos, encontros pedagógicos, capacitações, 
+cursos e outros eventos da área educacional. 
+
+No  que  diz  respeito  à  utilização  das  TDIC  é  de  suma  importância  que  o 
+coordenador  pedagógico  esteja  preparado  para  acompanhar  e  orientar  a  utilização  dos 
+mesmos de modo significativo ao processo de ensino e aprendizagem, apresentando ao 
+seu grupo de docentes, estratégias para a utilização dos recursos tecnológicos de modo 
+pedagógico.  
+
+Já no que corresponde a gestão, segundo Ferreira e Aguiar (2006), tal palavra vem 
+do latim gestãoônis, que significa ato de gerir, gerenciar, administrar. Portanto gestão é 
+administração, é tomada de decisão, é organização, é direção.  
+
+Na perspectiva da gestão democrática, gerir é uma atividade coletiva que tem o 
+seu ponto de partida no contexto sócio histórico e cultural que a instituição está inserida 
+
+ 
+
+1 O presente artigo é um fragmento de um Trabalho de Conclusão de Curso de Pós Graduação em Gestão 
+e Coordenação Escolar, aprovado no dia 16 de Julho de 2019. Sob orientação do professor Bruno Marones, 
+Mestre em Educação - UFPE.  
+
+ 
+
+na  qual  todos  decidem  quais  são  as  prioridades  e  quais  ações  faz-se  necessário  para 
+alcançar os objetivos almejados. Sendo assim, quanto às atribuições do gestor escolar, 
+cabe a este  adotar uma postura democrática sabendo ouvir e gerir as demandas da sua 
+equipe  de  trabalho,  bem  como  ser  o  agente  responsável  por  mudanças  no  ambiente 
+escolar. Segundo Libânio:   
+
+Constituem, pois, desafios a competências de diretores, coordenadores 
+pedagógicos  e  professores:  saber  gerir  e,  frequentemente  conciliar 
+interesses  pessoais  e  coletivos,  peculiares,  culturais  e  exigências 
+universais  da  convivência  humana;  preocupando-se  com  as  relações 
+humanas e com os objetivos pedagógicos e sociais a atingir, estabelecer 
+formas  participativas  e  a  eficiência  em  processos  administrativos. 
+LIBÂNIO (2003, p.323).   
+
+Também  se  faz  necessário  que  estes  profissionais  estejam  conectados  com  as 
+novas  demandas  educacionais,  pois  segundo  Lemos  (2005),  as  novas  tecnologias  da 
+informação e comunicação nos colocam em meio a uma cultura da conexão generalizada, 
+engendrando novas formas de mobilidade social e de apropriação do espaço urbano.  
+
+Sendo  assim,  é  preciso  entender  que  a  educação  não  é  uma  área  inerte,  as 
+transformações ocorrem à medida que nosso foco (o estudante) muda, e a forma na qual 
+ele aprende está em constante processo de mudança, uma vez que os mesmos estão a todo 
+tempo sendo “bombardeado” pelos meios de comunicação.   
+
+Cabendo ao gestor gerenciar o ambiente escolar com responsabilidade, motivação 
+e buscando sempre inovar em sua gestão, objetivando engajar a sua equipe de trabalho 
+visando a qualidade do ensino e o bem-estar de todos. 
+
+3.  Base  Nacional  Comum  Curricular  e  suas  Contribuições  para  a  Gestão 
+Escolar 
+
+A Base Nacional Comum Curricular, possui o objetivo de promover o desenvolvimento 
+integral dos estudantes, assegurando a todos os cidadãos brasileiros o acesso à educação 
+de  qualidade,  alinhadas  às  demandas  educacionais  do  século  XXI.  É  responsável  por 
+garantir a oferta da educação infantil e do ensino fundamental a rede municipal de ensino, 
+segundo a Lei de Diretrizes e Base da Educação (LDB), pois sua tarefa encontra-se na 
+manutenção e no desenvolvimento das instituições educacionais.  
+
+Todas as demandas contidas nos documentos oficiais requerem da gestão escolar 
+um alinhamento com o que está sendo pedido, exigindo dos profissionais clareza, acerca 
+da diferença entre competência e habilidade, pois o trabalho do gestor e principalmente 
+do coordenador pedagógico atinge diretamente o fazer docente, que consequentemente 
+implica no processo de ensino e aprendizagem. Competência para a BNCC caracteriza-
+se  pela  mobilização  de  conhecimento,  enquanto  Habilidades  corresponde  a  atitudes  e 
+valores para a resolução de problemas complexos do dia-a-dia.  
+
+No  que  diz  respeito  a  Educação  Infantil,  vem  sendo  realizado  um  trabalho  que 
+interliga o educar e o cuidar numa perspectiva indissociável, na qual a gestão das escolas 
+e  creches  das  redes  municipais  de  ensino,  em  seu  trabalho  articula  a  sua  proposta 
+pedagógica com o objetivo de expandir os conhecimentos e as habilidades das crianças, 
+por meio da garantia de seis direitos de aprendizagem e desenvolvimento. De acordo com 
+a  BNCC  (2018),  tais  direitos  se  concretizam  nas  seguintes  ações  -  conviver,  brincar, 
+participar, explorar, expressar-se e conhecer-se, tendo por objetivo a educação integral 
+das crianças.  
+
+ 
+
+Na Educação Infantil, as aprendizagens essenciais compreendem tanto 
+comportamentos,  habilidades  e  conhecimentos  quanto  vivências  que 
+promovem aprendizagem e desenvolvimento nos diversos campos de 
+experiências, sempre tomando as interações e a brincadeira como eixos 
+estruturantes.  Essas  aprendizagens,  portanto,  constituem-se  como 
+objetivos de aprendizagem e desenvolvimento. (BRASIL, 2018, p. 44).  
+
+Dentro  da  proposta  da  Base  Nacional  Comum  Curricular,  podemos  notar  o 
+deslocamento do papel da criança e do professor, pois a Base propõe que o estudante seja 
+retirado do papel de receptor passivo do conhecimento, colocando-o como protagonista 
+da  sua  aprendizagem,  e  retirando  o  professor  do  local  de  detentor  do  conhecimento 
+pondo-o como mediador/facilitador do mesmo.   
+
+Esta concepção de ensino propõe a gestão das creches e escolas, repensar o seu 
+currículo, bem como demanda aos gestores municipais formação continuada alinhando-
+se às perspectivas pedagógicas contidas nas dez (10) competências gerais da BNCC. Pois 
+a mesma propõe novos desafios a comunidade escolar como por exemplo a competência 
+cinco (5) da base que corresponde a 
+
+Compreender,  utilizar  e  criar  tecnologias  digitais  de  informação  e 
+comunicação  de  forma  crítica,  significativa,  reflexiva  e  ética  nas 
+diversas  práticas  sociais  para  se  comunicar,  acessar  e  disseminar 
+informações,  produzir  conhecimentos,  resolver  problemas  e  exercer 
+protagonismo e autoria na vida pessoal e coletiva (BNCC 2018).  
+
+   Em  suma,  um  dos  impactos  mais  significativos  da  Base  Nacional  Comum 
+Curricular está pautado na forma como a gestão municipal e das instituições de ensino 
+irão  elaborar  o  seu  Projetos  Político  Pedagógico,  mapear  as  estratégias  e  propostas  de 
+formação  continuada  dos  seus  docentes,  de  modo  a  atender  as  novas  concepções  de 
+metodologias de ensino alinhadas ao uso pedagógico das TDIC em sala de aula.    
+
+Tendo  em  vista  que  toda  a  aprendizagem  é  ativa,  bem  como  o  contexto  que 
+envolve a BNCC e seus impactos, é de suma importância se repensar as metodologias de 
+ensino para a Educação Infantil, uma vez que a aprendizagem ocorre quando há interação 
+entre aluno e objeto de conhecimento. 
+
+Quando o aluno interage com o assunto em estudo – ouvindo, falando, 
+perguntando,  discutindo,  fazendo  e  ensinando  –  sendo  estimulado  a 
+construir  o  conhecimento  ao  invés  de  recebê-lo  de  forma  passiva  do 
+professor.  Em  um  ambiente  de  aprendizagem  ativa,  o  professor  atua 
+como orientador, supervisor, facilitador do processo de aprendizagem, 
+e  não  apenas  como  fonte  única  de  informação  e  conhecimento. 
+(BARBOSA; MOURA, 2013, p.55).  
+
+A literatura nos aponta uma série de caminhos que pode ser percorrido pelo corpo 
+gestor  das  instituições  de  ensino  rumo  ao  alinhamento  com  os  documentos  oficiais, 
+partindo da autonomia dos sujeitos envolvidos, bem como o trabalho em equipe na qual 
+possa ser promovido um momento de reflexão e discussão sobre o objeto em estudo.   
+
+Sabemos  que  muitos  são  os  entraves  da  educação  no  que  corresponde  a  uma 
+perspectiva  inovadora,  integrando  pedagogicamente  as  TDIC  no  processo  de  ensino  e 
+aprendizagem, por este motivo é de suma importância  que a gestão e a coordenação das 
+instituições  de  ensino  estejam  alinhadas  com  os  documentos  oficiais,  com  as  novas 
+demandas  educacionais,  e  realizando  continuamente  formações,  na  busca  pelo 
+aperfeiçoamento profissional, visando nortear a educação da melhor forma possível.  
+
+ 
+
+Pois  temos  visto  na  contemporaneidade,  é  o  que  Lemos  (2005),  chama  de 
+desencaixe, que nos permite vivenciar processos globais não enraizados na nossa tradição 
+cultural, na qual as mídias eletrônicas criam assim processos de desterritorialização em 
+níveis  políticos,  econômicos,  social,  cultural  e  subjetivo.  Interferindo  diretamente  na 
+formação da identidade dos sujeitos.   
+
+Tendo  em  vista  tudo  que  foi  discutido,  acreditamos  que  a  formação  do  corpo 
+gestor  das  instituições  de  ensino,  deve  abranger  os  elementos  que  sugere  uma  ação 
+formativa que contemple os conceitos fundamentais da BNCC. Desta forma, acreditamos 
+que a formação impactará diretamente na prática docente, de maneira a munir o professor 
+a  potencializar  a  aprendizagem  dos  estudantes,  situar  sua  prática  na  mediação  e 
+impulsionar a educação para convergir com as demandas educacionais do século XXI. 
+
+4. Procedimento Metodológico  
+
+O presente estudo é de caráter qualitativo e para elaboração do mesmo realizamos uma 
+revisão na literatura sobre o tema abordado, bem como uma entrevista semiestruturada 
+com a gestora e a coordenadora de uma creche situada na Cidade do Recife que atende 
+160 crianças, de zero a cinco anos de idade.   
+
+Nos aproximando de alguns elementos da Análise do Discurso, e esta informação 
+não surge de maneira gratuita, a medida em que reconhecemos o pouco tempo de leitura 
+sobre o assunto, e as nossas limitações conceituais, uma vez que pela primeira vez nos 
+enveredamos  por  este  caminho,  pois  entendemos  que  a  AD  nos  permite  compreender 
+diversos elementos constitutivos da sociedade.  
+
+Para Orlandi (2010), a Análise de Discurso concebe a linguagem como mediação 
+necessária entre o homem e a realidade natural e social. Essa mediação que é o discurso, 
+torna  possível  tanto  a  permanência  e  a  continuidade  quanto  o  deslocamento  e  a 
+transformação do homem e da realidade em que ele vive.   
+
+Sendo  assim,  a  Análise  de  Discurso  objetiva  compreender  como  o  objeto 
+simbólico produz sentido para os indivíduos, levando em consideração as condições de 
+produção que compreende o sujeito e a situação, em sentido expandido as condições de 
+produção correspondem ao contexto social, histórico e ideológico no qual o sujeito está 
+inserido. O discurso ao ser constituído incorpora alguns fatores, que estabelece algumas 
+condições de produção, e um deles é conhecido como relação de sentido, onde segundo 
+essa  concepção  não  existe  discurso  que  não  esteja  relacionado  com  outro,  onde  os 
+sentidos são resultados de relações, no qual um discurso está interligado a outro que lhe 
+dá apoio, bem como realiza apontamentos para dizeres futuros.  
+
+Para  Orlandi  (2010)  todo  o  discurso  é  visto  como  um  estado  de  um  processo 
+discursivo mais amplo, contínuo, não havendo começo absoluto nem ponto final para o 
+discurso, onde um dizer tem sempre relação com outros dizeres realizados, imaginados e 
+possíveis. Estamos vivendo em uma época de novas linguagens, no qual ao se constituir 
+uma política pública observa-se às novas demandas sociais, que são de suma importância 
+na constituição dos documentos oficiais, tendo em vista um ideário de sujeito globalizado, 
+onde estratégias são traçadas para que esse sujeito atinja  o que está sendo proposto e se 
+torne usuário e multiplicador da proposta, deixando de ser assim o sujeito do ideário.     
+
+Para o desenvolvimento da pesquisa realizamos uma entrevista semiestruturada, 
+que foram gravadas, transcritas e analisadas em seguida. As entrevistas continham quatro 
+perguntas para a gestora e coordenadora da  creche, na qual as questionamos sobre:  O 
+
+ 
+
+papel  da  gestão,  as  dificuldades  encontradas,  e  o  que  elas  entendem  como  inovação 
+pedagógica.  
+
+A seguir procedemos com as análises das questões das entrevistas realizadas com 
+
+a gestora e com a coordenadora pedagógica. 
+
+5. Análise e Discussão 
+
+Ao  iniciarmos  a  entrevista  questionamos  a  gestora  e  a  coordenadora  sobre  o  que  elas 
+compreendem  acerca  do  que  está  a  cargo  das  suas  atribuições.  Para  uma  melhor 
+compreensão das respostas elaboramos o seguinte quadro.  
+
+Tabela 1. 
+
+Gestora 
+
+Coordenadora 
+
+No  meu  ponto  de  vista  ser  gestora  é  um 
+trabalho  que  exige  grande  dedicação, 
+habilidades,  criatividade,  pesquisa  e 
+estudo.  Uma  das  principais  tarefas  é 
+conduzir a construção coletiva do Projeto 
+Político Pedagógico na unidade de ensino 
+estando articulado com a BNCC, e exercer 
+também  influência  sobre  a  comunidade 
+escolar,  diagnosticando  e  resolvendo 
+problemas. 
+
+É  a  função  de  articuladora.  Articular  as 
+exigências curriculares com as diferenças 
+de  expectativas  das  famílias  e  até  dos 
+profissionais de sala de aula sem perder o 
+foco no pedagógico. 
+
+  Podemos  perceber  através  da  fala  dos  sujeitos  uma  ligação  com  o  que  fora 
+apresentado  acerca  do  papel  do  gestor  e  do  coordenador  pedagógico,  uma  vez  que  no 
+discurso  de  ambas  notamos  uma  preocupação  em  estar  conectadas  com  as  demandas 
+educacionais contemporâneas, bem como atender o  que fora proposto nos documentos 
+oficiais, se ter uma gestão democrática (colaborativa), e uma coordenação que visa estar 
+constantemente em um movimento de articulação para atender a comunidade escolar.  
+
+Ao  serem  questionadas  sobre  as  dificuldades  enfrentadas  no  exercício  da  sua 
+
+profissão a gestora e a coordenadora pedagógica apontaram que:  
+
+Tabela 2. 
+
+Gestora 
+
+Coordenadora 
+
+inovação  pedagógica, 
+Acompanhar  a 
+como  já  sou  antiga  na  rede  me  sinto  um 
+pouco  desatualizada  e  perdida  ao  tentar 
+acompanhar  o  avanço  tecnológico,  os 
+novos recursos digitais que vão surgindo 
+e utilizar as redes sociais como ferramenta 
+para  o  trabalho.  Para  lidar  com  essas 
+dificuldades  peço  ajuda  e  orientação  a 
+alguns funcionários. 
+
+No  dia-a-dia  fazer  acontecer  uma  rotina 
+que favoreça o bom trabalho pedagógico é 
+um desafio diário. Dar sugestões para que 
+ela  aconteça  é  uma  forma  de  subsidiar  a 
+fim de que a rotina aconteça. Pois só uma 
+boa e planejada rotina fazem acontecer um 
+bom desempenho pedagógico. 
+
+Podemos  perceber  um  distanciamento  das  preocupações  entre  gestora  e  a 
+coordenadora escolar, pois enquanto uma preocupa-se em estar atualizada com relação 
+ao uso das tecnologias (que é uma demanda social e normativa) a outra está preocupada 
+em manter uma rotina pedagógica.  
+
+ 
+
+A  preocupação  da  gestora  encontra-se  dentro  de  um  discurso  global,  no  qual 
+chama a atenção dos profissionais de educação para o que está sendo chamado de Cultura 
+de Inovação, que em sentido amplo, corresponde a todas possibilidades de romper com o 
+ensino  tradicional,  objetivando  dar  significado  para  o  aluno  acerca  do  que  está  sendo 
+abordado,  é  fazer  com  que  o  estudante  seja  o  protagonista  da  sua  aprendizagem  e  o 
+professor  mediador  da  mesma,  tal  perspectiva  encontra-se  ancorada  na  Base  Nacional 
+Comum Curricular, e requer dos sujeitos envolvidos na educação aproximação com as 
+TDIC. 
+
+Ao  serem  convidadas  a  refletir  sobre  a  Base  Nacional  Comum  Curricular  na 
+perspectiva  da  integração  pedagógica  das  TDIC,  buscamos  compreender  como  ambas 
+tem  mobilizado  a  comunidade  escolar  na  qual  estão  inseridas  para  atender  a  essa 
+demanda. Obtivemos as seguintes respostas. 
+
+Tabela 3. 
+
+Gestora 
+
+Coordenadora 
+
+auxiliares 
+
+Uma  das  estratégias  utilizadas  foi  um 
+momento  de  leitura,  reflexão  e  debate 
+acerca  da  Base  Nacional  Comum 
+Curricular  que  foi  realizado  com  os 
+professores 
+de 
+e 
+desenvolvimento 
+infantil.  No  debate 
+foram  discutidas  as  metas  e  direitos  de 
+aprendizagens 
+trazidos  pela  BNCC, 
+confrontando-os  com  a  política  da  rede. 
+Após o estudo os docentes ficaram livres 
+para  realizarem  seu  planejamento  de 
+acordo 
+exigências 
+curriculares,  sendo  responsabilidade  da 
+prestar 
+coordenação 
+orientação e apoio sempre que preciso. 
+
+pedagógica 
+
+as  novas 
+
+com 
+
+As  diversas  mídias  e  tecnologia  estão 
+presentes  cada  dia  mais  no  cotidiano  dos 
+estudantes  que  já  nascem  praticamente 
+sabendo  utilizá-las.  O  desafio  é  trazê-las 
+para  o  cotidiano  escolar  de  uma  forma 
+diferente  das  que  elas  são  utilizadas  nas 
+casas. É enxergar as ferramentas como um 
+auxílio na aprendizagem e não apenas uma 
+forma de diversão e passatempo. Além de 
+ser uma  excelente ferramenta oferecida a 
+crianças  com  necessidades  educacionais 
+especializada. 
+
+Podemos perceber através da fala dos sujeitos que a nossa pergunta foi respondida 
+em parte, pois no nosso entendimento a coordenadora relatou os benefícios da tecnologia 
+e os desafios, porém não explicou  como  tem  mobilizado  a sua equipe de profissionais 
+para atender a demanda da Base junto ao uso pedagógico das tecnologias.  
+
+É necessário se ter em mente que as atribuições de um corpo gestor está para além 
+de  leituras  de  documentos  oficiais,  é  necessário  aprofundar  o  conhecimento,  criar 
+democraticamente  estratégias  para  se  pôr  em  prática  o  que  está  prescrito,  é  refletir  e 
+discutir sobre o tema abordado, é dá o suporte necessário ao docente.  
+
+A  preocupação  em  conhecer  essas  demandas  curriculares  para  século  XXI  é 
+importante,  porém  esse  conhecimento  por  si  só  não  garante  que  os  direitos  de 
+aprendizagens  dos  alunos  elencados  na  BNCC  como  fundamentais  para  a  formação 
+integral do sujeito, sejam assegurados, e assim a escola deixa também de cumprir com 
+sua  função  social  que  é  assegurar  aos  estudantes  os  conhecimentos  necessários  para  a 
+vida em sociedade. 
+
+Com base no  ideário de Schlünzen Júnior (2013) percebemos a importância da 
+necessidade de um corpo gestor antenado com o que se está sendo posto em termos de 
+parâmetros e diretrizes curriculares para que então  o processo educativo da instituição 
+
+ 
+
+seja  reavaliado  e  reconstruído  de  acordo  com  as  demandas  existentes.  O  discurso  de 
+ambas revela a necessidade de um olhar para a reconstrução do processo educativo que 
+deve partir desde o estabelecimento de formações continuadas para o corpo docente com 
+o foco no uso das TDIC no processo de ensino e aprendizagem, até refletir sobre novos 
+ambientes de aprendizagem. 
+
+Podemos perceber que tanto a gestora quanto a coordenadora possuem uma certa 
+clareza no que diz respeito às novas discussões e exigências curriculares que trazem a 
+integração  pedagógica  das  Tecnologias  Digitais  da  Informação  e  Comunicação  como 
+parte  importante  do  processo  de  ensino  e  aprendizagem,  todavia  no  que  diz  respeito  a 
+elaboração de estratégias metodológicas, existe uma lacuna.   
+
+Ao serem interpeladas sobre os recursos tecnológicos disponíveis na unidade de 
+ensino  na  qual  trabalham,  se  todos  eles  são  utilizados  pelos  docentes  e  de  que  forma, 
+tivemos as seguintes respostas.  
+
+Tabela 4. 
+
+Gestora 
+
+Coordenadora 
+
+Temos  diversos  recursos.  Dentre  eles 
+estão  as  TVs,  Rádios,  notebooks  e  as 
+mesas interativas. Quanto ao uso não sei 
+informar  se  todo  o  corpo  docente  os 
+utiliza,  pois  é  a  coordenação  que  dá 
+orientação  e  suporte  pedagógico.  Mas 
+afirmo  que 
+todos  os  recursos  estão 
+disponíveis  para  os  docentes  utilizarem 
+como e quando quiserem. 
+
+eles 
+
+Nós  dispomos  de  alguns 
+recursos 
+as  mesas 
+tecnológicos.  Entre 
+interativas.  Que  são  uma  excelente 
+ferramenta 
+inclusive  de  auxílio  ao 
+processo  de  alfabetização.  Trabalha  o 
+desenvolvimento  da  oralidade  e  da 
+produção escrita. 
+
+Na fala de ambas percebemos o conhecimento acerca dos recursos existentes, mas 
+não  notamos  em  nenhum  dos  discursos  a  garantia  de  que  esses  recursos  vêm  sendo 
+utilizados nas aulas, pelos professores de forma a contribuir para o processo de ensino e 
+aprendizagem dos estudantes.  
+
+6. Considerações Finais 
+
+Percebemos através da fala da gestora e da coordenadora da creche uma preocupação em 
+apropriar-se  dos  discursos  acerca  das  novas  demandas  educacionais,  na  qual  segundo 
+Orlandi  (2010),  os  sujeitos  estão  imersos  em  um  padrão  cultural,  social,  político  e 
+ideológico que passou e passa por constantes mudanças, onde os sujeitos falam a partir 
+da sua leitura de mundo.  
+
+Todo o discurso é visto como um estado de um processo discursivo mais amplo, 
+contínuo, não havendo começo absoluto nem ponto final, não temos a exatidão de quando 
+se iniciou os discursos sobre o tema abordado na presente pesquisa, tão pouco sabemos 
+quando terá fim, todavia compreendemos através da fala da gestora e da coordenadora 
+que o ser humano está em uma busca incessante pelo novo, e que as demandas globais 
+nos impedem de estagnar, colocando-nos constantemente em um processo de mudança, 
+e nos fazendo entender que um discurso está sempre relacionado a outro em uma rede de 
+interligações complexas.  
+
+No  discurso  do  corpo  gestor  da  creche  bem  como  na  literatura  apresentada 
+podemos  realizar  uma  sucinta  análise  acerca  das  mudanças  ocorridas  no  âmbito 
+educacional,    a  qual  nos  permite  ampliar  o  campo  de  visão  e  analisar  os  discursos 
+
+ 
+
+veiculados acerca do processo de ensino e aprendizagem, que tem sido constantemente 
+influenciado pelo processo intercultural advindos da difusão dos meios de comunicação, 
+e  pela  incessante  busca  dos  sujeitos  ao  novo,  pela  necessidade  constante  de  se  estar 
+sempre em movimento, imprimindo novas demandas para o âmbito educacional exigindo 
+dos agentes envolvidos constante formação e alinhamento com os documentos oficiais 
+em prol da boa qualidade da educação.  
+
+O objetivo almejado para essa pesquisa foi alcançados em parte, pois, através do 
+discurso dos sujeitos foi possível perceber  a preocupação em seguir normas de acordo 
+com a proposta curricular vigente no processo de construção coletiva do Projeto Político 
+Pedagógico,  bem  como  o  deslocamento  em  busca  da  apropriação  da  utilização  dos 
+recursos tecnológicos, que ficou bem claro na fala da gestora, também podemos  enxergar 
+uma  política  institucional  existente  que  tenta  dialogar  com  o  contexto  educacional 
+contemporâneo.  
+
+No  que  diz  respeito  a  análise  das  estratégias  e  propostas  de  formação  docente 
+adotadas pelo corpo gestor da creche em relação ao uso pedagógico das TDIC alinhada a 
+BNCC identificamos uma lacuna a ser preenchida.  
+
+Podemos  notar  que  existe  um  descompasso  entre  o  discurso  da  gestora  e  da 
+coordenadora  pedagógica  da  creche,  todavia  ambas,  estão  preocupadas  com  o 
+funcionamento  da  instituição  como  um  todo,  e  isto  ficou  claro  quando  referiram-se  a 
+importância de se exercer influência na comunidade escolar, tal perspectiva faz parte  dos 
+cargos  de  liderança  como  é  o  caso  da  gestão  e  coordenação  pedagógica,  bem  como  a 
+necessidade de se ter criatividade,  mobilizar conhecimento, está em constante processo 
+de atualização e articulação com a equipe de trabalho. 
+
+A Base Nacional Comum Curricular, deve ser tida pelo corpo gestor como uma 
+referência para a formulação do currículo e das propostas pedagógicas das instituições de 
+ensino, pois a mesma integra a política nacional da Educação Básica e vai contribuir para 
+o  alinhamento  de  outras  políticas  e  ações,  referentes  à  formação  de  professores,  à 
+avaliação,  à  elaboração  de  conteúdos  educacionais  e  aos  critérios  para  a  oferta  de 
+infraestrutura adequada para o pleno desenvolvimento da educação. 
+
+Diante desta demanda é necessário que o corpo gestor das instituições de ensino, 
+realizam além de leitura do documento, e de deixar por conta dos docentes e elaboração 
+de estratégias para atender às atuais demandas, torna-se de suma importância a realização 
+de formações continuada que integre o uso pedagógico das TDIC as propostas da Base, 
+para isto é necessário que o coordenador pedagógico esteja preparado para auxiliar a sua 
+equipe de docentes da realização desta tarefa.  
+
+O  caminho  a  ser  percorrido  pelo  corpo  gestor  para  atender  às  novas  demandas 
+educacionais  não  é  fácil,  todavia  percebemos  através  do  discurso  da  gestora  e  da 
+coordenadora o interesse em alinhar-se a essa perspectiva global.  
+
+Referências 
+
+BRASIL.  Ministério  da  Educação.  Governo  Federal.  (2018).  Base  Nacional  Comum 
+
+Curricular: BNCC. Brasília, DF. Disponível em: Acesso em: 17 de maio. 2019.  
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, 
+
+DF: Senado Federal. 
+
+BRASIL. Lei nº 13.005, de 25 de junho de 2014. Aprova o Plano Nacional de Educação  
+-  PNE  e  dá  outras  providências.  Brasília:  Senado  Federal,  2014.  Disponível  em: 
+
+ 
+
+<http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm>.  Acesso 
+em: 10 set. 2017. 
+
+BARBOSA, E. F.; MOURA, D. G. Metodologias ativas de aprendizagem na Educação 
+Profissional  e  Tecnológica.  B.  Tec.  Senac,  Rio  de  Janeiro,  v.  39,  n.2,  p.48-67, 
+maio/ago. 2013. 
+
+CUNHA, R. C. O. B. Pelas telas, pelas janelas: a coordenação pedagógica e a formação 
+de professores/as nas escolas. 2006. 288p. Tese (Doutorado em Educação) – Faculdade 
+de Educação, Universidade Estadual de Campinas, Campinas, 2006. 
+
+FERREIRA, Nara Syria Carapeto; AGUIAR, Marcia Ângela (orgs). (2006). Gestão da 
+
+Educação: Impasses, perspectivas e compromissos. 5º ed. São Paulo: Cortez.  
+
+LEMOS.  André.  Ciberespaço  e  Tecnologias  móveis.  Processos  de  Territorialização  e 
+02/12/2005. 
+
+Desterritorialização 
+https://www.facom.ufba.br/ciberpesquisa/andrelemos/territorio  
+
+Cibercultura. 
+
+UFBa. 
+
+na 
+
+LIBÂNIO, José Carlos; OLIVEIRA, João Ferreira de; TOSCHI, Mirza Seabra. (2003). 
+
+Educação escolar: políticas, estrutura e organização. São Paulo: Cortez.  
+
+ORLANDI,  Eni  de  Lourdes  Puccinelli.  (2010).  Análise  de  Discurso:  Princípios  & 
+
+Procedimentos. Porto Alegre. 
+
+SCHLÜNZEN JÚNIOR, Klaus. (2013). Formação docente, gestão e tecnologias: desafios 
+para a escola-volume 4- D30-Unesp/Univesp-1ª edição graduação em pedagogia. 
+
+ 
+
+

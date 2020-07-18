@@ -1,0 +1,366 @@
+ 
+ 
+
+ 
+
+Jogos digitais no Ensino de Física: Estudo do Movimento 
+Bidimensional através da Ferramenta Scratch 
+
+Crelison Nelson H. Alves1, Gilvan Francisco da Silva1, Bruna Izabel da Silva1, 
+Enildo José dos S. Júnior1, Fabrício Filho O. Pereira1, Ana Paula T. B. Silva1, 
+Flávia Portela Santos1 
+
+1Unidade de Educação a Distância e Tecnologia – Universidade Federal Rural de 
+Pernambuco (UFRPE) 
+Rua Dom Manoel de Medeiros, s/n – 52.171-900 –  Recife – PE – Brazil 
+
+{crelison.alves,Gilvan.francisco,bruna.izabel,enildo.santosjunior,fabr
+icio.pereira,ana.tbsilva,flavia.portela}@ufrpe.br 
+
+Abstract. In order to minimize the difficulties experienced by students in their 
+first  contact  with  the  concepts  of  the  Physics  discipline,  we  propose  as  a 
+didactic  tool  the  use  of  a  game  that  can  also  be  customized  by  the  student 
+himself. This work describes two games built with the Scratch platform, which 
+is a project of the Lifelong Kindergarten Group of the Massachusetts Institute 
+of Technology (MIT) Media Lab. With  this platform it is possible  to simulate 
+physical  phenomena  and  relate  them  to  the  most  diverse  contents  in  Physics 
+from  the  construction  of  games  (programming).  In  this  case,  we  will  use 
+Scratch applied to kinematics in the study of two-dimensional motion. 
+
+Resumo.  Visando  minimizar  as  dificuldades  vivenciadas  por  estudantes  em 
+seu  primeiro  contato  com  os  conceitos  da  disciplina  de  Física,  propõe-se 
+como  ferramenta  didática  a  utilização  de  um  jogo  que  pode  ser  também 
+personalizado  pelo  próprio  estudante.  Este  trabalho  descreve  dois  jogos 
+construídos  com  a  plataforma  Scratch,  que  é  um  projeto  do  Lifelong 
+Kindergarten  Group  do  Massachusetts  Institute  of  Technology  (MIT)  Media 
+Lab,  com  o  qual  é  possível,  a  partir  da  construção  de  jogos  (programação), 
+simular  fenômenos  físicos  e  relacioná-los  aos  mais  diversos  conteúdos  em 
+Física.  Neste  caso,  utilizou-se  o  Scratch  aplicado  à  cinemática  no  estudo  do 
+movimento bidimensional. 
+
+1. Introdução 
+
+O  Ensino  de  Ciência  na  área  de  concentração  de  exatas  e,  em  particular,  de  física 
+conquistou o respeito e admiração da sociedade devido às novas descobertas científicas 
+[Silva  2014].  Por  outro  lado,  diversos  fatores  têm  afastado  esta  ciência  (enquanto 
+conteúdo)  dos  estudantes  do  Ensino  Médio.  Nessa  linha  de  ideias,  [Moreira  2017] 
+aponta alguns dos desafios atuais, que envolvem, desde o despreparo dos professores, as 
+más  condições  de  trabalho  e  o  número  reduzido  de  aulas  nas  escolas,  à  utilização  de 
+metodologia  bancária  de  ensino  (que  tenta  depositar  conteúdos  na  cabeça  do  aluno)  e 
+focada  no  treinamento  para  as  provas.  A  Física  tem  sido  tratada  como  uma  ciência 
+
+ 
+ 
+acabada e limitada a resolução de questões, sem explorar a conexão entre os conceitos 
+e as diversas aplicações no cotidiano, tornando-se desatualizada e não atrativa. 
+
+ 
+Nesse  contexto,  várias  estratégias  e  metodologias  têm  sido  investigadas  para 
+aproximar e despertar o interesse dos estudantes para o estudo das ciências, de forma a 
+redirecionar  a  centralidade  das  aulas,  tirando-a  do  professor  e  focando-a  no  estudante 
+[Sasaki  and  Jesus  2017;  Araújo  and  Abib  2003;  Silva,  Sales  and  Castro  2019].  Em 
+especial,  o  jogo  aplicado  na  educação  tem  se  mostrado  uma  importante  e  emergente 
+ferramenta educativa, de forma a potencializar aprendizagens nas mais diversas áreas do 
+conhecimento e da vida dos indivíduos [Fardo 2013]. 
+
+ 
+Este  trabalho  descreve  a  construção  de  um  jogo,  fazendo  o  uso  de  tecnologias 
+digitais, para ser desenvolvido em sala de aula na disciplina de Física. O foco do estudo 
+contempla os conceitos da cinemática, no movimento bidimensional, e na utilização da 
+plataforma  Scratch.  Além  da  utilização  do  jogo  visando  o  aprendizado,  é  possível 
+apresentar  os  recursos  básicos  da  ferramenta  Scratch  para  que  os  estudantes 
+modifiquem os jogos existentes e construam os seus próprios. Segundo  a  LEAD  Project 
+(2014), o Scratch tem um papel social de preparar os jovens para a velocidade com que 
+o mundo tem se reinventado por meio da educação e criatividade, contrariando o ensino 
+de  Física  tradicional  e  cartesiano,  muitas  vezes  praticado  nas  escolas,  tornando  o 
+processo de ensino e aprendizagem desconexo e, até mesmo, sem sentido. 
+
+ 
+[Lima 2010], refletindo sobre a importância da interação no processo de ensino e 
+aprendizagem,  destaca  que  a  aprendizagem  é  um  processo  ativo  e  interativo, 
+configurando, portanto, numa construção, em que o estudante constrói o conhecimento a 
+partir  de  sucessivos  desequilíbrios  e  reequilibrações.  Nessa  perspectiva,  aluno  levanta 
+hipóteses  sobre  o  conhecimento  e  pode  incorrer  em  erros,  que  devem  ser  refletidos  e 
+trabalhados, dando lugar a novas hipóteses acerca do conhecimento. Nesse processo, o 
+importante  não  é  apenas  conhecer  o  ‘produto’,  o  ‘resultado’  da  aprendizagem,  mas, 
+sobretudo, o ‘processo’, ou seja, o caminho intelectual percorrido pelo estudante no ato 
+de  aprender.  O  professor  tem  um  papel  fundamental  de  promover  ‘interações’  e 
+‘conflitos  cognitivos’.  O  jogo  se  enquadra,  então,  como  uma  ferramenta  didática 
+moderadora para ser desenvolvida nas atividades em sala de aula. Nesse  sentido,  esta 
+proposta pretende unir os conhecimentos teóricos e a interatividade dos jogos como um 
+facilitador no processo de ensino e aprendizagem. 
+
+2. Justificativa Pedagógica 
+
+A  cinemática,  segundo  [Gaspar  2000],  é  a  parte  da  Física  que  estuda  e  descreve  os 
+movimentos,  sem  se  preocupar  com  as  suas  causas.  Um  lançamento  oblíquo  é  um 
+movimento que ocorre parte na direção vertical e parte na direção horizontal, exigindo 
+maior compreensão na aplicação de conceitos estudados no movimento unidimensional. 
+O  estudo  do  movimento  em  duas  dimensões  envolve  conceitos  de  posição, 
+deslocamento,  tempo,  velocidade  e  aceleração;  além  da  temática  da  conservação  da 
+Energia.  Esses  conteúdos  são  explorados  nos  primeiros  contatos  dos  estudantes  com  a 
+disciplina  de  Física  e,  por  esta  razão,  devem  ser  construídos  de  forma  planejada,  pois 
+esses momentos podem afastar ou aproximar os alunos em relação a esta ciência. 
+
+ 
+É  nesse  contexto  que  o  presente  estudo  tem  seu  enfoque  na  cinemática  e 
+apresenta uma forma lúdica (divertida) de trabalhar esse conteúdo, fazendo-o através de 
+um  game.  Ademais,  a  própria  construção  do  jogo,  uma  vez  que  é  realizada  com  uma 
+ferramenta  de  fácil  acesso  e  uso,  possibilita  que  os  próprios  estudantes  desenvolvam 
+
+ 
+
+outras  habilidades,  como  criatividade  e  programação,  tendo  para  isso  que  se 
+aprofundarem nos conceitos físicos para produzirem seus próprios jogos.  
+
+ 
+A  aprendizagem  de  conceitos,  no  ensino  de  Física,  proporcionada  pela 
+gamificação já tem se mostrado resultados significativos, quando comparada ao ensino 
+tradicional [Silva, Sales and Castro 2019]. A concepção deste  trabalho é de  articular a 
+utilização  do  jogo  para  melhoria  da  aprendizagem,  defendida  pela  Teoria  da 
+Aprendizagem de Ausubel (2003), que propõe a valorização dos conhecimentos prévios 
+dos estudantes. De acordo com Pelizzari et al. (2002, p. 40), tendo como base as ideias 
+de  Ausubel,  “a  construção  das  aprendizagens  significativas  implica  a  conexão  ou 
+vinculação do que o aluno sabe com os conhecimentos novos”, associando-se o antigo 
+ao novo. Ainda de acordo com esses autores, os estudantes devem realizar suas próprias 
+aprendizagens  significativas,  que  corresponde  ao  aprender  a  aprender.  Desse  modo, 
+garantem-se  “a  compreensão  e  a  facilitação  de  novas  aprendizagens  ao  ter-se  um 
+suporte  básico  na  estrutura  cognitiva  prévia  construída  pelo  sujeito”  [Pelizzari  et  al. 
+2002, p. 40].  
+
+3. Metodologia 
+
+Para  a  construção  dos  jogos  foi  usada  como  ferramenta  de  desenvolvimento  a 
+plataforma  Scratch,  programa  idealizado  pelo  Lifelong  Kindergarten  Group  do 
+Massachusetts  Institute  of  Technology  (MIT)  Media  Lab.  Ele  é  disponibilizado 
+gratuitamente na internet e possibilita a criação de jogos e animações interativos, sendo 
+possível trabalhar com imagens, fotos, música, criar desenhos e mudar a aparência.  
+
+ 
+Os  jogos  foram  desenvolvidos  em  duas  fases  principais.  A  primeira  fase 
+contemplou  o  estudo  de  um  projeto  existente  na  base  de  dados  da  plataforma,  onde  a 
+análise foi concentrada no aprimoramento do jogo com a realidade dos conceitos Físicos 
+e  na  familiarização  com  a  ferramenta  online.  Na  segunda  fase,  houve  a  elaboração  de 
+novo projeto, voltado à proposta de aplicação, ou seja, no movimento bidimensional ou 
+lançamento  oblíquo,  atendendo  mais  rigorosamente  às  equações  do  movimento  desse 
+sistema. 
+
+ 
+O  estudo  tem  como  público-alvo  professores,  atuantes  na  educação  básica  e 
+ensino superior, estudantes que estão sendo apresentados à disciplina de Física, podendo 
+contemplar os do 9º ano do ensino fundamental, do 1º ano do ensino médio e estudantes 
+de graduação em Física ou qualquer outra área das ciências exatas.  
+
+4. Apresentação e desenvolvimento de jogo no Scratch 
+
+A  plataforma  do  Scratch  está  disponível  no  site  https://scratch.mit.edu/  e  permite  o 
+acesso a alguns jogos que foram criados por outros usuários. Além de jogar, é possível 
+personalizar  o  jogo  já  existente,  aumentando  assim  a  identificação  com  a  ferramenta 
+pedagógica.  Para  criar  um  jogo,  o  usuário  deve  acessar  o  site,  criar  uma  conta,  iniciar 
+um  novo  projeto  e  em  seguida  dar  forma  ao  jogo  ou  animação.  Nessa  última  etapa, 
+deve-se  atribuir  um  título  ao  projeto,  escolher  um  plano  de  fundo  ou  palco,  incluir  os 
+personagens  ou  atores,  e  por  fim,  montar  as  ações.  O  atrativo  desta  ferramenta  está 
+também na facilidade da construção das ações, pois é feita por meio de programação em 
+blocos, semelhante a construção de um lego. 
+
+ 
+O  Scratch  permite  a  programação  das  próprias  histórias,  jogos  e  animações 
+interativas  e  o  compartilhamento  das  suas  criações  com  outros  na  comunidade  –  isto 
+ajuda os jovens a pensar de forma  criativa,  a raciocinar sistematicamente  e a  trabalhar 
+colaborativamente – competências essenciais à vida no século XXI. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1: Ambiente  do  Scratch: a) Atores ou personagens;  b) Palco/Plano  de 
+fundo; c) Programação e d) sons.  
+
+ 
+A programação é realizada por meio de blocos gráficos e pode ser feita de forma 
+paralela,  ou  seja,  várias  ações  podem  ocorrer  de  forma  simultânea.  A  proposta  da 
+programação  ser  realizada  em  blocos  e  possuir  visualmente  cores  diferentes  em  cada 
+comando  aproxima  o  estudante  ao  entendimento  da  lógica  da  programação.  A  Figura 
+1(a) mostra, por exemplo, os personagens selecionados para o jogo proposto, o homem 
+e  a  ave,  bem  como  a  escolha  do  plano  de  fundo  na  Figura  1(b).  O  objetivo  do  jogo  é 
+espantar a ave pelo lançamento de um projétil e, nesse caso, o plano de fundo auxilia a 
+visualizar a trajetória do objeto em movimento.  
+
+Outros elementos podem ser incluídos no desenvolvimento do jogo, pois vários 
+ 
+recursos  estão  disponíveis,  como  movimento,  aparência,  som,  variáveis,  controle, 
+sensores e operadores (ver Figura 1(c)). Na  paleta  Motion  da  aba  Code,  podemos 
+controlar  a  posição  e  a  inclinação  de  cada  objeto.  Em  looks,  determina-se  quando  o 
+objeto  é  visível  ou  oculto,  como  também  a  mudança  de  aparência  para  causar  a 
+impressão de um movimento mais realista. O tópico Sound é apresentado na Figura 1(d) 
+e nele é permitido agregar música ou falas no projeto. Em  Variables,  guardam-se  os 
+valores que se deseja manter na memória para controlar ações, atuando como um ótimo 
+recurso para desenvolver o conceito de incógnita. Já na opção Control, é possível usar 
+funções de lógica e controle de fluxo. Outra ferramenta interessante é a opção Sensing, 
+onde  se  tem  acesso  a  várias  informações,  tais  como,  saber,  por  exemplo,  se  houve 
+colisões entre dois personagens ou entre um personagem e a borda da tela. Por fim, em 
+Operators  temos  acesso  a  vários  operadores  matemáticos,  como  adição,  subtração, 
+
+ 
+
+ 
+
+funções etc. Caso haja limitações no acesso à internet, é possível baixar o aplicativo e 
+instalar no computador por meio do endereço https://scratch.mit.edu/download. 
+
+4. Descrição do jogo voltado ao ensino da cinemática 
+
+Descreve-se,  nesta  seção,  duas  atividades  que  foram  desenvolvidas:  uma  adaptação  de 
+um jogo já existente e a criação de um novo projeto, a fim de exemplificar e aplicar as 
+possibilidades existentes nessa ferramenta didática.  
+
+O jogo da catapulta estava disponível no banco de dados do sistema, possuindo o 
+objetivo  de  lançar  um  projétil  para  atingir  o  castelo.  Este  projeto  foi  modificado  e 
+ajustado  para  que  o  movimento  da  catapulta  obedecesse  às  equações  básicas  do 
+lançamento  oblíquo,  sem  considerar  a  resistência  do  ar,  mas  com  a  possibilidade  da 
+escolha do ângulo, velocidade inicial do lançamento e visualização do percurso da bola 
+lançada.  As  configurações  dos  jogos  antes  e  depois  dos  ajustes  são  apresentados  na 
+Figura 2 (a) e (b). 
+
+ 
+
+Figura  2:  Jogos  desenvolvidos:  a)  Jogo  da  catapulta  original;  b)  Jogo  da 
+catapulta modificado. 
+
+ 
+A  Figura  3(a),  abaixo,  mostra  parte  da  programação  da  bola  após  as  devidas 
+modificações  e  exemplifica  a  forma  da  programação  realizada  em  blocos.  Para  a 
+programação, definem-se as variáveis do programa através da paleta de código no grupo 
+variables,  nomeando  as  variáveis,  conforme  o  que  se  deseja  realizar.  No  caso  da 
+catapulta,  definiu-se  como  variáveis  as  grandezas:  ângulo,  posição  e  velocidade  no 
+plano  cartesiano  xy.  Para  explicitar  a  trajetória  da  bola  na  tela,  na  interface  do  jogo, 
+esses comandos são realizados com a manipulação do mouse, que definirá a velocidade 
+e o ângulo de lançamento.  
+
+O  novo  projeto,  contendo  o  conteúdo  do  movimento  2D,  foi  nomeado  como 
+ 
+jogo  Caça  Morcego  e  seu  design  gráfico  é  visto  na  Figura  3(b).  Esta  atividade  traz  a 
+possibilidade de incluir o alvo em movimento a cada vez que uma bola é lançada. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 3: (a) Paleta de Variáveis na plataforma Scratch  (à esquerda) e tela da 
+programação à direita; (b) Design gráfico do jogo Caça Morcego. 
+
+A  cada  tentativa,  mensagens  na  tela  aparecem  fornecendo  informações  sobre  a 
+ 
+ave em questão,  e alertas sobre  a preservação ambiental,  assim, questões referentes ao 
+Meio  Ambiente,  tema  transversal,  vinculado  ao  ensino  de  conceitos  físicos.  Na  tela  é 
+exibido  um  vetor  que  aponta  na  direção  do  mouse  e  seu  tamanho  é  proporcional  ao 
+módulo da velocidade inicial da bola.  
+
+ 
+A bola é lancaça quando o botão do mouse é pressionado e a trajetória da bola é 
+marcada na tela com determinada cor escolhida de forma aleatória. Quando a bola toca 
+na borda da tela ou toca no morcego, ela é apagada e redesenhada próximo ao caçador. 
+Segundo  a  programação  proposta,  o  morcego,  inicialmente,  aparece  na  tela  e  toda  vez 
+que  é  atingido  desencadeia  uma  sequência  de  eventos,  que  alteram  o  cenário  e  os 
+personagens. Caso o morcego não seja atingido, ele permanece no mesmo lugar. 
+
+ 
+
+A  partir  desses  exemplos,  é  possível  que  os  próprios  estudantes  desenvolvam 
+seus  jogos  com  o  uso  dessa  tecnologia  ou  modifiquem  os  jogos  apresentados  pelos 
+professores.  
+
+5. Resultados esperados 
+
+Os  jogos  apresentados  podem  ser  utilizados  durante  as  aulas  de  cinemática  e  com 
+diversas  finalidades.  O  ato  de  jogar  pode  ser  realizado  anterior  à  apresentação  do 
+conteúdo,  com  a  finalidade  de  motivar  o  estudo,  ou  ainda  posterior  a  uma  aula 
+expositiva  em  que,  nesse  caso,  serão  aplicados  os  conhecimentos  construídos.  Numa 
+aula  complementar  é  possível  estimular  a  modificação  dos  parâmetros  dos  jogos,  bem 
+como a criação de novos projetos, incluindo os conhecimentos de programação.  
+
+ 
+Com a disponibilização desse jogo e com as possibilidades de aplicação citadas 
+acima, espera-se impactar professores de Física e estudantes interessados ou não na área 
+de exatas ao estudo desta ciência, além de incentivar a utilização de outras tecnologias e 
+elementos da gamificação nas aulas de Física. 
+
+6. Considerações finais 
+
+Este  trabalho  traz  a  descrição  de  dois  jogos  construídos  com  a  plataforma  scratch, 
+ambos  abordando  os  conceitos  de  lançamento  de  projéteis  em  duas  dimensões,  sendo 
+um a modificação de um jogo já existente e o outro uma nova proposta. Os jogos visam 
+auxiliar professores e estudantes no processo de ensino e aprendizagem dos conteúdos 
+da cinemática. 
+
+ 
+
+ 
+
+Como os jovens estão conectados com a internet, o desenvolvimento de jogos 
+ 
+no Scratch pode motivá-los a compartilhar seus programas com os colegas fomentando 
+a socialização da física e outras áreas do saber.  Embora  não  seja  necessário  conhecer 
+nenhuma  linguagem  de  programação,  o  sujeito  deve  desenvolver  habilidades  de 
+criatividade e criação para poder criar seus próprios jogos ou modificar os já existentes.  
+
+Referências 
+
+Araújo,  M.  S.  T;  Abib,  M.  L.  V.  S.  (2003)  “Atividades  experimentais  no  ensino  de 
+física:  diferentes  enfoques,  diferentes  finalidades”.  In  Revista  Brasileira  de  Ensino 
+Física, São Paulo, v. 25, n. 2, p. 176-194. 
+
+Ausubel,  D.  P.  (2003)  “Aquisição  e  retenção  de  conhecimentos:  uma  perspectiva 
+
+cognitiva”. Lisboa: Plátano Edições Técnicas. 
+
+Fardo,  M.  L.  (2013)  “A  Gamificação  aplicada  em  ambientes  de  aprendizagem”.  In 
+
+RENOTE - Revista Novas Tecnologias na Educação, v. 11, n. 1, p 1-9. 
+
+Gaspar, A. (2000) “Física: mecânica”. São Paulo: Ática. 
+
+LEAD Project. (2014) “Super Scratch Programming Adventure!” 2. ed. USA: No Starch 
+
+Press. 
+
+Lima, A. P. A. B. (2010) “Psicologia II”. Recife: UFRPE/UAEADTec. 
+
+Moreira,  M.A.  (2017)  “Grandes  desafios  para  o  ensino  da  Física  na  educação 
+
+contemporânea”.In Revista do Professor de Física, v. 1, n. 1, p. 1-13. 
+
+Pelizzari  et  al.  (2002)  “Teoria  da  aprendizagem  significativa  segundo  Ausubel”.  In 
+
+Revista PEC, Curitiba, v. 2, n.1, p. 37-42. 
+
+Sasaki, D.G.G.; Jesus, V.L.B. (2017) “Avaliação de uma metodologia de aprendizagem 
+ativa  em  óptica  geométrica  através  da  investigação  das  reações  dos  alunos”.  In 
+Revista Brasileira de Ensino de Física, v. 39, n. 2, e2403 1-10. 
+
+Silva, E. O. (2014) “Conversando sobre ciência”. Ribeirão Preto: Sociedade Brasileira 
+
+de Genética. 
+
+Silva,  J.  B.;  Sales,  G.  L.;  Castro,  J.  B.  (2019)  “Gamificação  como  estratégia  de 
+aprendizagem ativa no ensino de Física”. In Revista Brasileira de Ensino Física, São 
+Paulo, v. 41, n. 4, e20180309 1-9. 
+
+ 
+ 
+
+ 
+
+ 
+
+

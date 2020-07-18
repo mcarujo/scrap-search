@@ -1,0 +1,487 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oficina de Apoio a Resolução de Problemas e Lógica 
+Computacional utilizando a Computação Desplugada e 
+Gamificação 
+
+José Vinnicius dos Santos Oliveira1, Larrysa Mirelly Rosendo Figueiredo 1, Flávia 
+Veloso Costa Souza 1 
+
+1 Departamento de Ciências Exatas – Universidade Federal da Paraíba Rua da 
+
+Mangueira, s/n, Companhia de Tecidos Rio Tinto 58.297-000 – Rio Tinto – PB - Brasil 
+
+{vinnicius.santos,larrysa.mirelly,flavia}@dce.ufpb.br 
+
+Abstract. This article presents the results obtained with DespluGames workshop 
+application, held within the scope of PIBID-Informática (Institutional Program 
+of Scholarships for Initiation to Teaching), which aimed to analyze the efficiency 
+of  existing  applicability  between  methodologies  of  unplugged  computing  and 
+gamification  in  the  introductory  teaching  of  programming  for  high  school 
+students.  The  workshop  used  the  concept  of  block  programming  to  promote 
+student learning in the early principles of computer programming logic. 
+
+Resumo. Este artigo apresenta os resultados obtidos com a aplicação da oficina 
+DespluGames,  realizada  no  âmbito  do  PIBID  -  Informática  (Programa 
+Institucional  de  Bolsas  de  Iniciação  à  Docência),  que  teve  como  objetivo 
+analisar  a  eficiência  da  aplicabilidade  concomitante  das  metodologias  de 
+Computação Desplugada e elementos de Gamificação no ensino introdutório 
+de lógica de programação para alunos do ensino médio. A oficina empregou o 
+conceito de programação em blocos para promover o aprendizado dos alunos 
+nos conceitos iniciais da lógica de programação de computadores.   
+
+1. Introdução 
+
+ 
+
+ 
+
+ 
+A revolução digital, está a cada dia mais inserida no cotidiano da sociedade e com 
+ela, um crescimento exponencial na quantidade de dispositivos tecnológicos, utilizados 
+diariamente  em  diversas  atividades.  Essa  revolução,  trouxe  para  a  sociedade  novas 
+formas de comunicação, de produção e de aprendizagem. Diante dessas mudanças novas 
+competências  vêm  sendo  demandadas,  tais  quais  resolução  de  problemas,  aprendizado 
+contínuo ao longo da vida, e capacidade de trabalhar em equipe. 
+
+ 
+Aprender  a  programar  é  uma  competência  que  dá  suporte  para  as  pessoas 
+desenvolverem soluções fáceis e rápidas para problemas diversos. Aprender programação 
+é  de  suma  importância  para  a  Computação  [Scaico  et  al.,  2012]].  Segundo  [Valente, 
+2016],  é  importante  que  seja  dada  ênfase  ao  ensino  de  conceitos  computacionais  no 
+processo de inserção da ciência da computação na Educação Básica no Brasil. Objetiva-
+se,  com  essa  inserção,  oportunizar  a  formação  de  habilidades  e  competências 
+computacionais, apoiando a ciência e suas áreas de conhecimento [SBC, 2017].  
+
+Na literatura da área de Educação em Computação, são encontradas pesquisas que 
+têm sido realizadas utilizando a Computação Desplugada para apoiar o ensino de lógica 
+de programação e desenvolver o Pensamento Computacional. De acordo com [Bell et al, 
+2011]  a  Computação  Desplugada  pode  desenvolver  o  raciocínio  lógico  dos  alunos, 
+estimular  a  resolução  de  problemas  e  a  criatividade  em  um  contexto  significativo. 
+[Marques,  2011]  aponta  a  Computação  Desplugada  como  uma  forma  de  promover  o 
+engajamento e aumentar o interesse do aluno no aprendizado de programação.  
+
+ Este  trabalho  apresenta  os  resultados  da  oficina  DespluGames,  realizado  no 
+âmbito do PIBID - Computação, para alunos do 1º ano do curso técnico de Manutenção 
+de Sistemas da Informação da Escola Cidadã Integral e Técnica João da Matta Cavalcantti 
+de  Albuquerque,  situada  na  cidade  de  Mamanguape  -  PB.  O  objetivo  era  apresentar 
+conceitos  de  lógica  de  programação  de  forma  intuitiva  e  despertar  o  interesse  e 
+compreensão dos alunos na resolução de problemas reais. Durante a oficina buscou-se 
+unir a Computação Desplugada e elementos de Gamificação para engajar os alunos. 
+
+2.  Computação  Desplugada  e  Gamificação  no  ensino  de  Lógica  de 
+Programação  
+
+Para  subsidiar  as  discussões  que  serão  apresentadas  neste  trabalho,  elegemos 
+como  aporte  teórico  trabalhos  relacionados  aos  temas  sobre  o  âmbito  da  Educação, 
+Aprendizagem, Computação Desplugada e Gamificação, destacando a importância das 
+mesmas  e  o  papel  dos  educadores  e  discentes;  e  a  utilização  de  um  novo  método  no 
+cenário educacional. 
+
+Nos últimos anos a Computação Desplugada tem sido vista como um método que 
+pode  contribuir  no  ensino  e  aprendizagem  de  conceitos  da  Ciência  da  Computação. 
+Segundo  [Bell  et  al.,  2011]  a  Computação  Desplugada  é  um  conjunto  de  atividades 
+lúdicas desenvolvidas com a finalidade de ensinar conceitos da área de computação sem 
+o  uso  de  computadores  e  sem  aprofundamento  nos  detalhes  técnicos.  A  Computação 
+Desplugada  pode  ser  utilizada  em  qualquer  nível  educacional  e  com  as  mais  diversas 
+faixas etárias.  
+
+Pesquisa realizada por [Bordini et. al., 2016] apresenta o estado da arte relativa a 
+disseminação  do  Pensamento  Computacional  no  Brasil.  Em  relação  ao  método  da 
+Computação Desplugada, os resultados apresentados apontam para o uso, em sua maioria, 
+das atividades provenientes do livro Computer Science Unplugged proposto por Tim Bell, 
+Ian H. Witten e Mike Fellows [Bell et al., 2011]. De forma espontânea e demonstrando 
+ser um método bastante eficiente, a Computação Desplugada vem possibilitar o estímulo 
+ao Pensamento Computacional que por sua vez permite ao educando aprender de modo 
+descomplicado os conceitos da computação [Ferreira et al. 2015]. 
+
+A  Gamificação  (Gamification)  ou  Ludificação,  segundo  [Alves,  2015],  é  um 
+método  que  tem  o  intuito  de  possibilitar  a  incorporação  de  técnicas,  características  e 
+mecânica dos jogos em atividades do mundo real não vinculadas a games. Tendo como 
+meta, estimular as participações voluntárias dos aprendizes, incentivar o diálogo entre os 
+alunos e  maximizar o  engajamento pessoal do aprendiz, visando assim  a superação de 
+algumas  das  dificuldades  inerentes  ao  processo  educacional.  Para  isso,  é  proposto  a 
+utilização  de  mecânicas  e  lógicas  de  games  para  estimular  competitividade  saudável, 
+gerar sentimento de conquista, desejo de contínuo avanço nas novas fases do estudo. A 
+
+ 
+
+ 
+
+ 
+
+ 
+Gamificação possibilita a mensuração  constante de  desempenho  e torna o aprendizado 
+mais envolvente, aprazível e desafiador [Braga e Obregon, 2015]. 
+
+Desta  forma,  percebe-se  o  potencial  da  Gamificação  no  processo  de  ensino  e 
+aprendizagem.  Este  trabalho  propõe  o  uso  de  atividades  desplugadas  alinhadas  com 
+técnicas de Gamificação com o objetivo de apoiar o desenvolvimento da habilidade de 
+resolução de problemas e o ensino de lógica de programação, utilizando atividades lúdicas 
+adaptadas. 
+
+3. Planejamento da oficina DespluGames 
+
+Inicialmente foi realizado um  estudo diagnóstico com o objetivo de conhecer  a 
+realidade  escolar  e  as  necessidades  que  envolvem  os  alunos,  identificando  fatores 
+relevantes que poderiam contribuir e interferir nas práticas pedagógicas. Em um segundo 
+momento  foi  feito  um  levantamento  de  atividades  desplugadas  existentes  e  proposta  a 
+adaptação de atividades para serem aplicadas com os alunos do primeiro ano do curso de 
+técnico de Manutenção de Sistemas da Informação, buscando atender as necessidades e 
+contexto dos mesmos.  
+
+A oficina DespluGames é uma iniciativa do Programa Institucional de Bolsas de 
+ 
+Iniciação à Docência (PIBID) do curso de Licenciatura em Ciência da Computação da 
+UFPB. A oficina foi planejada para acontecer em dois encontros presenciais com duração 
+de  1  hora  e  30  minutos  cada.  Para  a  oficina  foram  planejados  desafios  para  serem 
+resolvidos em equipe. A cada novo conceito (funções, comandos de repetição e tomadas 
+de decisão) era apresentado para as equipes dois novos desafios.  
+
+  
+Dessa forma, a oficina foi planejada da seguinte maneira: (I) Apresentação dos 
+conceitos, (II) Apresentação e execução dos desafios, (III) Discussão de estratégias em 
+grupo e (IV) Resolução do desafio apresentado. As equipes tinham um tempo máximo 
+que variava entre 5 - 15 minutos dependendo do nível do desafio. O Quadro 1 apresenta 
+todos os desafios utilizados na oficina e os conteúdos trabalhados em cada um deles. 
+
+Quadro 1 - Desafios utilizados na oficina DespluGames 
+
+Dias 
+
+Desafios 
+
+Conteúdos  
+
+Descrição 
+
+Dia 1 
+
+Andar no labirinto  
+
+Funções. 
+
+Nível 
+
+Fácil 
+
+Verificar a existência de 
+favos de mel. 
+Produzir mel. 
+
+Tomadas de Decisão 
+(se, senão se e senão) 
+
+Fácil 
+
+Dia 1 
+
+Dia 2 
+
+Andar, remover e colocar 
+pontos de produção de 
+mel. Produzir mel. 
+
+Comandos de 
+repetição (enquanto e 
+para) 
+
+Intermediário   Utilizar comandos de 
+
+Dia 2 
+
+Desafio Final 
+
+Todos 
+
+Difícil 
+
+Utilizar funções como 
+andar e virar à direita, 
+virar à esquerda para 
+chegar ao objetivo 
+
+Utilizar os blocos se 
+para verificar se existe 
+favos no piso atual. 
+
+repetição para preencher 
+buracos e remover terra 
+de montes. 
+
+Utilizar funções, 
+repetição e decisões 
+para realizar uma 
+sequência de itens em 
+um mapa. 
+
+Fonte: Os autores. 
+
+ 
+
+ 
+
+ 
+ 
+Buscando promover o envolvimento e motivar os alunos participantes da oficina 
+utilizamos os seguintes elementos de Gamificação: Objetivos e regras claras, sistema de 
+feedback, sistema de recompensas e competição. O Quadro 2 apresenta a característica 
+do comportamento proposto por [Huizinga, 1980] e seu uso na oficina. Para armazenar 
+as  pontuações  das  equipes,  foi  desenvolvido  um  sistema  simples  de  scoreboard,  que 
+chamamos de pódio. Um ranking era projetado na sala de aula para incentivar os alunos 
+a chegarem no topo. 
+
+Quadro 2: Comportamento das características de Huizinga na oficina DespluGames 
+
+Características de Huizinga 
+
+Comportamento na oficina 
+
+a.  Objetivos: o jogo possui objetivo definido 
+
+e claro.  
+
+Cada  equipe  deveria  realizar  os  desafios  apresentados, 
+dentro do tempo determinado. 
+
+b.  Regras claras: para alcançar a meta, deve-
+regras 
+
+se  agir  de  acordo  com  as 
+determinadas. 
+
+c.  As equipes eram informadas sobres as limitações para se 
+atingir  o  objetivo  (tempo,  forma  de  usar  as  peças, 
+pontuação). 
+
+d.  Sistema de feedback (resultados):  Avalia 
+as  ações  do  jogador  e  o  quanto  ele  está 
+próximo de alcançar o objetivo. 
+
+e.  As  ações  das  equipes  na  resolução  dos  desafios  eram 
+acompanhadas  e  feedbacks  eram  dados  a  equipe;  a  cada 
+término de um desafio, a equipe tinha uma visão sobre o 
+seu desempenho. 
+
+f.  Sistema  de  recompensa  e  Competição: 
+receber  bonificações  de  acordo  com  os 
+avanços. 
+
+g.  A primeira equipe que completasse o desafio corretamente 
+ganhava  10  pontos  e  as  demais  que  conseguissem 
+completar o desafio ganhavam 5 pontos. 
+
+Fonte: Os autores. 
+
+ 
+3.1. Elaboração do “BlockCode” 
+
+Na elaboração da oficina foi proposto um quebra-cabeça para ser montado a partir 
+ 
+da  resolução  de  desafios  em  um  labirinto  adaptado  do  Code.org1.    O  “BlockCode”, 
+quebra-cabeça proposto, é um jogo que consiste na resolução de desafios que devem ser 
+solucionados  a  partir  da  criação  de  algoritmos.  Nessa  atividade  o  aluno  desenvolve 
+habilidades tais quais abstração, raciocínio lógico e simulação.  
+
+Para  a  construção  dos  desafios  foram  utilizados  os  conteúdos  que  foram 
+trabalhados na oficina. Todo material foi idealizado de forma lúdica, a fim de melhorar e 
+preservar a atenção dos alunos ao conteúdo. 
+ 
+As  peças  que  faziam  parte  do  jogo  foram  produzidas  seguindo  o  padrão  do 
+Code.org e Scratch2. Cada tipo de peça, conforme Imagem 1, possuía uma cor diferente 
+e formatos que se encaixavam, como quebra-cabeças para preservar o sentido de fluxo de 
+execução. Foram produzidas peças representando variáveis, funções e estruturas padrões 
+nas linguagens de computação, estas foram impressas em papel adesivo e em formato de 
+peças encaixáveis. Foram entregues para cada equipe fichas onde a resolução dos desafios 
+deveria ser colada. 
+
+1 https://code.org/ 
+2 https://scratch.mit.edu/ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1 - Exemplo de uso das peças do quebra-cabeça “BlockCode” 
+
+ 
+
+4. Resultados e Discussão 
+
+ 
+A oficina foi realizada nos dias 30/05 e 13/06 de 2019, envolvendo 45 alunos do 
+1º ano do Curso técnico em Manutenção de Sistemas da Informação da Escola Cidadã 
+Integral  e  Técnica  João  da  Matta  Cavalcantti.  Os  alunos  participantes  não  tinham  um 
+conhecimento básico de programação. Alguns já tinham ouvido sobre programação, mas 
+não tinham tido contato prévio com lógica de programação. Para a realização dos desafios 
+utilizando o “BlockCode” os alunos organizaram-se em seis (06) equipes, toda a escolha 
+dos membros fora feita pelos mesmos.  
+
+ 
+Alguns alunos, na apresentação da oficina e dos primeiros conceitos trabalhados, 
+demonstraram receio por ser o primeiro contato deles com programação. Porém quando 
+as  funções  apresentadas  foram  demonstradas  utilizando  o  “BlockCode”  foi  nítido  o 
+aumento no engajamento dos alunos nas atividades da oficina.  
+
+Durante  a  resolução  dos  desafios  os  integrantes  das  equipes  mostraram-se 
+ 
+participativos, notou-se uma comunicação e empenho dentro das equipes para a resolução 
+dos mesmos. A cada desafio a equipe vencedora vibrava por sua conquista. As equipes 
+que estavam no topo do ranking, criaram uma competição entre si para alcançar o topo 
+do scoreboard.  
+
+ 
+No segundo dia da execução da oficina, os alunos já estavam acostumados com o 
+método e a competição ficou mais acirrada, ao término do desafio final, no qual o mesmo 
+daria a vitória a uma das equipes, veio o empate por duas delas no ranking.  Foi necessário 
+a realização de um novo desafio para que houvesse o desempate, para eles, era essencial 
+que apenas uma equipe obtivesse o 1º lugar.  
+
+Todos os desafios foram realizados de forma desplugada. Durante a resolução os 
+ 
+monitores  também  forneciam  suporte  e  tiravam  dúvidas  das  equipes.  A  correção 
+acontecia  de  forma  manual,  o  grupo  terminava  e  levantava  a  mão,  então  um  monitor 
+conferia se o código estava correto. Caso o código estivesse incorreto o monitor explicava 
+o que faltava no código e os alunos tentavam resolver novamente para que todos tivessem 
+ 
+a oportunidade de terminar os desafios.  
+
+ 
+Desse modo, foi perceptível que a oficina trouxe resultados satisfatórios, uma vez 
+que  a  mesma  promoveu  a  resolução  de  desafios  em  equipe  envolvendo  conceitos 
+relacionados  a  lógica  de  programação.  Observamos  durante  a  realização  da  oficina  o 
+engajamento dos participantes e a busca pela melhor solução possível, bem como o anseio 
+
+ 
+de superar as dificuldades para aprender os assuntos propostos que viessem solucionar os 
+desafios aplicados. 
+
+Após análise dos resultados dos desafios, o método provou-se funcional e de fácil 
+ 
+aplicação,  visto  que,  a  metodologia  da  Computação  Desplugada,  pode  ser  adaptada  a 
+qualquer ambiente e para uma gama diversa de públicos. A competitividade criada entre 
+as  equipes,  fez  com  que  as  mesmas  procurassem  entender  o  conteúdo  e  tirar  dúvidas 
+durante a apresentação dos conceitos. Essas atitudes ajudaram os alunos a responderem 
+os desafios mais rápido e de forma correta para assim vencer a competição. 
+
+5. Considerações Finais 
+
+ 
+O  trabalho  apresentou  um  relato  de  experiência  do  uso  da  Computação 
+Desplugada e de elementos de Gamificação no planejamento e execução de uma oficina 
+com  o  intuito  de  promover  a  aprendizagem  da  lógica  de  programação.  Para  apoiar  o 
+ensino foi proposto um quebra-cabeça, o “BlockCode”.  
+
+A  partir  da  observação  da  oficina  percebemos  o  engajamento  dos  alunos  na 
+realização  das  atividades  propostas.  Este  trabalho  também  traz  como  contribuição  o 
+fornecimento de uma nova estratégia para despertar o interesse e motivar aluno/professor, 
+deste modo facilitando o processo de ensino aprendizagem. 
+
+ 
+A  experiência  mostrou-se  de  fácil  aplicabilidade,  podendo  ser  adaptada  para 
+qualquer ambiente e público alvo, entretanto necessita-se ainda de aprimoramentos para 
+polir o método de aplicação. 
+
+Referências 
+
+DVS Editora. 
+
+ALVES, F. (2015). Gamification: como criar experiências de aprendizagem engajadoras. 
+
+BEZERRA, Fábio de Lima; DIAS, Klissiomara. (2012) Programação de computadores 
+
+no ensino fundamental: experiências com logo e scratch em escola pública. 
+
+BRAGA, M. C. G.; OBREGON, R. de F. A. Gamificação: estratégias para processos de 
+aprendizagem.  Congresso  Nacional  de  Ambientes  Hipermídias  para 
+
+ 
+Aprendizagem. 7o. Conahpa. São Luis, MA. 17 a 20 jun. 2015. 
+
+BELL, T., Witten, I, H. e Fellows, M. (2011). Computer Science Unplugged: Ensinando 
+Ciência da Computação sem o uso do computador. Tradução coordenada por Luciano 
+Porto Barreto. 
+
+DA  SILVA,  Andreza  Regina  Lopes  et  al.  (2014)  Gamificação  na  educação.  Pimenta  
+
+Cultural. 
+
+BORDINI, A., AVILA, C. M. O., CUNHA, M. M., CAVALHEIRO, S. A. C., FOSS, L.,  
+.  AGUIAR, M.  S.  ,  REISER,  R.  H.  S.  (2016).  Computação  na  Educação  Básica  no 
+Brasil: o Estado da Arte. Revista de Informática Teórica e Aplicada , v. 23, n. 2, p. 
+210-238.  
+
+FARDO,  M.  L.  (2013).  A  gamificação  aplicada  em  ambientes  de  aprendizagem. 
+
+RENOTE, 11. 
+
+FERREIRA,  A.  C.,  MELHOR,  A.,  BARRETO,  J.,  de  PAIVA,  L.  F.,  &  MATOS,  E. 
+(2015, October). Experiência prática interdisciplinar do raciocínio computacional em 
+atividades de computação desplugada na educação básica. In Anais do Workshop de 
+Informática na Escola (Vol. 21, No. 1, p. 256). 
+
+ 
+
+ 
+
+ 
+HUIZINGA, J. Homo Ludens: o jogo como elemento da cultura. São Paulo: Perspectiva, 
+
+1980. 
+
+MARQUES,  Diego  Lopes  et  al.  (2011)  Atraindo  alunos  do  ensino  médio  para  a 
+computação:  Uma  Experiência  Prática  de  Introdução  à  Programação  utilizando 
+
+ 
+Jogos e Python. In: Anais do Workshop de Informática na Escola. 1138-1147. 
+
+NAGAI, W., & IZEKI, C. (2016). As estratégias de gamificação da disciplina de Projeto 
+e  Análise  de  Algoritmos  segundo  o  Modelo  Dinâmico  de  Aprendizado  baseado  em 
+Jogos. In Anais dos Workshops do Congresso Brasileiro de  
+na 
+Educação (Vol. 5, No. 1, p. 1159). 
+
+Informática 
+
+SCAICO,  Pasqueline  Dantas  et  al.  Ensino  de  programação  no  ensino  médio:  Uma 
+abordagem  orientada  ao  design  com  a  linguagem  scratch.  Revista  Brasileira  de 
+Informática na Educação, v. 21, n. 02, p. 92, 2013. 
+
+SOCIEDADE  BRASILEIRA  DE  COMPUTAÇÃO.  Referenciais  de  Formação  em 
+Computação:  Educação  Básica.    Disponível  em:  http://www.sbc.org.br/noticias/10-
+slideshow-noticias/1996-referenciais-de-formacao -e -computacao-educacao-basica>. 
+Acesso em: 16 set. 2017. 
+
+SOUSA,  R.  V.  de;  Barreto  L.  P;  Andrade,  A;  Abdalla,  D.  (2010)  “Ensinando  e 
+aprendendo  conceitos  sobre  a  ciência  da  computação  sem  o  uso  do  computador: 
+Computação  Unplugged!”.  Práticas  em  Informática  na  Educação:  Minicursos  do 
+Congresso Brasileiro de Informática na Educação, vol. 1, Número 1, 2010. 
+
+VALENTE,  J.  A.  (2016).  Integração  do  pensamento  computacional  no  currículo  da 
+educação básica: diferentes estratégias usadas e questões de formação de professores 
+e  avaliação  do  aluno.  Revista  e-Curriculum,  São  Paulo,  v.14,  n.03,  p.  864  –  897 
+jul./set.2016. 
+
+ 
+
+ 
+
+

@@ -1,0 +1,390 @@
+Programadores do Amanhã: Introdução ao Pensamento 
+Computacional na Educação Básica 
+
+Givanaldo Rocha de Souza1, Stephanny Kawany M. Nunes1, Marília Barbosa C. do 
+Nascimento1, Estevão Henrique L. Ferreira1 
+
+1Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), 
+Campus Parnamirim – Brasil 
+
+{stephannykawany21, mariliabcn55, estevaohenril}@gmail.com, 
+givanaldo.rocha@ifrn.edu.br  
+
+Abstract. This article describes the experience of an introduction course about 
+computational  thinking  in  basic  education  through  block  programming  using 
+Scratch.  We  analyzed  the  experiences  of  Programmers  of  Tomorrow  project, 
+which  consists  in  taking  to  students  of  public  schools  the  knowledge  in 
+Computer  Programming,  carried  out  by  students  of  the  technical  course 
+integrated in Informatics and of the superior course of Systems Technology for 
+the  Internet,  both  from  the  Federal  Institute  of  Education,  Science  and 
+Technology (IFRN), Parnamirim Campus. 
+
+Resumo. Este artigo tem como objetivo descrever o relato de experiência de um 
+curso  de  introdução  ao  pensamento  computacional  na  educação  básica  por 
+meio da programação em blocos usando o Scratch.  Para isso, foram analisadas 
+as experiências vividas no projeto Programadores do Amanhã, o qual consiste 
+em levar para alunos de escolas públicas o conhecimento em Programação de 
+Computadores, realizado por alunos do curso técnico integrado em Informática 
+e  do  curso  superior  de  Tecnologia  em  Sistemas  para  Internet,  ambos  do 
+Instituto  Federal  de  Educação,  Ciência  e  Tecnologia  (IFRN),  Campus 
+Parnamirim. 
+
+1. Introdução 
+
+O  projeto  Programadores  do  Amanhã  tem  como  objetivo  disseminar  o  pensamento 
+computacional por meio da programação em blocos utilizando o Scratch, despertando o 
+interesse pela área de computação e motivando os alunos a ingressarem em um curso na 
+área. “Todos neste país deveriam aprender a programar um computador, pois isto ensina 
+a pensar”. Essa frase de Steve Jobs já explica a motivação para o projeto e pode ser trazida 
+para o contexto nacional. O ensino de programação, além de ajudar a pensar e desenvolver 
+o  raciocínio  lógico,  faz  com  que  os  alunos  tenham  uma  capacidade  ainda  maior  para 
+resolver problemas que são encontrados não apenas nos códigos, é uma porta de entrada 
+para um mundo com novas possibilidades.  
+
+ 
+A computação pode ser definida como a busca de uma solução para um problema 
+a partir de entradas de dados e por meio de um algoritmo. É um subcampo da ciência da 
+computação matemática e que durante centenas de anos foi executada com caneta e papel, 
+giz, ardósia, ou somente mentalmente, por vezes com o auxílio de tabelas, ou utensílios 
+
+ 
+
+artesanais. Segundo Amaral et al. (2014, p. 1475), a computação pode ser entendida como 
+"a  ciência  que  estuda  [...]  Algoritmos,  Complexidade  Computacional,  Organização  de 
+Computadores, Linguagens de Programação, Redes de Computadores, Banco de Dados, 
+Sistemas Operacionais, entre outros. [...]". 
+
+ 
+O crescimento tecnológico permitiu uma mudança de paradigmas no ensino, pois 
+surgiu a necessidade de lidar e interagir com os conceitos do raciocínio lógico aplicado a 
+ambientes digitais. No transcurso das quatro últimas décadas, houve um grande avanço 
+na  utilização  do  computador  e,  com  isso,  possibilitou  uma  evolução  significativa  nas 
+interfaces  homem-máquina,  promovendo  uma  ação  de  conquista  em  dispositivos 
+eletrônicos e expandindo pelo baixo custo de matérias e equipamentos que possibilitam 
+o aprendizado por meio de uma lógica de programação e a experiência de ferramentas e 
+cenários  como  recursos  didáticos  [Mélo  et  al.  2011].  Esta  contribuição  possibilita 
+substancialmente  o  aprendizado  da  lógica  de  programação  por  meio  de  ferramentas, 
+cenários operacionais que buscam praticar e instigar a construção constante e continuada 
+do  conhecimento,  com  base  na  experimentação  própria  das  necessidades  do  aluno 
+[Papert, apud Mélo et al. 2011]. 
+
+O advento tecnológico fez surgir um novo profissional na área da educação como 
+ 
+forma  de  mediar  a  tecnologia  ao  processo  metodológico  de  ensino-aprendizagem,  por 
+meio da “Disseminação do Pensamento Computacional”. Busca-se utilizar uma revisão 
+da  literatura  que  contemple  as  possibilidades  de  desenvolvimento  do  pensamento 
+computacional, dentre eles, destacam-se Amaral et al. (2015), França e Amaral (2015), 
+Mélo  et  al.  (2015)  e  Rocha  (2013).  Consequentemente,  quando  nos  voltamos  para  a 
+inserção da Informática na Educação precisamos ressaltar que tal consideração busca uma 
+fundamentação  significativa  para  sua  consolidação  no  currículo  escolar  e  com  isto 
+podemos  encontrar  algumas  discussões  por  parte  dos  educadores  sobre  este  assunto. 
+Portanto, uma das formas de inserção da computação nas escolas é por meio de projetos 
+de tecnologia aplicados em sala de aula e por imediato acaba sendo um modo de mostrar 
+e cultivar a motivação dos educandos pela área de tecnologia quando forem cursar uma 
+universidade. 
+
+ 
+O Scratch é um software que utiliza uma linguagem muito semelhante aos blocos 
+construtivos de brinquedos Lego, estimulando a criatividade. Assim, precisamos ponderar 
+que para “uma filosofia particular inspirado nos brinquedos da Lego e por uma pedagogia 
+socioconstrutivista”  [Rocha  2013],  podemos  propor  que  o  usuário  possa  criar  os  mais 
+diversos  projetos.  Estes  conceitos  procuram  diminuir  a  problemática  do  processo  de 
+interesse  e  a  motivação  dos  educandos 
+ensino-aprendizagem,  adicionando  o 
+transversalmente  por  meio  dos  jogos,  que  acabam  exercendo  influência  sobre  os 
+educandos [Rocha 2013]. Assim, como ferramenta para se aplicar os conceitos de lógica 
+de  programação,  utilizamos  o  Scratch  para  introduzir  estes  educandos  a  pensar 
+computacionalmente. 
+
+ 
+Por meio deste projeto, priorizamos fazer com que os alunos desenvolvessem a 
+capacidade de pensar e resolver problemas. Hadi Partovi, criador da iniciativa Code.org, 
+acredita  que  a  programação  é  uma  incrível  e  poderosa  habilidade  para  se  aprender. 
+Tivemos por objetivo com esse projeto fazer com que mais pessoas se envolvessem com 
+a  programação  e  motivar  cada  vez  mais  crianças  e  adolescentes  a  entrar  no  mundo  da 
+computação. Podemos considerar que esta metodologia se tornou significativa, quando 
+nos  voltamos  ao  desenvolvimento  de  jogos,  que  vem  a  ser  de  grande  aceitação  pelas 
+crianças e jovens. 
+
+ 
+
+ 
+Este  artigo  é  composto  por  mais  três  seções.  A  segunda  seção  descreve  a 
+motivação para o projeto e como o mesmo foi planejamento para ser executado na escola. 
+A  terceira  seção  apresenta  os  jogos  que  foram  desenvolvidos  durante  o  projeto. 
+Finalmente,  a  quarta  seção  apresenta  as  considerações  finais  e  perspectivas  futuras  a 
+respeito da execução do projeto. 
+
+2. Motivação e planejamento do projeto 
+
+Desde que o conceito do pensamento computacional foi popularizado por Wing (2006), 
+um grande número de iniciativas de ensino de programação e robótica tem surgido para 
+que crianças e jovens possam ter habilidades nessas áreas e estimular o raciocínio lógico. 
+Blikstein (2008) relata que aprender a programar é uma das etapas mais importantes para 
+o desenvolvimento do pensamento computacional, independente de usar uma linguagem 
+de programação (C, Java, Python, Ruby etc.). Assim, o ensino de programação utilizando 
+uma linguagem de blocos, como o Scratch, possibilita a crianças e jovens aprenderem a 
+programar de forma lúdica, sem as amarras e sintaxes de uma linguagem de programação, 
+preocupados em desenvolver o raciocínio lógico. 
+
+Existem diversas  iniciativas no  ensino de programação com Scratch,  tais  como 
+ 
+minicursos e oficinas [Silva, Souza e Morais 2016, Madeira 2017, Marinho 2017]. Essas 
+iniciativas, em sua maioria, usam metodologias de aprendizagem baseadas em criação de 
+jogos digitais [Silva e Falcão 2017], uma vez que os jogos são atrativos na faixa etária da 
+educação básica, além de estimular o lúdico, explorando a criatividade dos alunos. 
+
+ 
+O projeto Programadores do Amanhã foi planejado baseado nas ideias descritas 
+no parágrafo anterior, fazendo uso de oficinas e de um projeto de criação de jogos digitais. 
+Ele foi executado na Escola Municipal Augusto Severo, na cidade de Parnamirim-RN, 
+com  alunos  do  8º  e  9º  anos  do  ensino  fundamental.  A  equipe  foi  composta  por  um 
+professor  de  sistemas  de  informação,  que  coordenou  o  projeto,  e  três  alunos  do  curso 
+técnico de Informática, todos do IFRN - Campus Parnamirim, e teve duração de um ano. 
+
+ 
+O projeto foi planejado em duas etapas: Informática básica e Programação. Essa 
+divisão  foi  necessária,  pois  não  se  sabia  o  nível  de  conhecimento  dos  participantes  e, 
+como são dois assuntos que estão muito interligados, foi abordado, mesmo que de uma 
+maneira  rápida,  o  conteúdo  de  informática  básica  antes  de  inserir  a  programação  nas 
+aulas. 
+
+2.1. Informática básica 
+
+Os recursos atuais da tecnologia e os novos meios digitais (a multimídia, a Internet e a 
+telemática)  trazem  novas  formas  de  ler,  de  escrever,  e,  portanto,  de  pensar  e  agir.  O 
+simples uso de um editor de texto mostra como alguém pode registrar seu pensamento de 
+forma  distinta  daquela  do  texto  manuscrito  ou  mesmo  datilografado,  provocando  no 
+indivíduo uma forma diferente de ler e interpretar o que escreve, forma esta que se associa 
+ora como causa, ora como consequência, a um pensar diferente  [Fróes 1994, p. 18]. A 
+informática  é  importante  para  sociedade  moderna,  pois  a  todo  momento  precisamos 
+utilizá-la, seja de forma direta ou indireta. Sendo assim, é essencial que todo ser humano 
+tenha os conhecimentos básicos da informática. Com esse pensamento, desenvolvemos 
+com os alunos aulas relacionadas a esse assunto, fornecendo a base da informática. Foram 
+ministradas  aulas  de  introdução  aos  sistemas  operacionais,  editor  de  texto,  planilha 
+eletrônica e Internet. 
+
+ 
+
+ 
+Com base  em um questionário aplicado no final do projeto podemos notar que 
+todos os participantes acharam relevante aprender informática básica para o evoluir do 
+projeto e para a utilização em outras questões práticas do cotidiano.  
+
+2.2.   Programação  
+
+Os  alunos  que  participaram  do  projeto  estavam  cursando  o  8°  e  o  9°  anos  do  ensino 
+fundamental  e,  até  o  iniciar  as  aulas,  nunca  tinham  tido  contato  com  a  programação. 
+Portanto,  foi  necessário  garantir  que  o  primeiro  contato  desses  alunos  com  a  área  da 
+computação  gerasse  compreensão  e  motivação  para  os  envolvidos.  Sendo  assim,  foi 
+abordado um tipo de programação mais simples e mais dinâmica, sendo por esse motivo 
+o Scratch a plataforma escolhida para trabalhar durante o projeto.  
+
+ 
+O Scratch foi desenvolvido pelo MediaLab do MIT, para que o usuário pudesse 
+programar histórias interativas, jogos e animações, com a possibilidade de compartilhar 
+suas  criações  com  outros  membros  da  comunidade  online.  Além  de  ser  voltada 
+especialmente para estudantes entre 8 e 16 anos [Scratch 2015]. 
+
+ 
+Quando perguntado aos alunos no questionário final se eles haviam tido alguma 
+dificuldade dentro da área de programação, foi visto que o nível de dificuldade deles ficou 
+entre  pouco  e  médio,  ou  seja,  embora  eles  tenham  sentido  dificuldade  na  área  da 
+programação,  ela  não  comprometeu  a  compreensão  e  desenvolvimento  das  aulas.  Na 
+figura 1 é mostrado em termos numéricos o resultado da enquete em questão. 
+
+ 
+
+Figura 1. Dificuldade dos alunos na área de programação ao final do curso 
+
+Durante o decorrer aulas, foi observado uma maior motivação e participação dos 
+ 
+alunos nas aulas práticas de desenvolvimento dos jogos utilizando o Scratch. Esse fato 
+foi  importante  para  expandir  o  interesse  dos  alunos  pela  informática,  gerando  melhor 
+relação entre os estudantes e a plataforma de programação, pois foi nítido a busca pela 
+compreensão do software, mediante a quantidade de dúvidas e curiosidades apresentadas 
+ao decorrer das lições. Na figura 2, é possível comprovar essa preferência por meio do 
+questionário  final,  o  qual  todos  os  alunos  que  expressaram  sua  opinião  demonstraram 
+maior interesse pela parte da programação. 
+
+ 
+
+Figura 2. Parte de maior interesse: Informática básica ou programação 
+
+ 
+
+3. Jogos desenvolvidos no projeto 
+
+Os jogos de computador desempenham um papel muito importante na vida dos nossos 
+jovens [Murray 1999, Turkle 1997, Overmars 2004, Maloney et al. 2008, Resnick et al. 
+2009,  Paraskeva  et  al.  2010].  Por  ser  algo  do  cotidiano  dos  alunos,  optou-se  pelo 
+desenvolvimento  de  jogos  digitais  como  projeto  final,  com  o  intuito  de  os  alunos 
+desenvolverem seus próprios jogos, uma vez que o Scratch permite criar facilmente jogos 
+com potencial educativo [Marques 2013]. 
+
+ 
+Na  fase  final  do  projeto,  os  encontros  foram  reservados  para  que  os  alunos 
+desenvolvessem o jogo digital no Scratch. Os jogos foram desenvolvidos em grupos para 
+que, além de aprender a trabalhar em grupo, eles também pudessem se ajudar à medida 
+em que fossem surgindo dúvidas ou dificuldades. Essa abordagem em grupo foi muito 
+eficiente, uma vez que foi perceptível que os alunos procuravam encontrar respostas para 
+os problemas que iam aparecendo de acordo com o desenvolvimento do jogo entre eles 
+mesmos antes de procurarem os instrutores. Foram criados três grupos e desenvolvidos 
+três jogos distintos ao final do projeto.  
+
+ 
+O grupo 1 desenvolveu um jogo baseado na  tabuada (Figura 3). O personagem 
+cita  uma  multiplicação  e  a  cada  resposta  certa  ele  adiciona  pontos  para  o  placar  do 
+jogador,  mas  caso  o  jogador  erre  o  resultado,  aparece  uma  mensagem  dizendo  que  a 
+resposta está errada e em seguida aparece outra multiplicação. O grupo que desenvolveu 
+o jogo já determinou o tempo que cada partida deve durar.   
+
+ 
+
+ 
+
+ 
+
+Figura 3. Jogo desenvolvido pelo grupo 1 
+
+ 
+O  grupo  2  desenvolveu  um  jogo  que  consiste  em  utilizar  a  barra  verde  para 
+controlar a passagem da bola laranja a qual está em movimento constante (Figura 4), algo 
+parecido com o jogo Pong. Durante o jogo, na parte superior esquerda conta a pontuação 
+durante  o  jogo  e  a  parte  superior  direita  informa  o  recorde  da  pontuação.  Caso  a  bola 
+atinja  a  barra  vermelha  o  jogo  paralisa,  exibe  uma  mensagem  que  o  jogador  perdeu  e 
+reinicia quando é clicado qualquer botão do teclado. 
+
+Figura 4. Jogo desenvolvido pelo grupo 2 
+
+ 
+O grupo 3 desenvolveu um jogo baseado no Fruit Ninja (Figura 5), onde aparecem 
+frutas constantemente e é necessário clicar nelas para que essas sumam, aumentando a 
+pontuação  da  partida.  Para  isso,  cada  fruta  soma  uma  quantidade  de  pontos  diferente, 
+aparecem na tela e percorrem o sentido vertical em um tempo aleatório. 
+
+ 
+
+Figura 5. Jogo desenvolvido pelo grupo 3 
+
+ 
+
+ 
+É  possível  perceber  que  em  uma  mesma  plataforma  os  alunos  desenvolveram 
+jogos  com  objetivos  diferentes,  ou  seja,  eles  tiveram  percepções  diferentes  do  mesmo 
+assunto.  Isso  ocorre  pelo  fato  do  Scratch,  apesar  de  ser  uma  programação  em  blocos, 
+oferece  diversas  possibilidades  de  criação  e  diferentes  formas  para  o  desenvolvimento 
+delas. 
+
+A apresentação do trabalho final ocorreu na aula de encerramento do projeto. Um 
+ 
+convite foi enviado aos gestores da escola para que pudessem prestigiar a apresentação 
+dos jogos desenvolvidos pelos seus alunos (Figura 6).  
+
+ 
+
+Figura 6. Modelo do convite enviado aos gestores da escola 
+
+No laboratório onde ocorreram as aulas, os grupos projetaram os jogos no espaço 
+ 
+disponível e apresentaram como tiveram as ideias para o jogo, o  método utilizado para 
+concretizar  essas  ideias,  as  dificuldades  enfrentadas  e  como  funcionava  o  jogo, 
+finalizando  com  a  demonstração  prática.  Ao  final  das  apresentações,  todos  os  alunos 
+concluintes receberam certificado de participação no projeto. 
+
+ 
+Houveram  algumas  dificuldades  no  desenvolvimento  dos  jogos,  pois,  embora 
+tenham praticado no decorrer do projeto com exercícios, na hora de desenvolver algo que 
+não  tinha  um  roteiro  foi  mais  complicado.  Foi  possível  perceber  que  surgiram  muitas 
+dúvidas, perguntas do tipo “qual bloco usar?”, “o que vem a seguir?”, “qual jogo fazer?” 
+
+ 
+
+foram bem comuns. Por vezes, os blocos não faziam o que os alunos esperavam, mas com 
+calma, tempo e ajuda foi possível ver o crescimento do conhecimento dos alunos.  
+
+No  que  diz  respeito  às  dúvidas  que  surgiram,  os  alunos  foram  encorajados  a 
+ 
+seguirem três passos: 1°) tentar encontrar o erro, 2°) pedir ajuda ao(s) colega(s) e 3°) se 
+tudo  falhasse,  procurariam  os  instrutores.  Isso  foi  encorajado  porque  essa  discussão 
+colaborativa  é  muito  importante,  faz  com  que  os  alunos  se  esforcem  mais,  pensem, 
+repensem, desenvolvendo o raciocínio lógico deles. Vale ressaltar que objetivo principal 
+do  desenvolvimento  dos  jogos  não  era  medir  o  conhecimento  dos  alunos,  mas  sim 
+incentivar os mesmos a procurarem aprender mais, a tentarem com erros e acertos, além 
+de procurarem uma aprendizagem colaborativa com a turma.  
+
+4. Considerações finais 
+
+Nos  primeiros  momentos,  o  projeto  enfrentou  dificuldades  para  a  execução  do 
+planejamento,  como  a  infraestrutura  e  ausência  de  conhecimento  dos  alunos  sobre 
+informática  e  programação.  Porém,  a  contribuição  entre  os  professores  e  os  alunos 
+possibilitou  o  andamento  do  mesmo.  Diante  dessa  colaboração,  ao  final  das  aulas,  os 
+resultados dos questionários avaliativos mostram o resultado satisfatório do projeto. 
+
+ 
+A  partir  dos  objetivos  alcançados,  a  experiência  do  projeto  demonstra  a 
+possibilidade de trazer a programação ao cotidiano de crianças e adolescentes, os quais 
+nunca  tiveram  a  chance  do  acesso  a  essa  prática.  Além  disso,  comprova-se  também  a 
+importância do propósito de introduzir a programação na educação básica para melhorar 
+o desempenho do raciocínio lógico na resolução de problemas práticos ou técnicos. 
+
+ 
+Como  projeto  futuro,  o  grupo  pretende  incluir  atividades  de  computação 
+desplugada nas escolas em que a estrutura de laboratório seja insuficiente ou precária para 
+se usar o Scratch em um laboratório de informática. 
+
+Referências 
+
+Amaral, H. J. C. et al (2014). A disseminação do pensamento computacional na educação 
+básica: lições aprendidas com experiências de licenciandos em computação. Anais do 
+XXXIV Congresso da Sociedade Brasileira de Computação (CSBC). 
+
+Blikstein, P. (2008). O Pensamento Computacional  e a Reinvenção do Computador na 
+
+Educação. Disponível em: <http://bit.ly/1lXlbNn>.  
+
+França,  R.  S.;  Amaral,  H.  J.  C.  (2013). Proposta  Metodológica  de  Ensino  e  Avaliação 
+para o Desenvolvimento do Pensamento Computacional com o Uso do Scratch. Anais 
+do II Congresso Brasileiro de Informática na Educação (CBIE). 
+
+Fróes,  J.  A.  (1994).  Tecnologia  na  vida  cotidiana:  -  importância  e  evolução  sócio-
+
+histórica. Rio de Janeiro. 
+
+Madeira,  Charles  (2017).    Introdução  ao  Pensamento  Computacional  com  Scratch.  In: 
+Anais do II Congresso sobre Tecnologias na Educação (CTRL+ E-2017). p. 725-730. 
+
+Marinho, Anna R. da Silva et al (2017). O uso do Scratch na Educação Básica: Um relato 
+de experiência vivenciada no PIBID. In: Anais do Workshop de Informática na Escola. 
+p. 402. 
+
+Marques,  M.  C.  P. O.  (2013). O  ensino  da  programação  no  desenvolvimento  de  jogos 
+através  do  ambiente  Scratch.  Tese  do  mestrado  em  Ensino  de  Informática  da 
+Universidade do Minho, Braga. 
+
+ 
+
+Mélo, F. É. N. et al. Do Scratch ao Arduino: uma proposta para o ensino introdutório de 
+programação  para  cursos  superiores  de  tecnologia.  Anais  do  XXXIX  Congresso 
+Brasileiro de Educação em Engenharia (COMBEGE), 2011. 
+
+Rocha, A. S. et al. Utilização do Scratch como ferramenta de auxílio à aprendizagem de 
+programação.  Anais  do  XLI  Congresso  Brasileiro  de  Educação  em  Engenharia 
+(COMBEGE), 2013. 
+
+Scratch. (2015) “About Scratch”, http://scratch.mit.edu/about. 
+
+Silva,  João  Paulo  da;  Falcão,  Taciana  Pontual.  Jogos  Infantis  e  Pensamento 
+
+Computacional: em Busca de um Conjunto de Diretrizes de Design. 2017. 
+
+Silva, Vladimir; Souza, Aryesha; Morais, Dyego. Pensamento Computacional no Ensino 
+de Computação em Escolas: Um Relato de Experiência de Estágio em Licenciatura em 
+Computação  em  Escolas  Públicas.  In:  Congresso  Regional  Sobre  Tecnologias  na 
+Educação. 2016. p. 324-325. 
+
+Wing, J. (2006). Computational Thinking. Communications of the ACM, 49(3): 33-36. 
+
+ 
+
+

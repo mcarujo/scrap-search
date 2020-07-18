@@ -1,0 +1,481 @@
+O “Maker” na Escola: uma Reflexão sobre Tecnologia, 
+Criatividade, e Responsabilidade Social  
+
+Lucas O. Lopes, Paula R. P. Oliveira, Karoline F. dos Santos, Elisa Pomari, Diego 
+Thuler 
+
+ Desenvolvimento Pedagógico, Little Maker – Americana, SP – Brasil 
+
+lucas.lopes@littlemaker.com.br, paula@littlemaker.com.br, 
+karoline@littlemaker.com.br, elisa@littlemaker.com.br, 
+diego@littlemaker.com.br 
+
+Resumo: O artigo discute as possibilidades de desenvolvimento de consciência 
+de  responsabilidade  social  por  meio  de  atividades  maker  exploradas  em 
+ambiente  escolar,  e  suas  consequências  na  formação  do  sujeito.  A  reflexão 
+baseia-se  num  estudo  de  caso  da  metodologia  da  Little  Maker  aplicada  a 
+estudantes do Ensino Fundamental II.  
+
+Abstract: The article discusses the possibilities of developing social awareness 
+and  responsibility  through  the  maker  activities  explored  at  school  and  its 
+consequences in the students formation as individuals. The reflections are based 
+on  a  study  case  of  Little  Maker's  methodology  applied  to  elementary  school 
+students. 
+
+1. Introdução 
+
+Muito se fala do valor pedagógico de metodologias ativas, tecnologias digitais aplicadas 
+à sala de aula e dos múltiplos benefícios que tais atividades podem trazer para a formação 
+do  educando.  Esse  artigo  não  pretende  negar  tal  aspecto,  mas  percorre  um  caminho 
+diferente  ao  refletir  sobre  os  possíveis  impactos  que  tal  formação  pode  trazer  para  a 
+sociedade como um todo. Considerando que as pessoas formadas por essas metodologias 
+podem  desenvolver  aguçada  consciência  e  responsabilidade  social  e  que  isso  pode  ser 
+incentivado de forma consciente por estratégias metodológicas e práticas pedagógicas.  
+
+Para tal, a reflexão parte da observação de uma atividade prática, a aplicação de 
+um  ciclo  de  aulas  da  metodologia  Little  Maker,  realizada  com  estudantes  do  Ensino 
+Fundamental II. Essa observação e a retomada de conceitos teóricos acerca de educação 
+e  tecnologias  digitais  guiam  um  estudo  de  caso  que  permitem  considerações  sobre  o 
+desenvolvimento de consciência e senso de responsabilidade social por meio de práticas 
+como essa, assim como apontamentos sobre reverberações na sociedade a longo prazo.   
+
+Dessa forma, a seção 2 retoma o processo de surgimento do movimento maker e 
+a  sua  entrada  no  ambiente  escolar.  Em  seguida,  são  sublinhados  alguns  aspectos  e 
+possíveis  impactos  que  a  relação  entre  cultura  maker  e  educação  podem  trazer  para  a 
+sociedade. Essas observações sensibilizam o olhar para o estudo de caso descrito na seção 
+4. Por fim, são apresentados alguns apontamentos e reflexões acerca das possibilidades 
+
+ 
+
+de  desenvolvimento  de  consciência  e  senso  de  responsabilidade  social  abertas  pela 
+aplicação de metodologias ativas.  
+
+2. O Movimento Maker: da garagem à escola 
+
+Nascida  da  necessidade  de  formas  mais  econômicas  de  fazer  reparos  e  manutenções 
+residenciais e da customização de itens pessoais, a  cultura do DIY  - do-it-yourself, no 
+inglês,  ou  faça  você  mesmo,  em  português  -  aliou-se  ao  conceito  de  open  content  - 
+conteúdo aberto - permitindo que as pessoas reproduzissem e modificassem projetos sem 
+a necessidade de comprar ou pedir permissão ao autor. Essa é a origem do movimento de 
+valorização da construção coletiva,  o DIT  - do-it-together ou faça junto, que, por sua 
+vez, foi precursor do movimento maker. Tal movimento cresceu na medida em que reuniu 
+pessoas  que  gostam  essencialmente  de  criar  e  compartilhar  seus  projetos,  nesse  grupo 
+encontram-se  muitos  hobistas  e  profissionais,  principalmente  da  área  de  criação  e 
+tecnologia, dando origem a um manifesto que aponta  seus alicerces por meio de palavras 
+simples,  mas  que  resumem  bem  a  proposta:  “participe,  equipe-se,  dedique-se,  apoie, 
+permita-se errar, aprenda, divirta-se, mude, faça e compartilhe” [Hatch, 2014]. A partir 
+disso, tem início o que podemos chamar propriamente de Cultura Maker. Um conjunto 
+de comportamentos, conhecimentos, valores, crenças e costumes que têm como base as 
+ideias de que pessoas participativas podem se envolver em projetos que as façam se sentir 
+capazes de construir coisas novas, ou seja, gerando seu empoderamento. Hoje a cultura 
+maker  se  faz  presente  das  garagens  às  universidades,  passando  por  empresas,  espaços 
+colaborativos de criação, lugares de educação formal e informal. Como os maker spaces, 
+onde os usuários valem-se de uma infraestrutura para criar e  aprender  a trabalhar com 
+fabricação  digital,  programação,  eletrônica,  marcenaria  e  diversas  outras  habilidades 
+técnicas;  também  é  possível  usar  esses  espaços  para  desenvolver  projetos  pessoais  ou 
+empresariais.  
+
+Por basear-se em saberes técnicos e sustentar-se pelos pilares de seu manifesto, a 
+cultura maker estabeleceu profundo diálogo com campo educacional. Principalmente com 
+concepções  pedagógicas  que  perpassam  as  metodologias  ativas,  como  é  o  caso  da 
+Aprendizagem Criativa, aqui entendida como aquela que coloca o aprendiz na posição de 
+protagonista da construção do próprio saber; e da Aprendizagem Significativa, na qual as 
+relações  cognitiva,  social  e  emocional  do  aprendiz  com  o  objeto  de  conhecimento  são 
+valorizadas de forma integral, conectadas através do ambiente das tecnologias e técnicas, 
+trazendo significado, compreensão, sentido, capacidade de transferência para o aprendiz 
+[Santos e Galembeck, 2017].  
+
+Assim,  em  muitas  escolas  a  aula  de  "maker"  ou  STEAM  (Ciência,  Arte, 
+Tecnologia, engenharia, artes e matemática) divide  espaço na grade com as disciplinas 
+tradicionais,  prometendo  foco  na  interdisciplinaridade,  no  "mão-na-massa"  e  na 
+criatividade do aprendiz.  A inserção de atividades maker no contexto escolar tem sido 
+observada,  discutida  e  estudada  por  diversos  grupos  de  educadores  e  pesquisadores, 
+dentre eles destacam-se o Project Zero da Graduate school of education de Harvard e o 
+MediaLab do MIT [Clapp, E. P., Ross,  J., Ryan, J. O. e  Tishman, S. 2016]. 
+
+3. Cultura Maker: do sujeito para a sociedade 
+
+A alfabetização na área de tecnologia é considerada por muitos como essencial no mundo 
+contemporâneo [Santos e Schnetzler, 1997]. Essa ideia, aliada ao uso de ferramentas de 
+uma  oficina,  do  desenvolvimento  de  projetos  que  conectam  ciência,  arte,  tecnologia, 
+engenharia e matemática utilizando a liberdade da criatividade é instigante e soa como 
+uma  novidade  empolgante  para  toda  comunidade  escolar.  Porém,  deve-se  lembrar  que 
+criar  ou  construir  algo  no  mundo  é  também  intervir  nesse  mesmo  mundo  e, 
+
+ 
+
+consequentemente,  na  vida  dos  outros.  Em  outras  palavras,  não  se  pode  separar  a 
+construção e a criação individual ou de pequenos grupos de seu impacto coletivo e social. 
+Assim, faz-se necessário levar o estudante a refletir sobre seu fazer, seu projeto ou sua 
+criação, levando em consideração seu entorno e a sociedade para que, então, ele aja como 
+cidadão. 
+
+Construir  um  projeto  cuja  finalidade  encerra-se  em  si  próprio  pode  parecer 
+interessante num primeiro momento, como montar um robô por ser legal, apresentar uma 
+oficina  porque  é  diferente,  inserir  o  STEAM  pois  são  as  habilidades  do  século  XXI. 
+Contudo, pode ser um caminho perigoso por levar o sujeito a entender que qualquer coisa 
+por  ele  desenvolvida  é  boa  pelo  simples  fato  de  ser  um  produto  de  sua  criatividade. 
+Acontecimentos dos dois últimos séculos nos lembram que ideias e adventos tecnológicos 
+tanto podem melhorar a vida das pessoas como podem precariza-las. Tendo isso em vista, 
+é  indispensável  que  o  ensino  maker  inclua  reflexões  sobre  responsabilidade  social  no 
+ambiente escolar. Para isso, é possível recorrer à abordagem CTS (Ciência, Tecnologia e 
+Sociedade) empregada no ensino de ciências.            
+
+Desenvolvida e introduzida nos currículos desde a década de 1960, a abordagem 
+CTS  tem  por  objetivo  trazer  para  o  ensino  de  ciências,  dentre  outras  coisas,  o 
+planejamento tecnológico e tomada de decisão para solução de problemas de importância 
+social. Tais princípios foram incorporados nas discussões curriculares nacionais que, por 
+este  motivo,  propõe:  “identificar  relações  entre  conhecimento  científico,  produção  de 
+tecnologia  e  condições  de  vida,  no  mundo  de  hoje  e  em  sua  evolução  histórica,  e 
+compreender  a  tecnologia  como  meio  para  suprir  necessidades  humanas,  sabendo 
+elaborar juízo sobre riscos e benefícios das práticas científico-tecnológicas” [BRASIL, 
+1998]   
+
+Dessa forma, apesar do ensino maker não trabalhar exclusivamente com ciências 
+e  tecnologia,  a  abordagem  CTS  pode  ser  uma  ferramenta  pedagógica  eficiente  para 
+introduzir  no  processo  pedagógico,  de  maneira  natural,  as  questões  levantadas 
+anteriormente.  
+
+4. Little Maker: estudo de caso  
+
+Este estudo de caso foi baseado nas aulas do curso Maker Inovador, um dos programas 
+desenvolvidos  pela  Little  Maker,  cuja  metodologia  é  organizada  em  quatro  etapas 
+principais  –  Ideação,  Planejamento,  Construção  e  Reflexão  –  subdivididas  em  alguns 
+passos que estruturam a prática, conforme será visto a seguir. As aulas foram realizadas 
+em  um  colégio  da  cidade  de  Campinas  em  dezembro  de  2018.  Nesse  processo,  foram 
+envolvidos dez estudantes do Ensino Fundamental II com idades entre 11 e 14 anos, cujos 
+nomes foram substituídos para garantir seu anonimato. 
+
+  
+O curso Maker Inovador tem o intuito de ser aplicado de  forma intracurricular, 
+inserido na grade horária de todos os estudantes alunos com frequência semanal para o 
+Ensino Fundamental II. Contudo, neste estudo de caso, o ciclo de aulas foi desenvolvido 
+ao longo de quatro dias totalizando 16 horas. 
+
+4.1 Ideação 
+
+Imersão. O processo tem início a partir da apresentação de um micromundo que faz parte 
+do programa em questão. Nesse caso, o micromundo explorado chama-se “Brasil Rural”, 
+nele  algumas  curiosidades  a  respeito  do  lugar  são  apresentadas  aos  estudantes    para 
+contribuir com a quebra de estereótipos ao mesmo passo em que desperta interesse sobre 
+o assunto. Dessa forma, acredita-se que seja possível aproximar os Makers de realidades 
+diferentes da sua de uma maneira mais aprofundada. A apresentação se dá por meio da 
+
+ 
+
+figura de um amigo, um possível habitante que, de forma convidativa, inicia o processo 
+de imersão.  
+
+Em seguida, foram apresentadas 4 estações de pesquisas organizadas por eixos de 
+interesse  onde  os  Makers  poderiam  agrupar-se  livremente.  A  Maker  Lara  escolheu  o 
+“Eixo Animais  e Vida”. A partir de "perguntas provocação"  - perguntas cuja função é 
+iniciar  um  processo  de  pesquisa  provocada  por  algumas  curiosidades  relacionadas  ao 
+micromundo - nele contidas, pesquisou sobre a pecuária intensiva e semi intensiva, muito 
+sensibilizada  pela  questão  de  maus  tratos  aos  animais  na  pecuária.  Já  o  Maker  Nico 
+interessou-se pelo “Eixo Recursos Naturais”, pois teve como ideia a criação de uma rede 
+de  compartilhamento  de  recursos  entre  áreas  rurais,  aproveitando  o  que  cada  lugar 
+possuiria  como  potencial.  Elementos  como  sustentabilidade,  recursos  hídricos  e 
+biológicos  foram  abordados.  Dentro  do  “Eixo  Trabalho,  Produção  e  Infraestrutura”, 
+tivemos os Makers Edson, Carlos e Jorel. Partindo das possibilidades de transporte para 
+deslocamento  da  produção  da  zona  rural,  os  Makers  aprofundaram-se  na  pesquisa  de 
+elementos como rodovias, linhas ferroviárias, hidrovias, entre outros, para compararem 
+os  custos  e  pensarem  o  que  seria  mais  viável  financeiramente.  O  grupo  ficou  tão 
+envolvido  que  realizaram  orçamentos  reais.  Além  disso,  discutiram  quais  produtos 
+poderiam  ser  transportados  para  venda  do  campo  para  as  áreas  urbanas,  levando  em 
+consideração  o  tempo  de  cultivo.  Decidiram,  então,  pela  produção  e  transporte  de 
+pimentas, por levarem de 20 a 60 dias entre plantio e colheita. Deste modo, eles tiveram 
+como  ideia  um  grande  sistema  de  produção,  transporte  e  venda  de  pimentas,  que 
+posteriormente foi batizado de Reinado das Pimentas. Os Makers Beto, Juju, Gigi, Jorge 
+e William escolheram o “Eixo Cultura e Hábitos”, problematizando o modo de vida das 
+pessoas ali e pensando em como a tecnologia poderia contribuir para isso, quais recursos 
+disponíveis poderiam ser aproveitado e como as pessoas poderiam se divertir neste lugar. 
+
+Compartilhamento Painéis. Após as pesquisas realizadas, os Makers de cada Eixo 
+apresentaram  um  painel  que  construíram  com  as  informações  e  pesquisas  do  lugar, 
+compartilhando o conhecimento com os demais colegas, levando os Makers a escolherem 
+em qual eixo gostariam de criar algo. Lara e Nico gostaram tanto da apresentação que os 
+Makers fizeram do “Eixo de Trabalho, Produção e Infraestrutura” que decidiram se juntar 
+ao Jorel, Edson e Carlos na ideia da produção de pimentas. Já Beto, Juju, Gigi, Jorge e 
+William formaram um grupo para continuarem trabalhando questões do “Eixo Cultura e 
+Hábitos”, planejando construir um cinema ecologicamente sustentável para a população 
+local.  
+
+Problematização.  A  partir  do  eixo  escolhido,  os  grupos  pensaram  a 
+problematização  do  lugar,  entendendo  as  demandas  através  da  criação  das  personas 
+daquele ambiente. Após essas definições os grupos repensaram nas possíveis demandas 
+e problemáticas do ambiente pesquisado pela perspectiva das personas construídas, a fim 
+de identificar o que gostariam de abordar (ou validar, no caso do grupo do Reinado da 
+Pimenta).  O  Grupo  do  “Eixo  de  Trabalho,  Produção  e  Infraestrutura”  mapeou  como 
+personas:  um  administrador  para  os  negócios,  uma  coletora/colhedora  de  pimenta,  um 
+motorista de caminhão, um cozinheiro e um consumidor. Já o grupo do “Eixo Cultura e 
+Hábitos”  elaborou:  responsável  pela  bilheteria,  responsável  pela  manutenção  técnica, 
+administrador, responsável pela pipoqueira e uma persona representante do público. 
+
+4.2 Planejamento  
+
+Esboço de Projeto. Definidas as ideias, o grupo do Reinado da Pimenta dividiu-se em três 
+subgrupos para construção de seu projeto: Jorel e Edson ficaram responsáveis pela parte 
+estrutural  do  caminhão  que  faria  o  transporte  dos  produtos,  enquanto  Carlos  e  Nico 
+
+ 
+
+ficaram  responsáveis  pelo  funcionamento  e  movimento  do  caminhão,  explorando  com 
+mais  profundidade  os  elementos  eletrônicos; 
+já  Lara  ficou  responsável  pelo 
+desenvolvimento do design das embalagens dos produtos, trabalhando, assim como Jorel 
+e Edson, com técnicas manuais, combinando materiais e habilidades. 
+
+Enquanto  isso,  o  outro  grupo  decidiu  construir  um  cinema  que  aproveitasse  de 
+recursos  naturais  encontrados  no  ambiente  para  transformação  em  energia  renovável, 
+visando uma forma de diversão mais limpa sustentável para os moradores. A partir dessa 
+premissa,  dividiram-se  em  subgrupos  também:  Beto  e  Jorge  ficaram  responsáveis  por 
+explorar os eletrônicos a fim de construir o projetor do cinema; William ficou encarregado 
+de estudar e explorar formas de converter a correnteza do rio em energia elétrica para a 
+sala  de  cinema;  Gigi  ficou  responsável  pela  construção  da  bilheteria  do  cinema,  que 
+incluía lanchonete; e Juju ficou encarregada pela construção da parte interna da sala de 
+cinema, definindo texturas, materiais, as disposições das poltronas e do telão. 
+
+Figura 2 -  Folhas de projetos com cada parte da construção do cinema 
+
+Mapa  de  Necessidades.  Uma  vez  esboçadas  as  linhas  gerais  do  projeto  e 
+levantadas as demandas do projeto, os Makers fizeram uma autoavaliação para entender 
+os conhecimentos e habilidades necessários para construir o projeto e mapearam o que 
+eles  já  sabem  e  o  que  precisavam  aprender.  Para  isso  usam  como  apoio  os  “Cards  de 
+Conhecimento e Habilidade” que ajuda a identificar as possibilidades e desdobramentos 
+do  projeto.  Apesar  dos  grupos  dividirem  os  projetos  em  subetapas  que  estavam 
+intimamente ligadas, mantiveram uma comunicação estreita, a fim de que todas as partes 
+fossem  coerentes  quando  estivessem  em  conjunto,  o  que  contribuiu  para  trocas  de 
+conhecimentos e exercícios de relações interpessoais importantes. 
+
+ 
+
+ 
+
+Figura 3  - Cards de Habilidades e Conhecimentos.  Os cards dão suporte para 
+os alunos na elaboração dos mapas de necessidades. 
+
+Aquisição de Habilidades e Conhecimentos. Esse foi um importante momento de 
+trocas, no qual os estudantes poderiam aprender conceitos e técnicas uns com os outros 
+
+ 
+
+como  tutores,  visto  que  após  aprenderem  algo  até  então  desconhecido,  os  Makers 
+mostraram-se empolgados em dividir os conhecimentos ou habilidades. Como no caso da 
+Caneta 3D, a qual Edson e Jorel exploraram a ferramenta e desenvolveram um método 
+para que o manuseio fosse aprendido rapidamente: começar com formas básicas, como 
+quadrados desenhados previamente em folha de sulfite e progressivamente avançar para 
+construção  de  objetos  tridimensionais  a  partir  da  junção  de  elementos  bidimensionais. 
+Esse método foi útil para a construção dos dois grupos. 
+
+ 
+
+Figura 4 - Experimentações com a Caneta 3D.  As duas figuras humanas foram 
+criadas pelos alunos durante a etapa de aquisição de habilidades.  
+
+A Maker Juju realizou uma extensa pesquisa acerca de mecanismos que poderiam 
+ajudar  na  construção  do  projetor  do  cinema,  trazendo  para  a  oficina  conceitos  e 
+funcionamento de alavancas, polias, manivelas e diferentes tipos de engrenagens. Ainda 
+no  campo  de  pesquisas,  o  Maker  Edson  também  trouxe  um  registro  sobre  como  as 
+descobertas científicas feitas na oficina poderiam ser úteis no projeto de seu grupo. 
+
+Em  geral,  a  impressora  3D  teve  uma  alta  procura  e,  por  isso,  os  estudantes  
+puderam  intercambiar  experiências  e  informações  a  respeito  das  possibilidades  da 
+máquina; bem como os eletrônicos, que foram interessantes para ambos os projetos. 
+
+          Adversidade. Após a aquisição dos conhecimentos e habilidades e antes de iniciar 
+a construção do projeto de fato, foi apresentada uma adversidade. Essa etapa propõe uma 
+retomada ao ambiente do micromundo, a elaboração de uma dificuldade que ali poderia 
+ser encontrada e uma reavaliação do planejamento. Nesse caso, a adversidade proposta 
+foi a ocorrência de um fenômeno natural e cada grupo teve que definir qual seria e como 
+impactaria seu projeto. 
+
+O  grupo  do  Reinado  da  Pimenta  estabeleceu  como  adversidade,  a  partir  da 
+premissa de desastre natural, um incêndio que dificultaria a passagem do  caminhão de 
+transporte  e,  como  solução,  trabalharam  em  uma  mudança  na  tração  do  caminhão, 
+deixando-o mais forte e com mais rodas para passar por cima do entulho sem dificuldade. 
+Já o grupo do Cinema, definiu que haveria uma seca no rio que serviria como provedor 
+da água para energia. Optaram, então, por seguir com uma fonte de energia renovável, 
+mas  substituíram-na  por  energia  solar,  adaptando  a  recepção  de  energia  para  painéis 
+solares. 
+
+Plano de Projeto. Após a adversidade os Makers fizeram as devidas adaptações 
+aos planos de projeto esboçados inicialmente, considerando também os conhecimentos e 
+habilidades adquiridas. 
+
+Prototipação. Ao longo do período de construção, algumas técnicas foram desenvolvidas 
+e compartilhadas, como a descoberta de Juju quanto a pintar impressões 3D com giz de 
+
+4.3 Construção  
+
+ 
+
+cera derretido através do contato com o bico da cola quente. Ela utilizou a técnica para 
+colorir  uma  das  poltronas  do  cinema  e  logo  todos  se  interessaram  e  testaram.  Apesar 
+disso, julgou que o método não seria prático para aplicação em todas as poltronas e optou 
+pela colagem de tecido como forma de revestimento das peças. 
+
+A Maker Gigi voltou a utilizar seus conhecimentos quanto ao manuseio da caneta 
+3D ao treinar letra cursiva para atender ao  modelo  de letreiro desejado para o  cinema. 
+Além disso, também utilizou a ferramenta para soldar o letreiro no papelão presente na 
+estrutura da bilheteria. A caneta 3D também foi usada como instrumento para construção 
+de uma coroa presente na embalagem de molho de pimenta, por Lara - que veio a utilizar 
+a técnica de coloração por giz de cera também -, e para construir as laterais da cabine do 
+caminhão do grupo Reinado da Pimenta: Edson e Jorel ficaram responsáveis cada um por 
+uma  lateral,  eles  puderam  expressar  estilos  de  preenchimento  diferentes  e  refinar  seu 
+senso  de  tempo,  ao  perceberem  quanto  tempo  levou  para  realizar  essa  tarefa  em 
+detrimento a outras que precisavam ser feitas; essa habilidade é vantajosa a longo prazo, 
+por ser importante na hora de planejar o projeto e suas etapas. 
+
+ 
+Figura 5  - Prototipação. Resultados  dos projetos construídos pelos  alunos na 
+etapa de prototipação 
+
+          Compartilhamento. Intercaladas com a etapa de prototipação as equipes fazem o 
+compartilhamento dos problemas e dificuldades para obter ajuda e validar ideias de todo 
+o grupo. 
+
+4.4 Reflexão 
+
+Apresentação  do  mapa  processual.  Após  concluírem  seus  projetos,  cada  grupo 
+compartilhou,  além do produto final de sua construção e do  esforço envolvido,  todo o 
+processo pelo qual passaram. Para isso, tiveram como apoio um painel de folha kraft no 
+qual foram registrando todas as etapas desde a primeira aula, ressaltando os pontos que 
+acharam  mais  importantes;  compartilharam  suas  dificuldades,  sucessos  e  descobertas 
+juntamente com seus sentimentos enquanto construíam. 
+
+ 
+
+ 
+
+ 
+
+Figura 6 : Mapas processuais elaborados pelos grupos para a apresentação para 
+a turma.  
+
+Foi perceptível o quanto ambos os grupos estavam orgulhosos de seus projetos, e 
+mesmo  quando  houve  vergonha  de  apresentar  em  público,  os  colegas  de  equipe  mais 
+extrovertidos comunicaram o papel que cada um desenvolveu ao longo do processo. Além 
+disso, também foi marcante a empolgação e dedicação para preparação do painel que seria 
+apresentado  junto  com  o  projeto  final,  e  a  reação  dos  estudantes    ante  o  momento  de 
+apresentação:  atenciosos  com  o  processo  do  outro  grupo  e  com  performance  final  do 
+projeto. Como, por exemplo, quando o Maker Beto ligou o sistema de motores do projetor 
+do cinema, causando grande curiosidade ao funcionamento do mesmo, um gancho para 
+que ele explicasse o procedimento de exploração que seguiu. 
+
+Conexões. Ao final das apresentações foi feita uma roda de bate papo, onde os 
+Makers  discutiram  e  identificaram  os  conhecimentos  mobilizados  durante  todo  o 
+processo.  
+
+5. Ser Maker: responsabilidade social, fazer, tecnologia e criatividade.  
+
+O estudo de caso apontado nos permite algumas reflexões sobre a relação entre a atividade 
+maker  explorada  pelos  estudantes  e  a  abordagem  CTS,  ou  seja,  entre  o  ensino  da 
+tecnologia e a conscientização social de suas aplicações. Apesar da temática social não 
+
+ 
+
+ser especificamente colocada para os estudantes em nenhum momento do processo, nota-
+se  que  as  etapas  de  ideação,  elaboração  do  projeto,  construção  e  reflexão  promovem 
+diversas oportunidades de conexão entre suas criações, saberes técnicos e científicos e os  
+impactos e interações de ambos com o meio natural, social e cultural.  
+
+ 
+Ao  longo  do  processo,  os  estudantes  passaram  por  etapas  que  promoveram  a 
+desconstrução  de  uma  percepção  baseada  no  senso  comum  de  que  um  determinado 
+ambiente,  um  recorte  do  mundo  rural,  seria  um 
+lugar  atrasado  cultural  e 
+tecnologicamente. Isso aconteceu através das curiosidades que o "amigo", ele próprio um 
+personagem que quebra as expectativas de lugar comum, apresenta aos aprendizes. Dessa 
+forma, os estudantes são incentivados a explorar de maneira mais profunda o ambiente 
+apresentado,  aproximando-se  de  novas 
+realidades  e  entendendo-nas  em  sua 
+complexidade.   
+
+Além disso, as pesquisas em torno de eixos temáticos escolhidos de acordo com 
+seus  interesses  pessoais,  acompanhados  de  perguntas  provocação,  cujo  objetivo  é 
+incentivar  questionamentos,  investigações  e  descobertas,  suscitaram  discussões  que 
+perpassam  pontos  como  responsabilidade  social,  respeito  à  diversidade  cultural, 
+sustentabilidade  e  responsabilidade  ambiental.  A  organização  do  material  do  curso  de 
+eixos temáticos como “Animais e Vida”, "Recursos Naturais" e “Trabalho, Produção e 
+Infraestrutura”,  dentre  outros,  visa  colaborar  com  essas  discussões.  Visto  que  os 
+micromundos  estabelecem  paralelos  com  aspectos  da  realidade,  a  bagagem  construída 
+pelos  estudantes  nos  ciclos  de  aulas  poderia  contribuir  para  uma  postura  consciente  e 
+cidadã  quando  associarem  tais  discussões  a  outras  situações  por  eles  observadas  e 
+vivenciadas.  
+
+Soma-se à isso a experiência de colocar-se no lugar do outro proporcionada pela 
+elaboração de personas. Processo esse que estimula o exercício da empatia com o outro, 
+alguém pertencente a um contexto diverso do seu e que deve ser considerado tanto na 
+criação  quanto  na  construção  do  projeto.  Assim,  o  outro,  suas  características  e 
+necessidades específicas  passam a ser parte integrante da perspectiva dos estudantes .   
+
+Ainda,  fomenta  o  uso  das  faculdades  criativas,  das  técnicas  aprendidas  e  das 
+tecnologias disponíveis para a  elaboração  e construção de projetos que visam um bem 
+comum das personas ou da comunidade do micromundo, consideradas em sua totalidade 
+-  social,  cultural  e  ambiental  -,  como  geração  de  empregos,  acesso  à  cultura  e 
+sustentabilidade.  
+
+Por fim, incentiva-se o compartilhamento de saberes, técnicas, estudos e soluções 
+ao longo de todo o processo. Reforçando, então, a ideia de que o conhecimento é livre e 
+cresce  ao  ser  partilhado  ao  mesmo  tempo  em  que  contribui  para  a  autonomia  dos 
+aprendizes em relação aos saberes disciplinares. 
+
+Isso posto, acredita-se que a abordagem que o ensino maker associado às diretrizes 
+da  abordagem  CTS  têm  muito  a  contribuir  com  a  formação  integral  do  sujeito,  ponto 
+reforçado pela recém instituída Base Nacional Comum Curricular. No caso apresentado, 
+isso ocorre por meio do exercício de habilidades cognitivas, técnicas e aliadas ao estímulo 
+da  formação  de  uma  sensibilidade  e  responsabilidade  social,  características  essenciais 
+para a produção de uma sociedade mais saudável.  
+
+Em  conclusão  e  inspirados  pelas  elucubrações  de  Veraszto,  Silva,  Miranda  e 
+Simon (2008) sobre o filme de Stanley Kubrick “2001: Uma Odisseia no Espaço” (1968), 
+propõe-se a seguinte comparação. Em sua fantasia cinematográfica, Kubrick ilustra , na 
+primeira cena do filme, um fenômeno que mudaria para sempre a história da humanidade: 
+
+ 
+
+o advento da primeira ferramenta. O momento em que um hominídeo apropria-se de um 
+fragmento de osso ao encontrar os restos de um grande animal e, num lapso de razão e 
+criatividade, percebe que aquilo poderia transformar seu fazer. Assim, o fragmento deixa 
+de  ser  apenas  um  pedaço  de  mundo  inanimado  para  converter-se  em  instrumento  de 
+intervenção no mundo. Contudo, junto da ferramenta rudimentar, a primeira tecnologia, 
+nasce também a disputa pelo poder, que gera uma fissão no grupo. Essa realidade pré-
+histórica  estende-se  por  séculos  e  mantém-se  como  tema  do  filme:  a  odisséia  humana 
+junto à tecnologia, transformadora, intervencionista e desarmônica. A partir deste cenário, 
+reforça-se a percepção de que o saber técnico não pode ser pensado de forma emancipada 
+da sociedade na qual se desenvolveu. Nesse sentido, entende-se que a educação maker, 
+apesar de não solucionar a questão, poderia aproximar gerações futuras de uma atitude 
+mais consciente diante do saber tecnológico e científico.  
+
+  
+
+Referências 
+
+Brasil. (1998) Ministério da Educação. Secretaria de Educação Fundamental. Parâmetros 
+
+Curriculares Nacionais: Ciências Naturais. Brasília: MEC/SEF. 
+
+Clapp,  E.  P.,  Ross,    J.,  Ryan,  J.  O.  e    Tishman,  S.  (2016)  Maker-Centered  Learning:     
+
+Empowering Young People to Shape Their Worlds. Jossey-Bass. 
+
+Hatch, Mark. (2014) The Maker Movement Manifesto. McGraw Hill Education 
+
+Resnick, Mitchel. (2017) Lifelong Kindergarten: Cultivating Creativity Through Projects, 
+
+Passion, Peers, and Play -  MIT Press,  
+
+Santos, Verônica Gomes e Galembeck, Eduardo. Aprendizagem Criativa e Significativa 
+Como Trabalhar Ciências Com As Crianças. (2017) XI Encontro Nacional de Pesquisa 
+em  Educação  em  Ciências  –  XI  ENPEC  Universidade  Federal  de  Santa  Catarina, 
+Florianópolis, SC  
+
+Veraszto, E. V.; Silva, Dirceu da ; Miranda, Nonato Assis de ; Simon, Fernanda Oliveira 
+.  Tecnologia:  buscando  uma  definição  para  o  conceito.  Prisma.com,  v.  1,  p.  60-85, 
+2008. 
+
+ 
+
+ 
+
+

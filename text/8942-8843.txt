@@ -1,0 +1,387 @@
+ 
+
+Recurso Educacional Digital (RED) para Trabalhar o Gênero 
+Cardápio: Qual é o seu Pedido? 
+
+Raquel S. Freire1, Mércia V. Campos Figueiredo1, Rayssa A. Hitzschky1, Danilo C. 
+Sousa1, Francisco Gilson G. Júnior1, José Aires de Castro Filho1 
+
+1Instituto UFC Virtual – Universidade Federal do Ceará (UFC) 
+Caixa Postal 60440-554 – Fortaleza – CE – Brasil 
+
+{freire, gilsonjunior, aires}@virtual.ufc.br, {merciaval42, 
+sir.danilo.coelho, hitzschkyrayssa}@gmail.com  
+
+Resumo.  O  RED  “Qual  é  o  seu  pedido?”  foi  desenvolvido  a  partir  das 
+concepções da Base Nacional Comum Curricular (BNCC), com o objetivo de 
+trabalhar com a leitura e a produção de cardápios. Por meio de situações de 
+interação  com  o  gênero,  este  recurso  explora  a  compreensão  do  cardápio  a 
+partir de sua funcionalidade e organização composicional, tais como entrada, 
+prato  principal,  sobremesa  e  bebida.  Com  o  desenvolvimento  do  recurso, 
+espera-se  trazer  um  repertório  de  pratos  diversificados,  de  maneira  que  os 
+estudantes  em  processo  de  alfabetização  e  de  letramento  possam  observar 
+diferentes  ortografias,  ampliar  seu  vocabulário  e  conhecimento  de  mundo  e 
+perceber como a culinária envolve uma construção histórica e cultural. 
+
+interaction  with 
+
+Abstract.  The  RED  "What  is  your  request?"  was  developed  from  the 
+conceptions of the National Curricular Joint Base (BNCC), with the objective 
+of  working  with  the  reading  and  the  production  of  menus.  By  means  of 
+the 
+this  resource  explores 
+situations  of 
+understanding  of 
+functionality  and  compositional 
+organization,  such  as  entry,  main  course,  dessert  and  drink.  With  the 
+development  of  the  resource,  it  is  hoped  to  bring  a  repertoire  of  diversified 
+dishes,  so  that  students  in  the  process  of  literacy  and  literacy  can  observe 
+different spellings, expand their vocabulary and world knowledge and realize 
+how the cuisine involves a historical construction and cultural development. 
+
+the  genus, 
+its 
+
+the  menu 
+
+from 
+
+1. Justificativa Pedagógica 
+
+As  tecnologias  digitais  vêm  sendo  amplamente  utilizadas  em  nosso  cotidiano  e  em 
+ambientes  educacionais  formais.  Pesquisas  apontam  que  Recursos  Educacionais 
+Digitais (RED) estão sendo cada vez mais produzidos para que sejam utilizados em sala 
+de  aula  [Scacchetti  e  Guarienti,  2015;  Soares,  Souza  e  Castro,  2018].  De  uma  forma 
+geral,  os  RED  são  materiais  em  formato  digital  com  objetivos  pedagógicos  bem 
+definidos [Amiel e Santos 2013], nos quais estes podem auxiliar os processos de ensino 
+e de aprendizagem, bem como a compreensão de conteúdos. 
+
+Devido  a  importância  de  RED  em  sala  de  aula,  torna-se  relevante  que  o  seu 
+desenvolvimento seja fundamentado a partir das habilidades previstas na Base Nacional 
+Comum Curricular (BNCC). A BNCC é um documento de caráter normativo que define 
+
+ 
+
+conhecimentos,  competências  e  habilidades  essenciais  que  todos  os  alunos  devem 
+desenvolver ao longo da Educação Básica [Brasil 2017]. 
+
+Por 
+
+isso,  faz-se  necessário 
+
+ 
+investigar  como  estes  recursos  podem  ser 
+desenvolvidos  para  atender  aos  objetivos  de  aprendizagem  apresentados  pela  BNCC. 
+Dessa  forma,  o  objetivo  deste  trabalho  é  apresentar  como  um  RED  de  Língua 
+Portuguesa  foi  desenvolvido  no  âmbito  do  projeto  Mídias  Interativas  Educacionais 
+(MIDE) para os anos iniciais do Ensino Fundamental. O projeto é fruto de uma parceria 
+entre  o  Grupo  de  Pesquisa  e  Produção  de  Ambientes  Interativos  e  Objetos  de 
+Aprendizagem  (PROATIVA),  o  Laboratório  de  Mídias  Educacionais  (LME)  e  o 
+Ministério  da  Educação  (MEC).  O  recurso  Qual  é  o  seu  pedido?1  busca  ampliar  as 
+práticas de alfabetização  e de letramento por  meio  de um gênero textual recorrente no 
+cotidiano: o cardápio. Segundo a BNCC [Brasil 2017], o campo da vida cotidiana tem 
+como  propósito  trabalhar  com  situações  de  leitura  decorrentes  do  espaço  familiar, 
+escolar,  cultural  e  profissional.  O  documento  apresenta  como  gêneros  textuais  deste 
+campo:  agendas,  listas,  bilhetes,  recados,  avisos,  convites,  cartas,  cardápios,  diários, 
+receitas,  regras  de 
+jogos  e  brincadeiras.  Nesse  sentido,  o  RED  enfatiza  o 
+desenvolvimento de tais habilidades: 
+
+(EF15LP01)  –  Identificar  a  função  social  de  textos  que  circulam  em 
+campos da vida social dos quais participa cotidianamente (a casa, a rua, a 
+comunidade,  a  escola)  e  nas  mídias  impressa,  de  massa  e  digital, 
+reconhecendo  para  que  foram  produzidos,  onde  circulam,  quem  os 
+produziu e a quem se destinam. 
+(EF15LP03)  –  Localizar  informações  explícitas  em  textos.  (BRASIL, 
+2017, p. 95) 
+
+ 
+Na seção seguinte, o processo de desenvolvimento e as ferramentas tecnológicas 
+utilizadas  para  a  produção  do  recurso  serão  descritas.  Depois,  serão  apresentados  os 
+potenciais  usos  do  RED  em  processos  de  ensino  e  de  aprendizagem  e  os  impactos 
+esperados na educação. 
+
+2. Processo de Desenvolvimento e Ferramentas Tecnológicas Utilizadas 
+
+A  metodologia  adotada  no  desenvolvimento  do  RED  Qual  é  o  seu  pedido?  baseou-se 
+em práticas de Engenharia de Software, conhecidas como metodologias ágeis, uma vez 
+que priorizam testes e uso de técnicas de engenharia de requisitos [Lapolli et al. 2010]. 
+Metodologias  ágeis  são  um  processo  de  desenvolvimento  interativo  e  incremental  de 
+software, organizado  em pequenas  equipes, no qual existe entrega  constante,  em curto 
+intervalo  de  tempo,  com  uma  participação  contínua  de  todos  os  membros  [Beck  et  al. 
+2001; Cockburn 2006]. 
+
+O desenvolvimento do RED envolveu uma equipe multidisciplinar composta por 
+duas  equipes:  a)  equipe  pedagógica,  incluindo  pedagogos  e  graduados  em  Letras,  que 
+concebeu  a  proposta  educacional  do  recurso,  a  partir  da  contextualização  de  seus 
+objetivos  e  conteúdos,  bem  como  descreveu  o  roteiro  pedagógico  com  a  narrativa,  as 
+atividades, os feedbacks, além de referências visuais; b) equipe de desenvolvimento, que 
+englobou  roteiristas,  designers,  ilustradores,  programadores  e  gerente  de  projeto.  Essa 
+
+1 https://youtu.be/AqtoZKqhkgI. 
+
+ 
+
+ 
+
+equipe  desenvolveu  a  identidade  visual  do  RED,  conforme  a  proposta  pedagógica,  as 
+telas,  os  ícones,  os  cenários  e  os  personagens.  Ao  final,  a  identidade  visual  foi 
+implementada, sob supervisão de um gerente de projeto e de um coordenador geral, que 
+organizaram  todo  o  processo.  De  acordo  com  a  metodologia  ágil,  essas  características 
+heterogêneas  da  equipe  têm  o  objetivo  de  criar  tensões  durante  o  processo  de 
+desenvolvimento.  Para  a  criação  do  RED,  as  equipes  reuniram-se  semanalmente  para 
+discutir os produtos [Braga 2015] em cada uma das etapas a seguir (Figura 1): 
+
+Figura 1. Etapas de desenvolvimento do RED Qual é o seu pedido? 
+
+ 
+
+A  primeira  etapa,  Contextualização,  foi  antecedida  pelos  estudos  da  BNCC  e 
+compreendeu  a  concepção  inicial  do  recurso,  assim  como  a  delimitação  de  possíveis 
+abordagens  para  o  conteúdo.  A  segunda  etapa,  Especificações  e  Roteiro  pedagógico, 
+constou da elaboração de um documento, denominado roteiro pedagógico, que mostrou 
+como  o  conteúdo  do  RED  deveria  ser  estruturado.  Estas  etapas  foram  realizadas  pela 
+equipe pedagógica, com colaboração do roteirista. 
+
+A  terceira  etapa,  Design  Visual,  contemplou  a  concepção  visual  do  recurso, 
+abrangendo a ilustração de personagens, cenários e tipografia, e foi feita pelos designers 
+e ilustradores. A quarta etapa, Desenvolvimento, envolveu a programação do RED que 
+utilizou  a  linguagem  HTML5  com  Java  Script.  Teve-se  como  preocupação  o  uso  off-
+line do recurso, a fim de antecipar alternativas para possíveis problemas de Internet. 
+
+A  quinta  etapa,  Guia  de  Orientações  Didáticas,  compreendeu  a  elaboração  de 
+um  guia  para  o  professor,  com  o  objetivo  de  orientá-lo  para  a  utilização  do  RED 
+fundamentado  na  BNCC.  Esta  etapa  aconteceu  paralelamente  à  etapa  de 
+Desenvolvimento,  tendo  em  vista  que,  à  medida  que  a  equipe  pedagógica  elaborava  o 
+documento, os programadores implementavam o recurso. 
+
+A  etapa  de  Avaliação  incluiu  a  realização  de  testes  pedagógicos  do  RED  e  do 
+guia,  feitos  pela  equipe  pedagógica  em  colaboração  com  a  de  desenvolvimento.  Nesta 
+etapa,  os  responsáveis  pela  concepção  do  RED  e  do  guia  verificaram  se  o  que  foi 
+idealizado estava compatível com o que foi implementado. Ainda nesta etapa, foi feita a 
+revisão textual do recurso e do guia por uma profissional da área externa ao projeto. 
+
+A  etapa  de  Disponibilização  abrangeu  a  inserção  do  RED  na  Plataforma  MEC 
+de  Recursos  Educacionais  Digitais.  Por  fim,  a  última  etapa  será  a  de  Validação,  que 
+incluirá  testes  com  alunos  dos  anos  iniciais  do  Ensino  Fundamental,  público-alvo  do 
+recurso,  além  de  professores,  que  poderão  planejar,  juntamente  com  a  equipe 
+
+ 
+
+pedagógica,  a  inserção  do  recurso  em  suas  aulas.  O  objetivo  desta  fase  será  o  de 
+averiguar a efetividade pedagógica do RED, com foco nas habilidades da BNCC. 
+
+2.1. Perspectiva de Desenvolvimento Pedagógico 
+
+O  RED  Qual  é  o  seu  pedido?  buscou-se  fundamentar  na  perspectiva  sócio-histórica, 
+vinculada  diretamente  às  teorias  de  Vygotsky,  partindo  da  observação  de  que  o 
+conhecimento  é  construído  –  e  não  transmitido  –  e  de  que  os  estudantes  possuem  um 
+papel ativo no processo de aprendizagem. 
+
+O RED apropria-se da capacidade dos  estudantes,  como jogadores, quando são 
+ 
+levados a fazer associações, de trazer suas memórias e de usá-las como suporte para a 
+sua vivência em games e espaços gamificados. O uso de atividades gamificadas, como 
+RED  no  contexto  da  educação  formal,  deve  oferecer  propostas  interativas  em  relação 
+aos objetivos pedagógicos, encorajar a independência e a capacidade de compreensão da 
+inter-relação  de  pessoas  e  fatores  diversos  nas  atitudes  tomadas  [Aguiar  2010].  A 
+gamificação,  assim,  é  uma  estratégia  com  a  qual  o  indivíduo  pode  passar  a  viver  uma 
+narrativa cujo desenvolvimento depende de sua ação e da qualidade de sua imersão no 
+papel de protagonista de uma ficção com propósitos diversos. 
+
+ 
+A  mediação  torna-se,  nessa  perspectiva,  um  aspecto  importante  para  se 
+compreender a abordagem socioconstrutivista, conforme Vygotsky afirma: que ela pode 
+se  dar  por  meio  de  um  instrumento  como  uma  ferramenta  material  ou  um  signo,  uma 
+ferramenta psicológica ou por meio dos próprios seres humanos. Um game, portanto, na 
+perspectiva  sócio-histórica,  permite  à  criança  ganhar  propriedade  sobre  o  mundo 
+sociocultural  em  que  vive,  compreendendo  as  regras  de  seu  funcionamento  e  dando 
+novos sentidos e significados para o que lhe é apresentado. 
+
+3. Contribuições para os Processos de Ensino e de Aprendizagem 
+
+Cotidianamente, as crianças participam de situações de comunicação, reconhecendo os 
+diferentes  usos  sociais  da  leitura  e  da  escrita.  Nesse  sentido,  a  educação  formal  tem 
+como um dos seus objetivos a formação de leitores autônomos [Lerner 2002]. Nos dois 
+primeiros  anos  do  Ensino  Fundamental,  o  foco  volta-se  para  a  alfabetização,  a  fim  de 
+garantir  múltiplas  oportunidades  de  apropriação  do  sistema  de  escrita  alfabética  pelos 
+alunos,  de  modo  articulado  às  habilidades  de  leitura  e  de  escrita  dentro  de  práticas 
+diversificadas de letramento. 
+
+Entende-se  que,  por  meio  dos  processos  de  alfabetização  e  de  letramento,  os 
+alunos  são  estimulados  a  estabelecerem  uma  maior  participação,  autonomia  e 
+protagonismo  nas  instâncias  sociais.  A  partir  desse  viés,  o  recurso  aqui  descrito  busca 
+trabalhar  com  as  habilidades  voltadas  para  a  apropriação  do  código  linguístico,  porém 
+não  de  forma  isolada.  Traçou-se  como  parâmetro  a  centralidade  do  texto  [Bakhtin 
+1997],  relacionando-o  aos  seus  contextos  de  produção,  buscando  trabalhar  com  a 
+linguagem de forma significativa em atividades de leitura e de produção de textos. 
+
+O RED Qual é o seu pedido? parte do desenvolvimento da competência leitora e 
+escrita aliada ao  texto, por  meio de seus  conteúdos, habilidades  e objetivos. Para  isso, 
+considerou-se o pertencimento a um gênero discursivo, o cardápio, que circula em um 
+dos campos da vida social, o da vida cotidiana [Geraldi 2015].  
+
+ 
+
+Buscando  apresentar  as  características  composicionais  do  gênero  cardápio  de 
+forma  autêntica,  o  recurso  está  dividido  por  modos,  em  que  cada  um  apresenta  uma 
+progressão em fases. As fases têm um tempo para a sua realização e o jogador tem um 
+número  limitado  de  tentativas  para  efetivar  as  ações  solicitadas.  Os  modos  do  recurso 
+são: Cliente, Garçom/Garçonete e Chef. O jogador começará pelo modo Cliente, no qual 
+o  mapa  do  Brasil  é  apresentado  e  o  aluno  será  situado  como  um  personagem  que  vai 
+viajar por cidades brasileiras, conhecendo duas regiões: Nordeste e Sul. 
+
+Na  primeira  fase,  na  região  Nordeste,  o  RED  faz  uma  explicação  do  gênero  e 
+pede  que  os  alunos,  no  papel  de  cliente,  possam  escolher  uma  entrada,  um  prato 
+principal e uma sobremesa. Na segunda fase, que se passa na Região Sul, o aluno, ainda 
+no papel de cliente, fará o pedido,  mas desta vez deverá estabelecer um valor máximo 
+para  a  conta.  O  aluno  deverá,  então,  ler  e  considerar  os  valores  para  fazer  um  pedido 
+que não ultrapasse cinquenta reais.  
+
+Nas fases seguintes, o RED passará para o modo Garçom/Garçonete, no qual o 
+mapa  do  Brasil  é  novamente  apresentado,  com  as  fases  nas  regiões  Norte,  Sudeste  e 
+Centro-Oeste.  Nessas  fases  não  se  considera  o  valor  dos  pratos,  mas  sim  o 
+reconhecimento da escrita a partir do que é escutado no RED. Nestas as fases, o aluno 
+escutará  uma  gravação  de  um  pedido  e  escolherá  no  cardápio  o  que  escutou  da 
+gravação. Por fim, no modo Chef, trabalha-se com  a produção textual de um cardápio, 
+tendo  à  disposição  itens  nas  seções,  entre  eles  entrada,  prato  principal,  sobremesa  e 
+bebida, criando um cardápio diversificado, à escolha do aluno. Espera-se, dessa forma, 
+que o recurso ofereça subsídios para que os alunos  compreendam as  características do 
+gênero cardápio, ao mesmo tempo em que trabalhem com a leitura e a produção escrita. 
+A  partir  dos  elementos  de  gamificação  presentes  no  RED,  objetiva-se  tornar  a 
+experiência  de  aprendizagem  divertida  e  engajadora.  Além  disso,  o  recurso  busca 
+contribuir para a diversificação dos conhecimentos acerca da culinária brasileira, que é 
+tão rica em história e cultura. Na seção seguinte, apresenta-se os impactos esperados na 
+educação com a utilização do recurso em questão. 
+
+4. O Uso e os Impactos Esperados na Educação 
+
+Dentro  do  ambiente  escolar,  o  RED  Qual  é  o  seu  pedido?  pode  ser  usado  de  duas 
+formas:  individualmente  ou  em  grupo.  Ao  se  trabalhar  em  grupo,  a  discussão  entre  os 
+alunos  pode  envolver  a  narrativa  e  os  desafios  presentes  no  jogo,  favorecendo  a 
+construção  da  aprendizagem  por  cada  um.  Além  disso,  jogar  com  os  amigos  pode  se 
+constituir  um  momento  mais  atrativo  para  os  alunos,  contribuindo  para  a  imersão  no 
+jogo.  As  experiências  prévias  dos  estudantes,  combinadas  com  as  mecânicas  e  os 
+elementos  de  gamificação,  bem  como  a  atuação  do  professor  como  mediador,  podem 
+possibilitar  uma  experiência  de  aprendizagem  na  área  de  Língua  Portuguesa  com  um 
+potencial  dinâmico  e  mais  afetivo.  Como  uma  forma  de  atividade  ainda  inusitada  no 
+ambiente de sala de aula, o RED pode ter o potencial de produzir interações a partir das 
+simulações propostas, como também o desenvolvimento da linguagem e da escrita. 
+
+ 
+Deve-se ressaltar que, para que o RED Qual é o seu pedido? tenha seu potencial 
+de  aplicação  devidamente  alcançado,  deve-se  levar  em  consideração  todo  o  contexto 
+social e educacional no qual ele será inserido. Um mero estímulo externo ou a intenção 
+do  educador  não  determinará  a  qualidade  e  o  sucesso  do  seu  uso.  Esse  sucesso  será 
+
+ 
+
+determinado  pelo  conjunto  e  pelo  coletivo  envolvido  no  processo  educacional  e  pelo 
+potencial mediador dos professores durante a utilização do recurso. 
+
+ 
+Destaca-se, desse modo, a importância da mediação do professor e, igualmente, 
+da geração de um fluxo de feedbacks entre os desenvolvedores e aqueles que aplicarão e 
+utilizarão  o  RED  em  sala  de  aula,  para  fins  de  aprimoramento.  Durante  a  sessão  de 
+utilização,  o  professor  poderá  auxiliar  os  alunos,  ajudando-os  nos  problemas 
+matemáticos que surgem em alguns dos pedidos ou apontando conteúdos e habilidades 
+socioemocionais que  talvez passem despercebidos às crianças. Nesse contexto, espera-
+se  que  com  a  utilização  do  RED,  os  alunos  possam  desenvolver  aspectos  cognitivos, 
+sociais  e  emocionais  e,  assim,  possam  ampliar  os  processos  de  alfabetização  e  de 
+letramento,  o  seu  repertório  linguístico,  considerando  outras  variedades,  de  modo  que 
+eles sejam capazes de usar sua língua materna de forma eficiente em vários contextos de 
+interação. Além disso, almeja-se que o aluno possa compreender a função do cardápio 
+em sua vida cotidiana. 
+
+5. Considerações Finais 
+
+O desenvolvimento de um RED deve estar pautado em uma diversidade de fatores que 
+variam  de  uma  ordem  legislativa  na  educação  (como  atender  às  regras  de  um 
+documento  norteador,  como  a  BNCC),  uma  ordem  teórica  (como  a  fundamentação  na 
+perspectiva  sócio-histórica),  uma  ordem  técnica  (como  a  definição  de  uma  mecânica), 
+uma  ordem  pedagógica  (como  a  definição  de  intencionalidades  pedagógicas)  e  uma 
+ordem afetiva (como o estudo sobre o meio no qual o RED será inserido como base para 
+o desenvolvimento de possíveis afetos para identificação por parte dos alunos). O RED 
+Qual é o seu pedido? opera, nessa perspectiva, na complexidade de tal empreendimento, 
+promovendo maior consciência da significância de atender a esses fatores. Por meio do 
+RED,  os  alunos  podem  entrar  em  contato  com  o  gênero  cardápio  de  forma 
+contextualizada,  a partir de uma  narrativa gamificada que  inclui diferentes  linguagens, 
+como  a  textual,  visual  e  sonora.  O  recurso,  ainda,  traz  diversas  situações  nas  quais  os 
+alunos  podem  vivenciar  a  função  social  do  cardápio,  desde  a  sua  utilização  mais 
+imediata  até  aspectos  que  dão  forma  ao  gênero,  como  o  nome  do  estabelecimento, 
+evidenciando  regularidades  de  tamanho,  posição  no  espaço  do  texto,  cor,  tamanho  e 
+tipografia; a divisão em seções que, por vezes, trazem informações adicionais, como os 
+ingredientes  que  compõem  os  pratos;  o  portador  do  cardápio,  que  inclui  meios 
+convencionais  como  o  papel  ou  quadros  ou  aqueles  mais  contemporâneos,  como 
+suportes eletrônicos: smartphones, tablets, entre outros.  
+
+A produção textual oferecida ao final do RED em suporte digital possibilita uma 
+maior interação com o gênero, pois, usando a rede, torna-se mais fácil fazê-lo circular e 
+ser lido por outras pessoas nos formatos disponibilizados para exportação (.jpeg e .pdf). 
+O  desenvolvimento  prático  do  gênero  estimula  que  o  aluno  possa  relacionar  o  que  foi 
+estudado  anteriormente  ao  longo  das  fases  do  RED  à  composição  de  um  cardápio, 
+evidenciando a ocorrência ou não da aprendizagem das características do gênero.  
+
+A  produção  escrita  também  possibilita  o  desenvolvimento  de  uma  avaliação 
+formativa,  que  inclui  o  rascunho,  a  elaboração  de  uma  primeira  versão,  a  revisão  do 
+texto  e  a  versão  final.  É  importante  destacar  que  a  compreensão  do  gênero  pelo  aluno 
+deve  ser  entendida  como  um  processo  e  não  apenas  como  fruto  dos  seus  resultados 
+finais. Para isso, a realização de cada fase e a conquista das recompensas pode refletir o 
+
+ 
+
+nível de  entendimento dos alunos em relação às atividades propostas, paralelamente, à 
+proposição  de  atividades  anteriores  que  tratam  o  gênero  cardápio.  Durante  o 
+desenvolvimento  do  recurso,  a  equipe  do  projeto  também  produziu  um  Guia  de 
+Orientações  Didáticas,  entendendo  que  o  uso  de  RED  não  deve  acontecer  de  forma 
+isolada,  mas  sim  por  meio  de  um  suporte  pedagógico  voltado  para  o  professor, 
+permitindo  o  trabalho  com  sequências  didáticas  diversas  e  inter-relacionadas.  Desse 
+modo, o RED Qual é o seu pedido? configura-se como um instrumento de  interação e 
+construção de conhecimentos que podem ser utilizados dentro do componente curricular 
+de Língua Portuguesa, visando a ampliação da alfabetização e do letramento.   
+
+Referências 
+
+Aguiar, M. P. (2010) “Jogos Eletrônicos Educativos: Instrumento de Avaliação focado 
+nas fases iniciais do processo de design”. Universidade Federal do Paraná. Programa 
+de Pós-Graduação em Design. 
+
+Amiel,  T.;  Santos,  K.  (2013)  “Uma  análise  dos  termos  de  uso  de  repositórios  de 
+
+recursos educacionais digitais no Brasil.” Trilha Digital, v.1, p.118-133. 
+
+Bakhtin, M. M. (1997) "Estética da criação verbal". 2º ed. São Paulo: Martins Fontes. 
+
+Beck,  K.;  Cockburn,  A.;  Jeffries,  R.;  Highsmith,  J.  (2001)  “Agile  Manifesto”. 
+
+Disponível em: < http://agilemanifesto.org/>. Acesso em 01 de Jul. 2019. 
+
+Braga,  J.  (2015)  "Objetos  de  Aprendizagem:  metodologia  de  desenvolvimento". 
+
+Volume 2, Santo André: Editora da UFABC. 163p. 
+
+Brasil. (2017) "Base Nacional Comum Curricular". Brasília, DF: MEC. 
+
+Cockburn, A. (2006) "Agile Software Development". [s.l.] Pearson Education. 
+
+Geraldi,  J.  W.  (2015)  "O  ensino  de  língua  portuguesa  e  a  Base  Nacional  Comum 
+Curricular". Revista Retratos da Escola, Brasília, v. 9, n. 17, p. 381-396, jul./dez. 
+
+Lapolli,  F;  Cruz,  C.  M.;  Motta,  C.  L.  R.;  Tolla,  C.  E.  T.  (2010)  “Modelo  de 
+Desenvolvimento  de  Objetos  de  Aprendizagem  Baseado  em  Metodologias  Ágeis  e 
+Scaffoldings.” Revista Brasileira de Informática na Educação, Volume 18, nº 2. 
+
+Lerner,  D.  (2002)  “Ler  e  escrever  na  escola:  o  real,  o  possível  e  o  necessário”.  Ed. 
+
+Artmed: Porto Alegre. 128p. 
+
+Scacchetti,  F.  A.  P.  and  Guarienti,  N.  (2015)  “Desenvolvimento  de  Recursos 
+Educacionais Digitais Aplicados no Ensino de Tecelagem.” Ponto Revista Científica, 
+v. 1, n. 2, dez. 
+
+Soares, C. G.; Souza, D. C.; Castro, J. B. (2018). “Recursos Educacionais Digitais e o 
+ensino de adição e subtração: a concepção de um jogo na perspectiva da Teoria dos 
+Campos Conceituais.” VII Congresso Brasileiro de  Informática na Educação (CBIE 
+2018), Anais do VII Congresso Brasileiro de Informática na Educação.  
+
+

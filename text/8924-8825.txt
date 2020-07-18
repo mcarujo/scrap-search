@@ -1,0 +1,281 @@
+Ilha da Tartaruga: Gamificação na Educação Ambiental 
+
+Maria de Jesus Costa1, Sara Stephane Moreira Torres1 
+
+1 Instituto Universidade Virtual  – Universidade Federal do Ceará (UFC) 
+Fortaleza – CE – Brasil 
+
+ suzymaria.costa@gmail.com, sarastephane@gmail.com 
+
+Abstract.  This  paper  approaches  the  principles  of  Environmental  Education,  the 
+concepts  and  characteristics  of  gamification  used  in  the  educational  area.  It’s 
+structured  as  a  case  study  with  the  intent  of  describing  the  application  of 
+gamification  in the learning object(LO)  Ilha da Tartaruga, that uses this approach 
+to generate a bigger engagement and learning in the perspective of environmental 
+education.    Its  development  goes  through  the  education  character  in  the 
+environmental  area,  the  description  of  the    LO  (used  as  a  study  object)  and  the 
+process  of  gamification  applied.  The  paper  concludes  with  an  opinion  about  the 
+results of the process applied in the LO and a thought about the next steps to the 
+research. 
+
+Resumo.  Este  artigo  aborda  os  princípios  da  Educação  Ambiental,    conceitos  e 
+características  da  gamificação  aplicados  na  área  educacional.  Está  estruturado 
+como um estudo de caso no intuito de descrever a  aplicação da gamificação no  
+objeto de aprendizagem (OA) Ilha da Tartaruga, que usa tal abordagem para gerar 
+um  maior  engajamento  e  aprendizagem  no  âmbito  da  educação  ambiental.  Seu 
+desenvolvimento percorre o caráter educacional da área ambiental, a descrição do 
+OA (usado como objeto do estudo) e o processo de gamificação aplicado. O artigo 
+conclui-se com um parecer sobre os resultados do processo aplicado no OA e uma 
+reflexão sobre os próximos passos na pesquisa. 
+
+1. Introdução 
+
+A  relação  entre  conservação  de  recursos  naturais  e  desenvolvimento  sustentável  é 
+amplamente  amparada  pelo  campo  de  atuação  da  Educação  Ambiental.  Incorpora  uma 
+sequência de ações, que visam fomentar discussões  pertinentes  sobre  a qualidade de  vida 
+dos    indivíduos,  e  como  traçar  estratégias  para  criar  essa  relação  de  conservação  e 
+desenvolvimento [Santos et al. 2016]. Assim, paradigmas educacionais, para o preparo  de 
+indivíduos   com   competências   e   habilidades   capazes   de   adequar-se   às mudanças 
+contínuas e propor soluções  sustentáveis, são analisados [Santos et al 2016].  
+
+Nesse  contexto,  também  é  considerado  a  geração  de  indivíduos  que  nasceram  em 
+meio às novas tecnologias, e as usam em suas práticas diárias naturalmente.  Um termo muito 
+utilizado para referir-se a essa geração é de “nativos digitais” [Prensky 2012].  Para Prensky 
+esses jovens possuem características distintas das gerações anteriores, pois nasceram com a 
+
+ 
+
+tecnologia  a  seu  dispor,  consolidando  seu  uso  em  todas  as  suas  atividades  diárias.  O  que 
+ressalta a necessidade de conectar-se  a  uma perspectiva  mais  interativa,  pautada  nas novas 
+tecnologias  e  que  ressignifica os recursos voltados para a educação. Pois  as   mudanças 
+tecnológicas  ocorridas  provocaram  alterações  consideráveis  no  processo de como  os  
+jovens  pensam,  aprendem  e  processam  as  informações [Prensky 2012]. 
+
+Sobre  estratégias  de  aprendizagem,  a  gamificação  se  mostra  um  recurso  bastante 
+alinhado com a necessidade de integrar interatividade, paradigmas  educacionais coerentes 
+para as novas gerações e tecnologias. A gamificação possui como princípio a adaptação de 
+elementos dos jogos, para aplicação em outros contextos, como produtos e serviços, que não  
+necessariamente são focados em  jogos, mas com a  intenção de promover  a motivação e o 
+comportamento  do  indivíduo    [Vianna  et  al  2013].  Ainda  para  Vianna  et  al.  (2013),  a 
+gamificação pode despertar emoções positivas e explorar aptidões, ligadas às recompensas 
+virtuais ou físicas ao se cumprir determinada tarefa. Devido a isso,  torna-se uma estratégia 
+usada em circunstâncias que exijam a criação ou a adaptação da experiência do usuário a um 
+produto, serviço ou processo que vise  gerar um maior engajamento.  
+
+No âmbito da elaboração de  ações da educação ambiental, que promovem discussões 
+sobre conservação e desenvolvimento, voltadas para o público nativo digital. Uma questão a 
+ser investigada é a de como adaptar atividades práticas da educação ambiental para um objeto 
+de aprendizagem (OA) utilizando os princípios da gamificação. 
+
+Neste  contexto,  o  presente  artigo  tem  como  propósito  apresentar  a  aplicação  da 
+gamificação, empregada com a intenção de gerar um maior engajamento e aprendizagem no 
+âmbito da educação ambiental. Utilizando o objeto de aprendizagem Ilha da Tartaruga1 como 
+objeto de um estudo de caso, por  reproduzir tal  abordagem da gamificação. 
+
+2. Princípios da Educação Ambiental 
+
+A  questão  ambiental  ganhou  espaço  no  contexto  educacional,  pois  a  educação  ambiental  
+projeta as relações cotidianas entre seres humanos, espécies animais e vegetais,  bem como 
+procura    soluções  para  interações  nocivas  e/ou  aperfeiçoar  interações  positivas.    Em  uma 
+perspectiva que garanta a possibilidade de se viver dignamente. É um processo pedagógico 
+e  político,    fundamental  e  que  caracteriza  a  sua  inserção  no  campo  educacional  [Reigota 
+2017]. 
+
+Ainda  segundo  o  autor,  o  estado  de  desequilíbrio  ambiental  é  uma  questão  da 
+sociedade.  O  que  evidencia  o  objetivo  da  educação  ambiental  em  favorecer  e  estimular 
+possibilidades  de  se  estabelecer  coletivamente  uma  conciliação  entre  sociedade  e  meio 
+ambiente. Fomentando a   articulação    entre    o desenvolvimento sustentável e a conservação 
+dos recursos naturais [Reigota 2017]. 
+
+É considerado então, que com esses princípios fundamentais a educação ambiental 
+deve  ser  entendida  como  educação  política,  no  sentido  de  que  ela  reivindica  e  prepara  os 
+indivíduos.  Para exigir e construir uma sociedade com justiça social, cidadanias, autogestão 
+e ética nas relações sociais e com o meio ambiente  [Reigota 2017]. 
+
+1 Aplicação desenvolvida pelo grupo Cactools.  Fonte: <https://cactools.wordpress.com/>   
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Objeto de Aprendizagem Ilha da Tartaruga 
+
+A Ilha da Tartaruga é caracterizada como um objeto de aprendizagem (OA),  de acordo com 
+o Learning  Objects  Metadata  Workgroup,  Objetos  de  Aprendizagem (Learning Objects) 
+podem ser definidos como "qualquer entidade, digital ou não digital, que  possa  ser  utilizada,  
+reutilizada  ou  referenciada  durante  o  aprendizado  suportado por tecnologias" [IEE LTSC 
+2007]. O OA foi desenvolvido para o Instituto Verdeluz2, um projeto sem fins lucrativos que 
+tem  por visão a busca por uma Gestão Ambiental Sustentável. O Verdeluz é engajado em 
+modificar a situação de negligência para com o meio ambiente e promover a participação de 
+diversas comunidades de Fortaleza no estado do Ceará, através de programas desenvolvidos 
+em cinco frentes: Educação Ambiental; Reciclagem e Gestão de Resíduos Sólidos; Cuidado 
+de Tartarugas; Cultura e Arte e; Agroecologia Urbana  [INSTITUTO VERDELUZ 2017]. 
+
+O Verdeluz desenvolve, entre vários projetos, a prática da educação ambiental que  
+tem como foco crianças e adolescentes. O instituto visa incentivar essa educação nos jovens 
+para  desenvolver  o  crescimento  de  cidadãos  ecologicamente  conscientes.  No  entanto  o 
+instituto encontrou dificuldade em fazer com  que os jovens propaguem os conhecimentos 
+adquiridos durante a participação nos projetos, e  que eles levassem a aprendizagem de sala 
+de aula e/ou de aula de campo para a rotina deles  [ Almeida 2017]. 
+
+A  Ilha  da  Tartaruga  surge  nesse  contexto  com  o  intuito  de  solucionar  essas 
+dificuldades  do  Verdeluz.  O  OA  tem  como  objetivo  tornar  esses  jovens  em  agentes 
+ecologicamente conscientes e também ativos. Sendo  uma aplicação online para ser utilizada 
+em computadores (desktop), os alunos podem acessar e utilizá-la como uma extensão da sala 
+de  aula,  de  forma  que  todos  os  usuários  terão  acesso  a  um  mundo  compartilhado.  É 
+apresentada  uma  plataforma  visual  onde  o  usuário  irá  interagir  com  o  sistema  com  a 
+finalidade de cumprir tarefas propostas no mundo real, que depois serão convertidas para o 
+virtual na forma de recursos dentro da aplicação. 
+
+A aplicação é mantida  pelos próprios alunos com dados baseados em suas rotinas, de 
+acordo  com  os  conceitos  de  preservação  ambiental  estudados  em  sala  de  aula,  gerando 
+integração  entre  práticas  desenvolvidas  em  aulas  em  sala  e/ou  campo.  O  propósito  dessa 
+integração entre o ambiente virtual e mundo real é o de gerar uma metáfora de representação 
+das  ações  coletivas,  pois  há  a  modificação  da  aparência  da  ilha  no  OA  por  um  trabalho 
+conjunto dos alunos e portanto no mundo real o coletivo pode também modificar para melhor 
+o ambiente ao seu redor. 
+
+Ao entrar no OA, o ambiente simula um conjunto de ilhas, em que cada usuário tem 
+a sua residência no ambiente,  inicialmente a ilha sofre com a degradação do meio ambiente, 
+animais  sendo  ameaçados;  desmatamento  em  prol  de  monoculturas;  não  tratamento  de 
+resíduos urbanos, etc (Figura 1). Interações positivas de preservação ocasionaram melhorias 
+na ilha, tornando a relação de convivência da comunidade com o ambiente mais sustentável 
+(Figura 2).  
+
+2 Instituto fundado em 2013, que atua na área de educação ambiental. Fonte: <https://www.verdeluz.org/> 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Ilha da Tartaruga, antes das interações da comunidade de usuários. 
+
+4. Aplicação do Processo de Gamificação  
+
+Aplicando  a  abordagem  de  gamificação  adotada  por  Zichermann  e  Cunningham  (2011), 
+algumas  ferramentas  são  usadas  como  base  que  constitui  os  critérios  para  a  produção  de 
+respostas  estéticas  significativas  nos  produtos  que  passam  pelo  processo  de  gamificação. 
+Algumas dessas ferramentas são encontradas na Ilha da Tartaruga, como: 
+
+Níveis: Servem como uma forma de controle do progresso das habilidades propostas 
+ao desenvolvimento na atividade, como etapas que indicam o progresso do jogador dentro do 
+jogo; A ilha da Tartaruga representa esses níveis em descendência, quanto mais limpa a ilha  
+menor é o nível de poluição, quando se zera os 3 módulos de níveis, a ilha está em seu melhor 
+estado de sustentabilidade. 
+
+Integração:  é  uma  ferramenta  que  está  associada  ao  processo  de  assimilação  da 
+narrativa    e    do    seu    ambiente,    a    partir    de    elementos    narrativos    que    apresentam 
+aspectos/ferramentas  do  jogo,  cativando,  encorajando  e  aprendendo  sobre  o jogador.  
+Funciona  como  um  parâmetro  que  indica  o  desenvolvimento  do engajamento do jogador 
+em  seus  primeiros  passos  no  jogo.  Na  Ilha  da  Tartaruga  a  integração  é  representada  pela 
+mudança do visual da ilha na medida em que as missões vão sendo cumpridas, demonstrando 
+um feedback visual de acordo com a narrativa da aplicação 
+
+Desafios e  missões: são instruções direcionadas às  ações  da  narrativa. Escolhas  
+dadas  pelo  desenvolvedor  aos usuários  de  como agir para atingir as metas do jogo. A Ilha 
+da Tartaruga dispõe de um conjunto de quatro missões em cada módulo de interação, que 
+buscam  engajar  os  usuários  para  realização  das  ações  de  educação  ambiental,  pois  cada 
+direcionamento  vai  oferecer  resultados  mais  eficazes  na  recuperação  da  ilha  e/ou    prover 
+recompensas que também  vão auxiliar as interações. 
+
+ 
+
+Reforço  e feedback:  são  ferramentas  com  a  função  de informar  os  jogadores, 
+posicionando-os no espaço do jogo e dando-lhes um retorno quanto às suas ações. No OA 
+essas ferramentas ainda retomam a importância das ações  ambientais. Pois  o OA em sua 
+totalidade dá um feedback rápido sobre os resultados que poderiam ser vistos no mundo real, 
+uma melhoria de difícil acompanhamento no contexto real. Esse contexto torna-se visível em 
+ambiente controlado, reforçando o trabalho educacional (Figura 2). 
+
+Loops: agem como uma ferramenta que visa criar movimentos que  mantenham  as  
+emoções    relacionadas    a    um    comportamento    motivado    no  processo  constante  de 
+engajamento  com  o  jogo.  Estão  presentes  no  OA  por  meio  das  repetições  das  ações  das 
+missões, além de algumas missões serem de repetir ações por alguns dias, a não repetição 
+delas e o descuido com a ilha acarretam numa regressão da evolução da ilha, podendo voltar 
+ao seu estado de degrado inicial. 
+
+Personalização: compõe-se de elementos que criam uma identificação pessoal do  
+
+jogador  com  o  jogo,  disponibilizadas  de  modo  gradual,  possibilitando  a transformação 
+de itens do sistema pelo jogador. Na ilha da tartaruga o aspecto da personalização está 
+presente na característica de cada usuário possuir sua habitação própria dentro da ilha. 
+
+Figura 2. Ilha da Tartaruga, após interações da comunidade de usuários. 
+
+ 
+
+4. Considerações Finais 
+
+ 
+
+Baseado  nos  aspectos  explorados  no  estudo  de  caso  descrito,  foram  identificados  vários 
+conceitos  discutidos  pela  educação  ambiental,  que  foram  mesclados  às  ferramentas  de 
+gamificação descritas por Zichermann e Cunningham (2011). Os aspectos de gamificação 
+utilizados são necessários para a interpretação da narrativa ambiental dentro do OA. Desta 
+
+ 
+
+ 
+
+forma os pilares para o desenvolvimento de uma recurso educacional que causem um maior 
+engajamento,  encontram-se presentes na Ilha da Tartaruga.  
+
+De acordo com Simões et al (2013) em um contexto educacional, aspectos dos jogos 
+como  repetição  de  experimentos,  ciclos  rápidos  de  resposta,  diferentes  possibilidades  de 
+caminhos,  reconhecimento  e  recompensa,  são  extremamente  significantes  para  a 
+aprendizagem.  Neste  estudo,  que  explora  a  aplicação  da  abordagem  da  gamificação 
+empregada com a  intenção de gerar um maior  engajamento e  aprendizagem no âmbito da 
+educação ambiental, foi observado que os aspectos supracitados estão incorporados na Ilha 
+da Tartaruga. 
+
+Entretanto,  mais  etapas  de  pesquisas  se  fazem  necessárias  para  evidenciar  o 
+cumprimento  do  objetivo  do  OA  em  gerar  um    maior  engajamento  e  aprendizagem.  A 
+aplicação precisa ainda passar por etapas de validação com o seu público-alvo, para verificar 
+a receptibilidade do recurso educacional. 
+
+Referências 
+
+Cactools. Fortaleza.   
+
+abr. 2019.  
+
+2019.  
+
+Almeida,  T.  (2017),  Entrevista  sobre  o  Instituto  Verdeluz  [Entrevista  concedida  a]  Grupo 
+
+IEE  LTSC  (2007),  Disponível  em:  <http://ltsc.ieee.org/wg12/index.html>,  Acesso  em:  25 
+
+Instituto Verdeluz (2019), Disponível em: <https://www.verdeluz.org/>, Acesso em: 25 abr. 
+
+Prensky, M. (2012) “Aprendizagem baseada em jogos digitais”, Senac, São Paulo. 
+
+Reigota, M. (2017) “O que é educação ambiental”, Editora Brasiliense, São Paulo. 
+
+Santos,  A.  M.,  Silva  Junior,  F.  M.,  Lopes.  E.  R.  N.  (2016)  “Gamificando  a  Educação 
+Ambiental: O desafio Jogando Verde no Instituto Federal Baiano”, Revista Brasileira de 
+Educação Ambiental, São Paulo. 
+
+Simões, J.; Díaz Redondo, R.; Vilas, R.F. (2013) “A social gamification framework 
+
+ 
+
+for a K-6 learning platform”, Computers in Human Behavior, n.29, p.345-353, 2013. 
+
+Vianna, Y., Vianna, M., Medina, B., Tanaka, S. (2013) “Gamification”, In: Como reinventar        
+
+empresas a partir de jogos, MJV Press, Rio de Janeiro. 
+
+Zichermann, G., Cunningham, C.  (2011) “Gamification by Design: Implementing 
+
+  Game Mechanics in Web and Mobile Apps”, O’Reilly Media, Sebastopol, CA. 
+ 
+
+ 
+
+

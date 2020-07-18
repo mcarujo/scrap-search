@@ -1,0 +1,675 @@
+ 
+
+ 
+
+Um Estudo Comparativo entre Simuladores Computacionais 
+para Apoio à Disciplina de Arquitetura e Organização de 
+Computadores 
+
+Guilherme Esmeraldo1, Cícero Samuel Mendes1, Lucas Fontes1, Edson Lisboa2 
+
+1Instituto Federal do Ceará (IFCE) campus Crato – Crato – CE – Brasil 
+2Instituto Federal de Sergipe (IFS) campus Aracaju – Aracaju – SE – Brasil 
+
+guilhermealvaro@ifce.edu.br, mr.samuelmendes@gmail.com, 
+lfonteesc@gmail.com, edson.lisboa@academico.ifs.edu.br 
+
+Abstract.  This  paper  presents  a  comparative  study  of  simulators  used  to 
+support the discipline of computer architecture and organization, in order to 
+identify,  according  to  a  set  of  predetermined  metrics,  their  potentialities  and 
+deficiencies  in  the  teaching-learning  process,  as  well  as  they  can  make 
+possible  the  acquisition  of  practical  skills,  which  are  fundamental  for  the 
+professional  exercise.  According  to  the  results,  it  was  possible  to  verify  that 
+the most of the simulators does not meet the proposed metrics and that there is 
+a need for more efforts to deal accessibility and methodological aspects. 
+
+Resumo.  Este  artigo  apresenta  um  estudo  comparativo  de  simuladores 
+utilizados  para  apoio  à  disciplina  de  arquitetura  e  organização  de 
+computadores,  a  fim  de  identificar,  de  acordo  com  um  conjunto  de  métricas 
+preestabelecidas,  suas  potencialidades  e  deficiências  no  processo  de  ensino-
+aprendizagem, bem como se possibilitam a aquisição de habilidades práticas, 
+as  quais  são  fundamentais  para  o  exercício  da  profissão.  De  acordo  com  os 
+resultados, pôde-se constatar que a maioria dos simuladores não atendem às 
+métricas utilizadas e que há necessidade de maiores esforços com o objetivo 
+de tratar aspectos de acessibilidade e metodológicos. 
+
+1.  Introdução 
+
+Arquitetura  e  Organização  de  Computadores  (AOC)  é  uma  disciplina  presente  em 
+cursos técnicos, tecnológicos e de engenharias, tanto na área de computação, quanto em 
+elétrica/eletrônica.  Em  geral,  seu  conteúdo  apresenta  uma  complexidade  crescente  em 
+função  do  nível  de  detalhamento  e  abrangência  a  serem  consideradas  na  abordagem 
+pedagógica  adotada.  Além  disso,  por  se  tratar  de  uma  disciplina  fundamental  em  tais 
+áreas, deve estar alinhada às novas tendências tecnológicas, como Computação Paralela 
+e Internet das Coisas [Ghafarian 2016]. 
+
+Em  AOC,  uma  abordagem  metodológica  adequada  mescla  os  aspectos  teóricos 
+com  um  conjunto  de  experimentos  que  visam,  além  de  sedimentar  o  conteúdo,  o 
+desenvolvimento  de  habilidades  práticas  imprescindíveis  para  os  desafios  demandados 
+no  exercício  profissional  [Black  2016].  Os  aspectos  práticos  da  disciplina  podem  ser 
+laboratórios  especializados,  os  quais  pressupõem  a 
+desenvolvidos  utilizando 
+disponibilidade  de  hardware  real  (componentes  eletrônicos,  ferramentas,  placas  de 
+circuitos, modernos equipamentos de testes e medições, etc.), o que podem encarecer o 
+
+ambiente  e  necessitar  de  apoio  técnico  especializado  para  a  sua  montagem  e 
+manutenção.  Para  contornar  este  problema,  como  uma  alternativa  aos  laboratórios 
+físicos,  na  literatura  tem-se  optado  pelo  uso  de  simuladores  computacionais  como 
+ferramenta de apoio ao aprendizado em AOC. Os simuladores são ambientes virtuais de 
+aprendizagem  que  podem  emular  computadores  completos  e  viabilizam  o  estudo  de 
+seus componentes, suas funções e interconexões. Ainda na literatura, estão disponíveis 
+diferentes  simuladores  computacionais,  sendo  que  cada  um  deles  possui  suas  próprias 
+particularidades  [Kurniawan  and  Ichsan  2017].  Para  apoiar  o  processo  de  ensino-
+aprendizagem,  a  metodologia  ideal  deve  empregar  o  uso  de  bons  simuladores  que 
+apresentem  cenários  próximos  aos  reais,  mas  que  possibilitem  a  interação  com  o 
+hardware real para o desenvolvimento de habilidades práticas plenas. 
+
+Nesse  contexto,  este 
+
+trabalho  apresenta  um  estudo  comparativo  entre 
+simuladores  computacionais  presentes  no  estado  da  arte,  com  o  objetivo  de  explorar 
+suas  potencialidades  e  deficiências  para  apoio  aos  processos  de  ensino-aprendizagem 
+em Arquitetura e Organização de Computadores. 
+
+2.  Materiais e Métodos 
+
+A  Sociedade  Brasileira  de  Computação  (SBC)  definiu  um  conjunto  de  diretrizes 
+curriculares para cursos na área de Computação, as quais sugerem os principais tópicos 
+para  a  disciplina  de  Arquitetura  e  Organização  de  Computadores  [Rocha  et  al.  2005]. 
+De  uma  forma  geral,  esses  tópicos  estão  divididos  em  três  grupos:  1)  a  estrutura  dos 
+componentes  dos  computadores,  suas  funções  e  modelos  de  interconexões;  2)  a 
+programação  do  computador  em  linguagem  de  máquina  (baixo  nível),  considerando  o 
+conjunto  de  instruções  do  computador,  a  localização  dos  dados  em  memória  e  os 
+diferentes  modelos  de  operações  de  entrada/saída  de  dados;  e  3)  diferentes  aspectos 
+concernentes  ao  desempenho  computacional.  Neste  trabalho,  realizou-se  inicialmente, 
+com base nesses três grupos de tópicos, uma pesquisa bibliográfica sobre a utilização de 
+simuladores  computacionais  para  apoio  à  disciplina  de  Organização  e  Arquitetura  de 
+Computadores.  
+
+Visando  refinar  os  resultados  da  pesquisa,  optou-se  por  selecionar  simuladores 
+de sistemas completos [Penna and Freitas 2013], que são aqueles que incluem todos os 
+componentes  do  computador,  como  processador,  memórias,  barramentos  e  periféricos 
+de  entrada/saída.  Ressalta-se  que,  além  dos  simuladores  de  sistema  completo, 
+encontram-se,  na  literatura,  ferramentas  com  propósitos  específicos:  simulação  de 
+componentes específicos, como os de memória cache [Cordeiro et al., 2003]; simulação 
+de  circuitos  digitais  em  geral,  como  o  apresentado  em  [Donzellini  and  Ponta  2007];  e 
+desenvolvimento  de  projetos  profissionais  de  hardware,  como  o  exposto  em  [Kleitz 
+2006].  Ao  final  desta  etapa,  selecionou-se  um  total  de  16  simuladores,  os  quais  foram 
+divididos em quatro categorias, de acordo com seu objetivo:  
+
+•  10  deles  foram  desenvolvidos  exclusivamente  para  apoio  educacional  (BIPIDE 
+[Vieira,  Raabe  and  Zeferino,  2009],  COMPSIM  [Esmeraldo  and  Lisboa,  2017], 
+CPU  SIM  [Skrien,  2001],  DIMIPSS  [Felix,  Souza  and  Carvalho,  2006],  MARIE 
+[Null  and  Lobur,  2003],  MARS  [Vollmar  and  Sanderson,  2006],  SIMAEAC 
+[Verona,  Martini  and  Gonçalves,  2009],  SIMUS  [Silva  and  Borges,  2017],  SOIS 
+[Cruz et al., 2008] e YASS [Mustafa, 2013]);  
+
+•  4 deles suportam a execução de sistemas operacionais completos (BOCHS [Bochs, 
+2017],  GEM5  [Butko  et  al.,  2012],  MARSS  [Patel  et  al.,  2011]  e  SIMICS 
+[Magnusson et al., 2002] );  
+
+•  1  deles  é  descrito  em  linguagem  de  descrição  de  hardware  (HDL)  para  execução 
+direta  em  plataformas  de  hardware  reconfigurável  (cMIPS  [Hexsel  and  Carmo, 
+
+ 
+
+ 
+
+2013]); e  
+
+•  O último foi criado para suportar a execução de aplicações de computação intensiva, 
+as  quais  necessitam  de  alto  desempenho  e  precisão  dos  resultados  (ESESC 
+[Ardestani and Renau, 2013]). 
+
+A  próxima  etapa  consistiu  em  definir  um  conjunto  de  métricas  para  análise  e 
+comparação dos simuladores. Observa-se que, na literatura, há trabalhos que comparam 
+os simuladores computacionais sob diferentes características, como os apresentados em 
+[Penna and Freitas, 2013] [Nikolic et al., 2009] [Akram and Sawalha, 2016] [Wolffe et 
+al., 2002] [Vieira, Raabe and Zeferino, 2009]. Nesses trabalhos, as métricas apontadas, 
+em  sua  grande  maioria,  tratam  de  dois  tipos  de  aspectos,  relacionados:  1)  aos 
+simuladores  em  si,  como  desempenho  e  precisão  de  simulação,  uso  de  abstrações  na 
+codificação  de  software  dos  componentes  simulados,  interfaces  gráficas  e  licenças  de 
+distribuição de software; e 2) ao suporte a recursos mais avançados de simulação, como 
+simulação de diferentes arquiteturas de hardware, projeto de circuitos digitais e recursos 
+de  computação  paralela.  Assim,  neste  artigo,  definiu-se  um  conjunto  de  métricas  para 
+comparação  dos  simuladores,  com  base  nos  estudos  comparativos  da  literatura,  nos 
+tópicos  apontados  pela  SBC  e  no  suporte  educacional  em  AOC  (a  seção  a  seguir 
+descreve cada uma das métricas propostas). 
+
+Ao final, realizou-se uma análise de cada um dos simuladores selecionados, sob 
+face  das  métricas  de  comparação  elencadas  na  etapa  anterior.  O  objetivo  consistiu  em 
+destacar aqueles com maior potencial de apoio ao processo de ensino-aprendizagem em 
+AOC, bem como identificar quais métricas são fundamentais e aquelas que necessitam 
+de maiores esforços para caracterização de um simulador mais adequado. 
+
+3.  Métricas de Comparação 
+
+As métricas de comparação adotadas neste trabalho abrangem:  
+
+•  Macrogrupos  de  conteúdos  que  devem  ser  trabalhados  na  disciplina  de  AOC, 
+segundo  a  SBC,  que  são  o  estudo  dos  componentes  do  computador,  programação 
+em  nível  de  máquina  e  análise  de  desempenho  (ressalta-se  que  cada  um  desses 
+grupos de tópicos permitiu criar um grupo individual de métricas);  
+
+•  Aspectos  de  simulação,  visto  que,  como  o  simulador  tem  sido  adotado  como  uma 
+alternativa  aos  laboratórios  especializados,  compreende-se  que  o  mesmo  torna-se 
+parte fundamental no processo de ensino-aprendizagem;  
+
+•  Suporte  ao  desenvolvimento  das  habilidades  práticas,  as  quais  são  fundamentais 
+
+para o exercício da profissão;  
+
+•  Aspectos  de  acessibilidade  e  usabilidade,  importantes  para  permitir  o  uso  do 
+simulador por diferentes tipos de públicos e com diferentes níveis de habilidades;  
+
+•  Suporte  ao  processo  de  ensino-aprendizagem,  no  qual  caracteriza-se  o  modelo 
+
+pedagógico proposto pelo uso do simulador.  
+
+Essas métricas foram divididas em 7 grupos, cujas descrições são dadas a seguir: 
+
+ 
+ 
+Grupo 1. Componentes do Computador 
+
+Id. 
+
+Métrica 
+
+G1.1 
+
+Plataforma computacional 
+
+Descrição 
+
+Inclusão dos principais componentes do computador (processador, 
+memórias principal e cache, e barramento). 
+
+G1.2  Granularidade 
+
+Inclusão de detalhes das características dos componentes. 
+
+ 
+
+ 
+
+G1.3 
+
+Parametrização 
+
+Suporte à configuração das características dos componentes. 
+
+ 
+Grupo 2. Programação em Baixo Nível 
+
+Id. 
+
+G2.4 
+
+G2.5 
+
+G2.6 
+
+Métrica 
+
+Descrição 
+
+Programação em Assembly 
+
+Suporte à programação em baixo nível do computador. 
+
+Identificação de erros no 
+programa 
+
+Apresentação de erros, se presentes no programa em baixo nível. 
+
+Ferramentas de suporte à 
+codificação em baixo nível 
+
+Inclusão de mecanismos que simplifiquem a codificação de novos 
+programas em baixo nível. 
+
+ 
+Grupo 3. Simulação 
+
+Id. 
+
+Métrica 
+
+G3.7  Modos de simulação 
+
+G3.8 
+
+Visualização do programa 
+
+Descrição 
+
+Inclusão de diferentes modos de simulação, para que o estudante 
+possa optar entre simulação detalhada ou com maior desempenho. 
+
+Mecanismos para visualização do estado do programa durante uma 
+simulação. 
+
+G3.9 
+
+Visualização de componentes 
+
+Visualização dos estados dos componentes (processador, memórias 
+e periféricos). 
+
+G3.10  Visualização de comunicação 
+
+Visualização da troca de dados entre os componentes. 
+
+G3.11  Animação do caminho de dados  Uso de animações gráficas do caminho de dados do computador, 
+visando simplificar a compreensão do funcionamento interno do 
+computador. 
+
+ 
+Grupo 4. Análise de Desempenho 
+
+Id. 
+
+Métrica 
+
+G4.12 
+
+Perfis de simulação 
+
+G4.13  Estatísticas de simulação 
+
+Descrição 
+
+Mecanismo para registro da sequência de eventos gerados pelos 
+componentes durante uma simulação, para verificação de gargalos 
+de desempenho. 
+
+Mecanismo para sumarização dos eventos gerados pelos 
+componentes durante uma simulação, para verificação em alto nível 
+de gargalos de desempenho. 
+
+ 
+Grupo 5. Apoio ao Desenvolvimento de Habilidades Práticas 
+
+Id. 
+
+Métrica 
+
+Descrição 
+
+G5.14 
+
+Integração com hardware físico 
+
+Integração do computador virtual com hardware físico, visando 
+estabelecer cenários semelhantes aos reais em projetos de sistemas 
+computacionais. 
+
+Inclusão de interface com componentes gráficos para simplificação 
+da interação com o simulador. 
+
+G6.16 
+
+Personalização da interface 
+
+Inclusão de suporte de ajustes da interface gráfica (personalização 
+de cores e tamanho da fonte de texto do ambiente de simulação). 
+
+ 
+Grupo 6. Acessibilidade e Usabilidade 
+
+Id. 
+
+Métrica 
+
+G6.15 
+
+Interface gráfica 
+
+ 
+Grupo 7. Processo de Ensino-Aprendizagem 
+
+Id. 
+
+Métrica 
+
+G7.17  Metodologia de ensino-
+
+Descrição 
+
+Descrição 
+
+Inclusão de proposta de metodologia de uso do simulador para apoio 
+
+ 
+
+ 
+
+aprendizagem 
+
+ao aprendizado em AOC 
+
+G7.18  Materiais didáticos 
+
+complementares 
+
+G7.19  Canal de apoio 
+
+Avaliabilidade de outros tipos de mídias de apoio ao aprendizado 
+em AOC, como tutoriais, slides de aulas, videoaulas, exemplos de 
+programas em linguagem de baixo nível, etc. 
+
+Disponibilidade de canal de comunicação para discussões entre 
+desenvolvedores e usuários (docentes e estudantes). 
+
+4.  Discussão e Análise dos Resultados 
+
+A Tabela 1, a seguir, sumariza o resultado do estudo comparativo entre simuladores. Na 
+Tabela  1,  os  simuladores  estão  dispostos,  na  coluna  mais  à  esquerda,  em  grupos 
+relacionados  aos  seus  objetivos  principais:  S1)  educacional,  S2)  suporte  a  sistema 
+operacional,  S3)  descrito  em  HDL  e  S4)  suporte  à  computação  intensiva.  Nas  demais 
+colunas, estão dispostos os grupos de métricas (G1 ao G7), com as respectivas métricas. 
+
+Tabela 1. Comparativo entre simuladores de sistemas completos. 
+
+ 
+
+Analisando  a  Tabela  1,  pode-se  constatar  que  os  macrotópicos  da  disciplina  de 
+AOC,  que  são  o  estudo  dos  componentes  do  computador,  programação  em  nível  de 
+máquina e análise de desempenho, apontados pela SBC e, neste estudo, cobertos pelos 
+grupos  de  métricas  G1,  G2  e  G4,  respectivamente,  são  parcialmente  tratados  pelos 
+simuladores. 
+
+Os simuladores do grupo S1, não suportam, de uma forma geral, as métricas do 
+grupo  G1.  Eles  buscam  estabelecer  um  compromisso  entre  o  detalhamento  dos 
+componentes  simuláveis  e  os  aspectos  de  simulação  para  favorecer  o  processo  de 
+aprendizado  pelo  acompanhamento  da  execução  do  sistema  computacional,  cujas 
+métricas  estão  presentes  e  parcialmente  cobertas  no  grupo  G3  (Simulação).  Por  outro 
+
+ 
+
+ 
+
+lado, os simuladores dos demais grupos (S2 ao S4) suportam todas as métricas do G1, 
+objetivando  fidelizar  as  características  do  hardware  simulado  para  favorecer  seus 
+objetivos  individuais  (suportar  execução  de  sistemas  operacionais,  execução  em 
+hardware  e  simulação  de  aplicações  de  alto  de  desempenho  e  precisão, 
+respectivamente).  Com isso, nos grupos S2 ao S4, prejudica-se o suporte às métricas do 
+grupo G3. 
+
+Analisando  o  grupo  de  métricas  G2,  percebe-se  que  todos  os  simuladores 
+avaliados  suportaram  a  métrica  4  (Programação  em  Assembly),  o  que  mostra  uma 
+preocupação  no  aprendizado  dos  tópicos  de  arquitetura  de  computadores  e  suporte  à 
+execução  de  aplicações  reais  em  nível  de  máquina.  As  métricas  5  e  6,  do  grupo  G2, 
+estão  diretamente  associadas  ao  suporte  ao  aprendizado  em  programação  em  nível  de 
+máquina, sendo  estas quase que completamente suportadas pelos simuladores  em S1 e 
+não suportados pelos demais grupos. 
+
+O  suporte  à  análise  de  desempenho,  um  dos  três  macrogrupos  de  tópicos 
+elencados  para  a  disciplina  de  AOC  pela  SBC,  tratada  pelas  métricas  do  grupo  G4,  é 
+favorecido pelos simuladores em S2 ao S4. Percebe-se, nesse sentido, uma carência de 
+recursos  para  aprendizado  em  otimização  de  desempenho  computacional  nos 
+simuladores em S1.  
+
+Já  o  suporte  ao  desenvolvimento  de  habilidades  práticas,  através  da  integração 
+do  simulador  com  dispositivos  físicos  de  hardware,  coberto  pela  métrica  14,  em  G5, 
+está sendo tratado por apenas 3 simuladores, sendo dois deles do grupo S1 (COMPSIM 
+e SIMUS) e um do S3 (CMIPS). Observa-se que, para a integração, foram consideradas 
+as diferentes abordagens, sendo elas: execução do simulador em sistema computacional 
+embarcado  (SIMUS),  uso  de  plataforma  aberta  de  prototipação  como  periférico 
+(COMPSIM) e execução em  FPGA (CMIPS). Esses resultados remetem à necessidade 
+de mais esforços para suportar  essa área pelos simuladores, visto que  está diretamente 
+relacionada  à  aplicação  dos  conceitos  da  disciplina  de  AOC  e  desenvolvimento  das 
+respectivas habilidades práticas. 
+
+Em  termos  de  acessibilidade  e  usabilidade  (métricas  do  grupo  G6),  todos  os 
+simuladores  em  S1  e  metade  dos  em  S2  incluem  interfaces  gráficas  e,  de  uma  forma 
+geral,  não  são  personalizáveis.  Nesse  sentido,  percebe-se  que,  para  todos  os 
+simuladores,  são  necessários  mais  estudos  na  área  de  Interação  Homem-Máquina 
+(IHM),  pois  ressalta-se  que  o  uso  de  interfaces  gráficas  é  um  recurso  importante  que 
+pode simplificar e maximizar as habilidades de uso do simulador, bem como trazer um 
+feedback  mais  rápido  e  natural  sobre  as  ações  realizadas.  Da  mesma  forma,  a 
+personalização  da  interface  permite  aumentar  os  níveis  de  compreensão  das  operações 
+do simulador além de trazer experiências mais agradáveis. 
+
+Analisando o último grupo de métricas (G7), o qual está relacionado diretamente 
+ao  processo  de  ensino-aprendizagem,  percebe-se  uma  grande  deficiência,  pois  os 
+simuladores, em quase sua totalidade, não oferecem uma metodologia de apoio ao uso 
+de simulador nas aulas da disciplina de AOC. Os  materiais didáticos complementares, 
+na grande maioria, tratam de aspectos de simulação e/ou estão relacionados diretamente 
+ao simulador, e não em aprendizagem em AOC, bem como muitos dos simuladores não 
+oferecem  canais  de  comunicação,  em  que  poderiam  ser  estabelecidos  diálogos  com 
+desenvolvedores  e  entre  usuários,  para  maximizar  o  aprendizado,  compartilhar 
+experiências do uso do simulador, bem como sugerir e discutir modificações e inclusão 
+de novos recursos pedagógicos.  
+
+A  Figura  1  traz  gráficos  de  rede  que  tratam  cada  grupo  de  simuladores  e  o 
+
+percentual de atendimento a cada métrica dos grupos G1 ao G7. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) Distribuição de S1. 
+
+(b) Distribuição de S2. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) Distribuição de S3. 
+
+(d) Distribuição de S4. 
+
+Figura 1. Gráficos de rede: distribuição de métricas por grupos de simuladores. 
+
+No  gráfico  da  Figura  1(a),  observa-se  que  a  maior  parte  dos  simuladores  do 
+grupo S1 buscaram atender às métricas contidas nos grupos G2 (programação em baixo 
+nível) e G3 (simulação), e, uma pequena parte, às métricas dos grupos G1 (componentes 
+do  computador),  G6  (acessibilidade  e  usabilidade)  e  G7  (processo  de  ensino-
+aprendizagem). Ao analisar os gráficos das Figuras 1(b), 1(c) e 1(d), percebe-se que os 
+simuladores  dos  grupos  S2,  S3  e  S4  buscaram  atender  às  métricas  dos  grupos  G1 
+(componentes do computador), às métricas 12 e 13 do G4 (análise de desempenho), e à 
+métrica 4 (programação  em Assembly) do grupo  G2. Dessa análise, percebe-se que os 
+simuladores do grupo S1, ao incluírem um maior número de recursos didáticos, tornam-
+se  melhores  candidatos  para  apoio  às  disciplinas  de  AOC.  Entretanto,  percebe-se  que, 
+de um forma geral, esse grupo apresenta várias deficiências – tais como, a ausência de 
+maior  granularidade  dos  componentes  simulados,  suporte  à  análise  de  desempenho  e 
+integração com hardware físico – sendo assim necessário realizar uma análise individual 
+dos simuladores.  
+
+A  Figura  2(a)  apresenta  um  gráfico  de  barras,  onde  pode-se  visualizar  a 
+
+distribuição de porcentagens de métricas atendidas pelos simuladores. 
+
+(a) Distribuição de métricas atendidas pelos 
+simuladores 
+
+(b) Métricas atendidas pelos simuladores 
+melhores avaliados. 
+
+ 
+
+ 
+
+Figura  2.  Gráficos  de  barras  (a)  e  barras  empilhadas  (b):  simuladores  versus 
+métricas atendidas. 
+
+Na Figura 2(a), o gráfico dispõe os simuladores analisados em ordem crescente 
+de  acordo  com  a  porcentagem  de  atendimento  às  métricas.  No  gráfico,  dentre  os 
+simuladores, apenas 5 deles atenderam a mais de 50% das métricas propostas, onde um 
+deles  pertence  ao  grupo  S2  —  SIMICS  (52,6%)  —,  e  quatro  ao  grupo  S1,  YASS 
+(52,6%),  MARS  (57,8%),  BIPIDE  (63,1%)  e  COMPSIM  (94,7%).  Já  a  Figura  2(b) 
+apresenta um gráfico de barras empilhadas, onde pode-se verificar quais métricas foram 
+atendidas por cada um desses cinco simuladores. 
+
+Na Figura 2(b), as métricas 4 (programação em Assembly), 9 (visualização dos 
+estados dos componentes) e 15 (interface gráfica) foram atendidas pelos 5 simuladores 
+e,  consequentemente,  podem  ser  caracterizadas  como  fundamentais  a  um  bom 
+simulador para  apoio  à disciplina de AOC. Por outro lado,  analisando as  métricas que 
+tiveram  menor  cobertura,  percebe-se  a  existência  de  lacunas  no  apoio  ao  processo  de 
+ensino-aprendizagem e, consequentemente, necessitam de emprego de maiores esforços, 
+visto  que,  as  métricas  11  (animação  do  caminho  de  dados)  e  16  (personalização  da 
+interface)  estão  ligadas  à  acessibilidade,  bem  como  as  métricas  14  (integração  com 
+hardware  físico)  e  17  (metodologia  de  ensino-aprendizagem)  estão  diretamente 
+relacionadas à abordagem pedagógica em AOC. 
+
+5.  Conclusões 
+
+Arquitetura e organização de computadores é uma disciplina com conteúdos extensos e 
+complexos,  bem  como  necessita  de  laboratórios  especializados  para  suporte  ao 
+desenvolvimento das habilidades práticas. Visando dirimir a dificuldade em compor tais 
+laboratórios,  que  são  caros  e  necessitam  de  apoio  técnico  especializado,  na  literatura, 
+tem-se  optado  pelo  uso  dos  simuladores  computacionais.  Este  trabalho  realizou  um 
+estudo  comparativo  entre  diferentes  tipos  de  simuladores  de  sistemas  completos,  que 
+são aqueles que incluem todos os componentes do computador, sob grupos de métricas, 
+elaboradas a partir de estudos comparativos da literatura, nos tópicos base da disciplina, 
+apontados pela SBC, e em aspectos de suporte educacional. 
+
+Os  resultados  mostraram  que  as  métricas  propostas  neste  estudo  estão 
+parcialmente 
+tratadas  pelos  grupos  de  simuladores  estudados.  Os  simuladores 
+educacionais apresentaram grande potencial em suporte à programação em baixo nível e 
+simulação  do  computador,  enquanto  que  os  demais  apresentaram  granularidade  nos 
+componentes do computador e suporte à análise de desempenho. Dentre os simuladores 
+que trataram a maior parte das métricas, destacaram-se, como métricas predominantes, o 
+suporte  à  programação  em  baixo  nível,  visualização  dos  estados  dos  componentes  e 
+interface gráfica, enquanto que observou-se a necessidade de mais estudos para suportar 
+aspectos de acessibilidade dos simuladores e metodológicos da disciplina. 
+
+Referências 
+
+Akram,  A.  and  Sawalha,  L.  (2016)  “x86  computer  architecture  simulators:  A 
+comparative  study”.  In  IEEE  34th  International  Conference  on  Computer  Design 
+(ICCD). 
+
+Ardestani, E. K., Renau, J. (2013) “ESESC: A fast multicore simulator using time-based 
+sampling”.  In  2013  IEEE  19th  International  Symposium  on  High  Performance 
+Computer Architecture (HPCA). p. 448-459.  
+
+Black, M. (2016) “Export to arduino: a tool to teach processor design on real hardware”. 
+
+In Journal of Computing Sciences in Colleges, 31(6), pp.21-26. 
+
+ 
+
+ 
+
+Bochs. (2017) The Bochs IA-32 Emulator Project. http://bochs.sourceforge.net. 
+
+Butko, A., Garibotti, R., Ost, L. and Sassatelli, G. (2012) “Accuracy evaluation of gem5 
+simulator  system”.  In  7th  International  Workshop  on  Reconfigurable  and 
+Communication-Centric Systems-on-Chip (ReCoSoC). pp. 1-7. 
+
+Cordeiro,  E.  S.,  Stefani,  I.  G.,  Soares,  T.  C.  and  Martins,  C.  A.  (2003)  “DCMSim: 
+Didactic  cache  memory  simulator”.  In  33rd  Annual  Frontiers  in  Education.  Vol.  2, 
+pp. F1C 14-19. 
+
+Cruz,  E.  H.  M.,  Foleiss,  J.  H.,  Assunção,  G.  P.  and  Gonçalves,  R.  A.  L.  (2008)  
+“Ferramenta  de  Simulação  de  Processador  para  Ensino  de  Graduação  e  Pesquisa 
+Científica”. In Anais SULCOMP, v. 4. 
+
+Donzellini, G. and Ponta, D. (2007) “A simulation environment for e-learning in digital 
+
+design”. In IEEE Transactions on Industrial Electronics, 54(6), pp. 3078-3085. 
+
+Esmeraldo, G. and LISBOA, E. B. (2017) “Uma Ferramenta para Exploração do Ensino 
+de  Organização  e  Arquitetura  de  Computadores”.  In  International  Journal  of 
+Computer Architecture Education, v. 6. p. 68-75. 
+
+Felix,  A.,  Pousa,  C.,  and  Carvalho,  M.  (2006)  “DIMIPSS:  Um  simulador  didático  e 
+In  Workshop  sobre  Educação  em  Arquitetura  de 
+
+interativo  do  MIPS”. 
+Computadores. p. 49-52.  
+
+Ghafarian,  R.  (2016)  “Microelectronics  packaging  technology  roadmaps,  assembly 
+reliability,  and  prognostics”.  Facta  universitatis-series:  Electronics  and  Energetics, 
+29(4), pp.543-611. 
+
+Hexsel,  R.  A.  and  Carmo,  R.  (2013)  “cMIPS  –  uma  Ferramenta  Pedagógica  para  o 
+Estudo  de  Arquitetura”.  In:  International  Journal  of  Computer  Architecture 
+Education. v.2, n.1. p. 29 -32. 
+
+Kleitz, W. (2006) Digital Electronics with VHDL, Quartus II Version. Pearson Prentice 
+
+Hall. 
+
+Kurniawan,  W.  and  Ichsan,  M.  H.  H.  (2017)  “Teaching  and  learning  support  for 
+computer architecture and organization courses design on computer engineering and 
+computer science for undergraduate: A review”. In  4th International Conference on 
+Electrical Engineering, Computer Science and Informatics (EECSI). pp. 1-6. 
+
+Magnusson, P. S., Christensson, M., Eskilson, J., Forsgren, D., Hallberg, G., Hogberg, 
+J., and Werner, B. (2002) “Simics: A full system simulation platform”. In Computer, 
+35(2), p. 50-58. 
+
+Mustafa,  B.  (2013)  “YASS:  A  System  Simulator  for  Operating  System  and  Computer 
+Architecture  Teaching  and  Learning”.  In  European  Journal  of  Science  and 
+Mathematics Education, v. 1, n. 1, p. 34-42, 2013. 
+
+Nikolic, B., Radivojevic, Z., Djordjevic, J. and Milutinovic, V. A. (2009) “Survey and 
+Evaluation  of  Simulators  Suitable  for  Teaching  Courses  in  Computer  Architecture 
+and Organization”. IEEE Transactions on Education, Vol. 52, No. 4. 
+
+Null, L. and Lobur, J. (2003). “MarieSim: The MARIE computer simulator”. In Journal 
+
+on Educational Resources in Computing (JERIC), 3(2), 1. 
+
+Patel, A., Afram, F., Chen, S. and Ghose, K. (2011) “MARSS: a full system simulator 
+for  multicore  x86  CPUs”.  In  2011  48th  ACM/EDAC/IEEE  Design  Automation 
+Conference (DAC). pp. 1050-1055. 
+
+Penna, P. H. M. M. and Freitas, H. C. (2013) “Análise e Avaliação de Simuladores de 
+
+ 
+
+ 
+
+Sistemas  Completos  para  o  Ensino  de  Arquitetura  de  Computadores”.  International 
+Journal of Computer Architecture Education (IJCAE), v. 2, no. 1. pp 13-16.  
+
+Rocha,  M.  da  G.  B.,  Nicoletti,  M.  do  C.,  Fabbri,  S.  C.  P.    F.,  Barros,  E. N.  da  S.  and 
+Frery, A. C. (2005) “Currículo de Referência da SBC para Cursos de Graduação em 
+Bacharelado  em  Ciência  da  Computação  e  Engenharia  de  Computação”.  Relatório 
+Técnico, Sociedade Brasileira de Computação (SBC). 
+
+Silva,  G.  P.  and  Borges,  J.  A.  dos  S.  (2017)  “O  Simulador  SimuS  na  Plataforma 
+Raspberry Pi”. In Computer Architecture Education (IJCAE) v. 6, n. 1. p. 36-45. 
+
+Skrien,  D.  (2001)  "CPU  Sim  3.1:  A  tool  for  simulating  computer  architectures  for 
+computer  organization  classes".  In  Journal  on  Educational  Resources  in  Computing 
+(JERIC), 1(4), 46-59. 
+
+Verona, A. B., Martini, J. A. and Gonçalves, T. L. (2009) “SIMAEAC: Um Simulador 
+Acadêmico para Ensino de Arquitetura de Computadores”. In Varia Scientia, v. 9, n. 
+16, p. 139-148. 
+
+Vieira,  P.  V.,  Raabe,  A.  L.  A.  and  Zeferino,  C.  A.  (2009)  “Bipide:  Ambiente  de 
+desenvolvimento  integrado  para  utilização  dos  processadores  bip  no  ensino  de 
+programação”. XX SBIE. 
+
+Vollmar,  K.  and  Sanderson,  P.  (2006)  “MARS:  an education-oriented  MIPS  assembly 
+
+language simulator”. In SIGCSE, Vol. 6. pp. 239-243. 
+
+Wolffe, G. S., Yurcik, W., Osborne, H. and Holliday, M. A. (2002) “Teaching computer 
+organization/architecture with limited resources using simulators”. In Proceedings of 
+the  33rd  SIGCSE  technical  symposium  on  Computer  science  education,  ACM 
+SIGCSE Bulletin. Vol. 34, No. 1. 
+
+ 
+
+ 
+
+

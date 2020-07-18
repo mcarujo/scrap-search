@@ -1,0 +1,425 @@
+Relato de Experiência sobre a Criação de um Clube de 
+Desenvolvimento de Jogos com Foco em Habilidades de 
+Pensamento Computacional 
+
+Raphael A. de Lima, Eduardo F. de Sá, André P. Porto, 
+Rodrigo L. Rodrigues, José A. da Silva. 
+
+Departamento de Computação – Universidade Federal Rural de Pernambuco 
+Recife – PE – Brasil 
+
+raphaelalbino_@hotmail.com, eduardo.fsa2@ufrpe.br, 
+andre.porto@ufrpe.br, rodrigomuribec@gmail.com, 
+zealexandrejulio@gmail.com  
+
+Abstract. This article reports the experience of a group of a Computing course 
+undergraduates in a public technical high school. After evaluating the context 
+that the school resides, several activities were stimulated in order to improve 
+student's school performance in computer programming and solving problems. 
+Their  affinities  and  previous  knowledge  about  digital  games  were  used  to 
+apply  an  inverted  classroom  methodology  in  order  to  teach  the  concepts  of 
+computational thinking. The blending of a theme that motivates students with 
+programming  concepts  has  shown  positive  results  in  order  to  increase 
+student’s 
+their 
+resourcefulness in programming logic. 
+
+familiarity  with  game  development  and  consequently 
+
+Resumo.  Este  trabalho  relata  a  experiência  de  um  grupo  de  graduandos  de 
+um  curso  de  Licenciatura  em  Computação  em  uma  escola  pública  de  ensino 
+médio  técnico.  Foram  estimuladas  diversas  atividades  com  o  intuito  de 
+melhorar  o  desempenho  escolar  dos  alunos  nas  competências  de 
+programação. Suas afinidades e conhecimentos prévios sobre o tema de jogos 
+digitais  foram  utilizados  para  aplicar  uma  metodologia  de  sala  de  aula 
+invertida com o intuito de ensinar os conceitos de pensamento computacional.  
+A  mistura  de  um  tema  que  instiga  os  alunos  com  conceitos  de  programação 
+mostrou  resultados  positivos  no  sentido  de  aumentar  a  familiarização  dos 
+alunos  com  o  desenvolvimento  de  jogos,  e  consequentemente,  a  lógica  de 
+programação. 
+
+1.  Introdução 
+
+Ao  ingressar  em  cursos  de  computação,  geralmente  os  estudantes  deparam-se  com 
+disciplinas  relacionadas  a  lógica  de  programação.  Boa  parte  destes  alunos  apresentam 
+dificuldades com os conceitos iniciais dada a pouca familiaridade com o tema durante o 
+período  escolar  de  nível  fundamental  e  médio,  o  que  leva  ao  aumento  do  número  de 
+retenção em cursos desta natureza (SILVEIRA et al., 2018). 
+
+De  acordo  com  Jerkins  (2002,  apud  SOUZA,  2013),  as  principais  causas  de 
+baixo  rendimento  nas  disciplinas  de  programação  são:  O  baixo  nível  de  abstração,  a 
+
+ 
+
+falta  de  habilidade  de  resolução  de  problemas,  metodologias  de  dinâmica  que  não 
+estimula  o  aprendizado,  entre  outros.  O  foco  deste  projeto  é  aplicar  a  metodologia  de 
+sala  de  aula  invertida  para  buscar  indícios  de  como  o  aprendizado  do  aluno  pode 
+melhorar  significativamente  com  um  acompanhamento  de  monitores  que  visam  dar  o 
+máximo de atenção, tirar dúvidas em sala de aula não sanadas devido às limitações de 
+tempo  e  conteúdos  dados  pelo  currículo  do  curso.  Um  dos  pontos  a  serem  explorados 
+pela dinâmica de clube é o ambiente lúdico e descontraído que, em combinação com a 
+sala de aula invertida, potencialize a motivação dos alunos. Ao utilizar esta metodologia 
+buscamos a otimização do tempo em sala de aula com o uso de atividades reflexivas e 
+de  construção  do  conhecimento  através  da  resolução  de  atividades  propostas  com  o 
+conteúdo adquirido previamente.  
+
+Foi escolhido o desenvolvimento de jogos como alvo de estudo por sua temática 
+ser  de  grande  interesse  por  parte  dos  jovens  e  por  sua  ligação  ao  cotidiano  dos 
+estudantes.  É  nítida  a  crescente  utilização  de  soluções  gamificadas,  não  só  se  tratando 
+de  jogos  de  entretenimento  assim  como  de  simulações  da  vida  real.  Ao  criar  uma 
+correlação  entre  as  diferentes  mecânicas  de  jogos  vivenciados  pelos  alunos  com  a 
+maneira como eles são codificados, foi possível aplicar o pensamento computacional à 
+prática de programação, buscando um contexto aplicável e prazeroso de ser explorado. 
+
+2.  Trabalhos relacionados  
+
+Percebe-se  na  literatura  que  o  uso  de  jogos  para  o  ensino  de  programação  não  é  uma 
+novidade e continua demonstrando impactos positivos na aprendizagem.  
+
+2.1.  Oficinas de Jogos Digitais 
+
+O  principal  objetivo  do  trabalho  de  Marques  et  al.  (2011,  p.  1139)  foi  de  investigar  e 
+propor  técnicas  para  a  introdução  de  noções  de  programação  para  alunos  do  ensino 
+médio,  sendo  uma  delas  o  uso  da  programação  de  jogos.  Ainda  de  acordo  com  os 
+autores, iniciar  a programação pelos jogos serve também como fator motivacional que 
+contribui para aumentar o interesse dos alunos do ensino médio na área de computação. 
+Aqueles  que  ainda  não  tinham  um  contato  direto  com  o  computador  puderam  ser 
+motivados pela oficina.  
+
+De  forma  análoga,  Andrade  et  al.  (2016,  p.  1135)  descrevem:  “A  partir  dos 
+resultados  alcançados,  levantamos  mais  indícios  para  reforçar  o  argumento  que  o 
+desenvolvimento de jogos digitais pode ter um impacto positivo quando adotado como 
+fator  motivacional  no  processo  de  ensino-aprendizagem.”.  Também  nota-se  que  a 
+metodologia  de  gamificação  foi  utilizada  de  forma  competitiva:  “Nesta  edição,  a 
+competitividade  entre  equipes  foi  mais  estimulada.  Ocorreu  a  minimaratona  de 
+programação e o desafio de publicidade dos jogos desenvolvidos nessa minimaratona.” 
+(ANDRADE et al. 2016, p. 1131). Esta última proposta foi bastante similar ao trabalho 
+aqui  relatado,  tendo  em  vista  que  uma  futura  etapa  no  clube  de  desenvolvimento 
+envolveria a publicação dos jogos projetados pelos alunos. 
+
+Nos  trabalhos  em  que  já  foram  usados,  os  jogos  serviram  tanto  como  atrativo 
+quanto  meio  de  aprendizado  rico  e  importante  para  o  crescimento  dos  alunos.  Nota-se 
+também na literatura a satisfação por parte dos alunos, ou seja, além de demonstrarem 
+resultados práticos, estão contentes com o trabalho realizado. Sendo assim, é notável a 
+versatilidade  do  uso  de  jogos  na  educação,  podendo  ser  usados  tanto  no  ensino  médio 
+quanto no ensino superior. 
+
+ 
+
+2.2.  Sala de Aula Invertida (Flipped Classroom) 
+
+A  prática  deste  conceito  valorizou  a  diminuição  do  tempo  de  aulas  expositivas  de  tal 
+forma que os monitores do clube  tiveram mais tempo para auxiliar o desenvolvimento 
+das  tarefas  baseado  no  conteúdo  disponibilizado  previamente  na  internet.  Segundo 
+(Carvalho, 2014),  
+
+“O flipped classroom é um modelo de ensino que está ganhar força 
+
+na comunidade educativa, ainda que não seja um modelo de ensino 
+aprendizagem novo. A diferença está no fato de que as tecnologias da web e 
+dos meios digitais estarem a aumentar o potencial deste modelo de forma 
+exponencial. É uma abordagem ao processo de ensino-aprendizagem na qual 
+se emprega a tecnologia para inverter o papel tradicional do tempo de aula, 
+aqui os alunos são expostos a conceitos fora da sala de aula, geralmente 
+através da observação e análise de vídeos. O tempo de sala de aula é então 
+utilizado para fazer o difícil trabalho de assimilar esses novos saberes, através 
+de estratégias como a resolução de problemas, discussão ou debates, sendo 
+integralmente dedicado a experiências de aprendizagem ativas. Assim, 
+recorrendo ao uso de tecnologias na partilha de dúvidas e curiosidades, a 
+organização da sala de aula altera-se, passando os aprendentes para a posição 
+central, previamente ocupada pelo professor, promovendo uma maior 
+dinâmica em sala de aula. Os alunos não aprendem a partir das tecnologias, 
+mas as tecnologias podem apoiar a construção de significados por parte dos 
+alunos”. 
+
+3.  Metodologia 
+
+ 
+
+3.1.  Seleção dos Alunos e Materiais Utilizados 
+
+Os  alunos  dos  1º  e  2ºs  anos  do  ensino  médio  de  tempo  integral  do  curso  técnico  de 
+Desenvolvimento  de  Sistemas  da  ETE  do  Porto  Digital,  interessados  em  participar  do 
+projeto,  passaram  por  um  processo  de  seleção  que  procurou  captar  principalmente  o 
+interesse  prévio  pelo  assunto.  Dentre  os  principais  questionamentos  procurou-se 
+perceber:  a  afinidade  com  diferentes  tipos  de  jogos;  a  curiosidade  dos  mesmos  sobre 
+ferramentas  utilizadas  na  produção  e  desenvolvimento  de  jogos;  da  possibilidade  de 
+praticar  os  assuntos  em  casa.  Também  foi  considerada  indicação  de  professores  das 
+disciplinas do currículo  técnico, no sentido de  apontar os alunos mais interessados por 
+desenvolver e por fim, foram escolhidos 15 alunos por turma. 
+
+Como material principal, foram utilizadas máquinas do tipo netbook – chamadas 
+de  tablets  na  ocasião  e  comumente  utilizados  na  rede  pública  do  Estado  –  que 
+desfrutavam  de  tela  sensível  ao  toque  porém  de  baixa  qualidade,  baixo  poder  de 
+processamento, apenas 10 polegadas, mas de boa capacidade de bateria a ponto de não 
+precisarem de carregadores ligados à tomada durante as atividades, dando liberdade aos 
+participantes de se movimentarem livremente no espaço da biblioteca que foi o local em 
+que  a  escola  alocou  o  clube.  Já  como  ferramenta  de  desenvolvimento,  optou-se  pelo 
+Unity3D™,  dado  que  é  uma  ferramenta  já  consagrada  no  cenário  de  jogos  e  ter  uma 
+comunidade  numerosa  e  ativa  que  facilita  a  pesquisa  por  materiais  e  soluções  na 
+internet. 
+
+3.2.  Recursos Didáticos 
+
+A partir das condições acima, foram produzidas até então 14 videoaulas, organizadas de 
+tal  maneira  que  os  assuntos  teóricos  de  programação  e  pensamento  computacional 
+fossem  prioritariamente  intercalados  com  as  aulas  práticas  relacionadas  a  ferramenta, 
+sempre objetivando uma aplicação de conceitos de forma convergente. Foram pensados 
+inicialmente os seguintes temas conforme o quadro a seguir. 
+
+ 
+
+Quadro 1. Temas iniciais 
+
+Encontro 
+
+Programação e Pensamento 
+Computacional 
+
+Aplicação da Ferramenta 
+
+Noções de Algoritmo e Pensamento 
+Computacional 
+
+Scripts e Tipos de Variável 
+
+Operadores Relacionais, Lógicos e 
+Aritméticos. 
+
+Introdução ao Unity3D™ 
+
+Aplicando Colisões 
+
+Estruturas Condicionais 
+
+Instantiate 
+
+Funções e Procedimentos 
+
+ Efeito Parallax e Movimentação 
+do Player 
+
+Prefabs 
+
+Inputs 
+
+Contador de Tempo 
+
+Triggers e Collision++ 
+
+Selecionando Inimigos com Vetores 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ 
+
+O  encontro  presencial  foi  idealizado  para  que  não  tivesse  um  cunho  tutorial, 
+partindo para esta abordagem apenas quando fosse realmente necessário e somente nas 
+temáticas da ferramenta utilizada. Como objeto de estudo, a primeira mecânica de jogo 
+a ser abordada foi  a endless runner1, sendo na nossa visão a que mais se adequou aos 
+tipos  de  conteúdo  abordados.  As  videoaulas  foram  disponibilizadas  numa  lista  de 
+reprodução  do  YouTube™2  no  modo  não-listado,  liberando  um  ou  dois  vídeos  a  cada 
+semana dependendo da demanda da aula. A visualização destas foi obrigatória para que 
+os  alunos  participassem  das  aulas  práticas  com  a  duração  de  1h30  em  que  todos  os 
+conhecimentos  nelas  requisitadas  fossem  adquiridas  previamente  através  dos  vídeos. 
+Também foi recomendado que os alunos pesquisassem sobre os assuntos tratados e que 
+tirassem  suas  dúvidas  com  os  bolsistas,  seguindo  a  metodologia  de  sala  de  aula 
+invertida.  
+
+4.  Execução do Projeto e Relatos 
+
+Como dito anteriormente, o local disponibilizado pela escola para a prática do clube. Já 
+com relação aos horários, foram usadas as aulas de E.D. (Estudo Dirigido) nas quais o 
+aluno  tem  o  tempo  de  duas  aulas  de  50  minutos  para  realizar  a  atividade  que  julgar 
+relevante.  Sendo  assim,  separaram-se  duas  turmas,  uma  com  os  alunos  do  1º  ano,  às 
+sextas-feiras e outra com os do 2º ano, às terças-feiras.  
+
+No  que  tange  o  quantitativo  de  alunos  participantes,  após  o  primeiro  encontro 
+com a finalidade de apresentar o projeto de fato, continuaram entre 10 e 12 alunos por 
+turma.  Esta  medida  foi  diminuindo  gradativamente.  Até  a  finalização  deste  relato,  o 
+clube encontra-se com 6 alunos por turma e totalizados 10 encontros por turma. 
+
+4.1.  Videoaulas 
+
+Percebeu-se que a quantidade inicial de visualizações não condizia com a quantidade de 
+
+1  Mecânica de jogo que consiste em um único estágio que termina apenas quando o personagem morre. 
+2  Disp. em <https://www.youtube.com/channel/UCdkTfJK3Fw_KqX7f_fFSWMA/playlists> 
+
+ 
+
+ 
+
+alunos,  mesmo  que  tenha  sido  dada  ênfase  no  primeiro  encontro  sobre  a  importância 
+dos  vídeos  e  de  que  a  proposta  de  aulas  tutoriais  na  biblioteca  não  eram  bem-vindas. 
+Portanto foram criadas duas abordagens para resolver o problema.  
+
+Inicialmente  foi  dado  como  obrigatório  o  retorno  da  atividade  via  ambiente 
+virtual  de  aprendizagem,  o  Google  Classroom™,  mesmo  ambiente  onde  foi 
+disponibilizado o link das aulas, algumas recomendações pré-aula e mensagens oficiais 
+do clube, além de ser uma maneira de gerenciarmos as turmas. Também foi utilizado o 
+informais,  disponibilizado  dentro  do  próprio 
+WhatsApp™  para  comunicações 
+Classroom. Mesmo assim, a justificativa da desistência de um dos alunos foi a mesma 
+que a maioria dos alunos usou para não assistir a alguns vídeos, o excesso de atividades 
+na escola que é de tempo integral. 
+
+4.2.  Atividades na Biblioteca e Recursos Didáticos 
+
+As  atividades  na  Biblioteca  foram  produtivas,  porém  não  tanto  quanto  se  esperava. 
+Devido à baixa quantidade de visualizações dos vídeos dados na semana anterior para 
+que  fossem  estudados  até  o  dia  da  atividade,  acabou  tornando  os  encontros  em  aulas 
+expositivas. Para resolver o problema, escolhemos utilizar o Kahoot!™3 para incentivar 
+a visualização dos vídeos e criar uma competição. Foi utilizado um projetor que acabou 
+também  melhorando  a  interação  monitor/aluno  por  conseguir  atingir  mais  alunos  de 
+uma  só  vez  na  resolução  dos  questionamentos,  além  de  servir  como  recurso  nos 
+momentos em que os tutoriais fossem necessários. A aceitação do método foi imediata e 
+bastante motivador para os alunos, aumentando a quantidade de visualizações. 
+
+ 
+
+Figura 1. Exemplo de atividade com Kahoot!™ aplicando a vivência com jogos 
+no contexto da programação. 
+
+Outro desafio presente no decorrer do clube foi a inadequação do uso ferramenta 
+Unity3D™  para  rodar  nos  tablets.  A  ferramenta  mostrou-se  instável,  resultando  na 
+ocorrência  de  vários  bugs4  e  fechamentos  abruptos,  sendo  possivelmente  um  fator 
+agravante de desistência.  Foram feitas diversas intervenções na tentativa de otimizar o 
+desempenho,  com  relativo  sucesso.  Também  foi  cogitada  uma  mudança  de  plataforma 
+para  algum  programa  que  exigisse  menos  processamento  das  máquinas,  porém  tal 
+mudança  não  ocorreu  devido  o  fato  de  os  alunos  já  estarem  familiarizados  com  o 
+Unity3D™  além  de  que  outra  ferramenta  significaria  migrar  para  outra  linguagem  de 
+programação, o que atrasaria o andamento das aulas. 
+
+ 
+
+3  É um jogo conectado de questionários eletrônico que gratifica com pontos e classifica os que 
+responderem corretamente de forma mais rápida. Disponível em <https://www.kahoot.com/>. 
+4  Erros na execução do sistema, tais como o travar ou apresentar desempenho mínimo tornando o 
+
+programa inutilizável por alguns segundos.  
+
+ 
+
+Figura 2. Tablets utilizados em laboratório; Foto 3. Atividade em sala de aula. 
+
+ 
+
+ 
+
+4.3.  Integração com as Aulas Curriculares 
+
+Para  melhorar  a  motivação  dos  alunos  e  evitar  mais  desistências,  foi  proposto  pelos 
+professores  do  currículo  técnico  aplicar  uma  atividade  somativa  nas  disciplinas 
+relacionadas  à  programação,  de  tal  forma  que  os  alunos  de  fora  do  clube  não  fossem 
+excluídos. Os docentes propuseram uma atividade com título Surpreenda-me, pela qual 
+os alunos trouxeram artefatos diferentes do contexto da aula mas que se relacionassem 
+com  a  programação,  assim  os  participantes  do  clube  puderam  mostrar  os  jogos  que 
+desenvolvem no mesmo, ou usar do conhecimento adquirido para produzir outros.  
+
+Dentre  os  alunos  que  fizeram  a  atividade,  destacou-se  um  que  utilizou  os 
+conceitos  das  aulas  no  âmbito  da  lógica  do  jogo  de  entradas  de  usuário,  sprites5  e 
+condições,  em  um  jogo  no  Scratch™  que  é  a  ferramenta  usada  de  forma  geral  pelos 
+alunos do 1º ano, mas que não é a aplicada no clube. O que demonstra que os conceitos 
+aplicados  no  clube  são  mais  abstratos  do  que  a  simples  ferramenta  ou  linguagem  de 
+programação.  
+
+4.4.  Artefatos Desenvolvidos ou em Fase de Desenvolvimento 
+
+Para a segunda etapa do projeto ainda em andamento, seguiremos com todos os alunos 
+participantes para o desenvolvimento de jogos a serem idealizados por eles baseado na 
+temática de frevo, visando utilizar as técnicas trabalhadas na primeira etapa do projeto 
+do clube juntamente a uma carga de conteúdos de gerenciamento de projeto, design de 
+jogos,  design  gráfico  e  design  de  som.  Eles  serão  divididos  em  equipes  de  4  a  5 
+participantes, cada qual estabelecido em uma função necessária para o desenvolvimento 
+dos seus projetos. A ideia é que os alunos, ao final do projeto, tenham a oportunidade de 
+publicar os jogos, promovendo a inicialização da criação de portfólios individuais desde 
+o atual nível escolar.  
+
+5.  Considerações Finais 
+
+Pode-se  considerar  que  os  principais  objetivos  do  projeto  relatado  estão  parcialmente 
+atingidos.  Dado  que  os  alunos  relatam  maior  facilidade  nas  matérias  técnicas  como 
+relata  um  dos  alunos  em  um  questionário6  aplicado  recentemente.  A  linguagem  de 
+programação  C#  não  foi  a  maior  dificuldade  entre  os  alunos  mesmo  sendo  a 
+primeiramente vista por alguns deles, ou seja, ela foi uma ferramenta válida em vez de 
+uma  causa  de  dificuldades  entre  os  alunos  do  grupo,  o  que  é  preliminarmente  um 
+excelente resultado.  
+
+5  Artefato de imagem do jogo. 
+6  Disponível em: 
+
+ 
+
+ 
+
+<https://docs.google.com/spreadsheets/d/1iaPWiNeSo8iZhdIiE6NpYmdZqy4rp6SqvOeQBQ-
+3dR0/edit?usp=sharing> 
+
+Destaca-se  que  no  decorrer  do  projeto  houve  desafios,  tais  como  a  diminuição 
+expressiva no número de alunos participantes e as limitações dos recursos tecnológicos 
+disponíveis.  Apesar  disso,  os  alunos  que  se  mantém  participantes  são  assíduos, 
+dedicados e produtivos. Tal participação também se dá pela colaboração recíproca entre 
+os alunos, dado que muitas vezes tiram as dúvidas uns dos outros.  
+
+Quanto  ao  uso  da  estratégia  de  sala  de  aula  invertida,  apesar  do  desafio  de 
+manter  os  alunos  interessados  e  em  dia  assistindo  aos  vídeos,  foram  feitos  elogios  às 
+videoaulas  dentro  dos  próprios  comentários  no  canal.  Além  disso,  os  resultados  dos 
+questionários  foram  importantes  para  identificar  dúvidas  antes  de  iniciar  a  prática  da 
+aula.  Deste  modo,  não  se  pode  considerar  que  a  sala  de  aula  invertida  foi  a  melhor 
+escolha  para  o  cenário  de  uma  escola  integral,  porém  foi  de  grande  importância  para 
+diminuir o número de aulas necessárias. 
+
+Sendo assim, a expectativa para a segunda etapa do projeto é de que os alunos se 
+organizem em duas ou três equipes em cada turma. Como dito anteriormente, a proposta 
+para  a  segunda  etapa  envolve  os  grupos  idealizando  os  seus  próprios  projetos  e 
+utilizando  os  conhecimentos  adquiridos  na  primeira  etapa  sob  a  orientação  dos 
+monitores para desenvolvê-los. 
+
+Referências Bibliográficas 
+
+SILVEIRA, S. R., PEREIRA, A. S., BERTOLINI, C., PARREIRA, F., & BIGOLIN, N. 
+. Educação a distância, sala de aula invertida e aprendizagem baseada em problemas: 
+possibilidades  para  o  ensino  de  programação  de  computadores.  In  ANAIS  DOS 
+WORKSHOPS  DO  CONGRESSO  BRASILEIRO  DE  INFORMÁTICA  NA 
+EDUCAÇÃO,  2018,  Fortaleza,  Anais…  Fortaleza:  UFC,  v.  7,  n.  1,  p.  1052,  out. 
+2018. 
+
+SOUZA, M. V. R., & FRANÇA, A. C. C.. Um estudo sobre as dificuldades no processo 
+de  aprendizagem  de  programação  no  Curso  de  Análise  e  Desenvolvimento  de 
+Sistemas  na  FAFICA  –  Faculdade  de  Filosofia,  Ciências  e  Letras  de  Caruaru-PE. 
+Revista da Escola Regional de Informática, v. 2, n.2, p.19-27, 2013. 
+
+ANDRADE,  R.,  MENDONÇA,  J.,  OLIVEIRA,  W.,  ARAUJO,  A.  L.  &  SOUZA,  F.  .  
+Uma  Proposta  de  Oficina  de  Desenvolvimento  de  Jogos  Digitais  para  Ensino    de 
+Programação. ANAIS DOS WORKSHOPS DO V CONGRESSO BRASILEIRO DE 
+INFORMÁTICA NA EDUCAÇÃO (CBIE 2016), [s.l.], p.1127-1136, 2016. 
+
+CARVALHO,  R  J.  O.  “Virar  a  Sala  de  Aula”:  Centrar  a  Aprendizagem  no  Aluno 
+Recorrendo  a  Ferramentas  Cognitivas.  Relatório  de  projeto  de  mestrado  em  Ensino 
+de Informática – Universidade do Minho, Braga, p. 369, 2014.  
+
+MARQUES, D. L.; COSTA, L. F. S.; SILVA, M. A. A. & REBOUÇAS, A. D. D. S., 
+Atraindo Alunos do Ensino Médio para a Computação: Uma Experiência Prática de 
+Introdução  à  Programação  utilizando  Jogos  e  Python.  Anais  Eletrônicos…  In: 
+Workshop de Informática na Escola de 2011, Aracaju/SE, 2011. 
+
+ 
+
+

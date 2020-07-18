@@ -1,0 +1,468 @@
+Jogos de Tabuleiro e Digitais para Estimular o Desenvolvimento 
+do Raciocínio Lógico: Como Escolher? 
+
+Gilberto V. L. Júnior¹, Thereza P. P. Padilha¹, Vinicius H. S. Gomes¹ 
+ 
+¹Departamento de Ciências Exatas (DCX) – Universidade Federal da Paraíba (UFPB) 
+CEP – 58.297-000 – Rio Tinto – PB – Brasil 
+ 
+
+{gilberto.vieira, thereza, vinicius.henrique}@dce.ufpb.br 
+
+ 
+
+Abstract. Nowadays, it is known that there are a variety of games (digital or board 
+games) for both educational and entertainment purposes. However, in the face of 
+this diversity, choosing a certain game for the development of certain skills is an 
+arduous process. Therefore, the objective of this article is to present an analysis 
+of eight board games and their digital versions that support a series of benefits for 
+the  development  of  logical  reasoning.  Thus,  as  a  result,  a  table  is  presented 
+highlighting  the  main  characteristics  of  these  games  to  help  teachers  and  also 
+school managers in the choice of resources that aid learning. 
+
+Resumo.  Atualmente,  sabe-se  que  há  uma  variedade  de  jogos  (digitais  ou  de 
+tabuleiro) tanto para fins educacionais quanto para entretenimento. No entanto, 
+diante  desta  diversidade,  escolher  um  certo  jogo  para  o  desenvolvimento  de 
+determinadas  habilidades  é  um  processo  árduo.  Diante  disso,  o  objetivo  deste 
+artigo é apresentar uma análise de oito jogos de tabuleiro e suas versões digitais 
+que  suportam  uma  série  de  benefícios  para  o  desenvolvimento  do  raciocínio 
+lógico. Assim, como resultado, é apresentada uma tabela destacando as principais 
+características destes jogos para ajudar professores e, também, gestores escolares 
+na escolha de recursos que auxiliem o aprendizado.  
+
+1.  Introdução 
+
+O  estudo  do  raciocínio  lógico  possibilita  formar  pessoas  críticas  com  senso  argumentativo, 
+capazes  de  criar,  interpretar,  responder  e  explicar  situações-problema.  Aprender  lógica 
+desenvolve a organização e a sequência do pensamento a fim de inferir novos conhecimentos 
+a partir dos existentes. Segundo Copi (1978), a lógica é o estudo de métodos e princípios para 
+distinguir  o  raciocínio  correto  do  incorreto.  Para  Piaget  (1975),  o  conhecimento  evolui 
+progressivamente por meio de estruturas de raciocínio que substituem umas às outras através 
+de estágios. Isto significa que a lógica e as formas de pensar de uma criança são completamente 
+diferentes da lógica dos adultos.  
+
+ 
+De acordo com Sérates (1998), o raciocínio lógico é cheio de desafios e prepara o ser 
+humano para o próximo milênio, que será caracterizado pelo ato de pensar. Vencerão aqueles 
+que tiverem pensamento lógico, quem for criativo e inovador. Assim, nunca se precisou tanto 
+de raciocínio lógico como nos dias atuais. Segundo Rauber et al. (2003), é comum encontrar 
+alunos, inclusive universitários, com dificuldades para interpretar o que estão lendo, por não 
+
+ 
+ 
+
+terem sido alfabetizados para entender o que está “por trás” daquilo que está escrito, ou seja, o 
+real significado e o contexto. Isso, consequentemente, prejudicará toda a sua vida acadêmica e 
+profissional.  Embora  muitas  escolas  trabalhem  no  desenvolvimento  da  autonomia  dos 
+estudantes,  percebe-se  ainda  que  os  métodos  são  tradicionais  e  não  oferecem  muitas 
+oportunidades para os alunos desenvolverem  iniciativas ou tomarem suas próprias decisões. 
+Uma  alternativa  para  desenvolver  habilidades  de  pensar  em  situações  de  causa-efeito,  em 
+futuras  hipóteses  e,  também,  em  inferir  novas  informações  é  por  meio  do  uso  de  jogos  nas 
+atividades educacionais. No entanto, como há uma diversidade de jogos digitais na Internet e 
+também  de  tabuleiro  que  podem  potencializar  estas  habilidades,  torna-se  bastante  difícil 
+escolher quais utilizar devido às suas características e que tipo de benefício pode trazer para os 
+alunos e se ainda há alguma divergência entre as versões disponíveis.   
+
+Diante desta problemática, o objetivo principal deste trabalho é apresentar uma análise 
+de oito jogos que podem ser encontrados facilmente tanto em nível físico (de tabuleiro) quanto 
+na forma digital. Os jogos escolhidos foram: Batalha Naval, Cubo Mágico, Damas, Dominó, 
+Trilha/Moinho, Resta Um, Sudoku e Xadrez devido serem os mais tradicionais. Estes jogos, 
+no formato digital, podem ser acessados de forma gratuita por meio dos seguintes sites Racha 
+Cuca1, Jogos 3602 e Mega Jogos3. O presente artigo encontra-se organizado da seguinte forma: 
+na seção 2 é apresentada a importância do raciocínio lógico e suas contribuições; na seção 3 há 
+a explanação dos oito jogos selecionados e suas características. Na seção 4 são apresentadas 
+tabelas contendo a análise dos jogos e suas habilidades. Por fim, na seção 5, estão descritas as 
+considerações finais. 
+ 
+
+2.   Raciocínio Lógico 
+
+Segundo resultados da pesquisa realizada sobre a utilização de jogos educativos, foi observado 
+que os professores pesquisados consideram seu uso vantajoso como estímulo para o processo 
+de  ensino  e  aprendizagem,  favorecendo  a  motivação  para  a  aprendizagem  dos  conteúdos 
+escolares,  promovendo  o  desenvolvimento  do  raciocínio  lógico  e  a  construção  do 
+conhecimento de maneira prazerosa e mais simples (Geller and Silveira, 1998).  
+
+Raciocínio  lógico  é  um  processo  de  estruturação/argumentação  do  pensamento  que 
+permite  chegar  a  uma  determinada  conclusão,  ou  seja,  requer  consciência  e  capacidade  de 
+organização  do  pensamento.  Existem  diferentes  tipos  de  raciocínio  lógico  como  o  indutivo, 
+abdutivo e dedutivo, estes se diferenciam no modo como ocorre a estrutura do pensamento. O 
+raciocínio indutivo parte do que é específico para a generalização, está atrelado à experiências 
+empíricas,  ou  seja,  ao  pensamento  intuitivo.  Não  contribuindo  com  novos  conhecimentos, 
+apenas  tentando  buscar  uma  melhor  explicação,  isto  é,  uma  validação  a  conhecimentos  já 
+existentes.  No  raciocínio  abdutivo  é  pouco  semelhante  ao  indutivo,  mas  as  conclusões 
+apresentadas  são  baseadas  em  probabilidades,  ou  seja,  na  mais  provável  explicação  para 
+determinada  premissa,  considerada  o  único  raciocínio  de  aquisição  de  conhecimento.  O 
+raciocínio  dedutivo  é  o  mais  trabalhado  porque  busca  realizar  inferências,  começando  com 
+proposições iniciais, alcançando conclusões intermediárias até culminar em uma conclusão. 
+
+ 
+O estudo da argumentação é extremamente importante, uma vez que argumentar é uma 
+das facetas do raciocínio humano, assim como o provar e o calcular. Na literatura, é possível 
+encontrar diversos trabalhos que relatam que o estudo da argumentação em crianças é tardio e, 
+diante disso, cada vez mais iniciativas estão surgindo a fim de desenvolver habilidades lógicas 
+
+ 
+
+1https://www.rachacuca.com.br 
+2https://www.jogos360.com.br 
+3https://www.megajogos.com.br 
+
+ 
+ 
+
+para este público, que se encontra em constante aprendizado (Banks-Leite, 1996). 
+
+3.   Jogos Selecionados 
+
+Os  jogos  digitais  são  uma  aposta  atraente  para  os  usuários,  visto  que,  nessa  extensão 
+tecnológica, as pessoas passaram a utilizar o celular para fazer tudo, inclusive jogar e aprender. 
+Nesse  processo  de  ascensão  da  tecnologia,  os  jogos  clássicos  como  Damas,  Xadrez  e 
+Trilha/Moinho passaram a ser virtualizados, sendo possível ser utilizados no próprio celular, 
+substituindo a recreação tateável dos jogos tradicionais. Segundo Gros (2003), o jogo digital é 
+uma  das  principais  maneiras  de  se  introduzir  ao  mundo  da  tecnologia,  pois  geralmente  o 
+videogame é o primeiro contato que uma criança ou jovem tem com equipamentos eletrônicos. 
+Os jogos digitais podem ser explicitados por definição como ambiente aliciante e interativo 
+que  despertam  a  atenção  dos  jogadores  ao  oferecer  desafios  que  exigem  níveis  graduais  de 
+estratégias e habilidades (Balasubramanian and Wilson, 2006).  
+
+Inclusive,  há  diversos  estudos,  conforme  pode  ser  encontrado  em  (dos  Santos  et  al. 
+2014, Oliveira et al. 2015 e Santos et al. 2013), a respeito de virtualização de jogos que estão 
+sendo  discutidos  na  intenção  de  criar  versões  digitais  para  jogos  educativos  tradicionais, 
+prezando  os  aspectos  pedagógicos,  didáticos  e  psicológicos.  Dentre  as  vantagens  para  esta 
+virtualização,  destacam-se  a  possibilidade  de  alcançar  um  maior  número  de  pessoas,  sendo 
+possível  usar  por  meio  de  tablets,  celulares  ou  meios  eletrônicos,  dispositivos  estes,  usados 
+frequentemente  por  crianças  e  adultos,  a  fim  de  jogar  de  forma  gratuita  encontrando-se 
+disponíveis em vários sites na Internet.  
+
+No entanto, no caminho inverso ao mundo digital, em que majoritariamente as pessoas 
+imergem seu tempo em dispositivos com acesso à internet, o mercado de jogos de tabuleiro 
+vem  se  destacando  no  Brasil.  De  acordo  com  os  dados  estatísticos  anuais  divulgados  pela 
+Associação Brasileira dos Fabricantes de Brinquedos (ABRINQ)4, observa-se que, nos últimos 
+anos, os jogos da linha tabuleiro (cartas, figuras e memória) têm superado as vendas de jogos 
+digitais. Isso provavelmente tem se dado pelo fato que os jogos de tabuleiro proporcionam uma 
+maior interação social de forma presencial, algo que havia sido perdido com os jogos digitais. 
+
+Os  jogos  têm  sido  utilizados  em  diversos  aspectos,  não  somente  aos  associados  a 
+diversão  e  distração,  todavia  como  jogos  pedagógicos  que  têm  como  objetivos  ampliar  a 
+concentração  e  o  raciocínio  lógico,  estimular  a  criatividade,  conduzir  à  construção  do 
+conhecimento  e  à  aprendizagem.  A  seguir,  é  apresentada  uma  breve  descrição  do 
+propósito/objetivo de cada um dos jogos selecionados. 
+
+●  Batalha  Naval  (BN):  identificar  e  afundar  as  embarcações  (navios,  submarinos)  do 
+
+adversário. 
+
+●  Cubo Mágico (CM): organizar cada lado do cubo de uma única cor. 
+●  Damas (DAM): capturar ou bloquear as peças do adversário. 
+●  Dominó (DOM): colocar todas as peças na mesa antes do adversário. 
+●  Resta Um (RU): deixar o menor número de pinos no tabuleiro, preferencialmente 1. 
+●  Sudoku (SUD): encontrar os valores corretos para cada célula não preenchida.  
+●  Trilha/Moinho (T/M): remover as peças do adversário até que restem no máximo 2. 
+●  Xadrez (XAD): promover o “xeque-mate” no rei adversário. 
+
+ 
+
+4 http://www.abrinq.com.br/economia-e-estatisticas/ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+4. Resultados da Análise dos Jogos  
+
+Para  este  trabalho,  o  maior  desafio  foi,  justamente,  identificar  se  ambas  versões  dos  jogos 
+selecionados impulsionam o desenvolvimento das mesmas habilidades. Assim, inicialmente, 
+foi analisado cada um destes jogos na sua versão de tabuleiro. As suas principais características 
+e habilidades trabalhadas podem ser vistas nas Tabelas 1 e 2, respectivamente. As colunas da 
+Tabela  1  destacam  as  características  básicas  dos  jogos:  número  de  jogadores,  faixa  etária 
+indicada para compreender o objetivo do jogo, complexidade para alcançar o objetivo, nível 
+estratégico,  tempo  médio  de  uma  partida  (em  minutos)  e  preço  médio  (mínimo-máximo 
+encontrado em 3 sites clássicos de compras online). 
+
+Com  o  fito  de  definir  os  níveis  de  complexidade  e  estratégia,  foi  feita  avaliação  de 
+ 
+acordo com as habilidades trabalhadas e o tempo de partida de cada jogo. Considerando todos 
+os jogos, eles desenvolvem uma habilidade comum, a de estratégia. Após a identificação das 
+habilidades, o passo seguinte foi testar, conjecturar em qual nível mais se aproxima e classificá-
+los em baixo, médio e alto. A classificação definida está informada na Tabela abaixo, sendo 
+que ainda não foi examinada por um grupo de usuários, tornando assim, atividades futuras. 
+ 
+
+Tabela 1. Características básicas dos jogos. 
+
+Jogos 
+
+BN 
+CM 
+DAM 
+DOM 
+RU 
+SUD 
+T/M 
+XAD 
+
+Nº de  
+Jogadores 
+2 
+1 
+2 
+2-4 
+1 
+1 
+2 
+2 
+
+Faixa 
+Etária 
+10+ 
+5+ 
+6+ 
+6+ 
+6+ 
+6+ 
+6+ 
+5+ 
+
+Nível 
+Estratégico 
+Alto 
+
+Comple-
+xidade 
+Baixa 
+Alta  Muito alto 
+Médio 
+Médio 
+Alta 
+Baixa 
+Médio 
+Alta  Muito alto 
+
+Médio 
+Médio 
+Alto 
+Baixo 
+Alto 
+
+Tempo  Preço Médio 
+
+R$ 
+
+20 
+5 
+10 
+10 
+10 
+5 
+15 
+15 
+
+30,00-10,00 
+5,00-19,00 
+4,00-460,00 
+3,00-230,00 
+
+7,00-200,00 
+
+4,00-60,00 
+
+7,00-90,00 
+
+20,00-1.260,00 
+
+Na Tabela 2, são apresentadas as principais habilidades trabalhadas em cada um destes jogos. 
+ 
+
+Tabela 2. Habilidades trabalhadas por cada jogo. 
+
+Habilidades Trabalhadas 
+Estratégia e noção espacial 
+Concentração, memorização e estratégia 
+Estratégia 
+
+DAM 
+DOM  Concentração, estratégia e pensamento matemático 
+
+Raciocínio matemático, estratégia, concentração, 
+antecipação e coordenação motora. 
+
+Memorização, atenção seletiva e alternada, 
+concentração e estratégia 
+
+Estratégia e percepção espacial 
+
+Estratégia e tática 
+
+Jogos 
+
+BN 
+
+CM 
+
+RU 
+
+SUD 
+
+T/M 
+
+XAD 
+
+ 
+
+ 
+
+ 
+ 
+
+Estes  jogos  indicam  que  pessoas  a  partir  dos  5  anos  de  idade  conseguem  participar 
+ativamente, desde níveis de complexidade baixa (Sudoku) até alta (Xadrez e Cubo Mágico). A 
+duração das partidas destes jogos é relativamente rápida (entre 5 a 20 minutos). Acredita-se 
+que é mais interessante trabalhar com crianças os jogos que participam 2 ou mais jogadores 
+para  estimular  a  interação  social  entre  eles.  Para  adolescentes/adultos,  o  uso  de  jogos 
+individuais espera ser mais efetivo, pois trabalha a dedução de futuras ações (tanto sua quanto 
+do oponente). Sabe-se, também, que algumas pessoas ficam frustradas quando não conseguem 
+terminar um jogo como, por exemplo, o Cubo Mágico. Neste caso, é fundamental ter o suporte 
+de  professores,  ensinando  métodos  ou  caminhos  da  solução.  Ao  compreender  as  regras 
+associadas a cada jogo, é natural que se tenha mais vontade de aprender e, com isso, raciocinar 
+melhor  cada  ação  a  ser  executada.  Em  relação  aos  preços  dos  jogos,  há  uma  diferença 
+significativa entre o menor e o maior valor encontrado, mas isso se deve ao tipo de material 
+envolvido na fabricação das peças.   
+
+Em seguida, foram acessados os sites de Internet citados na seção 1, que disponibilizam 
+estes jogos a fim de constatar cada uma das características apontadas anteriormente. Pôde-se 
+observar que os jogos dispõem de interfaces descontraídas, algumas semelhantes ao jogo físico 
+e outras, como o jogo Batalha Naval, em que compõe-se de temas e mídias audiovisuais que 
+chamam bastante atenção do jogador. Ademais, alguns dos sites analisados permitem que os 
+usuários  acompanhem  de  forma  gradual  os  níveis  de  conhecimento  de  todos  os  jogadores, 
+fomentando a competitividade entre eles. Com isso, o jogador pode identificar o seu nível de 
+raciocínio lógico. Para os jogos Batalha Naval, Damas, Dominó, Trilha/Moinho e Resta Um, a 
+semelhança é bastante significativa do ponto de vista das habilidades e da forma de jogar entre 
+as duas versões. Outro ponto a ser considerado é a possibilidade de o computador atuar como 
+um jogador, não necessitando da disponibilidade de jogadores humanos. Neste caso, isto é mais 
+facilmente encontrado nos jogos de Damas, Xadrez, Batalha Naval e Dominó. 
+
+O jogo Cubo Mágico, por sua vez, que possui níveis de complexidade e de estratégia 
+altos, presumivelmente torna-se mais maçante e complexo quando trabalhado na versão digital 
+pelo  fato  de  não  ser  possível  o  manuseio  do  cubo  em  si,  embora  haja  a  presença  de  sons  e 
+recursos  visuais.  De  modo  geral,  ambas  versões  dos  jogos  citados  dão  suporte  para  o 
+desenvolvimento  do  raciocínio  lógico  e  das  habilidades  elencadas,  no  entanto  os  jogos  no 
+formato de tabuleiro tendem a ser mais expressivos devido possibilitar uma interação social 
+presencial, característica essencial nos dias atuais.  
+
+ 
+
+5. Considerações Finais 
+
+Durante muitos anos os jogos digitais tiveram ascensão devido à evolução da tecnologia, no 
+entanto, os jogos de tabuleiro estão sendo cada vez mais requisitados para aumentar a interação 
+social entre pessoas. Ressalta-se que, independente da sua versão (digital ou físico), os jogos 
+têm  um  papel  significativo  no  desenvolvimento  de  habilidades  importantes,  principalmente, 
+para pessoas que estão em processo de formação cognitiva.  
+
+Nesta pesquisa, os jogos escolhidos estimulam habilidades para despertar o raciocínio 
+lógico e acredita-se ser muito interessantes para crianças a partir dos 5 anos de idade. Através 
+do jogo,  as pessoas podem pensar,  levantar hipóteses, antecipar, planejar, interpretar e criar 
+estratégias, permitindo que o aprendizado ocorra de modo alternativo, pois a resolução de um 
+problema é um momento em que a criança ou adolescente tem a possibilidade de buscar um 
+caminho próprio que, segundo ele, seja mais significativo. Para os jogos que têm complexidade 
+e  nível  estratégicos  altos,  uma  alternativa  é  a  ajuda  de  um  adulto  ou  professor  que  tenha 
+experiência  e  que  dê  caminhos  para  a  criança  buscar  a  solução.  Assim,  o  uso  de  jogos  em 
+
+ 
+ 
+
+instituições  de  ensino  é  de  extrema  relevância,  pois  além  do  caráter  lúdico  e  divertido  que 
+proporciona  ao  jogador,  também  desenvolve  funções  que  vão  além  do  entretenimento, 
+envolvendo aspectos sociais, cognitivos e afetivos do aluno.  
+
+Sobre  o  tipo  de  versão  destes  jogos,  observou-se  que  os  digitais  são  mais  acessíveis 
+pelo fato de necessitar apenas de conexão com Internet, não dispor de espaço físico para poder 
+jogar, possibilidade de jogar com o computador e recursos mais ricos e dinâmicos de interface. 
+Já em termos da versão em tabuleiro, vale a pena ressaltar que, de modo geral, estes apresentam 
+baixo  custo  (Sudoku,  Resta  Um  e  Dominó  são  os  mais  baratos)  e  desenvolvem  habilidades 
+importantes para as pessoas em fase escolar, sobretudo, interação social entre alunos. Espera-
+se que os resultados apresentados neste trabalho sirvam de direcionamento para a escolha de 
+quais  jogos  utilizar  conhecendo  suas  características  básicas,  bem  como  as  habilidades  que 
+podem ser desenvolvidas.  
+
+Através das informações obtidas com este trabalho, pretende-se levar à campo, onde 
+será aplicado com alunos de acordo com a faixa etária inicial (apresentada na Tabela 1) a fim 
+de poder experienciar em prática e obter resultados mais precisos em consideração aos níveis 
+de  complexidade,  estratégia  e  tempo.  Utilizando  tanto  a  versão  tabuleiro  quanto  digital.  Os 
+professores e alunos podem explorar mais os jogos, em suas possíveis versões, e a sua função 
+no desenvolver da lógica. Permitindo que o professor reflita a respeito de sua própria prática 
+didática,  presumir  novas  ações  de  ensino  que  deseja  desenvolver  com  os  alunos,  e  sobre  as 
+maneiras em que os alunos progridem, instigando os mesmos e despertando suas curiosidades. 
+
+ 
+
+Referências Bibliográficas 
+
+Balasubramanian,  N.  and  Wilson,  B.  G.  Games  and  Simulations.  Society  for  information 
+technology  and  teacher  education  International  conference.  (2006).  Disponível  em: 
+http://www.coulthard.com/library/Files/balasubramanianwilson_2005-gamesandsimulatio-
+ns.pdf. Acesso em: 18 de abril de 2019. 
+
+Banks-Leite, L. (1996) “Aspectos argumentativos e polifônicos da linguagem da criança em 
+idade 
+Campinas, 
+http://www.bibliotecadigital.unicamp.br/document/?code=vtls000102752, setembro/2016. 
+
+IEL/Unicamp, 
+
+pré-escolar”. 
+
+Doutorado. 
+
+Tese 
+
+de 
+
+Copi, Irving M. (1978), Introdução à Lógica. São Paulo: Mestre Jou, 2ª ed. 
+
+dos  Santos,  W. O.,  da  Silva,  A.  P.,  and  da Silva  Junior,  C.  G.  (2014).  Conquistando  com  o 
+resto: Virtualização de um jogo para o ensino de matemática. In Brazilian Symposium on 
+Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE), volume 
+25, p. 317-321. 
+
+Geller,  Marlise;  Silveira,  Sidnei  Renato.  Estudo  e  Análise  de  Jogos  Educativos 
+
+Computadorizados. Relatório de Pesquisa. Canoas: ULBRA, 1998. 
+
+Gros, Begoña. The impact of digital games in education.  First Monday, v.8, n. 7,  jul. 2003. 
+
+Disponível em: <http://www.firstmonday.org/issues/issue8_7/xyzgros/index.html>. Acesso      
+em: 18 abril de 2019. 
+
+Oliveira, W. & A. de S., A. & K. T. da Silva, A. & L. S. de Oliveira, M. & R., S. & R., A & 
+Gomes  da  Silva  Junior,  C.  (2015).  Development  Process  of  an  Educational  Game:  An 
+experience  in  Brazil.  XIV  Brazilian  Symposium  on  Computer  Games  and  Digital 
+Entertainment. 200.  
+
+Piaget, J. 1975, Gênese das estruturas lógicas elementares. Rio de Janeiro: Forense. 
+
+ 
+ 
+
+Rauber, J., Rosseto, M., Fávero, A. M., Fávero, A. A., Tonieto, C. 2003. Que tal um pouco de 
+
+lógica?!. Ed. Clio Livros, Passo Fundo. 
+
+Santos,  W.  and  Silva  Junior,  C.  (2016).  Challenges  of  games  virtualization  applied  to 
+educational games. In V Workshop of Challenges of Computers in Education, pages 597–
+606.  
+
+Sérates, J. O homem lógico. Revista Isto é, set. 1998. 
+
+ 
+
+ 
+ 
+
+

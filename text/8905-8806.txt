@@ -1,0 +1,579 @@
+ 
+
+Role-Playing Games Digitais e Ensino-aprendizagem com 
+Adolescentes em Contexto Escolar: Interfaces Histórico-
+Culturais e Psicanalíticas  
+
+Fernando R. de Lima Júnior1, Flávia M. de A. e Peres1, Ladjane de F. R. Caporal3 
+
+1Programa de Pós-graduação em Educação, Culturas e Identidades – Universidade 
+Federal Rural de Pernambuco (UFRPE) 
+
+3Departamento de Psicologia – Faculdade de Ciências Humanas de Olinda (FACHO)  
+
+feh.nando93@gmail.com, peres.flavia@gmail.com, 
+ladjane.caporal@gmail.com 
+
+Abstract.  It  is  a  literature  review,  with  dialectical  foundations  between 
+historical-cultural  psychology  and  psychoanalysis,  with  the  purpose  of 
+reflecting  the  potential  of  digital  role-playing  games  (RPGs)  as  a  teaching-
+learning  tool  with  adolescents  in  a  school  context.  It  is  based  on  a  socio-
+interactionist  conception  of  education,  based  on  Vygotskian  postulates  and 
+Lacanian  psychoanalysis,  in  order  to:  expose  the  origins  and  playability  of 
+RPGs,  also  in  their  digital  condition,  and  defend  the  use  of  these  games  as 
+pedagogical  instruments  that  allow  internalization  (Vygotsky)  of  school 
+contents,  considering  the  identification  (Lacan)  engendered  by  desire  in  the 
+construction of such contents. 
+
+Resumo. Apresenta-se revisão de literatura, com fundamentos dialéticos entre 
+a  psicologia  histórico-cultural  e  a  psicanálise,  com  o  objetivo  de  refletir  a 
+potencialidade  dos  Role-playing  games  (RPG)  digitais  como  instrumento  de 
+ensino-aprendizagem  com  adolescentes  em  contexto  escolar.  Embasa-se  em 
+uma  concepção  sociointeracionista  de  educação,  pensada  a  partir  dos 
+postulados  vygotskyanos  e  da  psicanálise,  para:  expor  as  origens  e  a 
+jogabilidade  dos  RPG,  também  em  sua  condição  digital,  e  defender  a 
+utilização  desses  jogos  como  instrumentos  pedagógicos  que  permitem  a 
+internalização 
+considerando  a 
+conteúdos 
+identificação (Lacan) engendrada pelo desejo na construção de tais conteúdos. 
+
+(Vygotsky)  de 
+
+escolares, 
+
+1. Introdução 
+
+No  curso  da  vida,  a  imaginação  emerge  como  aspecto  fundamental  do  humano.  Ela 
+atravessa suas histórias e a construção de personagens com os quais vem a identificar-
+se, ou até  mesmo a opor-se. Trata-se de uma imaginação que não se opõe  à realidade, 
+mas  que  faz  parte  de  seu  processo  de  humanização,  sendo  elemento  fundante  na 
+interiorização  que  permite  a  constituição  das  funções  psicológicas  superiores,  como 
+teorizará  Vygotsky,  e  da  formação  do  próprio  inconsciente,  como  fundamenta  a 
+psicanálise.  Diferentemente  dos  animais,  que  encontram  na  brincadeira  uma  forma 
+instintiva  de  organizarem  sua  operação  biológica  na  natureza,  os  humanos,  seres  de 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+cultura,  destituídos  do  instinto  natural,  encontram  no  ato  do  jogo  possibilidades 
+simbólicas  e  lúdicas  de  se  fazerem  constituir  sujeitos  e  assim  serem  reconhecidos  no 
+laço  social.  As  expressões  sociais  humanas,  perpassando  a  arte,  a  religião  e  a  guerra, 
+umas com maior teor de evidência, outras menos, apresentam relações com o jogo, bem 
+como com as regras e a imaginação que o circunscreve [Huizinga 2012]. 
+
+ Convém  sinalizar  breve  compreensão  do  que  seria  a  adolescência.  Concepção 
+contemporânea,  que,  na  psicologia  histórico-cultural  e  na  psicanálise,  diz  respeito  ao 
+tempo  subjetivo,  caro  à  vida  psíquica  das  sociedades  industrializadas,  que  permite  ao 
+humano  a  consolidação  e  o  reforçamento  de  laços  sociais  envolvendo  os  afetos 
+conturbados  frente  à  passagem  do  familiar  ao  estranho  –  corporal  e  social.  Frente  aos 
+desafios  dessa  passagem,  as  expressões  da  cultura  podem  amparar  simbolicamente  o 
+adolescente em suas (res)significações e em seu posicionamento subjetivo frente ao laço 
+social contemporâneo. Essas expressões seriam: “a música, o esporte, a dança, as mídias 
+digitais,  o  teatro,  entre  outras,  [que]  possibilitam  ao  adolescente  passar  pelo  processo 
+pubertário  e  pelos  desafios  subjetivos”  [Brasil  et  al.  2015],  implicando  as  próprias 
+formações simbólico-subjetivas da puberdade, particulares do adolescer. 
+
+A  essas  expressões  culturais,  Melo  [2014]  acrescenta  a  própria  educação  e  a 
+produção científica que, por seus discursos, tanto podem amparar o adolescente, quanto 
+os destituir de sua posição de sujeito, acarretando-lhes ainda mais instabilidade psíquica 
+e angústia. Frente a estas situações discursivas que por consideráveis vezes destituem o 
+adolescente  de  sua  autonomia  frente  ao  seu  desejo,  o  jogo  digital  pode  valer  como 
+suplência a este desejo de “fazer parte da história” onde pode fazer laço, “influenciando-
+a”,  inclusive.  Isso,  porque  nessa  configuração  de  jogo  “o  indivíduo  sai  do  lugar  de 
+apenas  leitor  para  o  lugar  de  protagonista  que  emerge  no  universo  da  narrativa,  e  tem 
+interesse de imergir e interagir com ela” [Mendes e Silva 2017]. Algo muito próximo ao 
+que  o  adolescente  está  passando  em  seu  tempo  subjetivo.  Evidentemente  que  tal 
+suplência não deve ser entendida  como finalidade,  mas como um recurso considerável 
+ao campo educativo de modo a aproximar, frente aos processos de destituição subjetiva 
+do sujeito no espaço social, o adolescente de seu desejo e, de forma menos angustiante, 
+lidar com as interfaces culturais entre educação escolar e configuração social. 
+
+Com base no levantamento bibliográfico, defende-se que as tecnologias digitais, 
+especialmente  os  jogos,  e,  neste  estudo,  os  Role-playing  games  (RPG)  digitais  ou 
+Massively Multiplayer Online Role-Playing Game (MMORPG), podem contribuir com 
+processos institucionalizados de ensino-aprendizagem para a construção de significados 
+e  sentidos  entre  os  sujeitos  do  processo,  no  curso  dos  objetivos  das  aulas.  Com  isso, 
+compreende-se os RPG digitais como ferramentas processuais do aprendizado, não seu 
+fim. Este artigo é fruto da pesquisa de mestrado, ainda em curso, de seu autor principal 
+com a iminência do início da fase de campo, cuja pesquisa bibliográfica foi fundamental 
+para  a  configuração  de  uma  arguição  defensiva  frente  ao  uso  dos  RPG  digitais  como 
+instrumento  pedagógico.  Os  autores  aqui  referenciados  tiveram  suas  produções 
+levantadas  para  este  estudo  através  da  Biblioteca  Digital  Brasileira  de  Teses  e 
+Dissertações,  das  bases  online  Scielo  e  Pepsic,  no  período  de  2014  a  2018,  com  a 
+utilização dos seguintes indicadores: Role-playing games digitais, ensino-aprendizagem, 
+adolescência, psicologia histórico-cultural, internalização, Vygotsky, psicanálise, Lacan, 
+identificação.  Também  se  recorreu  a  outras  obras  da  literatura  científica  que,  mesmo 
+não  estando  circunscritas  a  esta  faixa  temporal,  trouxeram  contribuições  significativas 
+ao objeto cujo estudo está em curso. 
+
+ 
+
+No  tocante  à  construção  dialética  entre  a  psicologia  histórico-cultural  e  a 
+psicanálise,  este  trabalho  identifica  nelas  possibilidades  de  interlocução  consideráveis 
+frente  ao  seu  objeto.  Em  que,  ressalvando  suas  respectivas  particularidades  e 
+concepções  de  sujeito  e  mundo,  podem  dialogar  frente  ao  entendimento  de  um  sujeito 
+cognitivo-consciente,  que  apreende  e  internaliza  os  objetos  do  mundo,  inclusive  os 
+conhecimentos que nele estão circunscritos, a partir da mediação simbólica e interativa 
+de  outros  sociais  –  como  postula  a  escola  de  Vygotsky  –,  e  de  um  sujeito  do 
+inconsciente, que se constitui mediante as relações e os vínculos com aqueles outros de 
+sua  espécie  que  podem  lhe  transmitir  a  condição  humana  a  partir  dos  laços 
+identificatórios  –  como  arguirá  a  psicanálise.  Com  isso,  não  se  reflete  sobre  a 
+construção  de  uma  outra  tese  de  sujeito  (supostamente  tentando  articular  estas  de 
+Vygotsky  e  Lacan),  mas  de  se  pensar  as  possibilidades  de  interseção  que  estas 
+epistemologias permitem ao refletir a educação, a aprendizagem, a adolescência e o uso 
+das  tecnologias  digitais,  especialmente  os  jogos,  nesta  área  de  estudo  e  pesquisa.  Este 
+artigo apresenta uma possibilidade de interpretar o ensino-aprendizagem, mediado pela 
+interface  digital,  a  partir  do(s)  (des)encontro(s)  entre  essas  teorias.  Uma  que  pensa  a 
+própria  relação  filo  e  ontogenética  da  aprendizagem  e  da  condição,  fundamentalmente 
+cultural, do humano (psicologia histórico-cultural); e outra que busca entender, também 
+nos limiares da filo e ontogênese, a constituição desejante do humano em sua dimensão 
+inconsciente (psicanálise). 
+
+2. RPG: origens e jobabilidade 
+
+O RPG, como jogo de interpretação de personagens, pode ser compreendido como uma 
+game  que  permite  a  criação  e  a  vivência  de  histórias  ficcionais  [Melo  2014].  Melo 
+[2014]  informa  que  esses  jogos  surgiram  na  década  de  70  do  século  XX,  com  o 
+lançamento  de  Dungeons  &  Dragons  (D&D),  em  1974,  e  de  Empire  of  Petal  Throne, 
+em 1975. Estes jogos foram lançados nos Estados Unidos da América e espalharam-se 
+pelo mundo, à medida que os jogadores se iniciavam em sua prática [Melo 2014; Corrêa 
+2017].  Envolvem  temáticas  medievais  e  surgiram  diante  da  inspiração  das  obras 
+literárias de Tolkien: O Hobbit, em 1937; O Senhor dos Anéis, em 1954; O Silmarillion, 
+em 1977. Não houve contentamento em apenas ler estas histórias da “Terra Média”, foi 
+necessário se criar algo para deste  mundo, ainda que virtualmente, fazer parte  e  assim 
+protagonizar os atos que o envolvem [Melo 2014; Corrêa 2017]. 
+
+No  jogo  de  mesa,  a  jogabilidade  baseia-se  em  tabuleiros,  estatísticas  e  dados, 
+assumindo  uma  infinidade  de  possibilidades  imaginativas.  Corrêa  [2017]  diferencia  os 
+jogos  RPG  dos  jogos  de  tabuleiro  e  estratégias  convencionais,  argumentando  que:  “as 
+grandes diferenças do D&D  para esses jogos de estratégia são os fatos de que em sua 
+composição, sentados em volta de uma mesa, usando livros de regras, papel, lápis e um 
+conjunto de dados de múltiplas faces, cada jogador  deve representar um personagem e 
+não um exército; e também a existência de um  jogador especial denominado  Dungeon 
+Master – “mestre” do jogo, que mais tarde passaria a se chamar também narrador – cujo 
+papel  é,  ao  mesmo  tempo,  propor  um  desafio,  uma  aventura,  aos  demais  jogadores  e 
+também  ser  o  responsável  pela  condução  da  narrativa,  descrição  do  cenário  e 
+interpretação de qualquer outro personagem da história que não seja de um jogador – os 
+chamados non-player character (NPCs), muitas vezes antagonistas dos personagens de 
+jogadores.  Ao  longo  da  narrativa,  os  gamers  devem  tomar  as  decisões  de  seus 
+personagens  –  que  no  plano  da  imaginação  realizariam  as  ações  propostas,  tendo  o 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+sucesso  ou  o  fracasso  em  suas  tentativas  baseado  na  aleatoriedade  representada  pelo 
+rolar  de  dados.  Conforme  os  jogadores  tomam  suas  decisões,  realizam  ações  ou 
+enunciam  suas  falas,  os  dados  rolam  e  o  mestre-narrador  descreve  os  resultados  e  as 
+reações  do  cenário,  constituindo,  portanto,  uma  espécie  de  narrativa  interativa  e 
+colaborativa, cercada pelo improviso e por uma enorme liberdade criativa”. 
+
+Note-se  que  tal  jogabilidade  é  amplamente  atravessada  por  questões  subjetivas 
+que tocam a consciência-cognitiva de seus jogadores e os conteúdos de seus respectivos 
+inconscientes,  numa  configuração  longe  de  ser  dicotômica,  mas  em  consideração  à 
+complexidade  que  engendra  o  humano  a  partir  destas  dimensões.  As  escolhas  dos 
+personagens e aquelas próprias que se voltam para as ações no curso da narrativa dizem 
+muito dos conteúdos subjetivos, da personalidade, dos traços identificatórios e de como 
+certos  conhecimentos  da  cultura  estão  sendo  apreendidos  e  internalizados  por  estes 
+sujeitos  que  neste  espaço  se  põem  a  jogar.  Os  RPG  chegaram  ao  Brasil  no  final  da 
+década  de  1980.  Sua  vivência  ganhou  eco  significativo  entre  jovens  universitários  e 
+adolescentes, que já jogavam com as versões importadas, em língua inglesa, dos livros 
+que  instruíam  a  prática  do  jogo  [Melo  2014;  Corrêa  2017].  A  modalidade  dos 
+MMORPG permitiu aos jogadores a vivência do RPG através do aparato tecnológico do 
+computador ou de um console, vivenciando a narrativa através dos recursos midiáticos 
+da  imagem  de  do  som,  bem  como  da  manipulação  dos  controles  do  game.  A 
+importância do jogo não consiste no cumprimento de uma finalidade, haja vista vastidão 
+de  possibilidades  que  a  narrativa  pode  cursar;  há  vários  objetivos  e  uma  infinidade  de 
+missões em cena, que podem ser dadas aos jogadores para cumprirem individualmente 
+(missões  solo)  ou  em  campanha  (com  um  grupo  de  aventureiros).  Essa  configuração 
+permite  aos  jogadores  a  construção  da  “capacidade  de  posicionamento  e  resiliência” 
+[Melo 2014], grandes exercícios de maturidade, os quais se esperam do adolescente em 
+sua  transitoriedade  da  infância  à  vida  adulta.  Os  RPG  são  jogos  cooperativos,  mesmo 
+quando  jogados  individualmente,  pois  o  jogador  precisa  cooperar  com  as  demais 
+personagens  para  conseguir  os  objetivos  das  missões  apresentadas  pela  narrativa 
+[Francisco 2014].  
+
+Nos  MMORPG,  a  função  do  mestre  se  dilui  através  do  cenário  virtual 
+computadorizado,  quer  com  uma  narrativa  linear  a  ser  seguida,  quer  com  várias 
+possibilidades  transcursivas  à  história  principal  de  um  game,  permitindo  ao  jogador 
+cumprir  várias  missões  e  imergir  por  horas  a  fio  na  realidade  virtual,  que  lhe  oferece 
+cenários  fantásticos,  sob  temáticas  medievais  ou  futurísticas,  construindo  e  destruindo 
+impérios, inventando personagens ou interagindo com outros, tudo a um clicar do mouse 
+ou movimento do joystick. Existirão regras com o intuito de dar coerência ao universo, à 
+narrativa e as ações no qual a história do jogo acontece [Marins 2017]. As personagens 
+são  construídas  pelos  jogadores,  individualmente,  a  partir  dos  atributos  que  elegerem. 
+Os  jogadores  escolhem  os  pontos  fortes  e  fracos,  a  espécie  a  que  seu  personagem 
+pertencerá,  a  classe,  os  atributos  mais  físicos,  inclusive  os  emocionais.  Essas 
+personagens  não  são  unidimensionais,  muito  menos  simplistas  [Marins  2017].  Na 
+função de avatares, humanos, parahumanos ou animais, o jogador representa a si e seu 
+desejo no mundo virtual.  
+
+Nisto  já  se  vislumbra  a  interlocução  da  concepção  de  sujeito  cognitivo-
+consciente  (Vygotsky)  e  do  sujeito  do  inconsciente  (Lacan):  na  personificação  e 
+interpretação  de  personagens,  ao  passo  que  o  sujeito  traz  à  tona  elementos  que 
+expressam sua apreensão consciente do mundo – os objetos da cultura que faz uso para 
+
+ 
+
+dar  corpo  a  seu  personagem,  os  conteúdos  e  conhecimentos  que  precisa  se  valer  para 
+assim  constituí-los  –,  também  evoca  os  elementos  identificatórios  que  perpassam  sua 
+vida  psíquica  inconsciente,  retomando  e  projetando  na  cena  digital  os  traços  que  o 
+constituíram  na  infância,  tendo  a  oportunidade  de  ali,  na  interface  digital,  poder 
+(re)pensá-los  e  atribuir-lhes  (novos)  significados  –  ou  seja:  as  escolhas  dos  atributos, 
+ainda  que  fantasiosos,  das  personagens,  nunca  serão  ao  acaso,  haverá  nestas  escolhas 
+aspectos  inconscientes,  da  ordem  do  desejo,  que  rememoram  ou  retomam  e  podem 
+permitir uma elaboração dos conteúdos que no jogo são projetados. Os RPG, situam-se 
+“entre  as  fronteiras  do  real  e  do  irreal,  onde  há  acontecimentos  impossíveis  de  serem 
+explicados  por  leis  que  regem  o  mundo  fora  da  narrativa”  [Gregório  2014].  Há  uma 
+ruptura,  consideravelmente  influenciada  pelos  tempos  da  pós-modernidade,  entre  a 
+concepção do que se configurava como racional e lógico. Surge o fantástico que leva ao 
+jogador  de  RPG  e/ou  MMORPG,  para  “além  do  que  há  de  concreto,  podendo  as 
+histórias flutuarem em um espaço [supostamente] ilógico” [Gregório 2014]. Esses jogos 
+colocam  seus  jogadores  em  um  mundo  que  rompe  com  os  paradigmas  do  que  lhes  é 
+familiar.  Coloca-os  em  “uma  complexa  interação  com  este  universo  novo”  [Gregório 
+2014]. Há uma proximidade com a adolescência como tempo de passagem do familiar 
+ao estranho social, pois é possível que os jovens encontrem nos jogos amparo e sentido 
+para  atenuar  a  angústia  que  esta  passagem  lhes  acarreta.  Trata-se  de  um  apelo  ao 
+simbólico mediado pelo virtual e nele projetado. 
+
+O jogo permite aos jogadores uma simulação da vida [Corrêa 2017]. “Ao jogar, 
+o  indivíduo  adquire  habilidades  que  o  fazem  imergir  no  jogo  ao  tempo  que  aprimora 
+outras já existentes” [Mendes e Silva 2017]. Por sua ficção, possibilita que os jogadores 
+explorem criando e criem explorando resoluções de problemas através da imaginação e 
+fazendo uso de um tanto de ousadia sem que isso represente um risco iminente. Através 
+da  interatividade,  participando  de  forma  ativa,  o  gamer  age,  reage  e  intervém  no 
+processo narrativo do jogo: ao passo que é receptor de uma dada informação, da mesma 
+também é emissor [Antonio Júnior 2014]. Sobre a virtualidade, em função dos avanços 
+tecnológicos que possibilitam programadores construírem realidades fantásticas a serem 
+ofertadas aos jogadores, a condição virtual assume um sentido inovador.  
+
+3. RPG e ensino-aprendizagem com adolescentes 
+
+3.1 A adolescência e o espaço virtual dos games 
+
+Freud  [2006]  ensinou  que  a  tarefa  mais  árdua  para  o  adolescente  é  desapegar-se  da 
+autoridade  de  seus  pais,  algo  que  para  Lacadée  [2012]  será  uma  atividade  na  qual  a 
+fantasia exercerá tarefa importante. Nesse sentido, “a atividade fantasmática toma como 
+tarefa livrar-se dos pais, que de agora em diante são desdenhados, seja sob o modo de 
+sonhos  diurnos,  de  leituras,  de  escrituras  de  diários  íntimos  ou  de  jogos  diversos” 
+[Lacadée 2012]. Com isso, Kelles e Lima [2017] explicam que “para  alguns sujeitos a 
+tela do celular ou do computador pode funcionar como uma  moldura para  as fantasias 
+adolescentes.  [...]  nos  jogos  eles  podem  ser  o  que  quiserem,  é  um  espaço  para  a  livre 
+experimentação”. Para Lima [2009], “o ciberespaço se configura como um novo espaço 
+público, onde o jovem se sente ‘incluído’. Um espaço onde é possível encontrar os seus 
+pares e exercitar a passagem do privado ao público, da família para o laço social mais 
+amplo”. Dessa forma, o sujeito pode se sentir pertencente a rede, agir nela, significá-la. 
+Essa  autora  ainda  ressalta  que  na  interação  social  através  do  ciberespaço  há 
+possibilidades  identificatórias,  ainda  que  sejam,  em  sua  maioria,  imaginárias  [Lima 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+2009].  Os  sujeitos  na  contemporaneidade  estão  indo  além  de  limites  entendidos  como 
+humanos  [Gregório  [2014],  nessa  condição  pós-humanista,  reflete-se  acerca  deste 
+“estágio  da  humanidade  tecnológica  cuja  principal  meta  é  a  transcendência  das 
+limitações físicas e biológicas do humano. Esse desejo de ultrapassagem dos limites ou 
+fronteiras [...] encontra sua realização máxima no abandono da prisão corporal” [Felinto 
+2006],  que  vem  encontrando  certo  sucesso  frente  às  experiências  de  imersão 
+proporcionadas  pelo  mundo  virtual.  Entre  as  quais  está  a  ofertada  pelos  jogos  RPG 
+digitais. 
+
+O  jogo  oferece  ao  sujeito,  especialmente  ao  adolescente,  um  meio  pelo  qual 
+possa  sair  do  mundo  de  insegurança  e  adentrar  em  um  universo  que  pode  controlar, 
+reger, não morrer, pois sempre que o game over surgir, outra chance de recomeçar será 
+dada.  No  mundo  virtual  dos  MMORPG  é  possível  ao  sujeito  arriscar-se  e  nisto  obter 
+prazer  [Francisco  2014].  Nesse  sentido,  assume  um  lugar  histórico  de  significação  e 
+construção  de  sentidos  e  que,  se  sustentado  pela  ordem  simbólica  da  alteridade,  da 
+relação  com  o  Outro  social,  pode  se  tornar  um  instrumento  cultural  válido  de 
+aprendizagem  em  que  se  é  possível  arriscar,  errar  e  repetir  até  alcançar  o  êxito.  Uma 
+movimentação importante de ser reconhecida tanto em seu caráter psíquico de repetição 
+e elaboração, quanto em seu caráter educativo de transformação. 
+
+3.2 Ensino-aprendizagem, educação e o jogo como instrumento pedagógico 
+
+O  foco  do  ensino-aprendizagem  consiste  em  preparar  estudantes  para  viverem  com  os 
+seus semelhantes em sociedade [Mrech 2003]. Com isso, distancia-se de uma concepção 
+tradicional de educação, uma vez que essa apreende os sujeitos estudantes, por vezes, de 
+forma  estática  e  inalterável  em  função  de  seu  tempo  e  espaço  sociais  [Mrech  2003]. 
+Preconiza-se  que  o  ensino-aprendizagem,  como  processo  educativo,  é  engendrado  por 
+seu  tempo  histórico  no  laço  cultural.  Como  explica  Mrech  [2003],  Lacan  e  Vygotsky 
+criticaram a forma a-histórica de compreender os sujeitos envolvidos na cena educativa, 
+e  posicionaram-se  em  favor  da  compreensão  desses  sujeitos  a  partir  de  sua  história 
+filogenética  e  ontogenética  através  dos  laços  que  a  cultura  pode  ofertar-lhes.  Este 
+processo pode permitir ao estudante, através das relações, a construção de habilidades e 
+conhecimentos  para  agir  de  forma  autônoma,  reflexiva,  crítica  e  ética  sobre  o  mundo, 
+pensando  sobre  si  e  sobre  os  outros,  cooperando,  desenvolvendo 
+formas 
+interdisciplinares de raciocínio, pesquisando, questionando, criando e inovando.  
+
+A  educação,  em  seus  paradigmas  modernos,  não  dá  mais  conta  das 
+transformações  culturais  e  sociais  que  os  abalos  epistemológicos  da  pós-modernidade 
+proporcionaram. Vivencia-se um tempo de crise epistemológica e filosófica, de ruptura 
+do  paradigma  que,  pretensiosamente,  declarava  a  existência  de  um  conhecimento 
+objetivo, imutável, plenamente explicado e percebido através de uma lógica positivista. 
+É  necessário  transformar  as  metodologias  tradicionais  “para  que  o  ensino  escolar 
+acompanhe  as  mudanças  que  ocorrem  na  sociedade  atual” 
+[Marins  2017]. 
+Evidentemente  que  essa  transformação  da  escola  não  se  restringe  à  incorporação  de 
+novas  tecnologias  no  ambiente  escolar,  pois  é  possível  que  se  encontre  uma  escola 
+amplamente  incrementada  por  artefatos  tecnológicos,  contudo  arraigada  no  modelo 
+oratório de ensino, que aparece como a transmissão de um saber pronto e acabado, onde 
+o  sujeito  não  se  acha  implicado”  [Mrech  2003].  Isso  diverge  do  paradigma 
+sociointeracionista  de  Vygotsky,  que  não  dissocia  ensino  de  aprendizagem, 
+compreendendo o processo como um todo: de ensino-aprendizagem, marcando o caráter 
+interativo  e  mediador  ancorado  na  instância  simbólica  da  relação  com  o  outro  social. 
+
+ 
+
+Também  dos  postulados  de  Lacan,  para  quem  é  impossível  o  ensino  se  o  sujeito  não 
+colocar algo particular nesta construção [Mrech 2003]. Nessa busca por transformação 
+metodológica,  os  RPG  podem  exercer  um  importante  papel  “por  serem  excelentes 
+estimuladores  para  despertar  a  curiosidade  e  a  criatividade”  [Ferreira  2016]  dos 
+estudantes,  bem  como  um  ótimo  recurso  para  o  docente  exercer  sua  função  de 
+mediação, demarcando o caráter relacional que envolve a prática dos jogos. 
+
+Todo jogo possui uma situação-problema que pode vir a ser solucionada, ou não, 
+pelo  sujeito  que  deve  obedecer  a  um  sistema  de  regras  que  limitam  sua  ação  no 
+desenrolar  do  jogo  [Ferreira  2016].  Nos  RPG  isso  fica  ainda  mais  complexo,  pois  por 
+terem  várias  possibilidades  e  missões  com  diversas  situações-problema,  o  jogador, 
+cooperativamente,  necessita  resolvê-las,  exigindo  dele  conhecimentos  que  atravessam 
+domínios filosóficos, históricos, lógico-matemáticos, linguísticos, políticos, religiosos, e 
+tantos  outros  que  se  configuram  conforme  as  especificidades  de  cada  interface. 
+Vygotsky,  já  em  seus  estudos  sobre  o  desenvolvimento  infantil,  ressalta  a  função  do 
+brincar, ou do jogar, para a aprendizagem do sujeito [Ferreira 2016]. Esta atividade atua 
+na  Zona  de  Desenvolvimento  Proximal  (ZDP),  permitindo  àquela  pessoa  que  está  na 
+função  de  mediação  (o  docente,  na  escola,  por  exemplo)  a  compreensão  de  como  o 
+estudante  (criança,  adolescente  ou  adulto,  com  as  devidas  diferenças  em  relação  as 
+operações simbólicas possibilitadas pelas funções psicológicas superiores condizentes a 
+cada tempo do desenvolvimento) está internalizando um dado conhecimento e assim o 
+transformando em algo particular, próprio. A ZDP justamente possibilita a compreensão 
+daquelas funções que ainda não amadureceram, ou conhecimentos que ainda não foram 
+bem internalizados, mas que se encontram no sujeito em potencialidade, configurando-
+se como um espaço simbólico intersubjetivo. A escola, em considerações vygotskyanas, 
+tem  a  responsabilidade  institucional  do  ensino  sistematizado  e  científico,  que,  por  sua 
+vez, repercute sobre o próprio desenvolvimento humano. É, nesse sentido, fundamental 
+que se reconheça este papel importante do espaço escolar comprometido com “o avanço 
+da sociedade como um todo, pois é na  e pela apropriação dos conteúdos aí veiculados 
+que  o  homem  se  constitui  enquanto  sujeito  consciente,  crítico,  agente  da  história” 
+[Ferreira 2016]. É muito válido quando o ensino, ao invés de supostamente vivenciado 
+por um discurso de um sujeito que acredita deter o conhecimento a um ser que, nestes 
+termos,  ainda  não  o  detém,  são  construídas  de  forma  relacional  através  de  uma 
+mediação  que  não  se  refere  apenas  à  relação  professor-estudante,  mas  entre  pares, 
+estudante-estudante.  O  processo  de  ensino-aprendizagem  é  interativo  e  preconiza  a 
+colaboração  mediadora  entre  professor-estudante  e  entre  pares  (estudante-estudante). 
+Pela  colaboração,  as  experiências  (de  conhecimento,  de  vida,  de  posicionamentos 
+individuais)  podem  ser  elaboradas  e  produzir  resultados  ricos  desse  processo  [Marins 
+2017].  É,  por  este  embasamento,  que  Vygotsky  inova  com  o  conceito  de  ZDP,  como 
+ferramenta  processual,  que  permite  ao  psicólogo  ou  educador  avaliar  o  momento  do 
+desenvolvimento e do aprendizado em que se encontra o estudante. Algo que não deve 
+apenas  considerar  aquilo  que  já  fora  alcançado  ou  desenvolvido  (nível  real),  mas,  na 
+atenção ao processo que está em curso, atentar para aquilo que está em potencial, que se 
+aposta que o sujeito venha a  alcançar (nível potencial). No hiato entre o nível real e o 
+nível potencial encontra-se a ZDP [Vygotsky 2007]. Esta, relacionada aos processos de 
+ensino-aprendizagem, repercute sobre o desenvolvimento. 
+
+Na perspectiva psicanalítica, a educação e a subjetivação do humano encontrarão 
+na linguagem a sua possibilidade. Afirma-se que na transmissão de um saber, “reedita-
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+se  o  processo  inaugural  de  nascimento  do  sujeito,  do  qual  participa  sempre  um 
+outro/educador,  com  sua  fantasia  inconsciente  e  seu  modo  singular  de  desejar” 
+[Coutinho e Carneiro 2016]. Transmissão esta que não está simplesmente relacionada à 
+passagem  do  conhecimento  de  uma  pessoa  que  pensa  que  o  detém  a  outra  que 
+supostamente  acha  que  não  o  tem.  A  transmissão,  na  psicanálise,  assume  sentido 
+“vinculado  à  instauração  de  uma  verdadeira  transferência  de  trabalho”  [Mrech  2003], 
+esta  que,  por  sua  vez,  leva  “o  sujeito  a  investir  libidinalmente,  a  conseguir  criar,  a 
+conseguir  trabalhar,  a  ler,  a  escrever,  etc.”  [Mrech  2003]  na  relação  com  o 
+outro/educador/par.  Nota-se,  atualmente,  um  movimento  discursivo,  engendrado  pela 
+cultura  neoliberal  e  consumista,  que  enaltece  procedimentos  educativos  tecnicistas, 
+condenando  estudantes  e  educadores  a  um  enquadramento  normativo  de  ensino-
+aprendizagem  que  exclui  a  imprevisibilidade  e  a  singularidade  que  demarcam  o 
+processo  de  educar.  Nesse  sentido,  há  um  esvaziamento  das  possibilidades  de 
+“encontros/confrontos  entre  o  adolescer  e  o  educador,  de  modo  que  o  caminho  em 
+direção a uma travessia da adolescência complica-se na mesma proporção que a tarefa 
+de  pais  e  professores  diante  dos  adolescentes”  [Coutinho  2015].  A  escola,  a  partir  das 
+relações que aí se constituem, exerce influência considerável na passagem adolescente. 
+Relações  que  podem  mitigar,  dificultar  ou  favorecer  simbolicamente  a  transitoriedade 
+que  demarca  a  adolescência,  influenciando  as  próprias  escolhas  subjetivas  que  serão 
+engendradas  nesta  passagem  ao  laço  social.  Por  isso  é  importante  que,  na  escola, 
+relações,  construindo 
+adolescentes  encontrem  abertura  para  exercitarem  suas 
+significações para o próprio conhecimento científico que nela deve ser construído, mas 
+não  se  restringido,  ou  tendo  sua  formação  subjetiva  constrangida,  à  aquisição  de 
+conhecimentos acadêmicos. Nesse ensejo, o uso de jogos digitais pode ser instrumento 
+válido para tais construções.  
+
+4.  A  potencialidade  pedagógica  dos  RPG  digitais:  ensaios  conclusivos  de 
+uma pesquisa em curso 
+
+Haja vista a não conclusão deste estudo, entrementes as fortes considerações reflexivas 
+apontadas pelo referencial  exposto, ensaia-se possíveis conclusões que encontraram na 
+revisão de literatura uma defesa considerável em relação ao uso dos RPG digitais como 
+instrumentos  de  ensino-aprendizagem,  considerando  as 
+implicações  do  sujeito 
+cognitivo-consciente e do sujeito do inconsciente que neste campo podem se encontrar. 
+Os RPG digitais como instrumentos pedagógicos permitem ao estudante e ao professor 
+uma  forma  diferenciada  de  ensino-aprendizado  através  de  vivências  e  personificações 
+de narrativas virtuais. Trata-se de uma vivência lúdica da aprendizagem, através da qual 
+se pode experienciar, não apenas os conteúdos programáticos do currículo escolar, mas 
+as relações que envolvem esse contexto, permitindo, inclusive, discussões válidas e, por 
+que  não,  divertidas  de  temáticas  existenciais  e  educativo-transversais  próprias  do 
+adolescer.  Apesar  de  serem  ofertados  por  e  inseridos  em  uma,  como  a  maioria  dos 
+instrumentos  da  cultura  pós-moderna,  sociedade  de  consumo,  com  fundamentos  cada 
+vez  mais  neoliberais,  pode-se,  através  do  simbólico  que  sustenta  tais  instrumentos, 
+“fisgá-los” em uma outra (res)significação. Estes jogos, frutos do progresso tecnológico 
+da  pós-modernidade,  podem  assumir  um  sentido  de  formação  crítico-reflexiva  e  de 
+transformação, atingindo o âmbito da educação. De forma a permitir, sob o amparo da 
+palavra  simbólica  do  Outro  social,  que  jovens  possam  aproximar-se  de  seus  desejos  e 
+terem  uma  suplência  do  desamparo  social,  que  se  configura  na  atualidade,  através  do 
+recurso  virtual,  mas  sem  desprenderem-se  das  relações  de  alteridade.  E  tudo  isso, 
+
+ 
+
+aprendendo  e  convivendo  [Antonio  Júnior  2014;  Marins  2017].  Os  jogos  digitais 
+“integrados  por  eventos  rápidos,  móveis  e  simultâneos,  demandam  coordenação  de 
+variáveis  interagentes  e,  para  tanto,  habilidades  de  representação  espacial  dinâmica  e 
+atenção visual distribuída [...]. Com um contexto de aprendizagem, a prática de jogos, 
+[...]  com  o  diferencial  das  inovações  de  suporte  logístico  –  o  programa,  a  interface 
+interativa, os joysticks, e mesmo as tecnologias e recursos para interatividade imersiva, 
+apresentam-se  como  possibilidades  na  elaboração  de  habilidades  de  planejar,  prever, 
+reelaborar, analisar o erro, de gerar e avaliar hipóteses, contribuindo para flexibilidade 
+cognitiva  e  criatividade  [Antonio  Júnior  2014].  Dessa  forma  os  estudantes  podem, 
+divertidamente, ao passo que aprendem, sobre os jogos e os conteúdos pedagógicos que 
+neles  estão  inseridos,  criar  algo  que  lhes  seja  singular,  próprio  [Marins  2017].  Algo 
+bastante  considerável  na  passagem  adolescente,  em  que  o  sujeito  se  constitui 
+subjetivamente a partir de uma posição singular. Pelos jogos, os laços da transmissão e 
+as relações de mediação que possibilitam o ensino-aprendizagem podem ser alcançados, 
+mas,  apenas,  se  configurados  na  relação  de  alteridade  com  os  pares  e  com  aquele  que 
+ocupa o lugar da transmissão – para a psicanálise – ou da mediação – para a psicologia 
+histórico-cultural. 
+
+Os  estudos  acerca  do  uso  dos  RPG  no  cenário  educacional  têm  demonstrado  o 
+potencial  desta  ferramenta,  que  proporciona  aprendizagem  de  forma  ativa  e 
+significativa,  rompendo  com  os  paradigmas  de  uma  educação  tradicional,  inócua  e 
+ineficiente  para  os  tempos  atuais  [Marins  2017].  O  ensino-aprendizagem,  a  partir  dos 
+RPG,  fundamenta  “o  aprender  a  ser,  a  viver,  a  aprender  e  a  conhecer  [...]  a  fim  de 
+problematizar  e  conectar  vida  e  contexto  dos  estudantes,  alimentando  nestes  a  pulsão 
+que se desprende do pensamento [...] morto” [Melo 2014], inócuo, vazio. Pela vivência 
+dos RPG em sala de aula, como instrumento pedagógico busca-se construir um espaço 
+de aprendizado que permita aos estudantes  exporem saberes prévios,  ao passo que, no 
+fluxo das narrativas e nas tentativas de resolução das situações-problema que emergirem 
+da  partida,  possam  demandar  o  interesse  pela  pesquisa  e  pela  interlocução  com  seus 
+pares e com o docente [Corrêa 2017]. Justamente uma aposta na compreensão da ZDP 
+que  aí  se  configura  e  permite  ao  professor-mediador  intervir  na  construção  dos 
+conhecimentos que ali se encontram envolvidos. Como afirma Corrêa [2017], “pensar o 
+jogo  associado  à  educação  requer  perceber  que  o  próprio  jogo  é  aprendizado”.  Um 
+instrumento que medeia, sem a pretensão de um fim, uma vez que o processo de ensino-
+aprendizagem consiste na própria mediação, ao que concerne a própria compreensão das 
+possibilidades interventivas que a ZDP permite ao educador. É importante a reflexão de 
+que a introdução de novas tecnologias de nada vale à transformação da educação se os 
+seus  profissionais,  amparados  pelo  sistema  de  ensino,  atravessando,  inclusive  a 
+formação acadêmica, não se prepararem para compreenderem a sua função e utilizá-los 
+nas  salas  de  aula  junto  aos  estudantes,  de  forma  ativa  e  colaborativa,  (re)construindo 
+conhecimentos.  “A  tecnologia  por  si  só  não  basta,  independente  das  virtudes  que  o 
+recurso tecnológico possa oferecer, o trabalho do professor é indispensável e de extrema 
+importância  na  promoção  de  interações  sociais”  [Marins  2017].  Não  há  educação, 
+tampouco  vida  social,  sem  o  laço  simbólico  da  alteridade,  destituída  esta,  só  resta  a 
+barbárie. 
+
+ 
+
+ 
+
+Referências 
+
+Antonio Júnior, W. (2014). “Jogos digitais e a mediação do conhecimento na perspectiva da 
+
+psicologia histórico-cultural”. Dissertação – USP, São Paulo. 
+
+Brasil, K. C. T. R. et al. (2015). “Adolescência, violência e objetos culturais”, In: Estilos da 
+
+Clínica, São Paulo, v. 20, n. 2, p. 205-225. 
+
+Corrêa,  A.  L.  C.  (2017).  “Rolando  dados,  criando  histórias,  aprendendo  História”. 
+
+Dissertação – UFRGS, Porto Alegre. 
+
+Coutinho,  L.  G.  and  Carneiro,  C.  (2016).  “Infância,  adolescência  e  mal-estar  na 
+
+escolarização”, In: Psicologia Clínica, Rio de Janeiro, v. 28, n. 2, p. 109-130. 
+
+Coutinho, L. G. (2015). “O adolescente e a educação no contemporâneo”, In: Cadernos de 
+
+Psicanálise, Rio de Janeiro, v. 37, n. 33, p. 155-174. 
+
+Felinto,  E.  (2006).  “O  pós-humano  incipiente”,  In:  INTERCOM:  Revista  Brasileira  de 
+
+Ciências da Comunicação, São Paulo, v. 29, n. 2, p. 103-118. 
+
+Ferreira, M. V. M. de A. (2016). “O RPG e a leitura”. Dissertação – UFCG, Cajazeiras. 
+
+Francisco, S. P. (2014). “Cibercultura, jogos e aprendizado textual”. Tese – PUC, SP. 
+
+Freud, S. (2006). “Três ensaios sobre a teoria da sexualidade infantil”, In: Obras Completas. 
+
+Vol. VII. Rio de Janeiro: Imago. 
+
+Gregório, G. de S. (2014). “Do avatar ao sujeito”. Dissertação – UNB, Brasília. 
+
+Huizinga, J. (2012). “Homo ludens” 7.ª ed. São Paulo: Perspectiva. 
+
+Kelles,  N.  F.  and  LIMA,  N.  L.  (2017).  “Adolescentes  no  ciberespaço”,  In:  Tempo 
+
+psicanalítico, Rio de Janeiro, v. 49, n. 2, p. 202-233. 
+
+Lacadée, P. (2012). “A clínica da língua e do ato nos adolescentes”, In: Responsabilidades, 
+
+v. 1, n. 2, p. 253-268, Belo Horizonte. 
+
+Lima, N. L. de. (2009). “A escrita virtual na adolescência”. Tese - UFMG, Belo Horizonte. 
+
+Marins,  E.  S.  (2017).  “O  uso  de  Role-Playing  Games  (RPG)  no  ensino  de  Ciências”. 
+
+Dissertação – USP, Lorena. 
+
+Melo,  T.  F.  T.  de.  (2014).  “O  Role  playing  game  (RPG)  como  estratégia  para  repensar  a 
+
+prática docente em ciências”. Dissertação – UEPB, Campina Grande. 
+
+Mendes,  D.  A.  and  SILVA,  O.  S.  F.  (2017).  “A  narrativa  em  jogos  digitais”.  In: 
+Proceedings of the Seminário Jogos Eletrônicos, Educação E Comunicação [online], 12., 
+2017,  Salvador:  UNEB.  p.  40  -  48.  Available  from:  http://revistas.uneb.br/index.php/ 
+sjec/article/view/3553 [Acessed 28 jan. 2019]. 
+
+Mrech, L. M. (2003). “Psicanálise e Educação”. São Paulo: Pioneira Thomson Learning. 
+
+Vygotsky, L. S. (2007). “A formação social da mente”. São Paulo: Martins Fontes. 
+
+ 
+ 
+
+ 
+
+

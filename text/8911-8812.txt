@@ -1,0 +1,510 @@
+ 
+ 
+
+ 
+
+Tecnologias Digitais nos Processos de Ensino e Aprendizagem 
+dos Conteúdos Escolares: Compreensão dos(as) 
+Licenciandos(as) da Disciplina Tecnodocência 
+
+Deyse Mara Romualdo Soares1, Gabriela Teles2, Robson Carlos Loureiro3, 
+Luciana de Lima3, Luís Paulo Leopoldo Mercado1 
+
+1 Programa de Pós-Graduação em Educação – Universidade Federal de Alagoas 
+
+2 Pedagogia – Universidade Federal do Ceará  
+
+3 Instituto Universidade Virtual – Universidade Federal do Ceará 
+
+1 Programa de Pós-Graduação em Educação – Universidade Federal de Alagoas 
+
+{deysemarasoares, gabiteles2s.as}@gmail.com, {robson, 
+luciana}@virtual.ufc.br, luispaulomercado@gmail.com 
+
+Abstract. In the  current scenario of TDICs in society  challenge pedagogical 
+practices,  initial  teacher education demanding new approaches and  teaching 
+methods.  This  article  aims  to  describes  the  perspective  of  undergraduates, 
+from the optional subject Technoteaching offered by the Federal University of 
+Ceará (UFC), in the period of 2018.2, about how the TDICs are presented in 
+the  teaching-learning  process  of  the  contents  that  they  intend  to  work  in  his 
+teaching  profession.  It  is  based  on  the  Case  Study  as  a  methodology  and  is 
+subdivided into three stages: data planning, data collection and analysis. It is 
+observed that they have changed their perspective by reflecting more critically 
+on  the  integration  of  TDICs.  It  is  considered  important  to  reflect  on  the 
+integration of TDICs in the initial training of graduates.  
+
+formação 
+
+Resumo.  No  cenário  atual  das  TDICs  na  sociedade  desafiam  práticas 
+pedagógicas,  a 
+inicial  de  professores  demandando  novas 
+abordagens  e  métodos  de  ensino.  Este  artigo  tem  o  objetivo  descrever  a 
+perspectiva  dos  alunos  de  cursos  de  Licenciatura,  da  disciplina  optativa 
+Tecnodocência  ofertada  pela  Universidade  Federal  do  Ceará  (UFC),  no 
+período  de  2018.2,  acerca  de  como  as  tecnologias  digitais  de  informação  e 
+comunicação  (TDICs)  estão  presentes  no  processo  de  ensino-aprendizagem 
+dos  conteúdos  que  pretendem  trabalhar  na  sua  profissão  docente.  Baseia-se 
+no  estudo  de  caso  como  metodologia  e  subdivide-se  em  três  etapas: 
+planejamento,  coleta  e  análise  de  dados.  Observa-se  que  modificaram  sua 
+perspectiva, refletindo mais criticamente sobre a integração das TDICs.  
+
+1. Introdução 
+
+A  sociedade  está  mudando  nas  suas  formas  de  se  organizar,  de  produzir,  de 
+comercializar,  de  ensinar  e  de  aprender.  Tais  transformações  estão  vinculadas  ao 
+
+ 
+ 
+aperfeiçoamento, sofisticação e popularização da internet e das  TDICs que ajudaram a 
+causar  profundas  alterações  em  praticamente 
+todos  os  setores  da  sociedade, 
+modificando  as  relações  econômicas,  políticas  e  sociais,  e  também  a  capacidade  de 
+obter e transmitir informações [Coll e Monereo 2010]. Assim, com o desenvolvimento 
+tecnológico  a  sociedade  se  encontra,  de  acordo  com  Castells  (2000,  p.  60),  diante  de 
+“um novo paradigma tecnológico”. 
+
+Esse  cenário  atual  das  TDICs  institui  práticas  sociocomunicacionais  que 
+desafiam  práticas  pedagógicas,  a  formação  inicial  de  futuros  profissionais,  de 
+professores  da  educação  básica  e  universitária,  demandando  novas  abordagens  e 
+métodos  de  ensino  para  se  manter  a  motivação  do  aluno  além  de  se  oferecer 
+possibilidades de professores e alunos serem autores de conhecimentos [Mercado 2014]. 
+
+A justificativa principal para esta pesquisa se dá pela reflexão acerca dos cursos 
+de  Licenciatura  como  formação  para  a  prática  docente  na  sociedade  contemporânea, 
+definida como Sociedade da Informação por Coll e  Monereo (2010) na qual as  TDICs 
+estão  presentes  na  vida  cotidiana  dos  alunos,  e  as  discussões  sobre  o  uso  destas 
+tecnologias na ação docente, mostram, de acordo com Costa (2010), que as discussões e 
+o uso das TDICs nos processos de ensino e aprendizagem não recebem atenção especial 
+pelas  instituições  de  ensino  superior  (IES)  em  seus  cursos  de  formação  inicial  de 
+professores.  
+
+No  contexto  atual,  torna-se  relevante  refletir  sobre  a  formação  dos  alunos,  em 
+como  compreendem  o  uso  das  TDICs  integradas  à  sua  área  de  formação,  à  qual, 
+possível e brevemente, torná-los-á professores na Sociedade da Informação. 
+
+Diante  desse  contexto,  a  pesquisa  buscou  responder  a  seguinte  questão:  como 
+os(as)  licenciandos(as),  no  processo  de  formação  inicial,  pensam  de  que  forma  as 
+TDICs  estão  presentes  no  processo  de  ensino-aprendizagem  dos  conteúdos  com  que 
+pretendem  trabalhar  na  escola?  A  pesquisa  tem  como  objetivo  descrever  a  perspectiva 
+dos  alunos  de  cursos  de  Licenciatura,  da  disciplina  optativa  Tecnodocência,  ofertada 
+pela Universidade Federal do Ceará (UFC), no período de 2018.2, sua compreensão de 
+como as TDICs estão presentes no processo de ensino-aprendizagem dos conteúdos que 
+pretendem trabalhar em sala de aula na sua profissão docente. Utilizou-se, para este fim, 
+o estudo de caso como metodologia e a triangulação de dados como técnica de análise 
+de dados.  
+
+2. As TDICs nos cursos de Licenciatura 
+
+As  novas  formas  de  comunicação  realizadas  mais  rapidamente  levam  o  campo  da 
+educação a enfrentar novos desafios decorrentes da necessidade e do desejo de integrar 
+as  tecnologias  às  práticas  educativas  [Almeida  2010].  Esses  desafios  apontam  para  as 
+dificuldades existentes de implementar usos educacionais das TDICs em todos os níveis 
+do sistema educacional, da educação fundamental à superior, que realmente representem 
+uma  inovação  nos  métodos  de  ensino  e  uma  melhoria  dos  processos  e  resultados  do 
+aprendizado [Coll e Monereo 2010]. 
+
+Nesse  sentido,  um  dos  desafios  da  incorporação  das  TDICs  na  educação  tem 
+sido  compreendê-las  como  conteúdos  curriculares,  como  objeto  de  ensino  e 
+aprendizagem,  e  incorporá-las  no  currículo  [Coll  et  al,  2010],  principalmente 
+universitário, porquanto, os profissionais lançados no mercado de trabalho mostram-se 
+despreparados para a atuação em sala de aula, e é na formação inicial que visa habituar 
+os(as)  licenciandos(as)  à  prática  profissional  como  professores  e  fazer  deles  práticos 
+reflexivos  [Tardif  2002].  Assim,  pressiona-se  as  IES  por  mudanças  nas  relações, 
+
+ 
+
+ 
+ 
+envolvendo ensino e aprendizagem nos cursos de Licenciatura, pois estas assumem um 
+papel  preponderante  na  formação  de  profissionais  mais  adequados  ao  mercado  de 
+trabalho [Ramos et al 2012]. 
+
+Diante  do  ritmo  de  mudanças  e  as  especificidades  da  sociedade  tecnológica 
+contemporânea,  o  processo  educacional  realizado  nas  IES  precisa  ser  restruturado  em 
+todas  as  suas  instâncias.  Conforme  Kenski  (2013,  p;13),  os  próprios  currículos  dos 
+cursos  em  todas  as  áreas  de  conhecimento  já  não  correspondem  às  expectativas  da 
+sociedade para a ação, a reflexão e a formação, e “os jovens recém-formados, egressos 
+de  IES  renomadas,  precisam  passear  por  cursos  de  capacitação  para  iniciar  atividades 
+em diferenciados espaços de atuação”. 
+
+Em seus estudos sobre a formação de licenciandos(as), Lima (2014, p.37) afirma 
+que  a  formação  inicial  propicia  ao  licenciando(a)  “o  desenvolvimento  de  caráter 
+investigativo,  capaz  de  integrar  os  aspectos  teóricos  e  práticos,  ao  observar,  estudar  e 
+compreender  a  docência”.  Nesse  sentido,  a  formação  inicial  de  professores  que  não 
+acompanhar  as  mudanças  expostas  pela  entrada  das  TDICs  nos  processos  formativos 
+estará  em  descompasso  com  a  realidade  contemporânea,  ou  seja,  estará  formando 
+professores  em  defasagem  com  as  culturas  juvenis,  as  necessidades  e  as  demandas 
+sociais de hoje. 
+
+Desse  modo,  é  importante  que  os(as)  licenciandos(as)  tenham  conhecimento 
+sobre o uso das TDICs e os métodos de como usar seus recursos em sala de aula nesse 
+processo de formação, porquanto, os cursos de formação inicial têm a responsabilidade 
+de garantir aos futuros professores a exploração e a reflexão sobre as  TDICs de forma 
+que  tenham  condições  de  buscar  novos  caminhos  e  possibilidades  para  inseri-las  e 
+utilizá-las  em  suas  aulas,  tendo  claro  quando,  como  e  por  que  fazer  esse  uso  [Lima 
+2014]. 
+
+3. Metodologia 
+
+A  pesquisa  de  caráter  qualitativo  utiliza  como  metodologia  o  Estudo  de  Caso. 
+Considerando-se  o  contexto  real  de  licenciandos(as)  da  UFC,  investiga  o  fenômeno 
+contemporâneo.  Valoriza  a  expressão  espontânea  do  pensamento  dos  sujeitos 
+investigados  e  não  controla  os  eventos  comportamentais.  Foram  utilizadas  fontes  de 
+evidências diretas na compreensão dos fenômenos estudados [Yin 2010]. 
+
+Os  sujeitos  da  pesquisa  foram  consultados  mediante  a  aplicação  do  Termo  de 
+Consentimento  Livre  e  Esclarecido  (TCLE)  com  a  pesquisa  aprovada  pelo  Comitê  de 
+Ética em Pesquisa da UFC. Foram utilizados os dados apenas dos que consentiram em 
+participar da investigação. 
+
+A  unidade  de  análise  correspondeu  a  dezesseis  (16)  alunos  de  Licenciatura, 
+cursando  a  disciplina  Tecnodocência,  ofertada  pela  UFC,  no  período  2018.2,  os  quais 
+responderam a dois questionários para coleta de dados. A escolha foi feita devido serem 
+alunos(as) em formação inicial para, possível e futuramente, atuarem como professores. 
+Desse cenário destacam-se os seguintes aspectos: 56,3% são do gênero feminino; 62,5% 
+cursam do sexto ao décimo semestres; sobre as áreas às quais tais licenciandos(as) estão 
+vinculados,  observa-se  a  presença  dos  seguintes  cursos:  Ciências  Biológicas  (43,8%), 
+Letras  (25,0%),  Pedagogia  (6,3%),  Física  (6,3%),  Ciências  da  Computação  (6,3%), 
+Geografia (6,3%), e Música (6,3%). 
+
+ A  Tecnodocência  visa  integrar  os  conteúdos  teóricos  às  atividades  práticas da 
+docência  com  o  desenvolvimento  de  planejamentos  e  materiais  autorias  digitais 
+
+ 
+
+ 
+ 
+educacionais  (MADE)  integrados  às  TDICs,  bem  como  a  articulação  de  aplicação  dos 
+conhecimentos  em  sala  de  aula  de  escola  pública  com  alunos  da  Educação  Básica.  As 
+propostas de aula desenvolvidas apresentam características interdisciplinares integradas 
+às  TDICs  com  dois  ou  mais  cursistas  de  áreas  diferentes  atuando  concomitantemente 
+em sala de aula. É ofertada semestralmente para alunos da UFC. 
+
+A  pesquisa  foi  concebida  em  três  etapas:  planejamento,  coleta  e  análise  de 
+dados. Na primeira etapa, baseada na pesquisa bibliográfica, realizou-se um estudo em 
+artigo, dissertações e livros, sobre as  categorias que compõem a pesquisa:  TDICs, uso 
+das TDICs em sala de aula, TDICs integradas aos conteúdos curriculares. A base teórica 
+ancora-se nos estudos de Coll e Monereo (2010), Kenski (2012, 2013) e Lima (2014). 
+
+A segunda etapa deu-se por  meio do acesso aos arquivos da Tecnodocência no 
+Google  Drive,  em  que  constavam  dois  questionários  com  as  respostas  dos(as) 
+licenciandos(as),  disponibilizados  através  de  formulário:  o  primeiro  questionário,  de 
+sondagem,  disponibilizado  logo  no  início  da  disciplina;  o  segundo  questionário,  o  de 
+autoavaliação,  disponibilizado  no  momento  em  que  já  haviam  vivenciado  as  aulas  da 
+disciplina. 
+
+Utilizou-se  o  questionário  de  sondagem  para  perscrutar  os  conhecimentos 
+prévios dos(as) licenciandos(as), a respeito da seguinte questão: Em sua opinião, de que 
+forma  as  TDICs  estão  presentes  no  processo  de  ensino,  aprendizagem  e  avaliação  dos 
+conteúdos  que  você  pretende  trabalhar  na  escola?  Utilizou-se  do  questionário  de 
+autoavaliação para sondar os conhecimentos adquiridos após a disciplina para a questão 
+de  análise:  Em  sua  opinião,  de  que  forma  as  TDICs  estão  presentes  no  processo  de 
+ensino-aprendizagem dos conteúdos que você pretende trabalhar na escola?. 
+
+A terceira etapa consistiu na análise das respostas dos(as) licenciandos(as) tendo 
+como  foco  sua  compreensão  sobre  as  TDICs  e  sua  integração  nos  conteúdos  a  serem 
+ensinados  em  sala  de  aula,  verificando  de  que  modo  e  sob  qual  perspectiva  de 
+aprendizagem  os  alunos  fundamentaram  sua  compreensão  de  ensino  de  conteúdos 
+mediados pelas TDICs, tendo-se, com base em Stake (2005), uma triangulação de dados 
+como  estratégia  que  assegure  uma  compreensão  em  profundidade  do  fenômeno 
+investigado.  Aplicou-se  a  triangulação  entre  a  questão  analisada  no  questionário  de 
+sondagem,  no  questionário  de  autoavaliação  e  a  pesquisa  bibliográfica  das  categorias 
+que compõem o estudo. 
+
+4. Resultados e Discussões 
+
+Para preservação da identidade dos sujeitos de pesquisa são utilizadas a letras L seguido 
+do  número 
+indo-arábico  para  a  representação  de  suas  respostas  escritas.  Os 
+questionários foram analisados, comparados e aplicou-se a triangulação de dados com o 
+referencial teórico que compõem as categorias de estudo. 
+
+4.1. Questionário de Sondagem  
+
+No  que  se  refere  ao  questionário  de  sondagem,  constata-se  que  tiraram  o  foco  em 
+responder  em  como  eles  utilizariam  as  TDICs  em  suas  aulas,  integrando-as  em  sua 
+prática  docente,  e  se  detiveram  em  responder  sobre  como  essas  tecnologias  estão 
+presentes na  escola, as ferramentas e recursos digitais disponíveis, sem integrá-los aos 
+conteúdos curriculares que podem ser trabalhados dentro de suas áreas de formação. 
+
+   
+
+ 
+
+Quanto  ao  uso  das  TDICs  presentes  no  processo  de  ensino  e  aprendizagem, 
+alguns(mas)  licenciandos(as)  associaram  à  transmissão  de  informação:  “Elas  estão 
+presentes  na  distribuição  de  informações”  (L4);  “a  facilitação  de  acesso  à  informação, 
+as  diferentes  formas  de  transmissão  de  conhecimento”  (L8);  “No  ensino  as  TDICs 
+informações  dos 
+espalham  o  conhecimento  para  os  alunos  que 
+conteúdos”(L10).  Outros(as),  ainda,  associaram  ao  uso  de  ferramentas  e  recursos 
+digitais, compreendidas como forma de  auxílio, mas sem descrever como integrá-las  a 
+algum  conteúdo  específico  a  ser  trabalhado  em  sala  de  aula:  “pode  ser  auxiliado  por 
+programas, app e ferramentas que facilitem a aprendizagem, como jogos” (L13); “estão 
+presentes  como  forma  de  apoio”  (L5);  “Na  escola,  usam  projetor  para  passar  slides  e 
+passam trechos de filmes” (L12). 
+
+recebem 
+
+Coll  e  Monereo  (2010)  enfatizam  que  um  professor  com  sólidas  concepções 
+objetivistas  e  com  práticas  eminentemente  transmissíveis  provavelmente  acabará 
+utilizando  as  TDICs  para  complementar  as  aulas  expositivas.  Kenski  (2012) 
+complementa  essa  discussão  sobre  o  uso  tradicional  das  tecnologias  na  educação,  em 
+que, embora a tecnologia seja avançada, a forma como é utilizada, em muitos casos, é 
+bem convencional, onde ocorre, por exemplo, em atividades assistidas pelo computador, 
+definindo,  assim,  uma  visão  tradicionalista  em  que  não  se  considera  o  aluno  que 
+aprende ou o contexto em que ocorre a educação. 
+
+Outros(as)  licenciandos(as)  conscientizam-se  sobre  a  presença  escassa  das 
+TDICs  no  contexto  escolar,  e  no  seu  uso  pelo  corpo  docente  da  escola:  “Sua 
+participação é muito pequena e muito particularizada, ficando na dependência de alguns 
+poucos professores”(L14); “Eu não  acredito que as  TDICs estejam muito vinculadas à 
+maior  parte  das  escolas,  atualmente”(L8).  “Raramente  são  utilizadas  em  um  contexto 
+escolar  em  sala  de  aula”  (L9);  “Ainda  são  muito  limitados  as  TDICs  que  chegam  aos 
+alunos  e  alunas  das  escolas  públicas”  (L16).  Outro(a)  afirmou  que  estavam  mais 
+presentes nas IES do que nas escolas de educação básica: “esses meios estão atualmente 
+muito mais presentes no ensino superior do que nas escolas” (L1). 
+
+Kenski  (2013)  ressalta  que  as  IES  ainda  vivenciam  desafios  para  a 
+incorporação  dessas  TDICs,  tanto  currículo  quanto  no  processo  de  formação  para  seu 
+uso  no  processo  de  ensino  e  aprendizagem.  Com  isso,  os  futuros  professores  não  têm 
+formação  para  integrar  as  tecnologias  integradas  ao  ensino  dos  conteúdos  em  sala  de 
+aula,  na  educação  básica.  A  respeito  da  incorporação  das  TDICs  ser,  ainda,  pouco 
+presente  nas  escolas,  Coll  et  al  (2010)  concordam  que,  na  maioria  dos  cenários  de 
+educação  formal  e  escolar,  as  possibilidades  de  acesso  e  uso  dessas  tecnologias  ainda 
+são limitadas ou mesmo inexistentes. 
+
+três 
+
+licenciandos(as) 
+
+No  processo  de  avaliação,  apenas 
+
+responderam 
+associando as TDICs como formas criativas para avaliar, contudo, sem descrever como 
+seria  esse  processo  avaliativo:  “elas  servem  como  formas  de  agilidade  e  criatividade” 
+(L5);  “por  meios  padronizados  de  avaliar  os  resultados  dos  alunos”  (L10);  “pode 
+também  auxiliar  em  avaliar  criando  novas  formas  de  medir  o  conhecimento”  (L13). 
+Um(a)  licenciando(a),  ainda,  trata  sobre  os  métodos  tradicionais  de  avaliação  ainda 
+perpetuar  nos  diversos  âmbitos  educacionais:  “acredito  que,  na  sua  maioria,  ainda 
+prevalece o uso tradicional de provas e trabalhos escritos” (L16). 
+
+Sobre esses métodos de ensino tradicionais, para Monereo e Pozo (2010) não 
+basta  fazer  pequenos  ajustes,  colocar  paliativos  nas  aulas  e  nos  hábitos  docentes, 
+introduzindo computadores e alguma outra tecnologia para continuar desenvolvendo os 
+mesmos  currículos,  e  mesmas  práticas  de  avaliação,  necessitando,  assim,  de  uma 
+
+ 
+ 
+
+ 
+
+ 
+ 
+verdadeira  reestruturação.  Assim,  a  existência  desses  recursos  tecnológicos  e  sua 
+potencialidades  na  educação  tornam-se  fortemente  contrastantes  em  função  dos 
+elementos  ou  ingredientes  dos  processos  educacionais  e  instrucionais  ainda  existentes 
+[Coll e Monereo 2010]. 
+
+Dois  licenciandos(as)  afirmaram  que  não  sabiam  como  responder  à  questão. 
+Observa-se  a  necessidade  de  formação  associadas  ao  conhecimento  e  domínio  das 
+TDICs,  em  que  Coll  e  Illera  (2010)  associam  à  necessidade  da  alfabetização  digital 
+fazer parte do currículo escolar. 
+
+4.2. Questionário de Autoavaliação  
+
+Em  relação  ao  questionário  de  autoavaliação,  disponibilizado  aos(às)  licenciandos(as) 
+após  o  término  das  aulas  da  disciplina,  observa-se  que  eles  adquiriram  novos 
+conhecimentos  teóricos  sobre  as  TDICs,  refletindo  mais  criticamente  sobre  seu  uso  e 
+sua integração no processo de ensino e aprendizagem dos conteúdos em sala de aula. 
+
+Quanto aos usos das TDICs no processo de ensino  e aprendizagem, observa-se 
+que obtiveram uma nova perspectiva e conseguiram associá-las aos conteúdos escolares, 
+não descritivamente sobre como fariam essa integração, mas, com pretensões para esse 
+uso  em  sala  de  aula,  em  sua  prática  docente:  “Podem  proporcionar  ao  ensino  da 
+Biologia  vivências  que  transformam  o  aprendizado  num  processo  mais  rico  e 
+proveitoso”  (L1);  “Através  de  atividades  a  serem  propostas  aos  alunos  e  também  no 
+desenvolvimento  de  aulas  que  possibilitem  a  integração  dos  alunos  com  conteúdos 
+tecnológicos  do  seu  cotidiano”  (L5).  Para  Lima  (2014),  o  trabalho  com  as  TDICs 
+centradas  na  ação  do  professor,  apesar  de  ser  o  mais  comumente  utilizado,  pode  ser 
+repensado para que esteja também centrado na ação do aluno, promovendo a construção 
+do  conhecimento  a  partir  de  seus  conhecimentos  prévios  e  de  sua  interação  com  a 
+máquina  diante  dos  erros  e  acertos  cometidos.  Dessa  forma,  o(a)  licenciando(a)  pode 
+aprender  a  utilizar  as  TDICs,  invertendo  o  método  instrucionista,  para  centralizar  esse 
+uso ao aluno, o qual será o construtor e produtor do conhecimento. 
+
+O(a)  licenciando(a)  identificado  como  “L9”  que  no  questionário  de  sondagem 
+não  associou  as  TDICs  ao  ensino,  afirmando  que  raramente  estavam  presentes  no 
+contexto  escolar,  sugeriu  utilizá-las  em  sua  área  de  formação  para  abordar  conteúdos 
+específicos: “Na Biologia, uma forma de  abordá-las é através da realidade aumentada, 
+visto que elas podem explorar assuntos de difícil visualização” Diante disso, observa-se 
+a  necessidade  da  incorporação  das  TDICs  no  processo  de  formação  inicial  dos(as) 
+licenciandos(as)  para  o  potencial  uso  dessas  tecnologias,  integrando-as  nos  conteúdos 
+escolares no processo de ensino e aprendizagem de sua futura profissão docente. Assim, 
+a  falta  de  uma  formação  qualificada  do(a)  licenciando(a)  é  um  dos  entraves  para  a 
+promoção  de  um  processo  educacional  que  contribua  para  sua  aprendizagem  [Lima 
+2014]. 
+
+Além de obterem uma perspectiva de uso das TDICs em conteúdos de sua área 
+de  formação,  os(as)  licenciandos(as)  trouxeram  em  sua  fala  novos  termos  como 
+planejamento,  aprendizagem  significativa,  aprendizagem  colaborativa  e  MADE:  “Se 
+direcionada com base em um planejamento cuidadosamente elaborado podem se tornar 
+uma  poderosa  ferramenta  na  apresentação  dos  conteúdos  de  uma  forma  mais  atrativa, 
+tornando  a  aprendizagem  mais  significativa.”  (L15);  “As  TDICs  farão  parte  da  minha 
+prática docente por  meio do material  autoral que produzirei  e que utilizarei nas aulas” 
+(L16);  O(a)  licenciando(a)  identificada  como  "L3”,  que  no  questionário  de  sondagem 
+
+ 
+
+ 
+
+ 
+ 
+afirmou  que  não  saberia  responder  à  questão  proposta,  trouxe  a  possibilidade  de 
+trabalhar os conteúdos sob uma perspectiva colaborativa e o uso de MADE: “Pretendo 
+criar várias maneiras de trabalhar assuntos de forma mais colaborativa entre os alunos, 
+por exemplo, utilizando uma rede social ou algum MADE na apresentação numa Feira 
+de Ciências”. 
+
+De acordo com Lima (2014) o que se aprende de forma significativa é a essência 
+do conteúdo, sem a necessidade de memorização do material educacional tal e qual ele é 
+apresentado. Sobre  a criação desses MADE, com os atuais recursos digitais, os alunos 
+podem aprender significativamente e passar a serem produtores de conteúdos que são a 
+própria  essência  da  interatividade  que  a  tecnologia  oferece  [Monereo  e  Pozo  2010]. 
+Assim, o papel do professor consiste em colocar as  TDICs a serviço do aluno, criando 
+um contexto de  atividade que tenha como resultado sua aprendizagem e construção de 
+conhecimento [Coll e Monereo 2010]. 
+
+Um(a) licenciando(a) afirmou que não pretendia trabalhar com as TDICs dentro 
+dos  conteúdos  na  escola.  Compreende-se  através  de  Lima  e  Loureiro  (2016)  que  os 
+professores  são  (en)formados,  seguindo  um  modelo  fechado,  pretensamente  acabado  e 
+determinado em suas verdades. Assim, a tendência é que, em suas práticas no contexto 
+escolar,  esses  profissionais  prossigam  perpetuando  o  modelo  a  que  tiveram  acesso 
+durante a sua vida escolar e acadêmica, em um ciclo vicioso. 
+
+Outro(a)  licenciando(a)  possibilitou  o  uso  das  TDICs  no  ensino  de  alunos  com 
+deficiência:  “As  TDICs  podem  ser  utilizadas  para  que  alunos  com  deficiência 
+auditiva/vocal  tenham  sua  comunicação  facilitada,  principalmente  entre  os  colegas  em 
+trabalho  em  grupo”  (L7).  Sobre  essas  possibilidades  de  uso  com  as  TDICs,  Coll  et  al 
+(2010,  p.75)  afirmam  que  as  TDICs,  em  algumas  aplicações,  têm  uma  série  de 
+características  específicas  que  abrem  novos  horizontes  e  possibilidades  para  os 
+processos de ensino e aprendizagem, e, são suscetíveis de gerar, “quando utilizadas em 
+determinados  contextos  de  uso,  dinâmicas  de  inovação  e  aperfeiçoamento  que  seria 
+impossível ou muito difícil conseguir sem ela”. 
+
+5. Considerações Finais 
+
+Diante dos resultados obtidos na pesquisa, considera-se a necessidade de maior reflexão 
+sobre o uso das TDICs durante o processo formativo, em como manejá-las e integrá-las 
+no  processo  de  formação  inicial  dos(as)  licenciandos(as)  para  o  processo  de  ensino  e 
+aprendizagem  dos  conteúdos  a  serem  trabalhados  em  sala  de  aula,  em  sua  futura 
+profissão como docentes. Além disso, na integração das TDICs, nos processos de ensino 
+e  aprendizagem,  o  que  o  professorado  deve  aprender  a  dominar  e  a  valorizar  não  é  o 
+novo  instrumento,  ou  um  novo  sistema  de  representação  do  conhecimento,  mas  uma 
+nova cultura de aprendizagem [Mauri e Onrubia 2010]. 
+
+Ressalta-se  a  importância  da  incorporação  das  TDICs  no  currículo  escolar  e 
+universitário,  devido  à  necessidade  em  aprender  a  manejar  e  utilizar  essas  tecnologias 
+de  forma  crítica  e  reflexiva,  tirando  o  máximo  proveito  das  possibilidades  e 
+potencialidades  que  elas  oferecem,  com  a  finalidade  de  preparar  os  alunos  e  futuros 
+professores  para  viver  na  Sociedade  da  Informação,  a  qual  é  imprescindível  ter  um 
+domínio  dessas  tecnologias,  porquanto,  em  uma  sociedade  em  que  o  principal  bem  de 
+consumo  é  a  informação,  ser  competente  para  gerenciá-la  e  transformá-la  em 
+conhecimento  constitui-se  em  uma  habilidade  relevante  para  qualquer  cidadão  e,  por 
+
+ 
+
+ 
+
+ 
+ 
+conseguinte,  deveria  ocupar  um  lugar  de  honra  nos  currículos  de  qualquer  nível 
+educacional [Coll e Monereo 2010]. 
+
+Apesar de a disciplina Tecnodocência trabalhar os  conceitos teóricos e práticos 
+sobre  uso  das  TDICs,  permaneceu  a  visão  tradicionalista  de  ensino,  centrada  no 
+professor  como  detentor  das  ferramentas  digitais.  Considera-se  a  necessidade  de  se 
+trabalhar o uso e a integração dessas tecnologias desde o início do processo formativo 
+dos  cursos  de  Licenciatura  na  UFC  e  demais  IES,  para  que  o(a)  licenciando(a) 
+desprenda-se  das  visões  de  ensino  e  aprendizagem  tradicionais.  Lima  (2014)  traz 
+contribuições a esse respeito com sua pesquisa com alunos de Ciências, ao verificar que 
+apesar  de  alguns  licenciandos  criticarem  o  ensino  centrado  no  professor,  pautado  na 
+transmissão de informações e na memorização dos conteúdos científicos, nos planos de 
+aula,  apresentaram  ações  que  enfatizaram  as  aulas  expositivas  e  a  transmissão  dos 
+conteúdos  científicos.  Para  a  autora,  essas  vinculações  parecem  estar  bastante 
+sedimentadas e requerem mais tempo e trabalho para serem transformadas. 
+
+ 
+
+Referências 
+
+Almeida,  M.  E.  B.  (2010)  “Transformações  no  trabalho  e  na  formação  docente  na 
+
+educação a distância on-line”, Em Aberto, Brasília, v.23, n. 84, novembro. 
+
+Castells, M. (2000) “La era de la información: la sociedade red. Madri, Alianza. 
+
+Coll,  C.;  Monereo,  C.  (2010)  “Educação  e  aprendizagem  no  século  XXI:  novas 
+ferramentas, novos cenários, novas finalidades”. In: Psicologia da Educação Virtual: 
+aprender  e  ensinar  com  as  tecnologias  da  informação  e  da  comunicação.  Porto 
+Alegre, Artmed, p.15-46. 
+
+Coll, C.; Mauri, T.; Onruba, J. (2010) “A incorporação das tecnologias da informação e 
+comunicação  na  educação:  do  projeto  técnico-pedagógico  às  práticas  de  uso”.  In: 
+Psicologia  da  Educação  Virtual:  aprender  e  ensinar  com  as  tecnologias  da 
+informação e da comunicação. Porto Alegre, Artmed, p. 66-93. 
+
+Coll,  C.;  Illera,  J.  L.  R.  (2010)  “Alfabetização,  novas  alfabetizações  e  alfabetização 
+digital: as TIC no currículo escolar”. In: Psicologia da Educação Virtual: aprender e 
+ensinar com as tecnologias da informação e da comunicação. Porto Alegre, Artmed, 
+p.289-310. 
+
+Costa,  F.  A.  (2010)  “Do  subaproveitamento  do  potencial  pedagógico  das  TIC  à 
+desadequação da formação de professores e educadores”. In: Colóquio Internacional 
+Brasil-Portugal. São Paulo. Artmed. 
+
+Kenski, V. M. (2013), “Tecnologias e tempo docente”, São Paulo, Papirus.  
+
+Kenski,  V.  M.  (2012),  “Educação  e  tecnologia:  o  novo  ritmo  da  informação”,  São 
+
+Paulo, Papirus.  
+
+Lima,  L.  (2014)  “Integração  das  tecnologias  e  currículo:  a  aprendizagem  significativa 
+de  licenciandos  de  Ciências  na  apropriação  e  articulação  entre  saberes  científicos, 
+pedagógicos e das TDICs” Fortaleza. p.37. 
+
+Lima, L.; Loureiro, R. (2016). “Docência interdisciplinar nas licenciaturas por meio da 
+integração  às  tecnologias  digitais:  o  caso  da  tecnodocência”,  Revista  Tecnologia  e 
+Sociedade, p. 122-138, Curitiba – PR. 
+
+ 
+
+ 
+ 
+Monereo,  C.;  Pozo,  J.  I.  (2010)  “O  aluno  em  ambientes  virtuais:  condições,  perfil  e 
+competências”.  In:  Psicologia  da  Educação  Virtual:  aprender  e  ensinar  com  as 
+tecnologias da informação e da comunicação. Porto Alegre, Artmed, p. 97-117. 
+
+Mauri,  T.;  Onrubia,  J.  (2010)  “O  professor  em  ambientes  virtuais:  perfil,  condições  e 
+competências”.  In:  Psicologia  da  Educação  Virtual:  aprender  e  ensinar  com  as 
+tecnologias da informação e da comunicação. Porto Alegre, Artmed, p. 118-135. 
+
+Mercado,  L.  P.  L.  (2014)  “Formação  e  letramento  digital  de  professores:  memorial  de 
+
+um formador”, Maceió, UFAL. 
+
+Ramos,  F.;  Linhares,  R.  N.;  Batista,  J.  (2012)  “TIC  em  educação:  um  contributo  para 
+definição  do  papel  do  professor”.  In:  As  redes  sociais  e  seu  impacto  na  cultura  da 
+educação do século XXI. Fortaleza, UFC. 
+
+Stake, R. (2005) “Investigación con estúdio de casos” Madri, Morata. 
+
+Tardif, M. (2002) “Saberes docentes e formação profissional”. Petrópolis, Vozes. 
+
+Yin, R. K. (2010) “Estudo de caso: planejamento e métodos” Porto Alegre, Bookman. 
+
+ 
+
+ 
+
+

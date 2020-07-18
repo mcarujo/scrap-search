@@ -1,0 +1,695 @@
+ 
+
+ 
+
+A Utilização de Softwares no Ensino de Matemática para 
+Ensino Fundamental e Médio 
+
+Paul Symon Ribeiro Rocha1, Carlos Vieira Ramos2, Tainara Antunes Brasil3 
+
+1Instituto Federal de Educação, Ciência e Tecnologia do Maranhão – IFMA | Campus 
+Barreirinhas 
+
+2Instituto Federal de Educação, Ciência e Tecnologia do Piauí | Universidade Aberta Do 
+Brasil – UAB / IFPI 
+
+3Universidade Federal do Piauí - UFPI 
+
+paul.rocha@ifma.edu.br,{carlosvieiraramos1,tainaraantunesbrasil}@gmail
+.com 
+
+Abstract. The present work sought to explore the importance of technology for 
+teaching  and  learning  in  the  area  of  mathematics.  It  is  indicated  the  use  of 
+software as a methodological resource. It presents a mapping on math software 
+for the aid of elementary and middle school teachers. The general objective is 
+to analyze how educational software can contribute to and assist in the process 
+of teaching and learning the content programmed by math teachers. It is hoped 
+that this study will contribute with teachers in the expansion of the theory of the 
+use  of  technology,  as  a  way  to  provide  an  alternative  resource  to  arouse  the 
+interest of the students as well as to assist in the learning of Mathematics. 
+
+Resumo.  O  presente  trabalho  buscou  explorar  a  importância  da  tecnologia 
+para o ensino e aprendizagem na área de matemática. Indica-se a utilização de 
+softwares como um recurso metodológico. Apresenta um mapeamento sobre os 
+softwares de matemática para o auxílio de professores de ensino fundamental 
+e  médio.  O  objetivo  geral  é  analisar  como  os  softwares  educacionais  podem 
+contribuir  e  auxiliar  no  processo  de  ensino  e  aprendizagem  do  conteúdo 
+programado  pelos  professores  de  matemática.  Espera-se  com  este  estudo 
+contribuir  com  os  professores  na  ampliação  da  teoria  do  uso  da  tecnologia, 
+como forma de proporcionar recurso alternativo para despertar o interesse dos 
+estudantes além de auxiliar na aprendizagem de Matemática. 
+
+1. Introdução 
+
+A Constituição Federal do Brasil, de 1988, Art. 205, dentro do rol dos direitos humanos 
+fundamentais  encontra-se  o  direito  à  educação,  amparado  por  normas  nacionais  e 
+internacionais.  Trata-se  de  um  direito  fundamental,  porque  inclui  um  processo  de 
+desenvolvimento individual próprio à condição humana. 
+
+ 
+
+ 
+
+ 
+
+Além dessa perspectiva individual, esse direito deve ser visto, sobretudo de forma 
+coletiva, como um direito a uma política educacional, a ações afirmativas do Estado que 
+oferecem à sociedade instrumentos para alcançar seus fins. 
+
+Art. 205.  A educação, direito de todos e dever do  Estado e da família, será 
+promovida e incentivada com a colaboração da sociedade, visando ao pleno 
+desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua 
+qualificação para o trabalho. [Brasil 1988] 
+
+A  matemática  nas  escolas  ainda  é  vista  como  algo  fragmentado,  com  ensinos 
+ 
+mecanizados, descontextualizados, com base em memorização, levantando uma barreira 
+quanto  ao  real  objetivo  do  ensino,  proporcionar  situações  concretas  de  como  essa 
+disciplina  pode  ser  utilizada  no  cotidiano.  Diante  dessa  colocação,  os  Parâmetros 
+Curriculares Nacionais (PCN) reforçam:  
+
+[...]o  ensino  de  Matemática  prestará  sua  contribuição  à  medida  que  forem 
+exploradas  metodologias  que  priorizem  a  criação  de  estratégias,  a 
+comprovação, a justificativa, a argumentação, o espírito crítico, e favoreçam a 
+criatividade, o trabalho coletivo, a iniciativa pessoal e a autonomia advinda do 
+desenvolvimento da confiança na própria capacidade de conhecer e enfrentar 
+desafios. [BRASIL 1997] 
+
+[Machado 1994], seguindo a mesma linha de pensamento, reforça ainda mais essa 
+ 
+ideia, quando afirma que a escola deve expandir ainda mais as fronteiras das disciplinas, 
+buscando por meio do computador, em especial os jogos computadorizados, contribuir 
+com este processo, abrindo um leque de oportunidades para interagir com outros saberes, 
+como  a  matemática,  geografia  e  a  história,  envolvendo  mapas,  utilizando  escalas, 
+transformações  de  unidades  de  medidas  e  tantos  outros  temas  de  forma  criativa, 
+envolvendo a música, arte, trabalhando de maneira transdisciplinar.  
+
+2. Referencial teórico 
+
+Nesta seção, é apresentado um breve referencial teórico sobre as áreas envolvidas neste 
+trabalho, destacando conceitos sobre o uso do computador como metodologia de ensino 
+e softwares educacionais. 
+
+2.1. O uso do computador como metodologia de ensino 
+
+A  inserção  da  Informática  aplicada  à  Educação  tem  sido  um  fator  preponderante  no 
+âmbito educacional, proporcionando aos professores ampliar os métodos de ensino e, aos 
+alunos, ampliar as chances de aprendizagem. 
+
+[Silva  et  al.  2013]  afirma  como  o  uso  de  computadores  no  processo  de  ensino 
+ 
+aprendizagem  possibilita,  não  só  ao  aluno,  mas  ao  professor  também,  pois  torna  um 
+ensino mais dinâmico. Porém a escola deve adotar um plano pedagógico para a disciplina 
+especifica, aplicando o uso do computador como uma ferramenta útil e viável e não um 
+impasse ao ensino. 
+
+A utilização do computador como aliado aos processos de ensino e aprendizagem 
+tornou-se essencial na vida de todos. De acordo com [Tederke, Fortes e Silveira 2016], 
+as  crianças  desde  pequenas  já  possuem  uma  habilidade  incrível  no  manuseio  das 
+tecnologias, e a partir daí, as propostas escolares podem incluir estas tecnologias nas salas 
+de  aula,  em  forma  de  jogos  educacionais  e  pelo  emprego  de  softwares,  englobando  as 
+diversas áreas do conhecimento. 
+
+Ainda  na  mesma  linha  de  pensamento,  [Tederke,  Fortes  e  Silveira  2016],  a 
+aplicação da Informática como apoio aos processos de ensino e de aprendizagem pode 
+
+ 
+
+ 
+
+ 
+
+ser realizada por meio da utilização de diversos softwares, tais como editores de texto, 
+jogos  educacionais  digitais,  simuladores,  entre  outros.  Qualquer  software  que  seja 
+utilizado como apoio aos processos de ensino e de aprendizagem pode ser considerado 
+um software educacional. 
+
+2.2. Softwares Educacionais 
+
+Os Softwares Educacionais foram criados com o objetivo de auxiliar nos processos de 
+ensino  e  aprendizagem,  fazendo  com  que  os  educandos  iniciem  ou  aprimorem  seus 
+conhecimentos,  tanto  de  informática,  como  das  áreas  do  conhecimento  em  que  os 
+softwares forem inseridos. O que diferencia um software educacional dos demais é o fato 
+dele ter sido desenvolvido com o propósito de ensino e aprendizagem e não apenas para 
+diversão [Morais 2003]. 
+
+ 
+Para o uso dos recursos de informática, é necessário que os professores possuam 
+uma boa habilidade com o uso dos softwares escolhidos para apresentar aos alunos. Os 
+Parâmetros  Curriculares  Nacionais  (PCN)  de  Matemática,  publicados  em  1997,  já 
+orientavam que os docentes devem estar familiarizados com o material pedagógico a ser 
+utilizado  em  sala  de  aula,  pois  assim  os  educadores  conseguirão  integrar  o  uso  da 
+tecnologia  com  o  ensino  de  Matemática,  fazendo  como  que  essa  integração  torne  o 
+aprender dos alunos algo eficiente [Brasil 1997]. 
+
+3. Metodologia 
+
+3.1. Objetivo de Pesquisa 
+
+3.2. Questão de Pesquisa 
+
+A  pesquisa  realizada  configura-se  como  uma  Revisão  Sistemática,  que  de  acordo  com 
+[Cordeiro et al. 2007], consiste em um tipo de investigação que objetiva “reunir, avaliar 
+criticamente e conduzir uma síntese dos resultados de múltiplos estudos primários”. 
+
+Esta Revisão Sistemática tem como objetivo identificar e analisar os softwares de ensino 
+de matemática para o auxílio de professores de ensino fundamental e médio. 
+
+Foi definida uma questão primária principal, para esta Revisão Sistemática: 
+
+▪  Questão primária (QP): Quais os principais softwares desenvolvidos para auxiliar 
+
+os professores de matemática, no ensino fundamental e médio? 
+
+3.3. Critérios de Inclusão e Exclusão para Seleção de Estudos 
+
+▪  Critérios de Inclusão: Artigos, Monografias e Dissertações que abordam softwares 
+para o ensino de matemática no ensino fundamental e médio a partir do ano de 
+2004. 
+
+▪  Critérios  de  Exclusão:  Artigos,  monografias  e  dissertações  que  não  abordam 
+softwares para o ensino de matemática no ensino fundamental e médio, ou, que 
+foram publicados antes de 2004. 
+
+3.4. Processo de Seleção dos Estudos 
+
+Utilizou-se, como fonte de dados, a literatura sobre o uso Softwares no ensino de 
+matemática, a partir de buscas nos portais:   REMAT 
+da 
+Matemática):  https://periodicos.ifrs.edu.br/index.php/REMAT/search,  Secretaria  da 
+Educação:  http://www.educacao.pr.gov.br/,  Bienal  -  Sociedade  Brasileira  de  Matemática 
+http://www.mat.ufpb.br/bienalsbm/,  CONEDU  -  CONGRESSO  NACIONAL  DE 
+EDUCAÇÃO 
+DIALOGOS 
+http://www.revistadialogos.com.br/,  TISE  (Congresso  Internacional  de  Informática 
+
+http://www.conedu.com.br/2016/, 
+
+REVISTA 
+
+Eletrônica 
+
+(Revista 
+
+ 
+
+ 
+
+Educativa)  http://www.tise.cl/  e  o  Google  Acadêmico:  https://scholar.google.com.br, 
+usando  as  palavras-chaves  “matemática”,  “softwares”  e  “ensino”.  Feita  a  busca, 
+retornaram 11 trabalhos que abordam a temática pesquisada. 
+
+Após o mapeamento das produções científicas, realizou-se um estudo exploratório 
+a partir da leitura dos resumos dos artigos, monografias e dissertações para análise geral 
+do tema proposto e seleção dos que abordassem a temática de interesse do estudo, para a 
+partir de então, iniciar a análise mais aprofundada dos trabalhos selecionados. 
+
+4. Condução da Revisão 
+
+ 
+Dos 11 (onze) trabalhos encontrados, 8 (oito) são artigos, 1 (uma) monografia,2 
+(duas) dissertações. Os trabalhos selecionados para análise são apresentados na Tabela 1 
+(artigos) e na Tabela 2 (monografia e dissertações). 
+
+Tabela 1 – Artigos com a temática Softwares no ensino de Matemática  
+
+SOFTWARE 
+
+AUTOR/ANO 
+
+REVISTA 
+
+ANO/SERIE 
+
+GEOGEBRA 
+
+[Fanti 2010] 
+
+V Bienal 
+
+SBM/UFPB 
+
+Ensino 
+Fundamental e 
+Médio 
+
+Trigonométricos, 
+Geométricos, 
+Gráficos, 
+Recreativos, 
+Algébricos, Notação 
+Matemática, 
+Estatísticos e 
+Multidisciplinares. 
+
+[Contri, Retzlaff e Klee 
+2011] 
+
+ 
+
+CNEM 
+
+Ensino 
+Fundamental e 
+Médio 
+
+SUPERLOGO 
+
+[Nogueira et al. 2013] 
+
+TISE 
+
+Ens. Fundamental 
+
+6° ao 9º 
+
+Ens. Fundamental e 
+Médio 
+
+Ensino Médio 
+
+3º ano Ensino 
+Médio 
+
+DIÁLOGOS 
+
+Sec. de 
+Educação PR 
+
+REMAT 
+
+Aplicativos e 
+Educativos 
+
+[Pacheco e Barros 
+2013] 
+
+GEOGEBRA 
+
+[Pereira 2014] 
+
+[Tederke, Fortes e 
+Silveira 2016] 
+
+GEOGEBRA 
+
+MATH 
+CHALLENGE 
+FREE. (Aritmética 
+Mental) 
+
+[Costa et al. 2016] 
+
+ 
+
+III CONEDU 
+
+5º ano Ens. 
+Fundamental 
+
+GEOGEBRA 
+
+[Silva, Ribeiro e Araújo 
+2018] 
+
+CONEDU 
+
+Ensino Médio 
+
+Dos artigos selecionados, o estudo “Utilizando o software GeoGebra no Ensino 
+de certos conteúdos matemáticos”, [Fanti 2010],  descreve como objetivo do trabalho 
+introduzir  as  noções  básicas  do  programa  GeoGebra  e  utilizá-lo  no  estudo  de  certos 
+conteúdos  matemáticos  como  polígonos,  funções  reais,  e  em  especial  no  estudo  das 
+
+ 
+
+ 
+
+ 
+
+cônicas. São inúmeras  as aplicações das cônicas no cotidiano. [Fanti 2010], explica  as 
+principais atividades realizadas pelo software. 
+
+ 
+O artigo “Uso de softwares matemáticos como facilitador da aprendizagem”, 
+que tem como autores [Contri, Retzlaff e Klee 2011] tem por objetivo principal a pesquisa 
+aprimorar o conhecimento dos acadêmicos através da utilização e aplicação de softwares 
+estatísticos  e  matemáticos,  objetivando  uma  maior  interação  entre  conteúdos,  para  o 
+aprimoramento  das  práticas  pedagógicas.  O 
+trabalho  buscou  promover  o 
+desenvolvimento  científico e tecnológico na área de conhecimento da matemática, por 
+meio de recursos tecnológicos. A pesquisa foi desenvolvida na Universidade Regional 
+Integrada do Alto Uruguai e das Missões-URI, que possui diversos cursos de graduação. 
+Os softwares mencionados na pesquisa foram: trigonométricos – círculo trigonométricos 
+e thales; geométricos – geogebra, régua e compasso e wingeom; gráficos – graphmática 
+e  winplot;  recreativos  –  torre  de  hanói  e  winarc;  algébricos  –determinante,  winmat  e 
+winmatrix;  notação  matemática  –  math  type;  estatísticos  –  biostat  e  estatistica;  e 
+multidisciplinares – free mat, matlab e mupad. 
+
+O trabalho “Softwares educativos gratuitos para o ensino de Matemática”, que 
+tem  como  autor  [Nogueira  et  al.  2013]  tem  como  objetivo  elaborar  um  catálogo  com 
+softwares educativos gratuitos para o ensino de Matemática do 6º ao 9º  ano do ensino 
+fundamental,  assim  como  classificá-los  pela  forma  que  o  aluno  interage  com  o 
+computador. O mapeamento conta com inúmeros softwares que podem ser utilizados para 
+conteúdo de Matemática, divididos em modalidades. Os softwares encontrados foram: A 
+magia  dos  Números,  Círculo  0,  Shapari,  Torre  de  Hanói,  Torus  Games  (Kali),  Trilha 
+Matemática,  TuxMath  e  Winarc.  Porém,  a  pesquisa  constatou  que  o  único  software 
+gratuito é o SUPERLOGO, versão moderna e inspirada na linguagem. 
+
+Além disso, o autor dá ênfase as dificuldades encontradas pelos professores em 
+utilizar esses softwares. Assim, as dificuldades começam desde a seleção dos softwares, 
+o domínio técnico da máquina, a articulação entre os tópicos de conteúdo, a maneira como 
+os professores trabalham didaticamente com os alunos e as possíveis intervenções a serem 
+feitas durante a sua utilização.  
+
+Analisando  o  artigo  “O  Uso  de  Softwares  Educativos  no  Ensino  de 
+Matemática”, de [Pacheco e Barros 2013], essa pesquisa avalia a utilização de softwares 
+educativos  de  matemática  na  sala  de  aula  e  suas  contribuições  ao  processo  de  ensino 
+aprendizagem. 
+
+A pesquisa intitulada “O Ensino e a Aprendizagem da Matemática mediada 
+por softwares Educativo na forma de Objetos de Aprendizagem” tem como objetivo 
+analisar  a  utilização  de  softwares  educativos,  na  forma  de  Objetos  de  Aprendizagem 
+(OA),  nos  processos  de  ensino  e  aprendizagem  de  conteúdos  matemáticos,  a  fim  de 
+identificar  qual  a  relevância  do  uso  das  tecnologias  em  forma  de  OA,  na  prática 
+pedagógica de professores de matemática em sala de aula.  
+
+O GeoGebra foi escolhido como objeto de pesquisa, por ser um software gratuito 
+de matemática dinâmica desenvolvido para o ensino e aprendizagem da matemática nos 
+vários  níveis  de  ensino.  O  GeoGebra  reúne  recursos  de  geometria,  álgebra,  tabelas, 
+gráficos, probabilidade, estatística e cálculos simbólicos em um único ambiente. Permite 
+a  realização  de  diferentes  atividades,  entre  elas,  a  construção  de  pontos,  segmentos  de 
+reta, retas paralelas e perpendiculares, construção de gráficos de funções, construção de 
+figuras  geométricas,  permite  ainda  calcular  o  ponto  médio  dos  segmentos,  a  área,  o 
+perímetro das figuras, medir ângulos, entre outras. 
+
+ 
+
+ 
+
+O  artigo  “Um  Estudo  de  Caso  Envolvendo  a  Aplicação  de  um  Software 
+Educacional de Geometria Espacial” tem por objetivo principal, realizar um estudo de 
+caso voltado a alunos de 3º ano do Ensino Médio, envolvendo a aplicação de um software 
+educacional – o GeoGebra - no estudo de tópicos de Geometria Espacial. De acordo com 
+[Tederke,  Fortes  e  Silveira  2016]  este  trabalho  visa  proporcionar  a  inclusão  de 
+ferramentas  tecnológicas  nos  processos  de  ensino  e  de  aprendizagem,  que  poderão  ser 
+estendidas após a realização deste  estudo de caso trazendo, assim, resultados positivos 
+para alunos e professores.  
+
+Para [Tederke, Fortes e Silveira 2016] o software GeoGebra foi o escolhido para 
+o estudo de caso justamente porque favorece a construção de figuras geométricas (planas 
+e  espaciais)  e  a  movimentação  dos  elementos  dessas  figuras,  alterando  formatos  e 
+medidas de forma dinâmica. Assim, o aluno pode perceber as relações existentes entre os 
+elementos dessas figuras e constatar propriedades, facilitando a assimilação dos conceitos 
+e definições referentes a essas figuras geométricas. 
+
+O  artigo  “O  uso  de  softwares  aplicativos  no  ensino  da  Matemática:  a 
+tecnologia como figura de mediação pedagógica” de [Costa et al. 2016] demonstra que 
+trabalho em questão é síntese de uma pesquisa ainda em desenvolvimento sobre o uso de 
+softwares  na  educação  matemática,  o  enfoque  central  é  o  uso  de  um  aplicativo  que 
+trabalha  as  quatro  operações.  “O  MATH  CHALLENGE  FREE”,  o  mesmo  está 
+disponível  na  playstore  que  é  o  ambientem  de  download  nos  dispositivos  android. 
+Partindo da aplicação de alguns testes,  analisa-se sobre que dificuldades que os alunos 
+possuem  sobre  operações  básicas  e  então  usamos  o  aplicativo  como  proposta  de 
+intervenção.  
+
+O objetivo em questão é mostrar como os aplicativos podem ser utilizados como 
+artifício na construção do “fazer matemática”, englobando na prática uma educação com 
+sentido. Quando se fala no uso da tecnologia na educação a primeira coisa que se imagina 
+é o computador, contudo, os softwares educacionais não se restringem apenas ao uso dele, 
+os  smartphones,  tablets,  dentre  outros  aparelhos  de  tecnologia  móvel  de  comunicação 
+podem ser inseridos desse contexto. 
+
+E  por  fim,  o  artigo  “O  uso  de  softwares  no  ensino  da  matemática:  entre  o 
+modismo e o uso inteligente” dos autores [Silva, Ribeiro e Araújo 2018] investigou o 
+uso  de  softwares  educacionais  voltados  para  o  ensino-aprendizagem  da  matemática, 
+utilizados de forma inteligente ou pelo modismo dos professores de matemática de três 
+escolas públicas da rede estadual de ensino de Manaus/Amazonas.  
+
+[Silva, Ribeiro e Araújo 2018] afirmam que a pesquisa demonstrou que o software 
+matemático Geogebra está em evidência, e tornou-se uma moda entre os professores de 
+matemática  devidos  algumas  características  do  mesmo:  software  gratuito,  fácil 
+manipulação, já possui toda sua estrutura e plataforma traduzida para a língua portuguesa, 
+pode ser acessado pelo celular, seus recursos gráficos em 2 e 3D, e podendo ser utilizado 
+como ferramenta educacional para qualquer série do ensino básico estes fatos relatados 
+pelos  professores  de  matemática.  A  pesquisa  deixou  claro  que  alguns  professores  de 
+matemática  não  sabiam  a  real  vantagem  educacional  por  traz  de  um  software,  e  que  a 
+transposição didática que poderia ocorre quando utilizavam esta ferramenta educacional 
+que é o software. 
+
+A Tabela 2 apresenta as monografias e dissertações encontradas e analisadas neste 
+
+Tabela 2 - Monografia e dissertações encontradas a partir da busca realizada. 
+
+ 
+trabalho: 
+
+ 
+
+ 
+
+SOFTWARE  AUTOR/ANO 
+
+PROGRAMA 
+
+ANO/SERIE 
+
+EDUCACION
+AL 
+
+(jogos) 
+
+[Abreu 2011] 
+
+SOFTMAT 
+
+[Batista 2004] 
+
+Pós-graduação  
+UFMT/UAB 
+
+Dissertação 
+
+CCT/UENF 
+
+GEOBGEBRA 
+e Método ABP 
+
+[Silva 2015] 
+
+Mestrado em Ensino de 
+Ciências e Matemática 
+UCS/SP 
+
+Ensino 
+Fundamental 
+
+Ensino Médio 
+
+1º ano Ensino 
+Médio 
+
+ 
+
+ 
+
+A  monografia 
+
+intitulada  “O  uso  de  softwares  na  aprendizagem  da 
+matemática”, o autor [Abreu 2011], trata das possibilidades de se trabalhar a matemática, 
+com  alunos  que  apresentam  baixo  rendimento  em  sala  de  aula  na  disciplina  da 
+matemática, enfocando os jogos educativos como um novo recurso na educação. Propõe-
+se a análise dos jogos educativos.  
+
+Foi selecionado alguns softwares para o estudo para a análise de pontos para o 
+ensino  de  matemática,  entre  eles  temos:  Site  Smart  Kids,  Software  Sebran,  Site 
+Atividades Educativas, Tux Math, Ahsha Math, Tangran, Software Torre de Hanói. 
+
+[Abreu  2011]  expõe  resultados  demonstraram  melhoria  na  aprendizagem  dos 
+alunos  em  relação  à  aprendizagem  da  matemática,  observado  em  todos  os  alunos.  O 
+emprego dos softwares educativos foi bem aceito pelo grupo, pois atraiam as crianças. As 
+crianças  antes  de  desenvolverem  as  atividades  de  matemática  no  computador  eram 
+desmotivadas  com  a  disciplina  de  matemática,  os  alunos  não  utilizavam  de  jogos,  não 
+eram  usuárias  de  computador  e  passaram  a  utilizar  as  ferramentas  sem  dificuldades 
+apresentavam se mais atentas na sala. A mediação estabelecida pelo software educativo 
+apresentou  o  despertar  na  busca  do  conhecimento.  Analisa-se  que  para  resolução  de 
+cálculos matemáticos as crianças apresentaram melhor conhecimentos dos conteúdos, os 
+jogos melhoram o processo de aprendizagem das crianças na disciplina trabalhada. 
+
+[Batista 2004] apresenta sua dissertação com o título “Softmat: um repositório 
+de softwares para matemática” objetiva incentivar posturas conscientes e críticas em 
+relação à seleção de softwares educacionais, através da disponibilização do SoftMat, um 
+repositório  contendo  um  conjunto  de  softwares  para  Matemática  do  Ensino  Médio, 
+devidamente  acompanhados  de  suas  avaliações  de  qualidade  do  ensino  médio  –  um 
+instrumento em prol de posturas mais conscientes na seleção de softwares Educacionais.  
+
+A  seguir,  foi  feito  um  levantamento  de  softwares  selecionados.  [Batista  2004] 
+ressalva que os softwares que estão disponíveis para download no SoftMat, ou são livres 
+ou são proprietários com autorização de seus responsáveis. Os principais softwares são: 
+Régua  e  Compasso,  SuperLogo,  Winplot,  Winmat,  Ms.  Lindquist,  Poly,  Venn,  NCX 
+Círculo Trigonométrico,  Resolução de Sistemas Lineares, OpenOficce.org Calc. 
+
+Nesta  dissertação  a  principal  preocupação  foi  incentivar  o  uso  de  softwares 
+educacionais de forma consciente e crítica. [Batista 2004] objetivou despertar potenciais 
+usuários de softwares educacionais para a importância de avaliar a qualidade dos mesmos. 
+Qualidade que deve estar presente não só nos softwares educacionais como em qualquer 
+outro recurso didático Qualidade que não é detalhe ou luxo e sim necessidade e, como 
+tal, deve ser buscada. 
+
+ 
+
+ 
+
+Já  a  dissertação  “A  aprendizagem  baseada  em  problemas  e  o  software 
+GeoGebra  no  ensino  das  funções  matemáticas”  de  [Silva  2015],  a  pesquisa  foi 
+realizada com alunos do primeiro ano do Ensino Médio de uma escola da rede pública 
+estadual, localizada na zona leste de São Paulo. A proposta para a pesquisa foi trabalhar 
+com  uma  turma  utilizando  o  software  GeoGebra  e  a  abordagem  da  Aprendizagem 
+Baseada em Problemas, acreditando que o uso de software como ferramenta potencializa 
+a aprendizagem de Matemática.  
+
+Esta pesquisa foi  importante, para o aprimoramento  profissional do professor e 
+pesquisador  em  sua  prática  docente,  fruto  da  sua  inquietação  em  se  apropriar  das 
+potencialidades do uso instrucional das TIC’s. Para tanto,  mergulhou na  integração do 
+software  GeoGebra  para  o  ensino  de  funções  matemáticas,  como  já  prescrito  pelo 
+currículo oficial do  estado de São Paulo; utilizou ABP e o método da pesquisa – ação 
+num  processo  de  intensa  reflexão,  e  provou  a  maior  das  mudanças,  a  própria 
+ressignificação de sua prática docente. 
+
+5. Resultados e Discussões 
+
+De acordo com os objetivos traçados para essa pesquisa, podemos destacar que diante dos 
+artigos, monografias e dissertações foi possível mapear diversos softwares utilizados para 
+o  ensino  de  matemática  e  como  esses  programas  facilitam  o  processo  de  ensino 
+aprendizagem dentro da sala de aula, despertando o interesse e a atenção dos alunos. 
+
+ 
+No decorrer da pesquisa e descrição dos softwares, entendemos como cada um 
+pode  ser  utilizado  nas  diversas  ramificações  da  matemática,  e  com  isso,  podem  ser 
+trabalhados em todas as series do ensino fundamental e médio. 
+
+Os  principais  softwares  encontrados  foram:  Régua  e  Compasso,  SuperLogo, 
+Winplot,  Winmat,  Ms.  Lindquist,  Venn,  NCX,    Calques  3D,  Wingeom,  GeoGebra, 
+Resolução de Sistemas Lineares, OpenOficce.org Calc. e Círculo Trigonométrico, 
+
+O GeoGebra foi o principal software citado entre as pesquisas encontradas, por 
+ser  gratuito,  de  fácil  acesso,  podendo  ser  aplicado  nos  processos  de  ensino  e  de 
+aprendizagem nas disciplinas de Geometria, Álgebra e Cálculo.  Este software permite a 
+criação de figures em 2D e 3D. O GeoGebra é um sistema de geometria dinâmica que 
+permite  realizar  construções  com  pontos,  vetores,  segmentos,  retas,  seções  cônicas  e 
+funções que podem ser modificadas dinamicamente [Souza 2010]. 
+
+6. Considerações Finais 
+
+A revisão sistemática de literatura teve como objetivo selecionar trabalhos que fizessem 
+o uso de softwares de matemática para o ensino fundamental e médio,  com propósitos 
+educacionais,  de  aprendizagem,  buscando  identificar  a  forma  com  que  esses softwares 
+podem auxiliar no ensino e despertar o interesse por parte dos alunos e ajudar o professor 
+a trazer aulas dinâmicas e criativas.  
+
+ 
+Pode-se notar que os softwares e jogos eletrônicos fazem parte do cotidiano dos 
+jovens  e  crianças  atualmente,  por  isso,  podemos  utilizar  as  novas  tecnologias  de 
+informação e comunicação como proposta metodológica para o ensino de matemática. 
+
+ 
+Ao  utilizá-los  pode-se  proporcionar  uma  interatividade  entre  o  aluno  e  a 
+tecnologia, e assim,  este pode aprender de forma livre e motivadora. Além de adquirir 
+habilidades  formadoras  constituintes,  como  pensamento  lógico  e  a  construção  de 
+estratégias. Particularmente na área da matemática, o uso dos softwares provoca no aluno 
+a participação e a motivação para compreender os conteúdos. 
+
+ 
+
+ 
+
+A tecnologia é uma das soluções favoráveis para o ensino e aprendizagem, pois 
+ 
+quanto mais possibilidades de ambas forem trazidas para o espaço escolar, mais atenção 
+e participação dos “nativos digitais” serão alcançadas. 
+
+Referências 
+
+Abreu,  A.  C.  D.  (2011).  O  uso  de  softwares  na  aprendizagem  da  matemática.  Cuiabá: 
+
+Universidade Federal de Mato Grosso. 
+
+Batista, S. C. F. (2004). O uso de softwares na aprendizagem da matemática. Trabalho de 
+Conclusão  de  Curso  (dissertação).  Universidade  Estadual  do  Norte  Fluminense  – 
+UENF, Rio de Janeiro. 
+
+Brasil.  (1997)  Secretaria  de  Educação  Fundamental  (SEF)  Parâmetros  Curriculares 
+em: 
+
+Nacionais:  matemática. 
+http://portal.mec.gov.br/seb/arquivos/pdf/livro01.pdf. Acesso em maio de 2019. 
+
+Brasília,  DF:  MEC/SEF.  Disponível 
+
+Brasil.  (1988).  Constituição  da  República  Federativa  do  Brasil  [recurso  eletrônico].  -
+Brasília:  Supremo  Tribunal  Federal,  Secretaria  de  Documentação,  2017.  514p. 
+Atualizada até a EC n. 96/2017. 
+
+Contri, R. F. F., Retzlaff, E. and Klee, L. A. (2011) Uso de softwares matemáticos como 
+
+facilitador da aprendizagem. Rio Grande do Sul. 
+
+Cordeiro, A. M., de Oliveira, G. M., Rentería–TCBC-RJ, J. M., & Guimarães–TCBC-RJ, 
+C. A. (2007). Revisão sistemática: uma revisão narrativa. 
+
+Costa, F. J. C., Costa, A. J. C., Rodrigues, A. P. and Vasconcellos, T. F. (2016) O uso de 
+softwares aplicativos no ensino da Matemática: a tecnologia como figura de mediação 
+pedagógica. Natal. 
+
+FANTI, E. L. C. (2010). Utilizando o software Geogebra no ensino de certos conteúdos 
+
+matemáticos. Bienal da Sociedade Brasileira de Matemática, 5, 1-18. 
+
+Machado,  N.  J.  (1994).  Epistemologia  e  didática:  as  concepções  de  conhecimento  e 
+
+inteligência e a prática docente. Cortez, São Paulo. 
+
+MORAIS, R. X. T. (2003). Software educacional: a importância de sua avaliação e do 
+
+seu uso nas salas de aula. Monografia, Faculdade Lourenço Filho. 
+
+Nogueira, T. C. A., Cardoso, M. C. S. A., Figueira-Sampaio, A. S., Santos, E. E. F., & 
+Carrijo, G. A. (2013). Software educativos gratuitos para o ensino de Matemática. In 
+Anais do Congresso Internacional de Informatica Educativa-TISE 2013. 
+
+Pacheco, J. A. D., & BARROS, J. V. (2013). O uso de softwares educativos no ensino de 
+matemática. Revista de Estudos Culturais e da Contemporaneidade, Garanhus, (8), 5-
+13. 
+
+Pereira, L. R. (2014) O Ensino e a Aprendizagem da Matemática mediada por softwares 
+
+Educativo na forma de Objetos de Aprendizagem. Paraná. 
+
+SALVAT, Begoña Gros. (1998) Direção Ana Teberosky e Liliana Tolchinsky; tradução: 
+Francisco  Franke  Settineri.  Substratum:  Temas  Fundamentais  em  Psicologia  e 
+Educação. v. 2, n. 5. Artmed, Porto Alegre. 
+
+SILVA, João Paulo Martins da. RIBEIRO, Aretha Cristina. ARAÚJO, Tacildo de Souza. 
+(2018)  O  uso  de  softwares  no  ensino  da  matemática:  entre  o  modismo  e  o  uso 
+inteligente. Olinda. 
+
+ 
+
+ 
+
+Silva, M. F., Costa Cortez, R. D. C., & de Oliveira, V. B. (2013). Software Educativo 
+como auxílio na aprendizagem da matemática: uma experiência utilizando as quatro 
+operações  com  alunos  do  4º  Ano  do  Ensino  Fundamental  I.  Educação,  Cultura  e 
+Comunicação, 4(7).  
+
+Silva, J. C. E. A aprendizagem baseada em problemas e o software Geogebra no ensino 
+das funções matemáticas. 2015. 29 f. Mestrado Profissional em Ensino de Ciências e 
+Matemática. (Dissertação) - Universidade Cruzeiro do Sul. 2015. 
+
+Tederke,  A.  R.  Fortes,  P.  R.  and  Silveira,  S.  R.  Um  Estudo  de  Caso  Envolvendo  a 
+Aplicação  de  um  Software  Educacional  de  Geometria  Espacial.  Mato  Grosso  do 
+Sul.2016. 
+
+ 
+
+

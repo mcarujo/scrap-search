@@ -1,0 +1,523 @@
+IV Congresso sobre Tecnologias na Educação (Ctrl+E 2019) 
+Recife, Pernambuco – Brasil 
+28 a 30 de agosto de 2019 
+
+ 
+
+StudentHistory: um Sistema Web para Análise Visual  
+do Desempenho de Alunos de Graduação 
+
+Jonathan Martins Barros Costa,  
+Bruno Santana da Silva, Adja Ferreira de Andrade 
+
+Instituto Metrópole Digital 
+Universidade Federal do Rio Grande do Norte 
+Av. Senador Salgado Filho, 3000 – 59078-970 – Natal – RN – Brasil 
+
+jonhmbc@gmail.com, bruno@imd.ufrn.br, adja@imd.ufrn.br 
+
+Abstract. Student performance analysis at university is difficult, especially due 
+to large number of students and diversity of courses. This work presents the web 
+system  StudentHistory 
+for  academic  performance  visual  analysis  of 
+undergraduates at UFRN. It allows university professors to view Sankey graphs 
+with  the  flow  of  students  through  classes  according  to  their  grades.  The 
+generation  of  these  graphs  occurs  automatically,  without  need  of  in-depth 
+knowledge of IT, Statistics or Design. This work describes design, development 
+and an evaluation of this tool with participation of educators. 
+
+Resumo. A análise do desempenho de estudantes de uma universidade é difícil, 
+principalmente pela grande quantidade de alunos e diversidade de cursos. Este 
+trabalho apresenta o sistema web StudentHistory para apoiar a análise visual 
+do desempenho de alunos de graduação da UFRN. Ele permite que docentes da 
+universidade  visualizem  gráficos  Sankey  com  o  fluxo  de  alunos  pelas  turmas 
+conforme suas notas. A geração destes gráficos ocorre de forma automática, 
+sem  necessidade  de  conhecimento  aprofundado  de  TI,  Estatística  ou  Design. 
+Este  artigo  descreve  o  projeto,  o  desenvolvimento  e  uma  avaliação  desta 
+ferramenta com a participação de pedagogas. 
+
+1. Introdução 
+
+O  acompanhamento  do  desempenho  acadêmico  de  alunos  é  uma  atividade  importante 
+para  docentes  e  instituições  de  ensino.  Além  de  apontar  situações  em  que  os  alunos 
+demonstram dificuldades, ele permite definir metas de melhoria no ensino e identificar 
+demanda de disciplinas e professores para os próximos períodos. Entretanto, acompanhar 
+o desempenho acadêmico nem sempre é uma tarefa fácil, principalmente quando envolve 
+uma grande quantidade de alunos e uma diversidade de cursos. 
+
+ 
+A representação visual de dados oferece significativo apoio à cognição humana a 
+partir da percepção do mundo através da visão (Cairo, 2013; Munzner, 2014). Quando 
+feita de forma adequada, bem estruturada, é possível facilitar interpretação de uma grande 
+quantidade de dados em pouco tempo. Nesse sentido, a criação de gráficos e diagramas 
+se  torna  ferramenta  importante  para  a  interpretação  e  análise  de  dados  sobre  o 
+desempenho dos alunos. Aliado  a  visualização  gráfica  de  dados,  temos  a  evolução  e 
+utilização  dos  sistemas  de  informação  que  contribuem  principalmente  com  o  poder  de 
+processamento  computacional.  Aproveitar  a  capacidade  de  processamento  dos 
+
+ 
+
+ 
+
+ 
+
+ 
+
+computadores faz com que análises antes feitas manualmente sejam realizadas cada vez 
+mais rápido e com a menor quantidade de retrabalho humano possível. 
+
+ 
+Manipulação de uma quantidade significativa de dados, dificuldade em recuperar, 
+organizar  e  interagir  com  grande  volume  de  informações,  e  retrabalho  ao  construir 
+gráficos semelhantes são exemplos de obstáculos encontrados por docentes e instituições 
+de ensino ao analisar o desempenho acadêmico de alunos universitários. Outro problema 
+importante  na  análise  de  desempenho  dos  estudantes  é  a  falta  de  acompanhamento 
+contínuo  do  desempenho  dos  alunos.  Análises  feitas  esporadicamente  ou  com  dados 
+muito antigos não dão o respaldo que os agentes educacionais necessitam para propor e 
+executar intervenções adequadas. Muitas dessas análises acabam sendo pontuais  e não 
+são  continuadas  devido  à  dificuldade  em  manipular  e  analisar  tantos  dados  com  uma 
+frequência semestral ou anual. 
+
+O  objetivo  deste  trabalho  foi  projetar,  desenvolver  e  avaliar  o  sistema  web 
+ 
+StudentHistory  para  apoiar,  através  da  visualização  de  dados,  o  acompanhamento  do 
+desempenho de alunos de graduação ao longo das disciplinas do curso feito por agentes 
+educacionais integrantes da UFRN (coordenação, colegiado, setor pedagógico, etc.).  
+
+2. Trabalhos Relacionados 
+
+Na  literatura  encontramos  trabalhos  que  realizam  análises  estatísticas  sobre  dados  de 
+desempenho  dos  alunos  em  contextos  específicos.  Por  exemplo,  Barbosa  et  al.  (2011) 
+analisaram as relações entre indicadores de gestão e desempenho discente, medido pelo 
+ENEM; já Brasil et al. (2018) faz uma revisão sistemática da literatura sobre a análise de 
+aprendizagem  em  contextos  de  educação  a  distância.  Outros  trabalhos  empregam 
+algoritmos de inteligência artificial, data mining e semelhantes para analisar dados sobre 
+o desempenho dos alunos. Couto e Santana (2017), por exemplo, utilizam algoritmos para 
+detecção de padrões na evasão e na retenção em âmbito acadêmico. Cortez e Silva (2008) 
+analisam o desempenho dos alunos nas disciplinas de Matemática e Português no ensino 
+médio usando técnicas de data mining. Por outro lado, a análise visual de dados (Munzner, 
+2014; Cairo, 2013) ainda é pouco explorada como apoio à compreensão da evolução dos 
+alunos ao longo do curso. Além disso, pouca atenção tem sido dada ao desenvolvimento 
+de  ferramentas  que  auxiliem  profissionais  de  educação  analisarem  dados  sobre  o 
+desempenho  dos  alunos  de  forma  regular  e  frequente,  e  não  apenas  em  um  esforço 
+pontual.  
+
+3. Projeto do StudentHistory 
+
+O StudentHistory tem como propósito geral apoiar profissionais de educação a analisar o 
+desempenho acadêmico dos alunos de graduação, evitando retrabalho e mantendo o sigilo 
+dos dados. Ele deveria ser de fácil acesso a partir de qualquer máquina com internet, sem 
+necessidade  de  instalação  ou  configuração.  Os  dados  deveriam  ser  os  mais  atuais 
+possíveis para permitir um acompanhamento contínuo do desempenho. Diante disso, a 
+primeira decisão de projeto foi decidir qual tipo de gráfico ofereceria apoio adequado para 
+visualizar a evolução do desempenho dos estudantes. Ao analisarmos a bibliografia sobre 
+análise visual de dados (Cairo, 2013; Munzner, 2014) e galerias de gráficos disponíveis 
+http://datavizcatalogue.com, 
+na 
+http://depictdatastudio.com/charts/), optamos por utilizar como base o diagrama Sankey, 
+ilustrado  na  Figura  1.  Ele  representa  como  os  integrantes  de  grupos  da  esquerda  se 
+relacionam com integrantes de grupos da direita, sucessivamente, formando um fluxo de 
+
+(https://d3js.org, 
+
+web 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+informações que vão de um determinado ponto a outro. No contexto do sistema projetado, 
+o fluxo de informações teria como foco principal as notas dos alunos em cada disciplina 
+considerada numa análise. 
+
+  
+
+ 
+
+Figura 1. Exemplo de diagrama Sankey.  
+Fonte: https://bl.ocks.org/wvengen/cab9b01816490edb7083  
+
+A  Figura  2  mostra  o  diagrama  proposto  para  o  StudentHistory.  Cada  coluna 
+ 
+representa todas as turmas de uma disciplina em determinado semestre, estratificada pelas 
+notas dos alunos nessas turmas: maiores ou  iguais  a sete  em verde escuro; maiores ou 
+iguais a cinco e menores que sete em verde claro; maiores ou iguais a três e menores que 
+cinco  em  laranja,  menores  que  três  em  vermelho.  Aqueles  alunos  que  não  cursaram  a 
+disciplina  no  semestre  também  seriam  indicados  em  um  grupo  separado  em  cinza, 
+totalizando cinco grupos de alunos por disciplina. 
+
+Figura 2. Diagrama Sankey proposto para o StudentHistory. 
+
+As ligações entre um grupo da esquerda com outros grupos adjacentes à direita 
+ 
+formam um fluxo unidirecional que mostra por quais grupos de notas os alunos passaram 
+nas  referidas  turmas  e  semestres.  Uma  ligação  entre  dois  grupos  possui  altura 
+proporcional à quantidade de alunos que estão partindo de um grupo de notas e chegando 
+a  outro  grupo  de  notas  em  outra  turma,  comparada  ao  total  de  alunos.  O  projeto  do 
+StudentHistory também levantou um questionamento importante sobre o esforço manual 
+que  seria  necessário  ao  docente  para  a  criação  de  um  gráfico  como  o  da  Figura  2.  O 
+docente teria que recuperar, organizar e calcular sistematicamente um grande volume de 
+dados.  Esse  esforço  deveria  ser  melhor  empregado  na  atividade  de  análise  dos  dados 
+representados  no  gráfico,  não  na  sua  tabulação  e  desenho.  Assim,  o  sistema  deveria 
+facilitar a criação de gráficos que possibilitem realizar análises específicas. Existem dois 
+atores  no  StudentHistory:  o  usuário  final,  que  terá  ação  em  todas  funcionalidades  do 
+sistema, e a API de Sistemas da Superintendência de Informática (SINFO) da UFRN. As 
+funcionalidades  do  sistema  são:  login,  logout,  listar  análises,  criar  análise,  visualizar 
+
+ 
+
+análise, editar análise e excluir análise. A  definição  do  login  partiu  da  necessidade  de 
+cada  usuário  ter  acesso  apenas  às  análises  que  criou.  Além  disso,  o  acesso  ao  sistema 
+deveria  ser  restrito  aos  servidores  da  universidade  por  envolver  dados  sigilosos. 
+Inicialmente os usuários previstos são docentes, mas futuramente vão incluir pedagogos 
+e demais profissionais que atuam na assistência pedagógica. Essa restrição de acesso foi 
+decisiva  para  utilizar  a  autenticação  de  usuários  da  API  para  realização  de  login  no 
+StudentHistory. Deste modo, garantiríamos que o usuário possua credencial de docente 
+na UFRN e que não seja forçado a  lidar  com novo  login e senha. A Figura 3 ilustra o 
+diagrama  de  classes  (Larman,  2007)  do  StudentHistory,  com  a  estrutura  de  classes  e 
+relacionamentos, bem como o detalhamento de atributos e métodos para a realização de 
+suas responsabilidades e a colaboração entre classes. 
+
+Figura 3. Diagrama de classes do StudentHistory. 
+
+ 
+
+A  arquitetura  do  StudentHistory  teve  como  base  o  padrão  MVC,  Model-View-
+Controller, (Burbeck, 1987) e foi concebido para a web para atender aos requisitos. Os 
+componentes foram organizados em: parte cliente, parte servidor, banco de dados e API 
+de Sistemas da SINFO. Do lado cliente, partem todas as interações com usuário que fazem 
+requisições http via browser para a parte servidor. A parte cliente também é responsável 
+por renderizar (desenhar) os gráficos, pois no futuro facilitará a evolução do sistema para 
+exibir os mesmos dados de outras formas visando uma compreensão mais rica do contexto 
+educacional. A parte servidor é responsável por receber as requisições do usuário, tratá-
+las e respondê-las, acessando banco de dados e da API.  
+
+3 Desenvolvimento do StudentHistory 
+
+O desenvolvimento do sistema foi de modo incremental e iterativo. Optamos por utilizar 
+a  linguagem  Ruby  e  o  framework  MVC  Ruby  on  Rails  pelo  padrão  arquitetural 
+empregado.  A  primeira  versão  do  sistema  permitia  realizar  login,  logout,  listar  e  criar 
+análises.  As  análises  criadas  nesta  primeira  versão  só  continham  nome  e  ainda  não 
+contavam com a geração do gráfico esperado para sua versão final. O próximo passo foi 
+buscar opções de bibliotecas capazes de gerar o gráfico projetado. Com alguma pesquisa 
+na  web1,  duas  bibliotecas  Javascript  foram  cogitadas  por  permitirem  a  criação  de 
+
+1 https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_libraries 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+diagramas Sankey: Google Charts e D3js. Apesar das semelhanças entre essas bibliotecas, 
+D3js foi escolhido pela possibilidade de customização e por oferecer maior controle sobre 
+dados sigilosos. 
+
+Tomamos  como  base  o  exemplo  de  d3.chart.sankey  (Figura  1).  Nesta 
+implementação do diagrama Sankey usando D3js, os nós que possuem apenas ligações 
+partindo deles, ou seja, apenas originam relações, são remanejados totalmente à esquerda; 
+enquanto  os  nós  que  são  apenas  destino  de  relações  são  posicionados  mais  à  direita 
+possível  no  diagrama.  Esse  comportamento  não  condiz  com  o  resultado  que  o 
+StudentHistory gostaria de apresentar por não manter os nós em posições fixas para as 
+turmas e semestres. Portanto, foi necessário alterar a implementação Javascript original 
+para determinar a posição dos nós e rótulos das colunas. 
+
+Os dados analisados partiriam da base de dados dos sistemas de gestão da UFRN. 
+Estudamos  as  informações  que  precisavam  ser  recuperadas  e  como  fazer  essa 
+recuperação. A consulta dos dados necessários ao StudentHistory foi feita a partir da API 
+(https://api.ufrn.br). A princípio, a ideia era recuperar os dados relacionados aos cursos 
+sob demanda, durante o processo de criação e visualização da análise. Entretanto, foram 
+descobertas  algumas  limitações  técnicas.  É  necessária  uma  grande  quantidade  de 
+requisições à API para recuperar dados dos cursos, alunos, disciplinas, turmas e notas dos 
+alunos para cada análise. Durante a análise do desempenho dos alunos, é muito provável 
+que  o  usuário  faça  várias  análises  similares  em  seguida  para  aprofundar  e  ampliar  sua 
+compreensão  sobre  o  histórico  dos  alunos.  Essas  análises  consecutivas  tendem  a  ser 
+similares, compartilhando curso, disciplinas, turmas e alunos. Se os dados sempre fossem 
+buscados  diretamente  da  API  ocorreriam  várias  requisições  repetidas,  afetando  a 
+eficiência  do  StudentHistory  (por  ser  mais  demorado  recuperar  da  API  do  que  de  um 
+repositório local da aplicação) e aumentando significativamente a carga de trabalho do 
+servidor que oferece os serviços da API. Além disso, existem limitações importantes da 
+API que provavelmente foram criadas para evitar sobrecarga no servidor. Cada requisição 
+feita à API retorna no máximo 100 registros por vez. Se a aplicação precisar recuperar 
+mais registros terá que realizar outras requisições utilizando um  offset. A API também 
+impõe um limite de 5000 requisições por hora. Estas limitações são significativas para 
+um sistema como o StudentHistory. Por exemplo, a avaliação relatada adiante envolveu 
+aproximadamente 1,5 milhões de registros de dados acadêmicos para apenas três anos de 
+um único curso de graduação. 
+
+Por conta dessas limitações da API, uma camada de serviços foi introduzida na 
+arquitetura para  importar os dados que serão utilizados nas análises e seus respectivos 
+gráficos.  Essa  nova  camada  executa  uma  série  de  requisições  para  a  API  e  salva  os 
+resultados em um banco de dados localizado na parte servidor do StudentHistory. Após a 
+importação dos dados, quando o banco de dados já possuía as informações necessárias 
+para a criação de uma análise, houve um novo ciclo no processo de desenvolvimento para 
+implementar  as  funcionalidades  de  edição,  remoção  e  visualização  das  análises  (dos 
+gráficos).  Também  foi  alterado  o  formulário  de  criação  da  análise  para  que  o  usuário 
+escolha quais informações existentes no banco de dados são relevantes para seu interesse 
+no  momento:  curso,  alunos,  turmas,  notas,  etc.  Por  fim,  como  último  ciclo  na 
+programação  do  StudentHistory,  integramos  a  biblioteca  Javascript  D3js  para  gerar  o 
+diagrama Sankey na parte cliente da ferramenta durante a visualização das análises.  
+
+A  Figura  4  ilustra  a  página  de  consulta  das  análises  do  usuário,  a  principal  do 
+
+ 
+
+sistema após o login. No canto superior direito é possível identificar o usuário logado e 
+opção para logout. Na parte central encontra-se uma lista das análises que o usuário criou; 
+com  seus  respectivos  nomes,  cursos,  ano  e  semestre  de  ingresso  dos  estudantes,  bem 
+como botões para visualizar, editar ou excluir a análise ou criar uma nova. 
+
+Figura 4. Página de consulta das análises criadas pelo usuário. 
+
+ 
+
+ 
+A Figura 5 mostra a página de criação de análises. A definição da análise começa 
+com informações básicas como nome da análise, curso a ser analisado, ano e semestre de 
+ingresso dos alunos que serão considerados. Em seguida, a seção de disciplinas permite 
+definir de duas a cinco disciplinas, por código ou nome, selecionar o ano e semestre das 
+turmas ministradas.  
+
+Figura 5. Página de criação de análise. 
+
+ 
+
+A Figura 6 apresenta a página de visualização do fluxo de alunos pelas disciplinas 
+ 
+conforme  seus  desempenhos.  Nela  é  possível  ver  informações  básicas:  nome,  curso, 
+período de ingresso e quantidade total de alunos considerados. A parte central apresenta 
+o  diagrama  Sankey  com  indicação  das  disciplinas,  seus  códigos,  ano  e  semestre  das 
+turmas analisadas. Para  cada disciplina e semestre,  uma coluna no diagrama foi criada 
+com  a  presença  de  cinco  grupos  de  alunos  ingressantes  conforme  suas  médias  finais 
+naquela  disciplina  naquele  semestre.  Os  alunos  que  não  se  matricularam  naquela 
+disciplina no referido semestre formam um grupo à parte. Cada ligação entre as colunas 
+indica  que  um  grupo  de  alunos  que  obteve  determinada  média  final  numa  disciplina  à 
+esquerda  obteve  determinada  média  final  em  outra  disciplina  à  direita,  ou  não  se 
+matriculou nelas. A largura das linhas entre colunas indica a quantidade de alunos naquela 
+situação, proporcional ao total de ingressantes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 6. Página de visualização da análise com dados de teste.  
+
+4. Avaliação do StudentHistory 
+
+Avaliamos  o  StudentHistory  considerando  os  seguintes  objetivos:  (1)  verificar  se  os 
+participantes conseguem criar análises e o tempo necessário para a execução das tarefas 
+propostas;  (2)  comparar  a  compreensão  dos  diagramas  pelos  participantes  e  pelos 
+desenvolvedores do sistema; e (3) consultar  a opinião dos participantes sobre o uso da 
+ferramenta e sugestões de melhorias. 
+
+As metodologias utilizadas nesta avaliação foram observação de uso e grupo focal 
+ 
+(Barbosa  e  Silva,  2010).  Três  pedagogas  do  Setor  Pedagógico  do  IMD  aceitaram 
+participar  desta  pesquisa  após  esclarecimentos,  conforme  assinatura  de  termo  de 
+consentimento.  Elas  realizaram  individualmente  duas  tarefas  usando  o  StudentHistory. 
+Na  Tarefa  1,  elas  criaram  uma  análise  contendo  cinco  disciplinas  de  matemática  ou 
+programação do curso de BTI da UFRN. Na Tarefa 2, elas interpretaram o gráfico de uma 
+análise já existente no sistema (Figura 7).  
+
+ 
+
+ 
+
+Figura 7. Página de visualização da análise com dados reais. 
+
+ 
+
+ 
+As  execuções  destas  tarefas  foram  observadas  e  gravadas  em  vídeo.  As 
+participantes  escreveram  observações  sobre  o  desempenho  dos  alunos  analisados, 
+conforme  sua  compreensão.  Após  a  realização  das  tarefas,  as  participantes  realizaram 
+uma discussão em grupo a respeito da sua opinião sobre o StudentHistory, o potencial da 
+ferramenta na prática profissional e sugestões de melhoria. Essa discussão foi registrada 
+em  áudio.  Os  vídeos  de  interação  foram  analisados  para  contabilizar  o  tempo  de 
+realização  e  o  sucesso  da  conclusão  das  tarefas.  As  observações  escritas  pelos 
+participantes  foram  analisadas  para  determinar  compatibilidade  com  a  intenção  dos 
+desenvolvedores.  O  áudio  das  discussões  do  grupo  focal  foi  analisado  para  identificar 
+recorrências nas opiniões dos participantes, bem como outros aspectos relevantes. 
+
+4.1 Resultados da observação de uso 
+
+Na Tarefa 1, P1 (Participante 1) levou 8 minutos para criar a análise. Grande parte desse 
+tempo  foi  gasto  com  a  visualização  das  disciplinas  disponíveis.  Apesar  da  conclusão 
+parcial da tarefa de criar uma análise, P1 não ficou  satisfeito com o gráfico resultante, 
+pois o conjunto de alunos analisados e o período das disciplinas escolhidas não geraram 
+um  gráfico  com  variações  de  notas  suficientes  para  a  observação  do  desempenho  dos 
+alunos. P1 editou a análise quatro vezes e mudou ano e semestre de ingresso dos alunos, 
+disciplinas, ano e semestre das disciplinas, em busca de um gráfico com mais ligações 
+entre os grupos de notas. P1 concluiu que a falta de conhecimento do currículo e da oferta 
+das  disciplinas  do  curso  dificultou  na  escolha  de  disciplinas  que  pudessem  gerar  um 
+gráfico mais interessante. 
+
+ 
+P2  demorou  aproximadamente  8  minutos  para  realizar  a  criação  da  primeira 
+análise. Ao longo da Tarefa 1, P2 observou uma análise já criada no sistema, tentou salvar 
+a análise com campos obrigatórios em branco e os corrigiu após validação do sistema. 
+Criou outras duas análises extras. Em uma das análises criadas por P2, foi selecionado o 
+período 2017.2 para ingresso dos alunos e nenhum gráfico foi gerado, pois o curso de BTI 
+da UFRN não possui alunos ingressantes para esse semestre. Em suas observações, P2 
+escreveu algumas sugestões como botões de navegação para voltar entre telas e o sistema 
+apresentar como opções apenas o que foi ofertado. 
+
+ 
+P3 levou pouco menos de 7 minutos para concluir a criação da primeira análise 
+durante a Tarefa 1. Ela editou quatro vezes a análise criada. Na primeira edição, alterou 
+o  ano  de  ingresso  dos  estudantes.  Na  segunda  e  terceira  edição,  P3  removeu  uma  das 
+disciplinas  selecionadas  e  inseriu  outra  disciplina.  Na  última  edição  feita,  ela  editou  o 
+semestre das turmas analisadas de uma das disciplinas. P3 relatou que o gráfico fica mais 
+claro ao longo do uso  e, assim  como P1, constatou  a necessidade do conhecimento da 
+grade curricular do curso analisado. P3 sugeriu que o sistema alertasse os usuários caso 
+escolhessem uma disciplina que ainda não foi cursada pelo grupo de alunos analisados. 
+P3  teve  dificuldades  em  compreender  a  rótulo  do  link  entre  disciplinas  que  informa 
+quantos alunos saem e chegam em grupos de alunos que “não cursaram”. Na Tarefa 2, os 
+participantes  compreenderam  o  universo  de  estudantes  ingressantes  analisados  e 
+conseguiram identificar que uma coluna representava alunos agrupados por nota ou sem 
+matrícula  em  determinada  disciplina.  Apesar  disso,  houve  relato  sobre  a  falta  de 
+alinhamento  entre  o  gráfico  e  os  elementos  que  informam  as  disciplinas  presentes  na 
+análise. P1 tomou nota sobre os componentes curriculares analisados e o desempenho de 
+grupos de alunos em determinados semestres e considerou as disciplinas escolhidas nesta 
+tarefa como críticas pelo alto número de reprovações e desistências. Relatou que entre 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+uma disciplina e outra existiram comportamentos diferenciados. Em alguns casos alunos 
+aumentaram as notas, enquanto em outros obtiveram rendimento inferior, inclusive nos 
+casos de repetência em um semestre seguinte para  uma mesma disciplina. P2 levantou 
+questionamentos  se  a  espessura  dos  links  está  relacionada  com  a  evolução  do 
+desempenho. Também menciona sobre o rótulo informar a quantidade de alunos em cada 
+grupo  presente  no  gráfico.  P3  relata  sobre  a  relação  das  notas  entre  as  disciplinas 
+analisadas e a taxa de aprovação e retenção de alunos em uma mesma disciplina.  
+
+4.2 Resultados do Grupo Focal 
+
+P3 achou o sistema interessante por dar uma noção visual do que aconteceu com um grupo 
+de alunos do curso, diferente do histórico escolar individual padrão que apresenta toda a 
+vida  acadêmica  de  apenas  um  aluno  por  vez.  No  histórico  em  formato  de  tabela,  ela 
+relatou dificuldade em comparar o desempenho de um aluno com um conjunto de outros 
+alunos do curso e em analisar sua evolução ao longo do tempo, principalmente quando se 
+trata de reprovações. P1 falou sobre a possibilidade de analisar a evolução do desempenho 
+dos alunos em um componente curricular ao longo do tempo, o índice de desistência de 
+cursar a disciplina e o índice de sucesso para os casos de repetição de uma disciplina. P1 
+ficou  fascinado  com  as  possibilidades  que  o  sistema  lhe  oferece.  P2  comenta  sobre  o 
+sistema  possibilitar  a  análise  do  desempenho  de  alunos  em  diferentes  disciplinas  pré-
+requisito/co-requisito  de  outras  disciplinas  e  permitir  questionamentos  do  tipo  “na 
+disciplina A ele (o aluno) foi bem sucedido e na disciplina B não. Por quê?”. P2 também 
+comenta sobre a possibilidade de avançar nos semestres para uma mesma disciplina a fim 
+de uma análise com visão voltada a outros fatores além dos alunos, como por exemplo, 
+troca de docentes que ministram as turmas da disciplina ou até mesmo tentar relacionar 
+fatores  externos  que  possam  ter  influenciado  o  desempenho  dos  alunos,  como  por 
+exemplo, greves na universidade, protestos e paralisações na cidade. 
+
+Sobre o potencial de uso no trabalho dos pedagogos, P2 cita a possibilidade de 
+expansão  da  ferramenta  para  outros  vínculos  da  UFRN  (técnicos  administrativos)  e 
+adaptações na utilização do sistema com foco na avaliação de cursos em outros níveis de 
+ensino  na  universidade,  como  básico  e  técnico.  Também  foi  levantamento  o 
+questionamento  do  uso  do  sistema  para  avaliar  o  desempenho  acadêmico  durante  o 
+semestre corrente na tentativa de tentar identificar e corrigir problemas no início, e não 
+apenas para os semestres concluídos. P1 relata sobre a dificuldade em realizar análises de 
+desempenho manualmente para uma grande quantidade de alunos pelo esforço e tempo 
+necessários.  Isso  inviabiliza  a  realização  de  um  acompanhamento  contínuo  dos  alunos 
+durante o andamento dos cursos, o que atrapalha a tomada de providências necessárias, 
+como, por exemplo, encaminhamento para o plantão pedagógico, apoio de monitoria para 
+reforço e esclarecimento de dúvidas. Os participantes consideraram que a visualização e 
+compreensão  do  fluxo  de  alunos  pelas  disciplinas  permite  avaliar  disciplinas  com  alto 
+índice  de  reprovação,  tentar  entender  os  motivos  das  desistências  (abandono  de  uma 
+turma em determinado semestre) e o que acontece com os alunos a ponto de não haver 
+uma melhora nas notas ao longo das reprovações em disciplinas. A respeito das sugestões 
+de melhoria, P1 diz que seria interessante indicação das disciplinas com dados disponíveis 
+conforme ano de ingresso dos alunos selecionados,  a fim de evitar análises que gerem 
+gráficos  com  poucos  estudantes  que  cursaram  as  disciplinas.  P2  aconselhou  sobre  a 
+existência de legenda para sinalizar disciplinas que são pré-requisito de outras ou que não 
+foram ofertadas no período escolhido. P1, P2 e P3 também sugerem a possibilidade de 
+
+ 
+
+analisar as turmas das disciplinas durante o decorrer do semestre, com a separação das 
+notas por unidades, com o objetivo de tentar antecipar reprovações e como ferramenta de 
+autoavaliação dos docentes sobre suas turmas durante o semestre em execução. Também 
+foi  apontada  a  necessidade  de  analisar  as  turmas  considerando  os  professores  e  a 
+indicação  de  um  grupo  de  alunos  aprovados  distinto  do  grupo  de  alunos  que  “não 
+cursaram”  a  disciplina.  Apesar  das  dificuldades  inicialmente  demonstradas,  os 
+participantes obtiveram uma compreensão do sistema e dos gráficos próxima da esperada 
+pelos desenvolvedores. Identificaram os elementos gráficos dos diagramas, o universo de 
+alunos ingressantes, as disciplinas analisadas e relacionaram as ligações entre os grupos 
+de cada disciplina como parte do fluxo de desempenho desses alunos ao longo do curso. 
+Para realização de análises interessantes, é importante ter um bom conhecimento acerca 
+do currículo do curso, bem como ter acesso a um tutorial sobre o uso do gráfico Sankey. 
+
+5. Considerações Finais 
+
+Este  trabalho  apresentou  o  StudentHistory,  uma  aplicação  web  que  busca  auxiliar 
+docentes da UFRN na análise do desempenho dos estudantes de graduação. O sistema 
+apresenta  um  diagrama  do  tipo  Sankey  com  o  fluxo  de  estudantes  entre  as  disciplinas 
+analisadas de acordo com suas respectivas notas. O sistema conta com integração à API 
+de  Sistemas  da  SINFO,  através  da  qual  são  recuperados  dados  utilizados  nas  análises, 
+além  de  permitir  autenticação  com  as  credenciais  de  acesso  já  existentes  no  SIGAA. 
+Trabalhos futuros podem aprofundar a avaliação do sistema considerando a usabilidade e 
+comunicabilidade  para  a  diversidade  de  profissionais  de  educação  envolvidos, 
+implementar  melhorias  na  ferramenta,  e  explorar  novas  visualizações  de  informação 
+sobre o desempenho dos alunos. 
+
+Referências 
+
+Barbosa, G.C.; Freire, F.S.; Crisostomo, V.L. (2011) Análise dos indicadores de gestão 
+das IFES e o desempenho discente no ENADE. Avaliação, v. 16, n. 2, p. 317-344. 
+
+Barbosa, S.D.J.; Silva, B.S. (2010) Interação Humano-Computador. Elsevier. 
+
+Cairo, A. (2013) The Functional Art. Berkeley, CA: New Riders. 
+
+Couto,  D.C.;  Santana,  A.L.  (2017)  Mineração  de  Dados  Educacionais  Aplicada  à 
+Identificação  de  Variáveis  Associadas  à  Evasão  e  Retenção.  Anais  do  II  Congresso 
+sobre Tecnologias na Educação (Ctrl+e 2017). Rio Tinto, Paraíba, p. 333-344. 
+
+Cortez,  P.;  Silva,  A.  (2008).  Using  data  mining  to  predict  secondary  school  student 
+performance. In Proceedings of 5th Annual Future Business Technology Conference, 
+Porto, Portugal, pages 5-12. 
+
+Larman, C. (2007) Utilizando UML e padrões: uma introdução à análise  e ao projeto 
+orientados a objetos e ao desenvolvimento interativo. 3.ed. Porto Alegre: Bookman. 
+
+Munzner, T. (2014) Visualization Analysis and Design. AK Peters. 
+
+Brasil, P.C.; Medeiros, T.J.; Nunes, I.D. (2018) Uma Revisão Sistemática Sobre o Uso 
+de Learning Analytics em Ambientes Virtuais de Aprendizagem Brasileiros. Anais do 
+III Congresso sobre Tecnologias na Educação (Ctrl+e 2018). Fortaleza, p. 371-380. 
+
+ 
+
+ 
+
+

@@ -1,0 +1,724 @@
+IV Congresso sobre Tecnologias na Educação (Ctrl+E 2019) 
+ 
+
+Recife, Pernambuco – Brasil 
+
+28 a 30 de agosto de 2019 
+
+ 
+
+Como a Realidade Aumentada tem Auxiliado no Processo 
+de Ensino e Aprendizagem de Ciências da Natureza? Um 
+Mapeamento Sistemático da Literatura 
+
+Eduarda Queiroz1, Rafaela Moura1, Ellen Souza1 
+
+1Universidade Federal Rural de Pernambuco – Unidade Acadêmica de Serra Talhada 
+(UFRPE – UAST) - Serra Talhada, PE – Brasil 
+
+mequeirozs@gmail.com, rafaela.smm98@gmail.com, ellen.ramos@ufrpe.br 
+
+Abstract. Augmented Reality (AR) is defined as any system that combines the 
+real with the virtual, which is interactive in real time and is registered in three 
+dimensions. In the teaching of the natural sciences it can provide students with 
+the  visualization  of  abstract  concepts.  This  work  aims  to  investigate  how  RA 
+has  aided  in  the  teaching  and  learning  process  of  the  natural  sciences.  A 
+systematic mapping was carried out, which  is a secondary study and aims to 
+identify the research gaps in the literature. Primary studies published between 
+the  years  of  2009  to  2018  were  analyzed  in  order  to  extract  data  that  could 
+answer questions and thus reach the objective of this work. 
+
+Resumo. A Realidade Aumentada (RA) é definida como qualquer sistema que 
+combine o real com o  virtual, que seja interativo em tempo real e que  esteja 
+registrado  em  três  dimensões.  No  ensino  das  ciências  da  natureza,  ela  pode 
+proporcionar  aos  estudantes  a  visualização  de  conceitos  abstratos.  Este 
+trabalho tem como objetivo investigar  como a RA tem auxiliado no processo 
+de  ensino  e  aprendizagem  das  ciências  naturais.  Foi  realizado  um 
+mapeamento  sistemático  que  é  um  estudo  secundário  e  tem  como  foco 
+literatura.  Estudos  primários 
+identificar  as 
+publicados  entre  os  anos  de  2009  a  2018  foram  analisados  a  fim  de  extrair 
+dados  que  pudessem  responder  às  questões  de  pesquisa  e  assim  alcançar  o 
+objetivo deste trabalho. 
+
+lacunas  de  pesquisas  na 
+
+1. Introdução 
+
+Em 2015, os resultados do Programa Internacional de Avaliação dos Estudantes (PISA) 
+mostraram  que  o  Brasil  ocupa  a  63ª  posição  em  Ciências,  área  esta  que  foi  o  foco  da 
+prova  naquele  ano  (PISA,  2018).  Este  dado  mostra  que  há  uma  deficiência  no 
+aprendizado das disciplinas correspondentes às ciências naturais. Esta deficiência se dá 
+porque  grande  parte  dos  professores  adotam  um  ensino  baseado  na  transmissão- 
+recepção  de  conhecimento,  nos  qual  eles  são  os  agentes  ativos  no  processo  e,  como 
+consequência,  a  aprendizagem  é  caracterizada  pela  memorização,  que  resulta  em  um 
+esquecimento  rápido  do  que  foi  “ensinado”  (Schnetzler,  1992,  p.  17).  Valente  (2018) 
+evidencia  que  é  necessário  alterar  a  maneira  como  os  conteúdos  disciplinares  são 
+trabalhados  e  que  a  sala  de  aula  deve  ter  uma  dinâmica  coerente  com  o  dia  a  dia  dos 
+estudantes, cada vez mais mediado pelas tecnologias digitais.  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+A Realidade Aumentada (RA) é definida como qualquer sistema que combine o 
+real  com  o  virtual,  que  seja  interativo  em  tempo  real  e  que  esteja  registrado  em  três 
+dimensões.  A  RA  permite  ao  usuário  ver  o  mundo  real  sobreposto  ou  composto  por 
+objetos virtuais. Nesse tipo de sistema, o real e o virtual  coexistem no  mesmo espaço. 
+Ela suplementa a realidade (Azuma, 1997). A educação é uma área, em especial, na qual 
+esta  tecnologia  pode  ser  valiosa,  pois,  de  uma  perspectiva  pedagógica,  a  atividade 
+experimental  baseada  na  observação  prática  de  conceitos  proporciona  uma  conexão 
+entre  a  teoria  e  a  realidade,  enriquecendo  e  solidificando  o  conhecimento  teórico 
+(Gruber et al., 2011). A RA proporciona uma experiência educacional diferente, como: 
+um comportamento  conversacional face a face, onde os alunos podem sentar  em volta 
+de  uma  mesa,  vendo  e  interagindo  uns  com  os  outros  ao  mesmo  tempo  que  com  um 
+coração flutuante; uma interface tangível, com a qual até mesmo crianças muito jovens 
+podem ter uma experiência rica com a RA; e uma interface transitória, onde os usuários 
+podem fazer uma transição suave do estático para o interativo (Billinghurst, 2002). No 
+ensino  das  ciências  naturais,  ela  pode  proporcionar  aos  estudantes  a  visualização  de 
+conceitos abstratos como, por exemplo, os movimentos ondulatórios na física. 
+
+Sendo  assim,  este  trabalho  tem  como  objetivo  investigar  como  a  realidade 
+ 
+aumentada tem auxiliado no processo de ensino e aprendizagem de ciências da natureza. 
+Para  a  realização  do  mesmo,  foi  realizado  um  Mapeamento  Sistemático  da  Literatura 
+(MSL), um tipo de estudo secundário, utilizado para identificar as lacunas de pesquisas 
+na literatura a partir da análise e extração de dados de estudos primários, sendo possível, 
+assim, identificar  em quais áreas temáticas e para quais tipos de pesquisas há escassez 
+de  publicações  (PETERSEN,  2008).  Na  Seção  2,  são  apresentados  os  trabalhos 
+relacionados  a  este  mapeamento.  A  Seção  3  expõe  o  método  utilizado  para  construir 
+este  trabalho.  Na  Seção  4,  são  apresentados  os  resultados.  A  Seção  5  desenvolve  a 
+discussão sobre os resultados deste trabalho. Por fim, a Seção 6  apresenta a conclusão 
+deste artigo. 
+
+2. Trabalhos Relacionados 
+
+Nesta  seção  são  apresentados  os  trabalhos  relacionados,  abordando  os  objetivos,  o 
+método e resultados dos mesmos. Ao final, os estudos apresentados são comparados. 
+
+2.1. Revisão Sistemática sobre Jogos Digitais que utilizam Realidade Aumentada 
+no Contexto Educacional Brasileiro 
+
+Oliveira et al. (2014) analisaram 872 estudos primários retirados dos Anais Eletrônicos 
+do SBGames (evento da Sociedade Brasileira de Computação - SBC e da Abragames - 
+Associação  Brasileira  dos  Desenvolvedores  de  Jogos  Digitais)  no  período  de  2006  a 
+2013,  com  o  objetivo  de  conhecer  como  os  pesquisadores  brasileiros  têm  feito  uso  da 
+Realidade  Aumentada  em  jogos  educacionais.  Primeiramente,  foram  definidas  as 
+questões  de  pesquisa.  Em  seguida,  foi  realizada  a  análise  dos  estudos  através  de  uma 
+ferramenta  automatizada  desenvolvida  para  extração  de  dados  que  utilizava  como 
+palavras-chave  os  termos:  “virtual  reality”,  “realidade  virtual”,  “augmented  reality”, 
+“realidade aumentada”, “education” e “educação”. Os dados obtidos foram organizados 
+em uma  tabela para que pudessem ser  interpretados a fim de responder às questões de 
+pesquisa. Ao final, os autores perceberam que em mais da metade da amostra total não 
+foram encontrados nenhum dos termos; que 2% da  amostra estava relacionada a RA e 
+
+ 
+
+que somente 0,6%, aproximadamente, relacionava RA à educação, evidenciando assim 
+que esta é uma área a ser mais explorada pelos cientistas no Brasil. 
+
+2.2. Revisão Sistemática sobre Jogos Digitais que utilizam Realidade Aumentada 
+no Contexto Educacional Brasileiro 
+
+Moro  (2018)  analisou  2111  estudos  primários  retirados  do  Google  Acadêmico,  IEEE, 
+Scopus, Springer, Science Direct, Ebsco e ACM, no período de 2012 a 2017, dos quais 
+21  estudos  foram  incluídos  em  sua  revisão,  com  o  objetivo  de  apresentar  pesquisas  e 
+aplicações de RA em livros infantis. Se baseando nas etapas de planejamento, execução 
+e  extração  de  Kitchenham  &  Charters  (2007)  e  adaptadas  de  Neiva  e  Silva  (2016), 
+foram definidas as questões principal e as específicas, como também foram iniciadas as 
+buscas. Na execução, foi realizado um refinamento dos estudos retornados com base em 
+critérios  de  inclusão  ou  exclusão  das  pesquisas.  Finalmente,  na  extração,  foram 
+coletados e sintetizados os dados dos trabalhos selecionados que passaram por análises 
+mais  específicas  pretendendo,  assim,  responder  às  questões  definidas  no  planejamento 
+da revisão. Ao final, a autora constatou que o uso da RA pode facilitar a compreensão 
+da história e aproximar a criança de aspectos mais complexos. 
+
+ 
+O  Quadro  1  apresenta  uma  análise  e  comparação  entre  os  estudos  retratados 
+acima  e  este  mapeamento  baseada  no  período  de  busca,  tipo  de  busca,  ambiente  de 
+atuação e fontes de busca. Em divergência com os trabalhos relacionados, este utilizou 
+oito  fontes  de  pesquisa,  realizou  dois  tipos  de  buscas  e  teve  um  período  de  pesquisa 
+compreendido em dez anos. 
+
+Quadro 1. Análise e comparação 
+
+Autor(es) 
+
+Período 
+
+Tipo de Busca  Ambiente de 
+
+Fontes de Busca 
+
+Atuação 
+
+Oliveira et al. 
+(2014) 
+
+2006 a 2013 
+
+Manual 
+
+Educacional 
+
+Moro (2018) 
+
+2012 a 2017 
+
+Automática 
+
+Educacional 
+
+Este trabalho 
+
+2009 a 2018 
+
+Educacional 
+
+Manual e 
+automática 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+3. Método 
+
+Nesta  pesquisa,  realizou-se  um  mapeamento  sistemático  da  literatura,  baseado  no  guia 
+proposto por Petersen et al. (2008). Este guia está organizado em 5 etapas, como mostra 
+na Figura 1. (I) Definição do Protocolo de Pesquisa, (II) Condução da Busca, (III) Pré- 
+Seleção, (IV) Seleção e (V) Extração dos Dados.  
+
+Anais Eletrônicos do 
+SBGames 
+
+Google Acadêmico, 
+IEEE, Scopus, Springer, 
+Science Direct, Ebsco e 
+ACM 
+
+CBIE, WIE, RBIE, 
+RENOTE, JAIE, SBIE, 
+CTRL+E, Portal de 
+Periódicos CAPES 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Figura 1. Etapas do mapeamento. Fonte: Adaptada de Petersen et al. (2008) 
+
+3.1 Protocolo de Pesquisa 
+
+Nesta  etapa  foi  elaborado  o  protocolo  do  mapeamento  sistemático,  começando  pela 
+definição  do  tema  central  e  dando  continuidade  com  as  questões  de  pesquisa,  fontes  e 
+strings  de  busca  e,  por  fim,  os  critérios  de  inclusão  e  exclusão,  como  segue  nas 
+subseções abaixo. 
+
+3.1.1 Questões de Pesquisa 
+
+Para alcançar o objetivo do mapeamento, foram elaboradas uma questão principal (QP) 
+e questões específicas (QE) a serem respondidas e que estão apresentadas abaixo. 
+
+“QP  -  Como  a  Realidade  Aumentada  tem  Auxiliado  no  Processo  de  Ensino  e 
+Aprendizagem de Ciências da Natureza?” 
+
+•  QE1  -  Qual  a  evolução  total  e  por  disciplina,  de  estudos  primários  de  2009  a 
+
+2018? 
+
+com RA? 
+
+•  QE2 - Quais autores, regiões, estados e instituições relatam o uso de RA para o 
+
+ensino de ciências da natureza? 
+
+•  QE3 - Quais tecnologias estão disponíveis para o ensino de ciências da natureza 
+
+•  QE4 - Houve avaliação quanto ao uso de RA no ensino? 
+
+•  QE5 - Em quais níveis de ensino a RA foi usada para lecionar ciências naturais? 
+
+3.1.2 Seleção de Fontes e String de Busca 
+
+Na  busca  manual,  elegeu-se  revistas  e  eventos  de  destaque  na  área  de  informática  na 
+educação, apresentados no Quadro 2. Na busca automática, foi selecionado o Portal de 
+Periódicos  CAPES,  o  qual  indexa  uma  biblioteca  digital  de  relevância  na  academia, 
+utilizando  a  string  de  busca  apresentada  no  mesmo  quadro,  logo  abaixo  do  nome  do 
+portal. 
+
+Quadro 2. Fontes de Busca 
+Manual 
+Congresso Brasileiro de Informática na Educação (CBIE). 
+Workshop de Informática na Escola (WIE). 
+Congresso sobre Tecnologias na Educação (Ctrl+E). 
+Simpósio Brasileiro de Informática na Educação (SBIE). 
+Revista Brasileira de Informática na Educação (RBIE). 
+Revista Novas Tecnologias na Educação (RENOTE). 
+Jornada de Atualização em Informática na Educação (JAIE). 
+Automática 
+Portal de Periódicos CAPES 
+String de Busca: “realidade aumentada” AND (“física” OR “química” OR “biologia”) 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+3.1.3 Critérios de Inclusão e Exclusão 
+
+ 
+
+ 
+
+Diante  da  proposta  do  MSL,  foram  definidos  critérios  de  inclusão  (CI)  e  de  exclusão 
+(CE). Como mostra o Quadro 3, abaixo. 
+
+Quadro 3. Critério de Inclusão e Exclusão 
+Critérios de Exclusão 
+
+ 
+Critérios de Inclusão 
+CI1 - Estudos primários publicados entre 
+2009 e 2018. 
+CI2 - Estudos primários publicados 
+em língua portuguesa. 
+
+CI3 - Estudos primários que estão 
+disponíveis online. 
+
+CE1 - Estudo primário duplicados. 
+
+CE2 - Estudos secundários (revisões e 
+mapeamentos sistemáticos). 
+CE3 - Estudos primários que não apresentem o 
+uso de realidade aumentada no ensino e 
+aprendizagem de ciências da natureza. 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+3.2 Pré-seleção 
+
+Nesta etapa, foram analisados e catalogados os estudos primários retornados das buscas 
+manual  e  automática  que  foram  publicados  entre  os  anos  de  2009  a  2018.  Os  estudos 
+foram organizados em uma tabela juntamente com os critérios que foram aplicados aos 
+mesmos.  Esta  tabela  está  disponível  no  link1.  Na  catalogação,  para  a  aplicação  dos 
+critérios, foram analisados os títulos, resumos, o tipo da publicação e primeiro autor de 
+cada estudo. No final 21 trabalhos foram pré-selecionados como mostra no Quadro 4. 
+
+3.3 Seleção 
+
+Nesta  etapa,  os  21  estudos  pré-selecionados  foram  analisados  novamente,  sendo  que 
+agora,  de  forma  mais  detalhada.  A  partir  da  leitura  completa  dos  mesmos,  foram 
+extraídas  as  informações  necessárias  para  que  as  questões  de  pesquisas  pudessem  ser 
+respondidas. 
+
+3.4 Condução da Busca 
+
+Dentre  os  4814  estudos  analisados,  79  foram  retornados  na  busca  manual,  após  a 
+execução  da  palavra-chave  ‘realidade  aumentada’.  Na  busca  automática,  após  a 
+execução  da  string  de  busca,  18  estudos  foram  retornados.  Em  seguida,  aplicou-se  os 
+critérios de inclusão e exclusão, resultando no total de 21 estudos incluídos na etapa de 
+pré-seleção.  Na  etapa  de  seleção,  realizou-se  a  leitura  completa  dos  mesmos  a  fim  de 
+extrair  dados  que  respondessem  às  questões  de  pesquisa.  Os  21  estudos  passaram  no 
+processo de seleção e foram incluídos no mapeamento, Quadro 4. 
+
+Quadro 4. Resultados da condução da busca 
+
+Busca Manual 
+
+ 
+
+CBIE  WIE 
+
+RBIE 
+
+RENOTE 
+
+JAIE 
+
+SBIE 
+
+CTRL+E 
+
+CAPES 
+
+Publicados 
+
+926 
+
+723 
+
+256 
+
+1181 
+
+39 
+
+1471 
+
+218 
+
+Retornados 
+
+Pré-seleção 
+
+21 
+
+5 
+
+21 
+
+6 
+
+0 
+
+0 
+
+25 
+
+3 
+
+4 
+
+1 
+
+Busca 
+Automática 
+
+- 
+
+18 
+
+3 
+
+ 
+ 
+ 
+TOTAL 
+
+4814 
+
+97 
+
+21 
+
+ 
+
+4 
+
+1 
+
+4 
+
+2 
+
+ 
+
+1 https://bit.ly/2Yo7Eah 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Seleção 
+
+5 
+
+1 
+
+2 
+
+6 
+
+0 
+
+3 
+
+1 
+
+3 
+
+21 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+3.5 Extração dos Dados 
+
+A  fim  de  responder  às  questões  de  pesquisa  apresentadas  na  Subseção  3.1.1,  foram 
+extraídos  os  seguintes  dados:  título  do  do  estudo  primário,  tipo  (artigo  curto  ou 
+completo),  primeiro  autor,  disciplina,  autores,  região, 
+tecnologias  disponíveis, 
+gratuidade  das  tecnologias,  status  de  desenvolvimento  da  tecnologia,  avaliação  do  uso 
+da tecnologia e nível de ensino onde o estudo foi aplicado. Foi utilizada uma tabela para 
+organizar os dados coletados, que está disponível no link2. 
+
+4. Resultados 
+
+Nesta Seção, são apresentadas as respostas para as questões específicas de pesquisa. As 
+mesmas  foram  obtidas  a  partir  da  extração  dos  dados  dos  21  estudos  primários 
+considerados ao fim do mapeamento. 
+
+4.1 QE1 - Qual a evolução total e por disciplina, de estudos primários de 2009 a 
+2018? 
+
+A  Figura  2  mostra  que  dos  anos  de  2009  a  2017  a  quantidade  de  publicações  foi 
+relativamente  baixa  se  comparadas  ao  ano  de  2018.  Logo,  só  houve  uma  evolução 
+considerável  no  último  ano  compreendido  pelo  mapeamento.  Observa-se  também  que, 
+diante das disciplinas abordadas, a com maior número de aplicação foi física. 
+
+Figura 2. Evolução de estudos primários por disciplina. Fonte: Elaborada pelos 
+autores (2019) 
+
+ 
+
+No Quadro 5, é apresentado o quantitativo de estudos por ano, em relação ao total e às 
+disciplinas de química, física e biologia. 
+
+Quadro 5. Relação de estudos por ano 
+
+2 https://bit.ly/2RNU8KX 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+4.2 QE2 - Quais autores e regiões relatam o uso de RA para o ensino de ciências da 
+natureza? 
+
+Os  autores  com  os  números  mais  relevantes  de  publicações  são:  Suzana  da  Hora 
+Macedo (IFF) com 5 estudos, Filipe Arantes Fernandes (IFF), Maria Cristina Villanova 
+Biazus (UFRGS) e José Valdeni De  Lima (UFRGS) com 4 artigos. Por fim, 7 autores 
+com  2  estudos  e  outros  44  publicaram  apenas  1  estudo.  O  Quadro  6  aponta  que  as 
+regiões Sudeste e Sul apresentam um maior número de estudos sobre RA no ensino das 
+ciências naturais. 
+
+Quadro 6. Relação de estudos por região 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+Somando a quantidade de estudos apresentados no Quadro 6, obtém-se um total 
+ 
+de  28  estudos,  que  ultrapassa  o  número  de  21  estudos  selecionados  e  incluídos  neste 
+mapeamento. Isto se dá porque um mesmo artigo está afiliado a mais de uma instituição. 
+
+4.3 QE3 - Quais tecnologias estão disponíveis para o ensino de ciências da natureza 
+com RA? 
+
+O  tipo  de  tecnologia  que  obteve  destaque  quantitativo  ao  final  deste  estudo  foram  as 
+aplicações móveis, com um total de 10 estudos apresentaram o desenvolvimento/uso de 
+apps, conforme apresentando no Quadro 7. 
+
+ 
+
+ 
+
+Quadro 7. Relação de estudos por tecnologias 
+
+ 
+
+ 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+Com relação ao status das tecnologias, 16 delas eram produtos finais, enquanto 5 
+ 
+eram  protótipos.  Quanto  a  acessibilidade  das  tecnologias,  a  maioria  delas  podem  ser 
+encontradas  facilmente  na  internet  ou  em  lojas  virtuais  de  aplicativos  de  maneira 
+gratuita. 
+
+4.4 QE4 - Houve avaliação quanto ao uso de RA no ensino? 
+
+Analisando  os  estudos  selecionados,  11  estudos  primários  apresentaram  avaliação  das 
+suas aplicações; em contrapartida, 10 estudos não avaliaram suas tecnologias, por serem 
+protótipos ou produtos finalizados que simplesmente não foram aplicados. O Quadro 8 
+quantifica quantos estudos apresentaram ou não uma avaliação. 
+
+Quadro 8. Relação de estudos por avaliação 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+4.5 QE5 - Em quais níveis de ensino a RA foi usada para lecionar ciências 
+naturais? 
+
+Diante das análises dos estudos primários, destacou-se o ensino médio com um total de 
+4 aplicações desenvolvidas em RA; o ensino superior e o ensino técnico tiveram, cada 
+uma, um total de 3 aplicações desenvolvidas; no fundamental 2 e 1, somente 1 aplicação 
+foi desenvolvida para ambos. Observou-se que um estudo primário trabalhou com dois 
+níveis de ensino, fundamental 2 e ensino médio,  e 10 estudos primários não aplicaram 
+seus métodos em nenhum nível de ensino. A relação de estudos por nível de ensino está 
+no Quadro 9. 
+
+Quadro 9. Relação de estudos por avaliação 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+5. Discussão 
+
+Considerando  os  resultados  apresentados  neste  mapeamento,  destaca-se  que  na  região 
+do Centro-Oeste não há estudos sobre a RA no ensino das ciências naturais. Foi possível 
+observar  também  que  apenas  7,  dos  26  estados  brasileiros  e  um  distrito  federal,  têm 
+pesquisas sobre este tema. Dentre as instituições atuantes em estudos nesta área, a maior 
+fração  corresponde  às  Universidades  Federais.  Os  dados  mostram  também  que  a 
+disciplina  de  química  tem  menos  aplicações  de  práticas  de  ensino  com  RA  e  que  em 
+contrapartida,  física  é  a  que  mais  foi  contemplada.  Nota-se  que,  do  baixo  número  de 
+estudos  incluídos  neste  mapeamento,  o  número  correspondente  àqueles  que  foram 
+aplicados  é  ainda  menor,  visto  que  em  quase  50%  dos  mesmos  não  constavam 
+avaliações sobre o uso das tecnologias desenvolvidas. Com relação aos outros 50% dos 
+estudos que foram aplicados, 4 deles foram no Ensino Médio, mostrando assim que os 
+demais níveis de ensino podem ser mais explorados para aplicação do uso de RA. 
+
+6. Conclusão 
+
+Este mapeamento sistemático da literatura foi realizado tendo como base os 21 estudos 
+primários  selecionados  a  partir  dos  critérios  de  inclusão  e  exclusão.  Como  resultado, 
+identificou-se uma evolução considerável na publicação de estudos sobre RA no ano de 
+2018; percebeu-se que a disciplina que mais teve aplicação de RA no ensino foi Física; 
+notou-se  que  há  lacunas  de  pesquisas  na  região  Centro-Oeste;  quando  investigado  a 
+aplicação das tecnologias desenvolvidas pelos estudos, nos diferentes níveis de ensino, 
+foi  visto  que  menos  da  metade  foram  aplicadas,  mostrando  assim  que  a  área  de  RA 
+ainda  pode  ser  muito  explorada  no  ensino  e  aprendizagem  de  ciências  da  natureza. 
+Como  trabalhos  futuros,  para  a  continuidade  deste  estudo,  pretende-se  expandir  as 
+fontes  de  busca  manual  e  automática,  além  de  incluir  estudos  primários  escritos  
+também em língua inglesa. 
+
+Referências 
+
+Associação 
+
+Brasileira 
+
+das 
+
+Empresas 
+
+de 
+
+Software 
+
+(Abes), 
+
+http://agenciabrasil.ebc.com.br/economia/noticia/2018-08/brasil-ocupa-o-9o-lugar-
+nos- investimentos-em-tecnologia-da-informacao, 2018 
+
+Azuma, 
+
+Ronald 
+
+T. 
+
+(1997), 
+
+“A 
+
+Survey 
+
+of  Augmented 
+
+Reality” 
+
+https://www.mitpressjournals.org/doi/pdf/10.1162/pres.1997.6.4.355 
+
+ 
+
+ 
+
+Billinghurst, M. (2002). “Augmented reality in  education". New horizons for learning, 
+
+12(5). 
+
+Gruber,  V.,  Schaeffer,  L.,  Silva,  J.  B.  &  Restivo,  T.  (2011).  “Model  for  remote  data 
+acquisition  and  monitoring  integrating  social  media,  NTIC’s  and  3G  cell  phone 
+Networks 
+of 
+applied 
+Telecommunications, 7(1), 13–20. 
+
+to  monitoring 
+
+small  wind 
+
+turbine”. 
+
+Journal 
+
+Moro,  Roberta  G.,  (2018)  “Realidade  Aumentada  em  Livros  Infantis:  uma  revisão 
+
+sistemática de pesquisas e aplicações”, In: VII CBIE 2018. 
+
+Oliveira, Cleber S. de., Mustaro, Pollyana N., (2014) “Revisão Sistemática sobre Jogos 
+Digitais que utilizam Realidade Aumentada no Contexto Educacional Brasileiro”, In: 
+III CBIE 2014. 
+
+Petersen,  K.  et  al.  (2008)  “Systematic  mapping  studies  in  software  engineering”.  In: 
+
+EASE.[S.l.:s.n.],v.8,p.68–77. 
+
+http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pd 
+
+Petersen,  K.,  Vakkalanka,  S.,  Kuzniarz,  L.,  (2015),  “Guidelines  for  Conducting 
+Systematic Mapping Studies in Software Engineering: An Update”. Information and 
+Software Technology, vol. 64, 2015, pp. 1–18. 
+
+ProgramaInternacionaldeAvaliaçãodosEstudantes, 
+
+http://portal.inep.gov.br/web/guest/acoesinternacionais/pisa/resultados, 2018 
+
+Schnetzler,  Roseli  Pacheco.  (1992),  “Construção  do  Conhecimento  e  Ensino  de 
+Ciências.”,  Em  Aberto,  Brasília,  v.  11,  n.  55,  p.  17-22.  1992. 
+http://emaberto.inep.gov.br/index.php/emaberto/article/viewFile/813/731, 
+Acesso 
+em: 12 jun. 2019 
+
+ 
+ 
+
+  
+
+ 
+
+ 
+
+

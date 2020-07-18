@@ -1,0 +1,270 @@
+Projeto Colmeia: Elaboração de Site Educacional como 
+Ferramenta para Gamificação 
+
+Vinícius M. S. Santos1, Maria E. A. Carvalho1, Ricardo P. Silva1, Paulo A. Silva1 
+ 
+1 Licenciatura em Ciências Biológicas, Universidade Federal de Pernambuco, Centro 
+Acadêmico de Vitória (UFPE-CAV)  
+ 
+vinicius.matheus86@hotmail.com, {carvalhomeac100, ricardo.pedrope, 
+profe.pas}@gmail.com 
+ 
+
+Abstract:  This  paper  aims  to  report  on  the  construction  of  a  website  for  the 
+Colmeia  Game  extension  project,  as  an  auxiliary  element  in  the  process  of 
+gamification  of  the  Didactics  and  Learning  Assessment  disciplines.  Aims  to 
+promote the better experience of students involved  in the project. The website 
+was  built  using  the  unified  WIX  SITE  platform  that  allows  you  to  create 
+HTML5 websites and mobile sites. The website developed was during the first 
+semester  of  2019,  seeking  to  address  a  perceived  problem  regarding  the 
+immersion  of  students  in  the  game's  narrative.  This  website  as  a  support  tool 
+for  the  gamification  process.  It  is  expected  that  it  will  allow  learners  greater 
+access to information and consequent interaction. 
+
+Resumo: Este trabalho tem como objetivo relatar a construção de um site para 
+o projeto de extensão Colmeia Game, como elemento auxiliar no processo de 
+gamificação  das  disciplinas  de  Didática  e  Aprendizagem.  Visa  promover  a 
+melhor experiência dos alunos envolvidos no projeto. O site foi criado usando 
+a  plataforma  unificada  WIX  SITE,  que  permite  criar  sites  HTML5  e  sites 
+móveis. O site foi desenvolvido durante o primeiro semestre de 2019, buscando 
+abordar um problema percebido em relação à imersão dos alunos na narrativa 
+do  jogo.  Este  site  é  uma  ferramenta  de  suporte  para  o  processo  de 
+gamificação. Espera-se que permita aos educandos maior acesso à informação 
+e consequente interação. 
+
+ 
+
+1.  Justificativa Pedagógica 
+
+É  evidente  a  necessidade  de  mudanças  nos  processos  de  ensino  aprendizagem  no 
+presente  século,  visto  que,  a  dita  sociedade  da  informação  exige  cada  vez  mais  a 
+formação  de  cidadãos  criativos  e  proativos 
+[Mosé  2013].  Sendo  assim,  o 
+desenvolvimento de competências e habilidades em relação às novas tecnologias faz-se 
+necessário  em  todos  os  níveis  de  ensino  [Perrenoud  2002].  Logo,  o  Ensino  Superior, 
+com destaque para a formação de professores, necessita estar preparada para atender a 
+essas demandas. 
+
+ 
+ Philippe Perrenoud (2002) disserta sobre a necessidade de repensar a formação 
+dos  professores  deste  século,  entendendo  que  os  que  se  formam  agora,  irão  ensinar 
+
+ 
+
+alunos para o futuro. Descreve então um professor que necessita de competências e que 
+usa de estratégias diferenciadas e variadas, centradas nos sujeitos, fazendo com que haja 
+sentido  nos  saberes.  Esse  modelo  apresenta  a  elaboração  de  situações  que  promovam 
+aprendizagem para que o ensino seja crítico-reflexivo. 
+
+ 
+Nesse  sentido,  a  diversificação  dos  processos  de  ensino  e  aprendizagem  é  um 
+caminho para o desenvolvimento de competências em alunos. A Gamificação se mostra 
+como um dos recursos possíveis na formação do pensamento crítico, na  construção de 
+saberes através da autonomia e consequente oportunidade de expandir a criatividade e a 
+proatividade [Alves, Minho e Diniz 2014; Aguiar 2010]. De acordo com Kapp (2012) a 
+gamificação  consiste  no  uso  de  ferramentas,  mecânica  e  dinâmica  dos  jogos  em 
+processos que não necessariamente são pensados para games. 
+
+ 
+No  campo  educacional,  a  gamificação  permite  que  o  professor  assuma  o  papel 
+de  mediador  e  o  aluno  passe  de  mero  receptor  para  construtor  de  seus  saberes 
+[Figueiredo,  Paz  e  Junqueira,  2015]  e  nestes  as  tecnologias  inserem-se  como  recursos 
+potenciais para o processo.  Neste sentido, Pretto (2012, p. 99) afirma que a facilidade 
+das  tecnologias  digitais:  “[...]  possibilita  um  olhar  profundo  para  a  cultura  local  e,  ao 
+mesmo tempo, um olhar multifacetado e ampliado, conectado com o mundo”. 
+
+Para  que  a  gamificação  se  efetive  é  necessário  que  ocorra  harmonia  entre  os 
+jogos  e  os  conteúdos  propostos  [Costa  2008]  e  que  o  mesmo  seja  pensado  para  o 
+público  a  quem  se  destina,  sendo  avaliadas  as  características  e  melhor  tipo  de 
+abordagem para o grupo [Aguiar 2010]. 
+
+Dentro da Gamificação, a elaboração de plataformas como recurso ao longo do 
+tempo, pode contribuir para o maior envolvimento e experiência dos alunos. A criação 
+de  plataformas  que  auxiliem  a  experiência  vivida  pode  fazer  com  que  os  educandos 
+possam  se  envolver,  interagir  e  gerir  de  forma  mais  prática  e  visual  suas  atividades 
+[Falcão, et al. 2014].  
+
+Sendo assim, este trabalho tem como objetivo descrever a construção de um site 
+para  o  projeto  de  extensão  Colmeia,  como  um  elemento  auxiliar  no  processo  de 
+gamificação e consequente engajamento dos alunos à narrativa do jogo, fortalecendo a 
+compreensão sobre os desafios propostos. 
+
+2.  Contexto 
+
+O  site  foi  elaborado  dentro  do  Projeto  Colmeia,  um  projeto  de  extensão  que  envolve 
+alunos  das  disciplinas  de  Didática  e  Avaliação  da  Aprendizagem  em  curso  de 
+Licenciatura em Biologia do Centro Acadêmico de Vitória (UFPE). O projeto tem como 
+objetivo  desenvolver  um  processo  de  gamificação  para  promoção  de  competências  e 
+habilidades  para  docência  durante  a  formação  inicial  na  graduação.  Ao  mesmo  tempo 
+propõe  experienciação  de  fundamentos  da  avaliação  da  aprendizagem  e  da  didática  na 
+prática em escolas públicas do interior de Pernambuco. 
+
+ 
+O projeto se intitula Colmeia, pois é baseado na sociedade das abelhas, sendo o 
+ambiente  da  Colmeia  a  narrativa  da  gamificação,  fazendo  com  que  os  educandos 
+possam  assumir  características  das  abelhas  e  trilhar  caminhos  que  envolvam  desafios 
+individuais  e  coletivos  para  que  cada  grupo  possa  planejar  uma  intervenção  em  uma 
+escola pública a partir da produção e aplicação de jogos didáticos com os conteúdos da 
+Zoologia, já que o projeto tem ligação interdisciplinar com esta disciplina.   
+
+ 
+
+ 
+
+Ao longo do processo os educandos precisam resolver desafios que envolvem os 
+conteúdos  das  disciplinas  já  citadas,  ao  mesmo  tempo  em  que  constroem  saberes 
+necessários  para  uma  efetiva  intervenção  nas  escolas.  Para  que  fossem  envolvidos  na 
+narrativa  da  gamificação,  a  pontuação  de  desafios  individuais  e  coletivos  foi 
+denominada de “meles”. Ao longo dos desafios os educandos foram acumulando meles 
+individuais e coletivos, os quais ao fim do processo foram convertidos em notas.  
+
+Para que pudessem acompanhar sua pontuação ao longo do processo, ter acesso 
+aos  desafios  e  fazer  com  que  ocorresse  a  imersão  na  narrativa  do  jogo,  julgou-se 
+pertinente  a  elaboração  de  uma  plataforma  que  proporcione  aos  educandos  um  acesso 
+dinâmico e envolvente durante o processo da gamificação. A princípio usaram a sala de 
+aula  Google  (Google  Classroom)  como  espaço  de  trocas  e  publicação  dos  desafios  do 
+jogo, porém o modelo padrão desta plataforma não favorece um visual mais conectado 
+entre os desafios, o que nos lançou a decisão de construção de site educacional, objeto 
+deste trabalho. 
+
+3.  Processo de Desenvolvimento 
+
+Para criação do site e hospedagem foi utilizada a plataforma unificada do WIX 
+SITE.  A  plataforma  wix  permite  o  usuário  criar  sites  em  HTML5  e  sites  Mobile.  Os 
+sites  podem  vir  de  uma  base  pronta  ou  personalização/criação  total.  Dentro  da 
+plataforma,  foram  utilizados  plugins  disponibilizados  gratuitamente,  quadros  em 
+“html”,  artes  vetorizadas,  links  internos/externos  e  jogo  de  camadas  secretas  (para 
+acesso aos desafios). 
+
+Foi  criada uma página inicial com informações sobre o projeto, funcionamento 
+
+do ranking das equipes e uma área de fácil acesso para as duas disciplinas (Figura 1).  
+
+Figura 1: Página inicial do site do Projeto Colmeia 
+
+ 
+
+Cada  disciplina  ganhou  uma  página  onde  é  possível  acompanhar  os  desafios 
+liberados e o ranking em tempo real. Os botões dos desafios ficam com um símbolo de 
+cadeado  e  uma  mensagem  “mouse  over”  que  indica  que  aquele  desafio  ainda  não  foi 
+liberado (Figura 2). 
+
+ 
+
+ 
+
+ 
+
+Figura 1: Ranking da disciplina de Avaliação da Aprendizagem e Desafios. 
+
+ 
+
+Após  liberado,  o  membro  da  colmeia  é  dirigido  a  uma  página  de  camada 
+invisível  que  apresenta  um  infográfico  do  desafio  liberado,  com  um  link  direcionado 
+para sala do Google (Figura 3), de forma que pudessem fazer as entregas dos desafios, 
+publicando  em  um  espaço  de  acesso  mais  direto  para  o  professor.  Ainda  há  estudos 
+sendo  feitos  para  avaliar  a  possibilidade  destas  funcionalidades  serem  agregadas  ao 
+próprio site aqui apresentado. 
+
+Figura 2: Infográfico mostrando o passo a passo do Desafio que dá acesso à 
+Sala de aula do Google. 
+
+Para  socialização  mais  efetiva  dos  estudantes  no  processo  de  gamificação,  foi 
+disponibilizado um espaço de fórum no site, o qual permite aos alunos se cadastrarem 
+como  membros  do  projeto  e  ao  fazer  login  conseguem  ver  e  publicar  mensagens  de 
+forma  unificada  entre  toda  colmeia.  Por  fim,  uma  galeria  de  fotos/vídeos  das 
+experiências vividas pela colmeia foi criada  e  pode ser atualizada periodicamente pelo 
+professor e monitores. 
+
+4. Possíveis Potenciais e Resultados Esperados 
+
+Tendo  em  vista  a  perspectiva  de  Alves  (2014),  sobre  a  gamificação, 
+compreende-se que para a promoção de um processo que faça com que alunos interajam 
+
+ 
+
+ 
+
+e tenham prazer no aprender, a iniciativa de construção do site pode proporcionar mais 
+dinamismo,  já  que  nele  os  estudantes  podem  interagir  através  do  chat,  do  fórum, 
+descobrir  os  próximos  desafios  do  jogo,  podendo  assim  estudar  estratégias  para 
+melhoria de sua pontuação ao longo do tempo. 
+
+ 
+Além  disso,  espera-se  que  com  a  construção  do  site  os  educandos  possam 
+promover a harmonia entre os conteúdos das disciplinas e os jogos, como Costa (2008), 
+coloca que é importante para uma melhor experiência do educando, já que no processo 
+da  gamificação  a  construção  de  saberes  se  dá  a  partir  do  momento  que  há  o 
+envolvimento com o jogo. 
+
+ 
+Entendendo o site como uma ferramenta de apoio para a gamificação, espera-se 
+que  ele  permita  aos  educandos  uma  maior  jogabilidade,  já  que  a  gamificação  deve 
+atribuir  a  característica  dos  jogos  em  processos  que  não  necessariamente  envolvem 
+jogo,  conforme  afirma  Kapp  (2012),  mas  que  deve  trazer  características  de  jogo, 
+traduzindo este conceito de forma prática e visual aos participantes. 
+
+ 
+Além disso, o envolvimento na construção do site possibilitou aos monitores das 
+disciplinas  uma  experiência  diferenciada  em  termos  de  monitoria,  pois  foi  possível 
+participar  ativamente  da  construção  de  um  modelo  de  suporte  ao  Projeto  Colmeia, 
+permitindo que novas competências fossem estimuladas ou mesmo criadas para a nossa 
+formação docente. 
+
+ 
+O  site,  ainda  não  foi  aplicado,  mas  sua  estrutura  principal  já  está  finalizada  e 
+pronta  para  entrar  no  ar  na  continuidade  do  Projeto  no  próximo  semestre  (2019.2). 
+Assim,  cria-se  aqui  uma  possibilidade  de  explorar  se  as  expectativas  quanto  a  esse 
+engajamento  dos  alunos,  irá  se  concretizar  ou  não  neste  processo.  Ficando  aqui  uma 
+fonte de pesquisa futura de continuidade de nosso trabalho. 
+
+ 
+Referências 
+ 
+Aguiar,  M.  P.  (2010).  Jogos  eletrônicos  educativos:  instrumento  de  avaliação 
+focadonas  fases  iniciais  do  processo  de  design.  Universidade  Federal  do  Paraná, 
+Programade Pós-Graduação em Design. 
+
+Alves, L. R. G., Minho, M. R. S. e Diniz, M. V. C. (2014) Gamificação: diálogos com a 
+educação.In:  Fadel,  L.  M.  et  al.  (Org.).  “Gamificação  na  Educação”  (pp.  74-97). 
+SãoPaulo, Pimenta Cultural. 
+
+Kapp,  K.  M.  (2012)The  Gamification  of  learning  and  instruction:  Game-based 
+
+methodsand strategies for training and education. Pfeiffer. Hoboken, NJ. 
+
+Costa,  L.  D.  (2008)  O  que  os  jogos  de  entretenimento  têm  que  os  jogos  com 
+fins 
+
+têm:  princípios  para  projetos  de 
+
+finspedagógicos  não 
+pedagógicos.Dissertação de Mestrado, Rio de Janeiro. 
+
+jogos  com 
+
+Falcão,  A.  P.  et.  al.  (2014)  Ferramenta  de  apoio  ao  ensino  presencial  utilizando 
+
+gamificação e design de jogos. In: Anais do XXV SBIE. Dourados – MS. 
+
+Figueiredo, M., Paz, T., & Junqueira, E. (2015) Gamificação e educação: um estado da 
+arte  das  pesquisas  realizadas  no  Brasil.  Anais  dos  Workshops  do  IV  Congresso 
+Brasileiro de Informática na Educação (CBIE), pp. 1154 – 1163. 
+
+Mosé,  Viviane.  (2013)  A  escola  e  os  desafios  contemporâneos.  Rio  de  Janeiro: 
+
+Civilização Brasileira. 
+
+ 
+
+Perrenoud, P. et al. (2002). As competências para ensinar no século XXI: a formação 
+
+dos professores e o desafio da avaliação; Porto Alegre: Artmed.   
+
+Pretto,  N.  (2012).  Professores-autores  em  rede.  In:  Pretto,  N.,  Santana,  B.  e  Rossini, 
+C.(Org.).  Recursos  educacionais  abertos:  práticas  colaborativas  políticas 
+públicas(pp. 91-108). Salvador, UFBA, São Paulo, Casa de Cultura Digital. 
+
+ 
+
+

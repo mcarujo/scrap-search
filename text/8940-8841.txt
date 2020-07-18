@@ -1,0 +1,447 @@
+Uso de Jogo Online no Apoio ao Processo de Alfabetização 
+Infantil – Programa Domlexia 
+
+ 
+
+Nadine Heisler, Sabrina Vieira da Luz 1 
+ 
+1 Domlexia – Rua Laurindo Januário da Silveira, 4317/5 
+CEP 88062-201– Florianópolis – SC – Brasil 
+ 
+nadine@domlexia.com.br, sabrina@domlexia.com.br 
+
+Abstract: The present work describes a proposal of an online game to support 
+literacy for children at risk of dyslexia based on phonological awareness. The 
+Domlexia  program,  formulated  to  be  used  with  the  whole  1st  grade  class  of 
+elementary school, also integrates an assessment activity at  each stage of the 
+game,  which  allows  a  follow-up  of  the  students'  development  and  traces  a 
+profile of the progress of literacy. A prototype test of the game was realized in 
+two public classes of 1st grade and the results demonstrated improvement in the 
+tests of phonological awareness after one month of use of the game. 
+
+Resumo:  O  presente  trabalho  descreve  uma  proposta  de  um  jogo  online  de 
+apoio  à  alfabetização  para  crianças  com  risco  de  dislexia  com  base  na 
+consciência  fonológica.  O  programa  Domlexia  formulado  para  ser  utilizado 
+com  toda  a  turma  de  1º  ano  do  Ensino  Fundamental  também  integra  uma 
+atividade  de  avaliação  em  cada  etapa  de 
+jogo,  que  permite  um 
+acompanhamento  do  desenvolvimento  dos  alunos  e  traça  um  perfil  do 
+progresso da alfabetização. Foi realizado um piloto de aplicação do  jogo em 
+duas turmas de alfabetização e os resultados demonstraram melhora nos testes 
+de consciência fonológica após um mês de uso do jogo. 
+
+1.  O Problema 
+
+Dez  a  15%  da  população  tem  dislexia  [Clarck,  1995].  No  Brasil,  o  número  de 
+diagnósticos é ainda muito pequeno e a própria complexidade de fazê-lo leva ao fato de 
+que muitos passam toda sua vida escolar sem saber que são disléxicos e, portanto, sem a 
+intervenção correta [Ellis, 1995]. 
+
+Esse  fato,  como  reportado  em  outros  países  [Coulter  and  Kaloi  2013],  leva  a 
+defasagem e a evasão escolar. Indo além, estudos reportam que a não intervenção/apoio 
+levam  a  criminalidade  e  abuso  de  álcool  e  drogas  [Rack,2005].  De  forma  prática,  no 
+Brasil,  ainda  há  poucas  oportunidades  de  realização  de  diagnóstico  da  dislexia, 
+principalmente em função da complexidade deste, que precisa ser realizado por equipe 
+multidisciplinar.  Como  consequência,  muitos  alunos  passam  pela  escola  sem  a 
+identificação de suas dificuldades para a aquisição da leitura e escrita. 
+
+Essa  falta  de  informação  é  ainda  agravada  pelo  baixo  conhecimento  dos 
+profissionais envolvidos sobre o tema, uma vez que os transtornos de aprendizagem não 
+são parte regular do currículo de formação de pedagogos. 
+
+ 
+
+ 
+
+ A  pesquisa  ANA  2016  (Avaliação  Nacional  de  Alfabetização  -  INEP)  mostra 
+que  55%  dos  alunos  do  3º  ano  do  Ensino  Fundamental  tem  leitura  insuficiente  para  a 
+idade  [Brasil,2019].  Já  a  Prova  Brasil  2017,  mostra  que  apenas  56%  dos  alunos 
+brasileiros  do  5º  ano  do  Ensino  Fundamental  tem  proficiência  considerada  adequada 
+[QEdu,  2019].  Esses  dados  mostram  que  há  bastante  espaço  para  melhorias  e  uso  de 
+ferramentas que venham fortalecer o processo de alfabetização. 
+2.  Objetivo 
+
+Contribuir  de  forma  positiva  para  as  ações  pedagógicas  de  alfabetização,  apoiando  o 
+processo através de atividade tecnológica, lúdica e interativa; não somente para crianças 
+com risco de dislexia, mas para todos os estudantes com dificuldade de aprendizado. 
+3.  Público-Alvo 
+
+Alunos  do  1º  ano  do  Ensino  Fundamental  das  redes  públicas  e  privadas,  em  início  do 
+processo de alfabetização. O programa é adequado aos alunos com ou sem dificuldades 
+de aprendizado. 
+
+4. Justificativa 
+
+Diversos estudos científicos trazem a comprovação de que o método fônico, no qual se 
+ativa a consciência fonológica, tem grande eficácia como base sólida para aquisição da 
+leitura e escrita. 
+
+O método fônico traz benefícios para as crianças, que passam a ser alfabetizadas 
+ 
+mais rápidas e é eficaz na compreensão e produção textual, pois fortalece o raciocínio e 
+a  inteligência  verbal  [Capovilla,  2010].  O  objetivo  de  se  trabalhar  com  a  consciência 
+fonológica  é  que  o  aluno  passa  a  fazer  correspondência  entre  grafema-fonema,  com  o 
+objetivo de trabalhar a leitura e a soletração [Henning, 2003]. 
+
+ 
+Podemos  citar  o  trabalho,  da  Universidade  de  Stanford  -  EUA  [McCandllis 
+2003], que monitorou a atividade cerebral de crianças que estavam aprendendo através 
+da relação grafema/fonema ativaram as áreas cerebrais relacionadas à leitura e escrita, 
+enquanto  que  aquelas  que  trabalharam  o  reconhecimento  de  palavras  como  primeira 
+abordagem  estavam ativando o hemisfério direito, trazendo evidências da  ativação das 
+rotas de linguagem através da relação grafema/fonema. 
+
+ 
+Em relatório a Academia Nacional Norte Americana recomenda que o ensino da 
+linguagem  deve  ser  amplo,  mas  que  em  seu  início,  a  conscientização  da  relação  de 
+fonemas  e  grafemas,  não  prejudica  nenhum  aluno,  e  pelo  contrário  é  essencial  para 
+diversos deles.  
+
+ 
+Em  trabalhos  mais  antigos  de  1967  [Chall  1996],  a  autora  já  havia  esse  olhar. 
+Ela  fez  uma  ampla  revisão  sobre  a  bibliografia  de  ensino  de  1910  a  1965,  concluindo 
+que  a  abordagem  inicial  com  ênfase  no  aprendizado  da  relação  entre  letras  e  sons 
+produzem resultados melhores do que os outros métodos. 
+
+ 
+Não se trata de substituir um  método por outro,  mas sim aproveitar o que cada 
+proposta tem de  melhor  e ofertar  aos alunos as mais diversas possibilidades. O ideal é 
+identificar as dificuldades de método e mesclar o que há de eficiente nas duas correntes 
+metodológicas,  trabalhando  com  a  alfabetização  contextualizada  simultaneamente  ao 
+desenvolvimento  da  consciência  fonológica  [Santos,  2018].  Optamos  assim  por  nos 
+apropriar  dos  conceitos  fonológicos  da  relação  entre  grafemas  e  fonemas  e  através  do 
+elemento lúdico trazê-los para o mundo infantil. 
+
+ 
+
+4.1. O Lúdico como abordagem de aprendizado 
+
+É sabido que boa parte da resistência em relação à fônica se deve à falta de contexto do 
+método  e  a  complexidade  do  ensino.  Buscamos  então,  através  do  Programa,  quebrar 
+essas barreiras pela utilização de jogo online, que traz a linguagem atual e atraente para 
+os alunos, além de ser extremamente fácil de ser acompanhada pelo professor. 
+
+ 
+O  lúdico  é  valorizado  como  forma  de  aprendizado  pelos  grandes  teóricos  e 
+estudiosos da pedagogia, que avaliam a sua importância para o aprendizado e retenção 
+do conhecimento. O brincar é a linguagem típica da criança, por ser mais expressiva que 
+a  linguagem  verbal,  foi  atribuído  ao  jogo  um  papel  de  complemento  imprescindível  à 
+análise  da  criança  [Piaget  1998]. A  brincadeira  é  universal  e  é  própria  da  saúde.  Há  a 
+necessidade  de  se  usar  a  ludicidade  com  mais  intensidade,  pois  o  brincar  facilita  o 
+crescimento e conduz aos relacionamentos grupais [Vigotsky 2001]. 
+
+4.2. Aprendizado ativo 
+
+ A  tese  do  norte-americano  Roger  Schank, crítico  do  modelo  tradicional  de  educação, 
+segundo o qual o verdadeiro aprendizado vem da prática, não das teorias de sala de aula, 
+foi  o  que  inspirou  o  Programa  Domlexia  a  incluir  além  do  jogo,  atividades  mão  na 
+massa, cinestésicas, onde os alunos podem vivenciar o trabalho em grupo, aprender a ter 
+uma  escuta  ativa  e  empatia;  além  de  trazer  a  oportunidade  de   “construir”  as  letras 
+usando a criatividade e a imaginação [Schank, 2019].  
+
+4.3. BNCC – Base Nacional Comum Curricular 
+
+A BNCC [BRASIL, 2018] vem a dar as diretrizes  para a educação brasileira. Traz  em 
+seu corpo, logo ao princípio, 10 competências que devem ser desenvolvidas ao longo da 
+vida  escolar,  como:  utilizar  conhecimentos  das  diferentes  linguagens  (oral,  escrita, 
+LIBRAS, corporal, entre outras). 
+
+ 
+Já  revela  a  importância  de  se  formar  desde  cedo  a  capacidade  de  comunicação 
+através  do  uso  das  linguagens,  incluindo  a  linguagem  escrita  que  aqui  buscamos  dar 
+bases sólidas. As atividades cinestésicas em grupo, propostas pelo Programa Domlexia, 
+endereçam  já  no  início  do  Ensino  Fundamental  1  outra  competência  citada  na  Base: 
+exercitar a empatia, o diálogo, a resolução de conflitos e a cooperação.  
+
+Especificamente  em  relação  ao  1º  ano  do  Ensino  Fundamental,  na  área  da 
+ 
+Língua  Portuguesa,  a  BNCC  estabelece  no  Eixo  de  Conhecimentos  Linguísticos  e 
+Gramaticais,  na  Unidade  Temática  de  Apropriação  do  Sistema  Alfabético  e  de  Escrita 
+habilidades  a  serem  desenvolvidas  que  são  trabalhadas  intensamente  pelo  Programa 
+Domlexia, como o reconhecimento do sistema de escrita alfabética como representação 
+dos  sons  da  fala,  comparar  palavras  identificando  semelhanças  e  diferenças  entre  sons 
+de sílabas iniciais, identificar fonemas e sua representação por letras, completar palavras 
+com letra inicial, com base na escuta da palavra ou desenho que a represente, nomear as 
+letras do alfabeto e escrever as letras do alfabeto em resposta ao nome da letra. 
+
+5. Ferramenta Desenvolvida 
+
+Um  jogo  para  celular/tablete  foi  desenvolvido,  usando  linguagem  Unity,  compatível 
+com  web,  IOS  e  Android.  Baseado  em  exercícios  de  conscientização  fonológica 
+[Savage 2015], permitindo aos estudantes de 6 a 8 anos, em fase de alfabetização, no 1º 
+ano do Ensino Fundamental familiarização com os principais fonemas e letras da língua 
+portuguesa  e  o  estabelecimento  de  uma  relação  com  a  escrita  (grafia)  dos  mesmos.  O 
+jogo  educacional  permite  uma  interação  lúdica  com  o  processo  de  alfabetização, 
+
+ 
+
+conduzido pelo simpático dragão Dom. Ao final de cada uma das cinco fases do jogo, 
+chamadas “mundos”, há uma atividade de avaliação, que permite um acompanhamento 
+do  desenvolvimento  do  aluno  ao  longo  do  jogo.  Além  do  uso  do  jogo,  são  propostas 
+atividades  cinestésicas  para  sala  de  aula,  com  abordagem  concreta,  fornecendo  uma 
+nova possibilidade de fixação do aprendizado. 
+
+Figura 1: Tela inicial do jogo 
+
+ 
+
+O Jogo Dom é  composto por cinco mundos, cada um  com um grupo de letras, 
+trabalhados  na  alfabetização  fônica.  
+
+ 
+reunindo  os  primeiros  fonemas  a  serem 
+ 
+
+Estão assim divididos:  
+
+Mundo 1 - A, E, I, O, U 
+
+Mundo 2 - B, P, D, T 
+
+Mundo 3 - F, V, S, X, Z 
+
+Mundo 4 - M, N, L, R 
+
+Mundo 5 - C, Q, G, J 
+
+Em cada mundo, cada letra possui três mini-games.  
+
+Mini-game 1 - Propõe o reconhecimento da letra escrita e sua relação com o som 
+ 
+do “nome” da letra. Cada vez que o jogador clica sobre uma das letras, ouve o seu nome 
+e visualmente vai relacionando a mesma, com a letra que está sendo trabalhada. 
+
+ 
+Mini-game  2  -  Trabalha  a  relação  do  som  do  fonema  e  o  início  da  palavra 
+(objetos  do  cotidiano  da  criança).  Os  jogadores  podem  ouvir  a  palavra  e  o  fonema 
+quantas vezes desejar, além de ter o apoio visual com a imagem da referida palavra. O 
+jogador então escolhe se a palavra em questão se inicia ou não com o fonema que está 
+sendo trabalhado. 
+
+ 
+Mini-game 3 - Neste terceiro desafio, o jogador deve reconhecer visualmente se 
+a palavra apresentada (sem som) tem em seu  início o fonema trabalhado (com recurso 
+sonoro).  Assim  ele  vai  escolhendo  se  o  fonema  está  ou  não  no  início  da  palavra 
+apresentada.  Após  completar  o  mundo,  é  apresentado  um  desafio  final  ao  jogador. 
+Nesse desafio final também são realizadas três atividades de verificação da aquisição do 
+conhecimento: 
+
+a)  Relacionar o fonema ao som inicial da palavra (com apoio visual e auditivo) 
+b)  Relacionar o som inicial de palavra referência com uma opção de quatro outras 
+
+palavras (sempre com apoio visual e auditivo) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)  Relacionar o som inicial de diversos objetos com um fonema determinado. 
+
+ 
+Como  premiação  ao  finalizar,  é  disponibilizado  também  um  desenho  do 
+personagem Dom para colorir. Essa premiação foi escolhida pelas próprias crianças que 
+participaram do teste piloto do jogo.  Além  do  uso  do  jogo,  são  propostas  atividades 
+cinestésicas  para  sala  de  aula,  com  abordagem  concreta,  fornecendo  uma  nova 
+possibilidade  de  fixação  do  aprendizado.  Para  essas  abordagens  é  fornecido  plano  de 
+aula  completo,  indicando  objetivo,  materiais,  metodologia.  São  sempre  trabalhados  os 
+mesmos  fonemas  do  mundo,  de  maneira  concreta,  através  da  construção  das  letras  em 
+materiais como argila, colagens, gravetos etc. 
+
+5.1. Complementariedade 
+
+A proposta do Programa Domlexia não é  a substituição do  método de  alfabetização já 
+utilizado  pela  escola  e  pelos  seus  professores,  mas  sim  um  trabalho  em  paralelo,  que 
+trará uma base mais sólida para a aquisição da leitura e escrita, através da ampliação da 
+consciência fonológica dos alunos. 
+
+5.2 Identificação Precoce 
+
+O  Programa  tem  também  como  objetivo  a  identificação  precoce  das  dificuldades  de 
+aprendizado,  permitindo  intervenções  mais  cedo,  e  consequentemente  uma  maior 
+probabilidade de resultados positivos dessas intervenções. 
+
+ 
+Em seu panorama sobre identificação e prevenção  precoces de dificuldades em 
+leitura,  Lyytinen  e  Erskine  destacam  a  importante  questão  das  dificuldades  de 
+aprendizagem  não  resolvidas  e  da  falta  de  motivação  subsequente  como  resultado  do 
+fracasso. Sem tratamento adequado e eficaz, apenas uma minoria das crianças que têm 
+dificuldades  de  leitura  alcança  níveis  satisfatórios  como  leitores  [Fielding-Barnsley 
+2019]. LINK PARA O VÍDEO 
+
+6. Resultados 
+
+Turmas piloto realizadas nos meses de junho e julho de 2018, com 47 alunos do 1º ano 
+do  Ensino  Fundamental  da  Rede  Municipal  de  Florianópolis,  mostraram  resultados 
+consistentes  de  melhora  na  consciência  fonológica,  elevando  os  índices  de  acerto  de 
+59%  para  92%  no  teste  de  consciência  fonêmica.  Sendo  que  os  demais  testes  também 
+apresentaram melhoras, conforme demonstrado no gráfico a seguir. 
+
+ 
+O  Programa  Domlexia  tem  como  foco  a  intervenção  efetiva  nas  dificuldades  e 
+transtornos  de  aprendizagem.  O  objetivo  é  fazer  com  que  os  alunos  se  apropriem  da 
+alfabetização  através  de  um  método  facilitador,  que  é  o  método  fônico,  de  uma  forma 
+lúdica. O jogo é o motivador, mas a estrutura do Programa, com avaliação e atividades 
+complementares,  facilita  para  o  professor  a  identificação  e  intervenção  precoce  para 
+melhor ajudar as crianças com dificuldades de aprendizagem. 
+
+ 
+
+Figura 2: Jogo Dom e as letras 
+
+Gráfico 1: Porcentagem de acertos nos testes antes e depois do uso do APP Dom 
+
+ 
+
+ 
+
+Referências 
+Brasil  (2018).  “Base  Nacional  Comum  Curricular”.  Ministério  da  Educação. 
+Brasília:MEC. 
+2019: 
+http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_si
+te.pdf 
+
+Acesso 
+
+junho 
+
+em 
+
+03 
+
+de 
+
+de 
+
+Brasil (2019). “Avaliação Nacional de Alfabetização”. Brasília:INEP. Acesso em 05 de 
+
+julho de 2019: http://ana.inep.gov.br 
+
+Ellis,  A.  W.  (1995)  “Leitura,  escrita  e  dislexia:  uma  analise  cognitiva”.  2.  ed.  Trad. 
+
+Dayse Batista. Porto Alegre: Artes Médicas.  
+
+Capovilla,  F.,  Seabra,  A.  G.(2010)  “Alfabetização:  Método  Fônico”.  5.  ed.  São  Paulo: 
+
+Memmon. 
+
+ 
+
+Chall,  J.  (1996)  “Learning  to  Read:  The  Great  Debate (1967)”,  Edit  by  McGraw  Hill, 
+
+Clarck,  D.  B.  et.al.  (1995)  “Dyslexia:  Theory  and  Practice  of  Remedial  Instruction”. 
+
+New York.  
+
+York Press.  
+
+Coulter, W. A. and Kaloi, L. (2013) “ Diplomas at Risk: A Critical Look at the  
+
+Graduation   Rate 
+https://www.advocacyinstitute.org/resources/Diplomas.at.Risk.pdf 
+
+Learning 
+
+Students 
+
+with 
+
+of 
+
+Disabilities” 
+
+Fielding-Barnsley R (2019) “Prevenção precoce de distúrbios de aprendizagem:  
+
+comentários  sobre  Lyytinen  e  Erskine,  e  Fuchs”  In:  Tremblay  RE,  Boivin  M, 
+Peters  RDeV,http://www.enciclopedia-crianca.com/disturbios-de-
+
+especialistas/prevencao-precoce-de-disturbios-de-
+
+ 
+ 
+aprendizagem/segundo- 
+aprendizagem.  
+ 
+
+Hennig,  K.  A.(2003)  “Compreender  a  dislexia  um  guia  para  os  pais  e  professores”. 
+
+Porto Editora. 
+
+McCandliss  B.D  and  Noble  KG  (2003) “The  development  of  reading  impairment:  
+A  cognitive    neuroscience    model.    Mental    Retardation    and    Developmental  
+ 
+
+Disabilies”, In: Research Views 9: 196-205. 
+
+ 
+ 
+
+Piaget, J. (1998) “A psicologia da criança”. Edited by Bertrand Brasil, Rio de Janeiro. 
+
+QEdu 
+
+(2019) 
+
+“Prova  Brasil”.  Acesso 
+https://www.qedu.org.br/brasil/proficiencia 
+
+em 
+
+12 
+
+de 
+
+julho 
+
+de 
+
+2019: 
+
+Rack,  J.  (2005)  “The  Incidence  of  Hidden  Disabilities  in  the  Prison  Population”.  The 
+
+Dyslexia Institute., 1-28. 
+
+Santos, C.R. (2018) “Alfabtização: Algumas reflexões sobre o método fônico e o  
+
+método construtivista”. Revista Conedu , v. 1, p. 1. 
+
+Savage, J.F. (2015) “Aprender a ler e a escrever a partir da fônica”, Edit by:   
+
+  McGrawHill   4ª ed, Porto Alegre. 
+
+Schank, R. (2019) “Learning occurs when someone wants to learn, not someone wants 
+
+to  
+
+teach”  https://www.rogerschank.com/ 
+
+Vigotski, L.S. (2001) “A construção do pensamento e da linguagem”. Edited by Martins 
+
+Fontes, São Paulo. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

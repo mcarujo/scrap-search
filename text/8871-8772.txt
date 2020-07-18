@@ -1,0 +1,420 @@
+IV Congresso sobre Tecnologias na Educação (Ctrl+E 2019) 
+Recife, Pernambuco – Brasil 
+28 a 30 de agosto de 2019 
+
+ 
+
+Investigação de Novas Estratégias para o Ensino de 
+Bioquímica Estrutural por meio de Realidade Aumentada 
+
+Alan Ferreira Alves1, Cícero Francisco Bezerra Felipe1, Liliane S. Machado2 
+
+1Departamento de Biologia Molecular e 2Departamento de Informática         
+
+Universidade Federal da Paraíba (UFPB) 
+Cidade Universitária s/n – João Pessoa/PB – 58051-900 - Brasil 
+
+xxalanferreira@gmail.com, cicero@dbm.ufpb.br, liliane@di.ufpb.br 
+
+ 
+
+Abstract.  This  study  aimed  to  investigate  the  difficulties  of  the  students  that 
+attend  to  the  Structural  Biochemistry  classes  and  the  use  of  the  augmented 
+reality (AR) technologies as a support to the learning process. The work was 
+divided  into  three  phases:  1)  application  of  a  quiz,  identifying  the  main 
+difficulties  with  the  subject;  2)  development  of  a  prototype  with  augmented 
+reality  technology;  3)  use  of  the  prototype  and  application  of  a  quiz  on  the 
+benefits  identified  with  an  AR  technology  in  the  learning  process.  It  was 
+observed  that  the  main  difficulty  of  the  students  consisted  in  the  spatial 
+visualization of biomolecules and the creation of an AR-based app would be an 
+important tool in the process of learning the content of Structural Biochemistry. 
+
+Resumo. Este estudo buscou investigar as dificuldades dos alunos da disciplina 
+Bioquímica  Estrutural  e  a  utilização  de  tecnologias  de  realidade  aumentada 
+como apoio no processo de aprendizagem. O trabalho ocorreu em três fases: 1) 
+aplicação  de  questionário  identificando  as  dificuldades  dos  alunos  com  a 
+disciplina;  2)  desenvolvimento  de  um  protótipo  com  tecnologia  de  realidade 
+aumentada;  3)  uso  do  protótipo  e  aplicação  de  questionário  acerca  dos 
+benefícios identificados com a tecnologia de RA no processo de aprendizado. 
+Verificou-se  que  uma  das  maiores  dificuldades  dos  alunos  consistiu  na  a 
+visualização espacial de biomoléculas e que a criação de um aplicativo baseado 
+em RA poderia ser uma ferramenta importante no processo de aprendizagem 
+na disciplina em questão. 
+
+1.  Introdução 
+
+Nos  últimos  anos,  a  educação  superior  vem  passando  por  mudanças  de  paradigmas 
+relacionadas ao processo ensino-aprendizagem. Neste contexto, o uso de metodologias 
+tradicionais nas quais o aluno é um sujeito passivo de aprendizado, tem sido direcionado 
+para um processo mais dinâmico de ensino, focado na figura do discente, por meio das 
+metodologias ativas de aprendizagem (GARZÓN, 2014), que consistem em estratégias 
+de ensino cujo objetivo é motivar a busca e reflexão do conhecimento (MITRE, 2008). 
+Essa necessidade de novas estratégias no processo ensino-aprendizagem é uma realidade, 
+principalmente no ensino universitário. Para tanto, um conjunto de habilidades e aptidões 
+deve  ser  desenvolvido  nos  alunos  com  a  finalidade  de  estimular  o  senso  crítico,  a 
+dinâmica de comunicação e a capacidade para resolução de problemas (SOUZA, 2006). 
+
+ 
+
+ 
+
+As inúmeras transformações tecnológicas que facilitam o acesso às informações 
+têm  modificado  o  padrão  tradicional  de  educação  e  exigido  novas  posturas  dos 
+professores  e  alunos,  sendo  necessária  uma  técnica  moderna  de  ensino  para  que  a 
+performance acadêmica dos estudantes nas áreas das ciências melhore (LIMA, 2017). 
+Uma ferramenta que vem auxiliando no processo de aprendizagem são as Tecnologias da 
+Informação e Comunicação (TICs), as quais segundo Tavares, Souza e Correia (2013), 
+são  definidas  como  “um  conjunto  de  recursos  tecnológicos  que  podem  proporcionar 
+comunicação  e/ou  automação  de  diversos  tipos  de  processos  em  diversas  áreas  e 
+principalmente no ensino e na pesquisa”. 
+
+As TICs fundamentam-se principalmente na visão construtivista de Jean Piaget, 
+que pressupõe a criação de ambientes de aprendizagem que possibilitam a construção 
+de  algo  e  relação  ativa  do  aluno  na  construção  e  realização  de  tarefas.  Dentre  as 
+principais vantagens que as novas Tecnologias da Informação e Comunicação (TICs) 
+oferecem  na  elaboração  de  projetos  e  materiais  didáticos  são:  a  capacidade  de 
+interatividade, a possibilidade de interação a distância, e o armazenamento e organização 
+de  informações  representadas  de  várias  formas,  tais  como  textos,  vídeos,  animações, 
+jogos lúdicos e áudios. 
+
+Dentre as metodologias que se destacam pelo uso das TICs no processo ensino- 
+aprendizagem, tem-se a realidade aumentada (RA), cujo objetivo consiste em integrar 
+objetos  tridimensionais  ao  mundo  real.  Na  RA,  o  usuário  pode  interagir  com  objetos 
+virtuais  que  são  inseridos  no  mundo  real,  promovendo  a  possibilidade  de  visualizar, 
+explorar e modificar esses objetos (TORI e HOUNSELL, 2018). 
+
+O  processo  ensino-aprendizagem  das  disciplinas  de  Bioquímica,  no  geral,  é 
+desafiador pela natureza do conteúdo, o qual possui uma terminologia ampla e específica 
+(nomes, fórmulas e estruturas químicas), por exigir um alto grau de abstração por parte 
+do aluno, associado à necessidade de um conhecimento prévio em Química (GARZÓN, 
+2014) e por conter um grande volume de informações, que devem ser restringidas para 
+adequar-se ao tempo disponível dos componentes curriculares (YOKAICHIYA, 2004). 
+A  bioquímica  fundamenta-se  em  mostrar  em  termos  moleculares  as  estruturas,  os 
+mecanismos e os processos químicos compartilhados por todos os organismos (NELSON 
+& COX, 2002). O ensino da Bioquímica na graduação é considerado interdisciplinar, uma 
+vez que se encontra presente na maioria dos cursos das áreas de saúde e biológicas, tais 
+como:  Farmácia,  Fisioterapia,  Biologia,  Nutrição,  dentre  outros.  Sua  metodologia 
+abrange um campo extenso de compreensão e interpretações que usa princípios presentes 
+no ensino da Química e da Biologia, utilizando recursos que podem ser trabalhados na 
+sua forma teórica e/ou prática (ALCÂNTARA, 2015). 
+
+O presente estudo tem como objetivo apresentar os resultados de uma pesquisa 
+realizada com alunos acerca das dificuldades quanto ao aprendizado de bioquímica, bem 
+como,  os  benefícios  potenciais,  por  eles  identificados,  quanto  ao  uso  da  RA  neste 
+processo. 
+
+2.  Metodologia 
+
+Para  realização  do  estudo,  três  etapas  foram  definidas:  1)  aplicação  de  questionário 
+identificando  as  dificuldades  dos  alunos  com  o  aprendizado  de  bioquímica;  2) 
+desenvolvimento  de  um  protótipo  de  visualização  de  molécula  com  RA;  3)  uso  do 
+protótipo e aplicação de questionário acerca dos benefícios identificados com a tecnologia 
+
+ 
+
+de RA no processo de aprendizado. Os dois questionários foram aplicados para os alunos 
+de do curso superior de Farmácia matriculados na disciplina de Bioquímica Estrutural no 
+período de março a junho de 2018. O primeiro questionário consistiu em seis perguntas 
+abertas e fechadas e foi aplicado para um total de vinte e cinco alunos. 
+
+Os 
+
+resultados  obtidos  com  o  primeiro  questionário  subsidiaram  o 
+desenvolvimento  de  um  protótipo  de  aplicativo  para  dispositivos  móveis  baseado  em 
+realidade aumentada para visualização de uma estrutura molecular discutida na disciplina. 
+Após  a  apresentação  do  protótipo  e  uso  pelos  alunos,  um  segundo  questionário  foi 
+aplicado para capturar as impressões dos mesmos acerca das suas impressões quanto ao 
+uso do protótipo. Este questionário consistiu de seis afirmações estruturadas por meio 
+de escalas do tipo Likert, variando de 1 (discordo totalmente) a 5 (concordo totalmente). 
+Ele foi aplicado para um total de vinte e nove alunos. 
+
+3.  Resultados 
+
+O  primeiro  questionário  (n=25)  teve  como  objetivo  verificar  a  opinião  dos  alunos  em 
+relação  às  dificuldades  por  eles  observadas  quanto  ao  aprendizado  dos  principais 
+conteúdos da disciplina, bem como a possibilidade de utilização de recursos tecnológicos 
+para este fim. 
+
+A primeira pergunta feita foi “Você acha a bioquímica uma disciplina difícil?” 
+Em  relação  à  dificuldade  em  Bioquímica  Estrutural,  60%  (n=15)  consideraram  a 
+Bioquímica Estrutural uma disciplina difícil. Destes, 26,60% atribuem a dificuldade à 
+complexidade  do  assunto,  20%  à  dificuldade  em  entendimento  de  química,  20%  não 
+especificaram, 13,3% ao conteúdo extenso, 13,3% ao detalhamento excessivo e 6,6% à 
+complexidade  do  livro  (Figura  1).  Com  isso,  constata-se  que  a  maioria  dos  alunos 
+considera a bioquímica uma disciplina difícil, destacando-se principalmente o excesso 
+e dificuldade de conceitos. A dificuldade em química dos alunos de bioquímica reforça 
+o que é visto na literatura e pode ser explicada pelo contato ainda prematuro com essa 
+área, visto que a disciplina é ofertada geralmente no primeiro ano dos cursos, associado 
+a um ensino médio deficiente (ZENI, 2010; ANDRADE et al., 2017). 
+ 
+
+Figura  1. 
+encontradas. 
+
+  Número  de  alunos  relacionados  às  principais  dificuldades 
+
+A  segunda  questão  pedia  ao  aluno  para  enumerar,  em  ordem  decrescente  de 
+relevância, as suas maiores dificuldades dentro da disciplina. Dentre os itens enumerados, 
+os alunos consideram as maiores dificuldades no conteúdo de Bioquímica Estrutural citar 
+as  funções  biológicas  das  biomoléculas  (31%),  seguido  por  “identificar  interações 
+intermoleculares” (27%) e a visualização espacial das biomoléculas (18%) (Figura 2). 
+As duas maiores dificuldades são assuntos ministrados no ensino médio e revisados na 
+
+ 
+
+graduação  e  podem  ser  explicadas  por  um  ensino  médio  deficiente. A  terceira  maior 
+dificuldade  pode  ser  explicada  pelo  menor  contato  com  a  abstração  de  biomoléculas, 
+visto que não é praticado durante o período escolar e é necessário alto grau de exigência 
+dessa habilidade para a compreensão dos processos bioquímicos. 
+ 
+
+Figura  2.    Número  de  alunos  relacionados  aos  tópicos  de  maior  dificuldade 
+dentro da disciplina de Bioquímica Estrutural. 
+
+Na terceira pergunta, foi questionado se os alunos utilizavam algum dispositivo 
+eletrônico  –  celular,  tablet,  computador,  etc  –  para  estudar.  Quanto  à  utilização  de 
+dispositivos eletrônicos para o estudo, 92% (n=23) responderam que os usavam, dentro 
+os quais 70% utilizam o celular e 30% o computador. Outros 4% responderam que não 
+utilizam  nenhum  aparelho  eletrônico  e  outros  4%  não  responderam  à  pergunta.  Esse 
+resultado  corrobora  com  o  estudo  de  DINIZ,  2013,  que  mostra  que  a  maioria  dos 
+estudantes universitários utiliza pelo menos um dispositivo eletrônico para estudar, de 
+modo  a  facilitar  a  pesquisa,  expandir  as  informações  disponíveis  e  melhorar  o 
+desempenho acadêmico. 
+
+Na quarta questão, foi perguntado se os alunos utilizavam algum aplicativo para 
+estudar Bioquímica Estrutural e se positivo, para citar alguns deles. A maioria dos alunos 
+(96%, n = 24) responderam que não utilizam, enquanto 4% responderam que utilizavam. 
+Alguns alunos que responderam “sim”, confundiram os termos aplicativo e website. Esse 
+resultado provavelmente acontece pela escassez de programas voltados para o tema, uma 
+vez que a maioria utiliza celular ou computador para estudar e poucos utilizam algum 
+aplicativo. 
+
+Na quinta questão os alunos deveriam responder à pergunta: “Você acha que a 
+criação de aplicativos voltados à bioquímica poderia ajudar na compreensão dos assuntos 
+ministrados durante a disciplina?” e, em caso de resposta afirmativa foi solicitado que 
+comentasse alguns recursos ou utilidades que esses aplicativos deveriam conter (Figura 
+3).  Todos  os  alunos  entrevistados  responderam  “sim”  para  a  pergunta  em  questão, 
+sugerindo que aplicativos deveriam possuir ferramentas para melhor fixação do assunto, 
+acesso  a informações textuais e a apresentação de estruturas tridimensionais. 
+
+ 
+
+Figura  3.    Número  de  alunos  relacionados  aos  principais  recursos  de  um  aplicativo 
+desenvolvido para a disciplina. 
+
+ 
+Na  última  questão  do  primeiro  questionário,  foi  perguntado,  baseado  nas 
+respostas da quinta questão, quais conteúdos (textos, vídeos, animações, etc) ele conteria 
+e como seria sua estrutura (quiz, mapas mentais,  etc). Dentre as propostas, os alunos 
+responderam que um aplicativo para bioquímica estrutural deveria conter resumos (64%, 
+n = 16), questões comentadas (16%, n=4), animações (12%, n=3) e/ou mapas mentais 
+(4%, n = 1) (Figura 4). 
+
+Figura 4.  Principais conteúdos que devem estar presentes no aplicativo relacionado ao 
+número de alunos. 
+
+Os resultados da primeira etapa da pesquisa permitiram identificar que os alunos 
+possuem dispositivos tecnológicos (96%) e que, além de outras possibilidades, gostariam 
+de poder identificar e compreender melhor aspectos estruturais e espaciais relacionados 
+ao  conteúdo  da  disciplina.  Entretanto,  os  alunos  não  conseguiram  expressar  como 
+gostariam  que  isso  ocorresse,  senão  por  informações  textuais  (resumos,  questões 
+comentadas e mapas mentais) e animações, evidenciando a forma bidimensional presente 
+no aprendizado tradicional baseado em aula expositiva em quadro ou livros. 
+
+Uma vez que as questões espaciais foram identificadas com uma das principais 
+dificuldades dos alunos (questão 2, dificuldade número 1), iniciou-se o desenvolvimento 
+de um protótipo de visualização espacial baseado no uso de realidade aumentada. Neste 
+protótipo, optou-se por incrementar a informação textual e gráfica dos livros e materiais 
+impressos  com  o  auxílio  de  um  aplicativo  para  dispositivos  móveis.  Por  meio  do 
+
+ 
+
+protótipo, os alunos puderam experimentar a manipulação interativa de uma molécula 
+em 3D, sobreposta automaticamente ao desenho bidimensional desta molécula (Figura 
+5). 
+
+A  partir  dos  dados  obtidos  com  o  primeiro  questionário  e  a  apresentação  do 
+protótipo para a turma, um segundo questionário foi feito, com o objetivo de verificar a 
+utilidade  do  aplicativo  para  a  disciplina,  bem  como  a  possibilidade  de  visualização  e 
+interação  com  o  modelo  apresentado.  Com  os  resultados  obtidos  a  partir  do  segundo 
+questionário (n=29), foi feita uma tabela (Tabela 1) relacionando cada afirmação com o 
+grau de concordância dos alunos, em que quanto maior a proximidade de 5, maior o grau 
+de concordância. 
+
+ 
+Figura 5.  Representação estrutural bidimensional da molécula da glicina (esquerda) e 
+protótipo  de  realidade  aumentada  em  execução  com  a  sobreposição  da  molécula 
+tridimensional (direita). 
+
+ 
+
+Tabela 1. Respostas do segundo questionário. 
+
+Afirmação 
+
+Média 
+
+Eu usaria um aplicativo baseado nesse "protótipo" 
+
+O processo educacional de bioquímica seria mais produtivo com a 
+utilização deste aplicativo. 
+
+O processo educacional de bioquímica seria mais interessante com a 
+utilização deste aplicativo. 
+
+Este aplicativo poderia ser útil para o ensino de Bioquímica Estrutural. 
+
+Eu pagaria um valor simbólico para utilizar o aplicativo. 
+
+Este aplicativo seria mais interessante se acompanhado por conteúdo 
+textual. 
+
+4,90 
+
+4,83 
+
+4,87 
+
+4,93 
+
+4,20 
+
+4,76 
+
+A escala tipo Likert é constituída por itens em que o respondente será avaliado 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+para manifestar a sua opinião de acordo ou desacordo com a afirmação feita e o grau de 
+intensidade das respostas (PASQUALI, 2011). A partir disso, verificou-se que a maioria 
+dos alunos concorda com afirmações “Este aplicativo poderia ser útil para o ensino de 
+Bioquímica Estrutural”, “Eu usaria um aplicativo baseado neste protótipo” e “O processo 
+educacional de bioquímica seria mais interessante com a utilização deste aplicativo”. 
+
+4.  Discussão e Perspectivas 
+
+Com base nas respostas obtidas com os questionários aplicados, conclui-se que os alunos 
+têm a percepção de que a Bioquímica Estrutural é uma disciplina cuja dificuldade está 
+relacionada  à  complexidade  do  assunto,  o  qual  depende  em  parte  do  conhecimento  de 
+aspectos  básicos  da  química,  a  saber:  identificação  das  principais  funções  químicas  e 
+compreensão  das  estruturas  espaciais  de  moléculas. Além  disso,  a  maioria  dos  alunos 
+afirmou  que  utiliza  de  dispositivos  eletrônicos  em  seus  estudos  e  que  a  criação  de 
+aplicativos que possibilitem a interação com a estrutura tridimensional de moléculas seria 
+uma estratégia  importante no processo ensino-aprendizagem do  componente  curricular 
+Bioquímica Estrutural. Com a criação do protótipo de um aplicativo voltado para o ensino 
+da disciplina, os alunos poderão se beneficiar com a praticidade da tecnologia por via de 
+smartphone, bem como facilitar o acesso ao conteúdo, com um papel complementar no 
+aprendizado da disciplina de forma a tornar seu conteúdo mais didático e tecnológico. 
+
+Com base nas respostas obtidas com os questionários aplicados, conclui-se que os 
+alunos têm a percepção de que a Bioquímica Estrutural é uma disciplina cuja dificuldade 
+está relacionada à complexidade do assunto, o qual depende em parte do conhecimento 
+de aspectos básicos da química, a saber: identificação das principais funções químicas e 
+compreensão  das  estruturas  espaciais  de  moléculas. Além  disso,  a  maioria  dos  alunos 
+afirmou  que  utiliza  de  dispositivos  eletrônicos  em  seus  estudos  e  que  a  criação  de 
+aplicativos que possibilitem a interação com a estrutura tridimensional de moléculas seria 
+uma estratégia  importante no processo ensino-aprendizagem do  componente  curricular 
+Bioquímica Estrutural. Com a criação do protótipo de um aplicativo voltado para o ensino 
+da disciplina, os alunos poderão se beneficiar com a praticidade da tecnologia por via de 
+smartphone, bem como facilitar o acesso ao conteúdo, com um papel complementar no 
+aprendizado da disciplina de forma a tornar seu conteúdo mais didático e tecnológico. 
+
+Uma  vez  que  uma  das  maiores  dificuldades  apontadas  pelos  alunos  foi  a 
+visualização  espacial  de  biomoléculas,  um  recurso  que  utilize  a  realidade  aumentada 
+poderia suprir essa necessidade. Além disso, essa tecnologia permitiria maior interação, 
+com  a  possibilidade  de  rotação,  visualização  de  funções  orgânicas,  modificações  no 
+tamanho das biomoléculas e identificação de padrões moleculares. 
+
+Dentre os conteúdos ministrados na disciplina, destaca-se o tópico de aminoácidos 
+para a realização de um aplicativo baseado na realidade aumentada. Essas biomoléculas 
+possuem uma estrutura conservada dentro as diversas moléculas que compõem o grupo 
+e  uma  porção  distinta,  onde  há  mudanças  espaciais  relevantes,  relevantes  para  a 
+compreensão  da  atividade  biológica  e  de  difícil  visualização.  Além  disso,  em  sua 
+estrutura, existem diferentes tipos de funções orgânicas, o que permitiria o estudo e a 
+diferenciação  destes  grupos  químicos  pelos  alunos,  reparando  uma  das  maiores 
+dificuldades apontadas. 
+
+Com  o  objetivo  de  suprir  a  demanda  da  disciplina  tanto  na  dificuldade  de 
+assimilação do conteúdo quanto na escassez de recursos tecnológicos para o ensino, está 
+
+ 
+
+sendo  desenvolvido  um  aplicativo  de  realidade  aumentada  baseado  na  estrutura 
+tridimensional dos aminoácidos, associados a um conteúdo textual complementar. Uma 
+vez que o protótipo foi apenas para verificar a aceitação da tecnologia de RA pelos alunos, 
+os demais elementos identificados na 2ª questão do primeiro questionário estão sendo 
+considerados no processo de desenvolvimento do aplicativo. 
+
+Assim sendo, esse programa terá como objetivo ampliar as ferramentas de ensino 
+da  Bioquímica  Estrutural  por  meio  do  uso  da  tecnologia,  que  é  o  principal  recurso 
+utilizado nos tempos atuais pelos alunos na busca de informações de ensino de disciplinas. 
+Com isso, o aplicativo será utilizado como um recurso complementar e didático, sendo 
+uma extensão do ensino em sala de aula e promovendo uma interação com a disciplina 
+fora das paredes da Universidade. 
+
+Referências 
+
+Alcântara,  N.;  Vieira,  A.  (2015)  “Elaboração  e  utilização  de  um  aplicativo  como 
+ferramenta  no  ensino  de  Bioquímica:  carboidratos,  lipídios,  proteínas  e  ácidos 
+nucleicos”. Revista de Ensino de Bioquímica 13(3): 54-72. 
+
+Andrade,  R.S.B.;  Silva,  A.F.S.;  Zierer,  M.S.  (2017)  “Avaliação  das  dificuldades  de 
+aprendizado em Bioquímica dos discentes da Universidade Federal do Piauí”. Revista 
+de Ensino de Bioquímica 15(1): 24-39. Sociedade Brasileira de Bioquimica e Biologia 
+Molecular – SBBq. DOI:10.16923/reb.v15i1.690. 
+
+Diniz, C. N.; Ol, G.O. (2006) “O uso da tecnologia da informação entre universitários” 
+
+In: 7º ENANCIB – Encontro Nacional de Pesquisa em Ciência da Informação. 
+
+Garzón,  J.  C.  V;  Magrini,  M.  L;  Costa,  C;  Galembeck,  E.  (2014)  “Metodologias 
+inovadoras: Realidade aumentada no ensino de vias metabólicas”. Revista de Ensino 
+de Bioquímica, 12(2): 128-143. 
+
+Mitre,  S.  et  al.  (2008)  “Metodologias  ativas  de  ensino-aprendizagem  na  formação 
+
+profissional em saúde: debates  atuais”. Ciência Saúde Coletiva 13(2): 2133-44. 
+
+Nelson, D. L.; Cox, M. M. (2014), Princípios de Bioquímica de Lehninger, Artmed, 6ª 
+
+Lima, E. F.  (2017) “O Uso das TICs e da Pesquisa como Recursos Pedagógicos no Ensino 
+de Bioquímica para o Curso de Licenciatura em Química”. Revista de Graduação USP, 
+2(2): 115-120.  
+
+Pasquali, L. (2011), Psicometria: Teoria dos testes na psicologia e  educação, Vozes, 4ª 
+
+Edição. 
+
+Edição. 
+
+Rezende,  F.  (2000)  “As  Novas  Tecnologias  na  Prática  Pedagógica  sob A  Perspectiva 
+
+Construtivista”. Revista Ensaio 2(1):70-87. 
+
+Souza,  F.  N.  (2006)  “Perguntas  na  aprendizagem  de  Química  no  Ensino  Superior”. 
+
+[Dissertação]. Universidade de Aveiro, Aveiro, 2006. 
+
+Tori, R.; Hounsell, M.S. (2018), Introdução a Realidade Virtual e Aumentada, 1ª edição. 
+
+Yokaichiya,  D.  K.;  Galembeck,  E.;  Torres,  B.  B.  (2004)  “O  que  alunos  de  diferentes 
+cursos procuram em disciplinas extracurriculares de bioquímica”.  Revista Brasileira 
+de Ensino de Bioquímica e Biologia Molecular 1:E1-E8. 
+
+ 
+
+Zeni, A.L.B. (2010) “Conhecimento prévio para a disciplina de bioquímica em cursos da 
+área  da  saúde  da  Universidade  Regional  de  Blumenau-SC”.  Revista  de  Ensino  de 
+Bioquímica 2(1):B1-B14. 
+
+ 
+
+

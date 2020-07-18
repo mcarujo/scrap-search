@@ -1,0 +1,589 @@
+ 
+
+ 
+
+A Gamificação como Estratégia para a Educação em 
+Segurança e Saúde no Trabalho em ECITs na Paraíbai 
+
+Fábio Morais Borges1, Lebiam Tamar Gomes Silva2, Milena Trigueiro 
+Tavares3, Juliana Moreira de Oliveira3, João Pedro dos Santos Cipriano4 
+
+1Departamento de Engenharia de Produção, Universidade Federal da Paraíba (UFPB) 
+CEP: 58051-900. Cidade Universitária - João Pessoa - PB – Brasil. 
+
+2Departamento de Habilitação Pedagógica, Universidade Federal da Paraíba (UFPB) 
+
+3Centro de Tecnologia, Universidade Federal da Paraíba (UFPB) 
+
+4Centro de Educação, Universidade Federal da Paraíba (UFPB) 
+fabiomoraisb@ct.ufpb.br; lebiamsilva@ce.ufpb.br; 
+milenatrigueiro@hotmail.com; juliana___moreira@hotmail.com; 
+joao65644@gmail.com 
+
+Abstract.  This  essay  is  an  account  of  experience  of  a  university  extension 
+project,  which  had  the  goal  of  producing  and  disseminating  knowledge  on 
+Work Safety, in an innovative manner, for 1st and 2nd year high school students 
+from  technical  schools  in  Paraíba.  Gamification,  the  application  of  game 
+elements in non-gaming environments, was the chosen methodological strategy 
+to  elaborate  the  two  proposed  Gamified  activities:  Quizz  and Treasure Hunt. 
+The  didactic  resources  employed  in  the  contents  learning  process  were  an 
+electronic  magazine  (Issuu),  Kahoot  virtual  platform,  QR  Codes,  treasure 
+maps  and  question  and  answer  cards.  After  the  application  of  the  project’s 
+Gamified  activities,  the  involvement  and  learning  in  relation  to  the  matter 
+discussed was verified on the students. 
+
+Resumo.  Este  trabalho  apresenta  o  relato  de  experiência  de  um  projeto  de 
+extensão  universitária,  cujo  objetivo  geral  foi  o  de  produzir  e  disseminar 
+conhecimentos  sobre  Segurança  no  Trabalho,  de  forma  inovadora,  com 
+estudantes  da  1ª.  e  da  2a.  séries  do  ensino  médio  de  escolas  técnicas  da 
+Paraíba. A gamificação, prática de aplicar elementos de jogos em ambientes 
+que  não  são  de  jogos,  foi  a  estratégia  metodológica  escolhida  para  a 
+elaboração  das  duas  atividades  gamificadas  propostas:  Quizz  e  Caça  ao 
+tesouro.  Os  recursos  didáticos  empregados  para  a  aprendizagem  dos 
+conteúdos  foram  uma  revista  eletrônica  (Issuu),  plataforma  virtual  Kahoot, 
+QR  Codes,  mapas  do  tesouro  e  cartões  de  perguntas  e  respostas.  Depois  de 
+aplicar  as  atividades  gamificadas  do  projeto,  verificou-se  que  houve  o 
+envolvimento e a aprendizagem dos estudantes em relação ao tema abordado.  
+
+1. Introdução 
+
+ 
+
+ 
+
+Os fatídicos dados de acidentes e doenças do trabalho que continuam a perturbar, mais 
+do  que  a  economia  do  país,  famílias  inteiras,  são  assustadores  e  grotescos.  São 
+indicadores  similares  a  regiões  que  passam  por  conflitos  e/ou  guerras.  Em  2015, 
+segundo o Anuário Estatístico da Previdência Social [Anuário 2016], 612.632 acidentes 
+de  trabalho  foram  registrados.  Já  o  Anuário  Estatístico  de  Acidentes  do  Trabalho 
+(Anuário  2017),  criado  pelo  Ministério  do  Trabalho,  em  2017  –  última  publicação  – 
+revelou que foram 549.405 acidentes no Brasil. 
+
+Os últimos dados emitidos pelo IBGE (2017) sobre ocupação indicaram que, em 
+2010,  no  Brasil,  havia  3.406.514  pessoas  com  idades  entre  10  e  17  anos  ocupadas  em 
+alguma  forma  de  trabalho;  na  Paraíba,  69.508;  e  em  João  Pessoa,  6.234.  A  taxa  de 
+participação  dos  jovens  de  15  a  24  anos  no  mercado  de  trabalho  subiu  de  55,3%,  em 
+1980, para 56,5%, em 1991, e atingiu 61,1% em 2000, seu patamar máximo na história 
+urbana e industrial brasileira [Santos e Gimenez 2015]. 
+
+Essa  conjuntura,  que  ainda  traz  outros  fatores,  tem  dificultado  a  redução  do 
+número  de  acidentes  de  trabalho,  devido  à  ganância  de  grande  parte  dos  empresários, 
+que visam ao lucro acima de qualquer responsabilidade social; à pouca fiscalização das 
+obrigações trabalhistas por parte do Ministério do Trabalho; e à queda na formação dos 
+trabalhadores,  tanto  a  básica  como  a  profissionalizante.  Esses  e  outros  fatores 
+contribuem  para  aumentar  o  número  de  acidentes  com  menores  de  idade  ou  jovens 
+trabalhadores.  Nessas  condições,  a  maioria  da  grande  população  infantojuvenil  é 
+empurrada  para  atividades  como  assalariadas  nas  ocupações  associadas  ao  trabalho 
+manual,  às  extensas  jornadas,  aos  reduzidos  rendimentos  e  aos  elevados  índices  de 
+acidente  de  trabalho,  especialmente  na  construção,  na  indústria  têxtil,  nas  atividades 
+agrícolas e extrativas e no comércio informal [Santos e Gimenez 2015]. 
+
+Miranda et al (2012) constataram, em um estudo sobre acidentes fatais no Brasil, 
+que a maioria dos acidentes atingiu homens jovens e produtivos, participantes ativos da 
+força  de  trabalho  e  em  atividades  de  maior  grau  de  risco.  Outro  agravante  na  situação 
+dos  acidentes  de  trabalho  no  Brasil  é  sua  ocorrência  em  crianças  e  adolescentes, 
+conforme  demonstraram  Santos  et  al  (2009).  Dados  da  Previdência  Social  corroboram 
+essa  lógica,  ao  apresentar  que,  em  2015,  17.153  trabalhadores  de  até  19  anos  se 
+acidentaram. Na faixa de 20 a 24 anos, foram 83.065 acidentados, e de 25 a 29, 99.617 
+[Anuário  2016].  Para  reforçar  essa  crise  trabalhista,  dados  da  Pesquisa  Nacional  de 
+Saúde  [Maia  et  al  2013],  realizada  em  parceria  entre  o  IBGE  e  o  Ministério  do 
+Trabalho,  em  2013,  apontam  que  1.676.000  pessoas  com  idades  entre  18  e  29  anos 
+referiram  ter  sofrido  acidente  de  trabalho  entre  os  meses  de  setembro  de  2012  e 
+setembro de 2013. Um número 6,74 vezes maior do que o apresentado pela Previdência 
+no mesmo período. Na Paraíba, foram 79.000, um número 15,75 vezes maior do que o 
+apresentado pela Previdência.  
+
+Este trabalho relata a experiência desenvolvida no âmbito do projeto de extensão 
+universitária Educação em segurança e saúde no trabalho: construindo o conhecimento 
+nos  futuros  trabalhadores,  cujo  objetivo  foi  o  de  produzir  e  disseminar  conhecimentos 
+sobre  Segurança  e  Saúde  no  Trabalho,  de  forma  inovadora,  com  estudantes  de  duas 
+Escolas  Cidadãs  Integrais  Técnicas  (ECITs)  da  Paraíba,  nas  cidades  de  João  Pessoa  e 
+Bayeux.  A  equipe  do  projeto  foi  composta  de  docentes  e  discentes  da  Universidade 
+Federal  da  Paraíba  (UFPB),  para  o  desenvolvimento  de  uma  ação  educativa 
+interdisciplinar,  baseada  no  uso  de  metodologias  inovadoras  e  tecnologias  digitais  no 
+ensino. O projeto atendeu a, aproximadamente, 320 estudantes da 1ª. e da 2ª. Séries do 
+ensino médio das ECITs selecionadas. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+O  texto  a  seguir  apresenta  a  relevância  de  ações  educativas,  voltadas  para  a 
+formação  teórica  e  para  o  desenvolvimento  de  boas  práticas  em  segurança  e  saúde  no 
+trabalho,  que  colaborem  para  preservar  a  saúde  e  a  vida  de  adolescentes  e  jovens 
+trabalhadores. Explica o conceito  e as razões da escolha das estratégias metodológicas 
+da  gamificação  e  da  aprendizagem  móvel  para  a  modelagem  de  duas  atividades 
+gamificadas para o ensino e a aprendizagem dos temas com os estudantes participantes 
+do projeto. Descreve o desenvolvimento das etapas dessa ação de extensão universitária 
+e  relata  cada  atividade  proposta,  apresentando  os  materiais  didáticos  produzidos  e  as 
+tecnologias digitais empregadas. 
+
+ 
+
+ 
+
+2. Referencial teórico 
+
+A  educação,  nos  anos  iniciais  da  escola,  tem  sido  uma  estratégia  seguida  por  diversas 
+frentes  e  órgãos  em  campanhas  de  conscientização  sobre  Segurança  e  Saúde  no 
+trabalho.  Chen  et  al  (2007)  apontam  a  prevenção  como  a  principal  ferramenta  para 
+reduzir acidentes com jovens trabalhadores. Acredita-se que uma formação, mesmo que 
+incipiente,  sobre  as  questões  e  os  conceitos  relacionados  à  Segurança  e  à  Saúde  no 
+Trabalho para as escolas de Educação Básica pode ampliar a eficiência do processo de 
+conscientização.  
+
+Ressalte-se,  no  entanto,  que  a  abordagem  desses  conteúdos  com  os  estudantes 
+desse  nível  de  ensino  escolar  requer  conhecimentos  específicos  da  Pedagogia,  que 
+possibilitem a criação ou a aplicação de metodologias ativas de ensino e de tecnologias 
+educacionais  para  a  realização  de  práticas  educativas  inovadoras.  Em  resposta  a  esse 
+contexto  educativo,  o  projeto  fundamentou  suas  bases  pedagógicas  nas  metodologias 
+ativas de ensino e aprendizagem. Segundo Diesel, Baldez e Martins (2017), embora em 
+destaque nos últimos anos, as  abordagens  ativas de ensino e aprendizagem vêm sendo 
+pensadas e aplicadas na educação brasileira desde os anos de 1930, com o movimento 
+da Escola Nova.  
+
+Como  alternativa  para  os  modelos  educativos  tradicionais,  o  método  ativo  de 
+ensino reúne teorias e práticas que deslocam o centro da ação educativa para o aprendiz 
+e  para  a  aprendizagem.  Para  fazer  isso,  o  método  ativo  se  funda  em  princípios  como: 
+problematização  da  realidade,  reflexão,  autonomia,  mediação  e  trabalho  em  equipe, 
+potencializando  o  protagonismo  dos  estudantes  na  construção  do  conhecimento  e  na 
+interpretação e intervenção na realidade [Diesel, Baldez e Martins 2017]. 
+
+Assim, elaborar estratégias didáticas inovadoras que possibilitem o engajamento 
+e  a  motivação  dos  estudantes,  durante  o  processo  de  ensino  e  aprendizagem  e  de 
+construção  do  conhecimento,  é  um  desafio  educacional  contemporâneo  para  qualquer 
+educador.  Nosso  projeto  tentou  responder  a  esse  desafio,  a  partir  da  concepção  e  da 
+aplicação  dos  procedimentos  metodológicos  da  gamificação.  A  escolha  por  essa 
+metodologia ativa partiu da premissa de que ela tem um grande potencial para motivar 
+os a se engajarem na era digital [Cotta Orlandi  et al 2018]. No âmbito da educação,  a 
+gamificação  é  entendida  como  uma  metodologia  ativa  de  ensino  e  aprendizagem  que 
+utiliza  elementos  do  design  de  games  para  criar  um  ambiente  educativo  mais  rico  em 
+interatividade e possibilidades de escolha e de ação pelos estudantes, que colabore para 
+uma aprendizagem significativa e prazerosa. [Silva et al 2015, Cotta Orlandi et al 2018, 
+Silva, Sales e Castro 2019]. 
+
+ 
+
+Em  estudo  sobre  a  aplicação  de  atividades  gamificadas,  Silva,  Sales  e  Castro 
+(2019)  notaram  que  houve  uma  melhora  significativa  na  aprendizagem  dos  conteúdos 
+de Física. Esses autores verificaram isso por meio de um pré-teste aplicado para avaliar 
+os  estudantes  antes  e  depois  da  realização  de  uma  atividade  gamificada.  Rocha  et  al 
+(2016) relatam que atividades gamificadas também têm sido aplicadas para o ensino de 
+línguas estrangeiras e de Libras, como os aplicativos Duolingo e Serious LIBRAS, para 
+treinamento médico e até para a reabilitação de pacientes. 
+
+Embora  se  possa  criar  uma  atividade  gamificada  sem  o  uso  de  tecnologias 
+digitais,  o  projeto  integrou  os  princípios  da  gamificação  aos  da  aprendizagem  móvel, 
+tomando o smartphone e a internet como principais tecnologias digitais para realizar as 
+atividades  propostas.  Entendemos  que  o  conceito  de  aprendizagem  móvel  tem  a 
+mobilidade como seu principal elemento, e não, o uso de dispositivos móveis, porque é 
+a  mobilidade  que  possibilita  que  as  pessoas  aprendam  enquanto  estão  em 
+movimento/deslocamento,  rompendo  com  os  limites  físicos  e  fixos  do  espaço  e  do 
+tempo  para  aprender  [Valentim  2009].  De  acordo  com  esse  autor,  essa  concepção 
+destaca  melhor  o  que  há  de  novo  na  aprendizagem  móvel:  a  mobilidade  e  a 
+conectividade, para que se possa aprender em qualquer lugar e a qualquer momento. 
+
+Segundo  a  Unesco  (2014),  a  aprendizagem  móvel  vai  integrar  a  educação  nos 
+próximos  15  anos,  à  medida  que  formos  superando  as  limitações  técnicas  dos 
+dispositivos  móveis  atuais,  que  comprometem  seu  uso  como  uma 
+tecnologia 
+educacional,  tais  como:  autonomia  das  baterias,  tamanho  e  qualidade  de  resolução, 
+brilho das telas, capacidade de memória, resistência ao calor e à umidade, entre outras. 
+
+A  estratégia  BYOD  (Bring  Your  Own  Device)  de  aprendizagem  móvel  foi 
+empregada para tornar possível a realização das atividades gamificadas do projeto. Com 
+o  uso  dos  smartphones  dos  próprios  estudantes,  incluímos  a  movimentação  e  a 
+exploração  dos  espaços  físicos  das  escolas  nas  atividades  gamificadas  propostas,  que 
+resultou  em  uma  aprendizagem  que  envolveu  a  integração  do  corpo  e  da  mente  na 
+construção  do  conhecimento,  a  partir  do  acesso  e  da  análise  de  informações 
+disponibilizadas em formato multimodal (textos, imagens e vídeos). A estratégia BYOD 
+usa  os  dispositivos  móveis  dos  próprios  estudantes  e  permite  que  essas  tecnologias 
+digitais,  que  estão  diariamente  presentes  nas  salas  de  aula,  transformem-se  em 
+tecnologias  educacionais  e  sejam  usadas  em  favor  da  aprendizagem.  Trata-se  de  uma 
+estratégia  inovadora  para  equacionar  dois  problemas  atuais  da  educação:  a  estrutura 
+tecnológica precária ou inexistente das escolas brasileiras e o controle do uso indevido 
+dos  smartphones  em  sala  de  aula.  Nessa  perspectiva,  o  projeto  buscou  aplicar  nas 
+atividades  propostas  o  conhecimento  e  a  reflexão  atual  sobre  inovação  em  educação, 
+metodologias ativas de ensino, tecnologias digitais e aprendizagem móvel para observar 
+as  contribuições  que  elas  podem  oferecer  aos  processos  de  ensino  e  aprendizagem 
+escolares.  
+
+3. Metodologia 
+
+O  protagonismo  estudantil,  a  aplicação  e  o  compartilhamento  do  conhecimento 
+acadêmico científico em contextos reais e a relação dialética entre teoria e prática são os 
+princípios  orientadores  da  extensão  universitária.  Essa  é  uma  dimensão  essencial  da 
+formação de qualquer profissional no Ensino Superior que, quando mobiliza a pesquisa 
+e a produção de conhecimentos, contribui para cumprir a função social da universidade. 
+
+Para  gerenciar  o  trabalho  da  equipe  de  estudantes  desse  projeto  de  extensão, 
+adotou-se  uma  metodologia  que  seguiu  os  mesmos  pressupostos  da  extensão 
+
+ 
+ 
+
+ 
+
+ 
+ 
+universitária  e  das  metodologias  ativas  de  ensino  destacadas  anteriormente.  Todo  o 
+planejamento  das  atividades  desenvolvidas  resultou  de  um  processo  colaborativo  de 
+trabalho,  com  a  participação  ativa  dos  docentes  e  dos  discentes  na  definição  de 
+interesses, temas, estratégias didáticas e atividades de ensino e aprendizagem, por meio 
+de reuniões semanais de estudo, planejamento, orientação e avaliação. 
+
+A dimensão de pesquisa no escopo do projeto consistiu na busca sistemática e na 
+análise  de  ementas  das  disciplinas  de  Segurança  do  Trabalho  das  cinco  Universidades 
+mais  bem  conceituadas  na  área  de  Engenharia  de  Produção  do  Brasil,  além  de  duas 
+especializações  em  Engenharia  de  Segurança  do  Trabalho.  Os  conteúdos  curriculares 
+mais  recorrentes  foram  selecionados  como  base  teórica  para  a  construção  de  um  livro 
+digital. Selecionamos nove conteúdos mais frequentes, a saber: Acidentes de Trabalho; 
+Riscos;  Legislação;  Doenças  Ocupacionais;  Controle  e  Prevenção;  Equipamentos  de 
+Proteção  Coletiva  (EPC);  Equipamentos  de  Proteção  Individual  (EPI);  Prevenção  e 
+Combate a Incêndios e Primeiros Socorros. 
+
+O  livro  digital  foi  construído  utilizando-se  os  recursos  de  duas  plataformas 
+virtuais:  Canva  e  Issuu.  No  Canva,  foram  diagramados  os  conteúdos  abordados  nas 
+atividades gamificadas propostas pelo projeto. O  layout do livro foi definido, tomando 
+como premissa básica a ideia de priorizar o uso de elementos ilustrativos em detrimento 
+de  textos  longos  e  com  linguagem  muito  especializada/técnica.  O  intuito  foi  de 
+proporcionar  uma  leitura  mais  interessada  pelos  estudantes  e  uma  compreensão  rápida 
+dos  conteúdos  abordados.  Depois  de  feita  a  diagramação  das  páginas  no  Canva,  elas 
+foram inseridas no livro digital criado e publicado na plataforma Issuu. Essa plataforma 
+possibilita  a montagem simplificada de um livro digital, que pode ser  compartilhado e 
+acessado  para  os  estudantes  das  ECITs  lerem  usando  seus  smartphones.  Durante  o 
+desenvolvimento  dessa  etapa  de  preparação  de  materiais  didáticos  para  subsidiar  a 
+aprendizagem dos conteúdos curriculares selecionados, os graduandos do projeto foram 
+orientados  para  mobilizar  o  conhecimento  produzido  ao  longo  de  seus  cursos  e 
+desenvolver habilidades técnicas relacionadas com outras áreas de conhecimento. 
+
+A  etapa  seguinte  do  projeto  consistiu  em  definir  as  atividades  que  seriam 
+realizadas com os estudantes nas escolas selecionadas. Com base na metodologia ativa 
+da  gamificação  e  na  reflexão  sobre  os  diferentes  tipos  de  atividades  pedagógicas 
+possíveis,  decidimos  propor  um  quizz  -  com  auxílio  dos  recursos  disponíveis  na 
+plataforma  Kahoot  -  e  uma  atividade  do  tipo  “caça  ao  tesouro”.  Essas  duas  atividades 
+gamificadas  elaboradas  abordaram  os  conteúdos  curriculares  sobre  Segurança  e  Saúde 
+no Trabalho, contidos no livro digital. 
+
+Cada  ECIT  teve  um  dia  reservado  para  realizar  as  duas  atividades  gamificadas 
+propostas. No primeiro dia, participaram os estudantes dos Cursos Técnicos de Vendas 
+e Cozinha. No segundo dia, os estudantes dos cursos técnicos de Mecânica e Design de 
+móveis.  A  primeira  atividade  proposta  foi  a  de  ler  o  livro  digital  e  participar  de    um 
+quizz eletrônico na plataforma Kahoot. A segunda atividade gamificada foi a de "Caça 
+ao  tesouro".  Para  gerenciar  e  executar  as  duas  atividades  propostas  aos  estudantes, 
+foram  empregadas  tecnologias  digitais  como  smartphone,  notebook,  internet  Wi-Fi, 
+dados  móveis,  data  show,  aplicativos  como  Google  Doc  e  Forms,    Canva,  ISSUU, 
+Kahoot, gerador e leitor de QR-Code. 
+
+A seguir, apresentamos a descrição das duas atividades gamificadas elaboradas e 
+executadas  pelos  graduandos  nas  ECITs  selecionadas  pelo  projeto.  As  aplicações  da 
+gamificação  na  Educação  não  são  facilmente  encontradas  e  compreendidas  nas 
+publicações consultadas. Por isso, este relato de experiência pretende contribuir com os 
+
+ 
+
+leitores, no sentido de apresentar, de modo prático, como conseguimos traduzir nossa 
+compreensão teórica sobre gamificação como uma metodologia ativa de ensino em uma 
+prática  educativa  inovadora.  Esperamos  que  a  descrição  das  atividades  gamificadas 
+propostas, a demonstração dos materiais didáticos elaborados e a indicação dos recursos 
+tecnológicos  empregados  auxiliem  outros  professores  a  (re)criarem  essas  e  outras 
+atividades gamificadas em suas salas de aula, que colaborem para o alcance de melhores 
+resultados de aprendizagem com seus estudantes. 
+
+4. Resultados e discussãoii 
+
+4.1. Atividade gamificada "Quizz" 
+
+Quizz  é  um  jogo  de  perguntas  e  respostas  objetivas  que  tem  o  objetivo  de  avaliar  o 
+conhecimento  sobre  determinado  assunto.  Em  geral,  ele  emprega  níveis  gradativos  de 
+dificuldade,  pontuação,  ranking  e  recompensa  para  incentivar  o  engajamento  dos 
+jogadores para o alcance de determinado resultado.  O quizz eletrônico pode ser criado 
+facilmente, em diferentes sistemas informáticos na Web, sem a exigência do domínio de 
+conhecimentos e habilidades técnicas especializadas por parte do professor. 
+
+Para  elaborar  nossa  atividade  gamificada  do  quizz  eletrônico,  usamos  os 
+recursos das plataformas digitais Kahoot.com, Canva.com e o Issuu.com. O livro digital 
+foi  elaborado  no  aplicativo  Canva  e  publicado  para  acesso  no  site  do  Issuu.  A 
+plataforma Kahoot possibilitou a criação de uma atividade gamificada do tipo quizz, em 
+que utilizamos os elementos de game de níveis de dificuldade,  controle do tempo para 
+resposta, feedback imediato e ranking dos resultados. Foram elaborados quatro quizzes, 
+que abordavam os assuntos elencados na seção anterior (metodologia).  
+
+Para realizar essa atividade, os estudantes foram divididos em equipes de cinco 
+para responder o quizz, usando  apenas um  smartphone como dispositivo de conexão  e 
+registro de respostas. O quizz foi composto de dezessete perguntas - treze sobre Saúde e 
+Segurança  no  Trabalho,  e  quatro,  sobre  conteúdos  específicos  dos  cursos  técnicos 
+oferecidos  pelas  escolas.  Cada  pergunta  tinha  quatro  alternativas  de  resposta.  Foi 
+necessário que as equipes de estudantes debatessem e escolhessem a resposta correta em 
+um  tempo  máximo  de  um  minuto.  A  própria  plataforma  Kahoot  promove  o  somatório 
+dos pontos de cada grupo e apresenta um resultado final (Figura 3). A pontuação obtida 
+por  cada  equipe  foi  anotada  em  planilha  eletrônica  para  ser  contabilizada  com  a 
+pontuação da segunda atividade gamificada de caça ao tesouro. 
+
+4.2. Atividade gamificada de ‘Caça ao tesouro’ 
+
+A caça  ao tesouro  é um  jogo que  envolve os  jogadores na exploração de um  território 
+físico/geográfico,  guiados  por  um  mapa  e  por  pistas  que  eles  precisam  encontrar  e 
+desvendar  para  conseguir  chegar  ao  tesouro  escondido.  É  um  jogo  que  envolve 
+agilidade de raciocínio e o desenvolvimento de estratégias de solução de problemas para 
+alcançar o objetivo pretendido.  
+
+Para  elaborar  essa  atividade  gamificada,  foi  necessário  fazer  o  mapeamento 
+geográfico  da  escola,  observando  os  locais  mais  adequados  para  a  realização  da 
+atividade.  A  partir  disso,  com  os  conteúdos  selecionados  e  as  questões  elaboradas,  foi 
+definido o regulamento da atividade proposta  e construídos os mapas da trilha da caça 
+ao tesouro (Figura 4), os cards com perguntas e respostas (Figura 5) e as pistas do jogo 
+em  QR-Codes.  Os  QR-Codes  continham  informações  em  formatos  diversificados  com 
+textos, imagens e vídeos que tinham relação  com  os locais  e com as questões a serem 
+respondidas.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Questões  objetivas  e  subjetivas  foram  apresentadas  em  dez  cards  numerados 
+(pergunta e resposta), que, para serem resolvidos, precisavam do auxílio de pistas (em 
+formato  de  QR  Code),  distribuídas  nos  ambientes  escolares  que  tinham  relação  direta 
+com  o  conteúdo  abordado  em  cada  questão.  Os  grupos  receberam  o  mapa  do  tesouro 
+com a indicação da quantidade de pistas e de sua distribuição nos ambientes escolares. 
+As equipes liam a pergunta do  card, procuravam a  dica correspondente nos  ambientes 
+escolares  com  o  auxílio  do  mapa,  liam  o  QR  Code  com  seus  smartphones,  discutiam 
+com o grupo sobre a pista e a resposta correta, registravam no card e prosseguiam para 
+responder a pergunta do card seguinte. 
+
+ 
+Foi  possível  perceber  que  a  aplicação  das  metodologias  ativas  de  ensino  e 
+aprendizagem  e  das  tecnologias  digitais  contribuiu  para  motivar  os  estudantes  a  se 
+interessarem  pelo  tema  proposto  e,  consequentemente,  para  a  aprendizagem.  As 
+experiências vivenciadas ajudaram os graduandos do projeto de extensão universitária a 
+compreenderem bem mais as concepções teóricas e a aplicação das metodologias ativas 
+de  ensino  em  contextos  educativos  reais.  Os  graduandos  do  Curso  de  Pedagogia 
+puderam  desenvolver  competências  e  habilidades  para  intervir  de  forma  mais 
+propositiva na aplicação de tecnologias digitais em processos de ensino e aprendizagem 
+e  compreender  como  a  gamificação  pode  ser  inserida  no  exercício  de  suas  atividades 
+profissionais. 
+
+Com  os  resultados  obtidos,  constatamos  que  os  estudantes  das  ECITs  se 
+engajaram significativamente no processo de resolução da atividade gamificada de ‘caça 
+ao  tesouro’.  Na  atividade  de  leitura  do  livro  digital,  observamos  que  a  ansiedade  e  a 
+dispersão  dos  estudantes  comprometeram  o  foco  e  a  atenção  necessários  para 
+potencializar a aprendizagem dos conteúdos apresentados. Por esse motivo, verificamos 
+que optar por grupos menores de estudantes para a realização das atividades propostas é 
+uma  boa  alternativa  para  novas  edições  do  projeto.  Também  observamos  que  eles 
+tiveram  dificuldade  de  se  concentrar  e  cansaço  por  parte  dos  estudantes,  visto  que 
+estudam em horário integral, e as atividades foram aplicadas no início da tarde, depois 
+do  almoço.  Entretanto,  os  resultados  qualitativos  e  quantitativos,  obtidos  do  Quizz  no 
+Kahoot  e  da  correção  dos  cards  respondidos  na  caça  ao  tesouro,  indicaram  uma 
+aprendizagem satisfatória, mesmo diante das dificuldades apontadas.  
+
+Embora  não  tenha  sido  possível  comparar  a  aprendizagem  dos  estudantes  das 
+ECITs  antes  e  depois  da  realização  das  atividades  gamificadas,  outros  objetivos  do 
+projeto  foram  devidamente  alcançados.  A  elaboração  de  materiais  didáticos  lúdicos  e 
+que envolvessem os estudantes, tornando-os ativos em sua aprendizagem, era um ponto 
+fundamental na metodologia construída. O envolvimento de estudantes de Pedagogia e 
+de Engenharia de Produção na construção dos materiais foi um diferencial na formação 
+desses  graduandos.  As  atividades  de  extensão  possibilitam  levar  os  conhecimentos 
+aprendidos  na  Universidade  para  outros  entes  da  sociedade.  Isso 
+tem  uma 
+representatividade  ainda  maior  por  ser  uma  instituição  pública.  O  objetivo  de  difundir 
+os  conhecimentos  sobre  Segurança  e  Saúde  do  Trabalho  foi  alcançado  e  atingiu  um 
+público com um grande potencial para trabalhar em ambientes repletos de riscos à saúde 
+e  à  vida  dos  trabalhadores,  como,  por  exemplo,  os  Cursos  Técnicos  de  Mecânica  e 
+Design  de  Móveis.  Propiciar  a  esses  estudantes  e  futuros  trabalhadores  um  primeiro 
+contato com tais questões foi o grande objetivo deste projeto de extensão.  
+
+5. Considerações Finais 
+
+ 
+
+Esse  projeto  de  extensão  universitária  para  os  graduandos  da  UFPB  contribuiu, 
+principalmente, para formar um profissional de Engenharia de Produção e de Pedagogia 
+mais  crítico,  ativo,  criativo  e  capaz  de  aplicar  o  conhecimento  produzido  na 
+universidade  para  resolver  problemas  reais  ou  alcançar  objetivos  estabelecidos.  O 
+projeto  também  nos  possibilitou  construir  um  pensamento  crítico  e  reflexivo  sobre  a 
+interdisciplinaridade  entre  distintas  áreas  de  conhecimento  na  Universidade,  como  a 
+Engenharia de Produção e a Pedagogia, que se complementaram muito bem no escopo 
+deste  projeto.  É  válido  ressaltar,  ainda,  que  as  tecnologias  digitais  e  as  metodologias 
+ativas de ensino foram relevantes para o ensino e a aprendizagem dos temas abordados e 
+colaboraram para a produção de atividades inovadoras.  
+
+ 
+Em  relação  à  nossa  formação  acadêmica,  as  contribuições  foram  incalculáveis, 
+porquanto possibilitaram o aprofundamento de conteúdos curriculares importantes para 
+a  formação  profissional  nos  dois  cursos  de  graduação  envolvidos,  a  produção  de 
+conhecimento  especializado  sobre  Segurança  e  Saúde  no  Trabalho  e  metodologias 
+ativas de ensino apoiadas em tecnologia digitais. 
+
+Referências 
+
+Anuário Estatístico da Previdência Social (2016),  Ministério da  Fazenda, Secretaria de 
+Previdência,  Empresa  de  Tecnologia  e  Informações  da  Previdência.  Brasília: 
+MF/DATAPREV, 24ª ed. 
+
+Anuário  Estatístico  de  Acidentes  do  Trabalho:  AEAT  2017  (2017),  Ministério  do 
+
+Trabalho e Emprego [et al.], Brasília, 8ª ed. 
+
+Chen, J; Kresnow, M; Simon, T. R; Dellinger, A. (2007), Injury prevention counselling 
+and  behavior  among  US  children:  results  from  the  second  injury  control  and  risk 
+survey. Pediatrics 
+
+Cotta  Orlandi,  Tomás  Roberto;  Gottschalg  Duque,  Cláudio;  Mori  Mori,  Alexandre;  & 
+de Andrade Lima Orlandi, Maria Tereza. (2018). Gamificação: uma nova abordagem 
+17-30. 
+multimodal 
+ https://dx.doi.org/10.5195/biblios.2018.447. Março. 
+
+educação. Biblios, 
+
+(70), 
+
+para 
+
+a 
+
+ Diesel,  Aline;  Santos  Baldez,  Alda  Leila;  Neumann  Martins,  Silvana.  (2019).  “Os 
+princípios  das  metodologias  ativas  de  ensino:  uma  abordagem  teórica”.  Revista 
+Thema, 
+268-288. 
+http://periodicos.ifsul.edu.br/index.php/thema/article/view/404. 
+
+[S.l.], 
+
+14, 
+
+n. 
+
+1, 
+
+p. 
+
+v. 
+
+IBGE  –  Instituto  Brasileiro  de  Geografia  e  Estatística.  (2017)  “Censo  Demográfico 
+
+2010”. ibge.gov.br . Março. 
+
+Maia,  André  Luís  Santiago;  Saito,  Cezar  Akiyoshi;  Oliveira,  Juliana  Andrade; 
+BUSSACOS, Marco Antônio; Maeno, Maria; Lorenzi, Ricardo Luiz; Santos, Sergio 
+Antônio  dos.  (2013),  “Acidentes  de  trabalho  no  Brasil  em  2013:  comparação  entre 
+dados  selecionados  da  Pesquisa  Nacional  de  Saúde  do  IBGE  (PNS)  e  do  Anuário 
+Estatístico  da  Previdência  Social  (AEPS)  do  Ministério  da  Previdência  Social”.  
+Fundacentro/Serviço de Estatística e Epidemiologia SEE. 1ª ed. 
+
+Miranda, F. M. D.; Scussiato, L. A.; Kirchhof, A. L. C.; Cruz, E. D. A.; Sarquis, L. M. 
+M.  (2012)  “Caracterização  das  vítimas  e  dos  acidentes  de  trabalho  fatais”.  Revista 
+Gaúcha de Enfermagem. 33(2), p.45-51. 
+
+Rocha,  Paul  Ribeiro  et  al.  Gamificação:  um  aplicativo  para  o  ensino  da  Língua 
+Brasileira  de  Sinais. Anais  dos  Workshops  do  Congresso  Brasileiro  de  Informática 
+
+ 
+ 
+
+ 
+
+Educação, 
+
+na 
+ie.org/pub/index.php/wcbie/article/view/7014. Abril. 
+
+896-900, 
+
+[S.l.], 
+
+p. 
+
+nov. 
+
+2016. 
+
+ 
+http://www.br-
+
+Santos,  Anselmo  Luís  dos,  Denis  Maracci  Gimenez.  (2015  )  “Inserção  dos  jovens  no 
+
+mercado de trabalho” Estudos Avançados, 29 (85). 
+
+Santos,  M.  E.  A.;  Mauro,  M.  Y.  C;  Brito,  C.  G.;  Machado,  D.  C.  (2009)  “Trabalho 
+precoce  e  acidentes  ocupacionais”.  Escola  Anna  Nery  Revista  de  Enfermagem. 
+13(4), p. 824-32. 
+
+ Silva,  F. C. P. et al. “Gamificação na Educação: a  importância da teoria das emoções 
+com  estratégia  de  análise  de  jogos  educacionais”.  In:  7º  Congresso  Nacional  de 
+Ambientes  Hipermídia  para  Aprendizagem,  2015,  São  Luís.  Anais  [...].  São  Luís: 
+Universidade Federal do Maranhão, 2015. p. 1-15. 
+
+Silva,  João  Batista  da;  Sales,  Gilvandenys  Leite;  Castro,  Juscileide  Braga  de.  (2019) 
+“Gamificação  como  estratégia  de  aprendizagem  ativa  no  ensino  de  Física”.  Rev. 
+4, 
+41, 
+Bras. 
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-
+11172019000400502&lng=en&nrm=iso. Março.  
+
+Ensino 
+
+Física, 
+
+v. 
+
+n. 
+
+UNESCO.  Representação  no  Brasil.  “O  futuro  da  aprendizagem  móvel:  implicações 
+(2014)  
+gestores 
+
+para 
+http://unesdoc.unesco.org/images/0022/002280/228074POR.pdf. Outubro. 
+
+planejadores 
+
+políticas”. 
+
+de 
+
+e 
+
+Valentim, H. D. “Para uma compreensão do Mobile Learning: reflexão sobre a utilidade 
+das tecnologias móveis na aprendizagem informal e para a construção de ambientes 
+pessoais  de  aprendizagem”.  2009.  Dissertação  de  Mestrado  (Gestão  de  Sistemas  de 
+E- 
+2009. 
+Lisboa,  Universidade  Nova 
+https://run.unl.pt/bitstream/10362/3123/1/Hugo_Valentim_M-Learning.pdf. Outubro. 
+
+Learning) 
+
+Lisboa, 
+
+de 
+
+– 
+
+ 
+
+i  Este  projeto  de  extensão  universitária  foi  financiado  com  recursos  da  Pró-Reitoria  de  Extensão  e 
+Assuntos Comunitários, da Universidade Federal da Paraíba, conforme edital PROBEX 2017. 
+
+ii Todos os materiais didáticos produzidos  (mapas da caça ao tesouro, cards com perguntas e respostas, 
+questões  do  quizz  Kahoot)  para  as  atividades  propostas  pelo  projeto  estão  disponíveis  para  envio  por 
+email (lebiamsilva@ce.ufpb.br). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

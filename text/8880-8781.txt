@@ -1,0 +1,701 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ensino de Robótica para a Promoção da Inclusão Sociodigital 
+de Pessoas com Deficiência: um Relato de Experiência 
+
+Júlio César da C. Lopes1, Dilva da S. Queirós1, Hakkinen D. Santos1, Ellen 
+Souza1, Hidelberg O. Albuquerque1, Héldon José O. Albuquerque1, 
+
+1Universidade Federal Rural de Pernambuco, Unidade Acadêmica de Serra Talhada - 
+PE (UFRPE-UAST), Curso de Bacharelado em Sistemas de Informação. 
+
+{juliocosta0c, queirozdilva0, santoshakkinen7, heldonjose, 
+bergsiloe}@gmail.com, {ellen.ramos, bergsiloe}@ufrpe.br
+
+for  people  with 
+
+Abstract.  This  paper  is  about  an  experience  report  on  the  teaching  of 
+intellectual  and  multiple  disabilities  who 
+robotics 
+participate  in  classes  of  Specialized  Educational  Assistance 
+in  the 
+Association of Parents and Friends of the Exceptional of Serra Talhada. The 
+objective  of  this  study  is  to  present  a  multidisciplinary  method  for  these 
+classes, as well as to report contents taught and  the resources used during 
+the lessons. The results obtained were presented with positive contributions. 
+Finally, the discussion is also presented in which the results are promising 
+for the area of inclusive Educational Robotics. 
+
+Resumo.  Este  artigo  trata-se  de  um  relato  de  experiência  no  ensino  da 
+robótica  para  Pessoas  com  Deficiência  (PcD)  intelectual  e  múltipla  que 
+participam de turmas do Atendimento Educacional Especializado (AEE) na 
+Associação de Pais e Amigos dos Excepcionais (APAE) na cidade de Serra 
+Talhada. O objetivo deste trabalho é apresentar um método multidisciplinar 
+realizado para estas aulas, assim como relatar  conteúdos ministrados e os 
+recursos  utilizados  no  decorrer  das  aulas.  Os  resultados  obtidos  foram 
+apresentados  de  forma  parcial  trazendo  contribuições  positivas.  Por  fim, 
+também  está  disposta  neste  artigo  a  discussão  na  qual  os  resultados  são 
+promissores para a área de Robótica Educacional (RE) inclusiva. 
+
+1. Introdução 
+
+As  Tecnologias  da  Informação  e  Comunicação  (TIC)  no  ambiente  educacional 
+apresentam inúmeras possibilidades na busca por um método de ensino cada vez mais 
+lúdico  e  instigante  (Alves,  Sampaio  e  Elia,  2018).  Segundo  Morais  II  et  al.  (2018),  a 
+robótica  está  mudando  a  forma  de  trabalho  em  todo  o  mundo,  tornando-se  essencial 
+adquirir conhecimento desta área no processo de inclusão digital. 
+
+ 
+Para Souza, Sampaio e Andrade (2018), quando se utiliza de mecanismos como 
+a  Robótica  Educacional  (RE)  ou  Robótica  Pedagógica  (RP),  é  possível  desenvolver 
+competências como o trabalho em equipe, o raciocínio lógico e a ́criatividade de forma 
+mais lúdica e divertida.  
+
+ 
+
+ 
+
+ 
+
+ 
+Tendo em vista as vantagens apresentadas da RE e sua importância no processo 
+de  inclusão  digital,  este  trabalho  tem  como  objetivo  apresentar  um  relato  de 
+experiência com o ensino de robótica de forma multidisciplinar para PcD intelectual e 
+múltipla  atendidas  pela  APAE  de  Serra  Talhada  (APAE/ST),  almejando  o 
+desenvolvimento sociodigital e do pensamento computacional desse público. 
+
+Assim, este trabalho está organizado da seguinte forma: a Seção 2 apresenta os 
+ 
+trabalhos encontrados na literatura que estão relacionados com esta pesquisa; na Seção 
+3, encontram-se os materiais e métodos adotados, a Seção 4 relata os resultados e, por 
+fim, a Seção 5 apresenta a conclusão. 
+
+2. Trabalhos Relacionados 
+
+Nesta Seção são apresentados os trabalhos encontrados na literatura, através de busca 
+manual nos anais do Congresso sobre Tecnologias na Educação (CTRL + E), Revista 
+Brasileira de Informática na Educação (RBIE), Congresso Brasileiro de Informática na 
+Educação  (CBIE),  Revista  Tecnologias  na  Educação,  Simpósio  Brasileiro  de 
+Informática na Educação (SBIE), Workshop sobre Educação em Computação (WEI), e 
+buscas  automáticas  no  Portal  de  Periódicos  CAPES  e  Google  Scholar,  no  período  de 
+2015  a  2019.  Foram  encontrados  cinquenta  e  um  trabalhos,  destes,  treze  estão 
+relacionados  a  este  relato  de  experiência  e  por  questão  de  espaço  apenas  dois  estão 
+detalhados. 
+
+Em  Conchinha  e  Freitas  (2015),  os  autores  realizaram  cinco  sessões  com  três 
+alunos  com  Síndrome  de  Asperger  (SA),  síndrome  classificada  atualmente  como 
+Transtorno  do  Espectro  Austista  (TEA),  com  intuito  de  fomentar  a  interação  social  e 
+cooperação entre os participantes. Utilizando do KIT Lego® Mindstorms® NXT®, os 
+alunos  aprenderam  a  montar,  programar  e  interagir  com  o  robô,  porém,  durante  o 
+processo,  os  alunos  apresentaram  dificuldades  na  montagem  e 
+também  na 
+programação,  principalmente  pela  dificuldade  em  relação  à  lateralidade.  Os  três 
+participantes aprenderam os conteúdos e desenvolveram as atividades propostas, sendo 
+que um deles apresentou um pouco mais de dificuldade e era necessário repetir várias 
+vezes  as  atividades.  Os  outros  dois  participantes  mostraram  mais  desenvoltura  na 
+resolução  dos  desafios.  Todos  os  alunos  afirmaram  que  “gostaram  muito”  das 
+atividades  propostas.  Os  autores  relataram  que  o  KIT  utilizado  é  uma  ferramenta  útil 
+por fomentar a interação social e proporcionar novas aprendizagens. 
+
+Em  Lopes  et  al.  (2015),  foram  ministradas  vinte  aulas  com  duração  de  duas 
+horas  em  um  período  de  três  meses,  sendo  duas  aulas  semanais,  para  estudantes  com 
+baixo  desempenho  no  Exame  Nacional  do  Ensino  Médio  (ENEM)  e  PcD. O  trabalho 
+apresenta oito escolas envolvidas, com sessenta e quatro participantes com idades entre 
+dez  e  vinte  anos,  sendo  um  esquizofrênico,  um  com  SA,  um  com  Deficiência 
+Intelectual (DI) e quatro surdos, que contavam com um interprete da Língua Brasileira 
+de  Sinais  (LIBRAS).  Participantes  com  idade  entre  dez  e  quatorze  anos  foram 
+distribuídos  no  nível  I  e  os  demais  (quinze  a  vinte  anos)  no  nível  II.  O  objetivo  era 
+promover  a  inclusão,  proporcionar  a  interação  dos  envolvidos  e  verificar  se,  em  um 
+grupo  heterogêneo,  seria  possível  cada  aluno  desenvolver  habilidades  individuais  de 
+forma  que  contribuísse  para  o  grupo.  Apenas  27  alunos  concluíram  o  projeto,  vários 
+motivos  para  a  desistência  foram  relatados  no  trabalho.  Durante  a  ministração  das 
+aulas,  foi  possível  identificar  pela  equipe,  formada  por  estudantes  de  engenharia 
+elétrica  e  psicologia,  o  desenvolvimento  de  características  importantes,  como 
+
+ 
+
+ 
+
+ 
+
+criatividade,  responsabilidade,  trabalho  em  equipe,  falar  em  público,  entre  outras.  O 
+trabalho em conjunto das duas áreas (engenharia e psicologia) facilitou a identificação 
+de falhas com relação à didática e também foi possível observar o desenvolvimento de 
+todos os envolvidos. 
+
+O  Quadro  1  traz  uma  análise  comparativa  do  trabalho  proposto  com  os 
+trabalhos  relacionados  que  foram  aqui  citados.  É  possível  identificar  um  diferencial 
+deste trabalho em relação aos demais, já que as aulas são ministradas apenas para PcD 
+intelectual e múltipla, com um público bem maior  do que os apresentados, utilizando 
+um KIT diferente dos demais e apropriado para o público.  
+
+Quadro 1. Análise comparativa 
+
+ 
+Lopes et al. (2015) 
+
+Este trabalho 
+
+Alunos  do  ensino  fundamental  e 
+médio  com  baixo  desempenho  no 
+ENEM e PcD. 
+KIT Didático da  Modelix*,  protoboards, 
+baterias, LEDs, botoeiras, resistores, fios 
+para 
+microprocessador 
+Arduino®  UNO,  sensores  (LDR,  LM35, 
+robô 
+infravermelho,  Reed  Switch), 
+UAIrobotsLine,  lanternas,  KIT  Didático 
+da  Lego*,  componentes  eletrônicos  de 
+baixo custo, materiais descartados. 
+
+conexão, 
+
+4 turmas de 16 participantes cada. 
+
+20  aulas  com  duração  de  2  horas 
+cada,  ministradas  duas  vezes  por 
+semana durantes três meses. 
+
+PcD intelectual e múltipla. 
+
+KIT  Lego  Boost®,  tablets  e 
+Computação desplugada. 
+
+6  turmas  com  média  de  20 
+alunos cada. 
+
+●  1  hora/aula  semanal,  sendo 
+utilizado o KIT de Robótica 
+uma vez por mês; 
+
+●  As  aulas  ocorrem  durante 
+
+todo o ano. 
+
+Montagem mecânica, Eletrônica e 
+Programação. 
+
+Informado  na  metodologia 
+deste trabalho. 
+
+ 
+
+Público 
+alvo 
+
+Recursos 
+
+Conchinha e 
+Freitas 
+(2015) 
+Pessoas com 
+Síndrome de 
+Asperger (TEA) 
+
+Lego 
+Mindstorms 
+NXT 
+
+Alunos 
+por 
+turma 
+Carga 
+horária 
+Frequência/
+Nº de Aulas 
+
+Conteúdos 
+abordados 
+
+3 alunos 
+
+5 sessões   
+
+Construção e 
+programação 
+do robô e 
+interação dos 
+participantes. 
+
+Fonte: Elaborado pelos Autores (2019) 
+
+3. Materiais e Métodos 
+
+Na  Seção  3.1,  é  apresentada  a  equipe,  assim  como  a  sua  divisão  na  realização  de 
+tarefas  do  projeto.  Já  na  Seção  3.2,  é  apresentado  o  público  alvo  que  este  projeto 
+abrange  e  como  estão  dispostas  as  turmas  que  participam  das  aulas.  Na  Seção  3.3,  é 
+apresentado  o  KIT  que  é  utilizado  na  didática  das  aulas  e  todos  os  recursos  que  o 
+compõe. Por fim, na Seção 3.4, são apresentadas as etapas de construção da aula, assim 
+como o método adotado para as aulas e os conteúdos a serem ministrados. 
+
+3.1. Equipe 
+
+Este  projeto  iniciou-se  em  2018  e  continua  em  andamento  desde  fevereiro  do  ano  de 
+2019. Com uma nova equipe formada por sete discentes do curso de Bacharelado  em 
+
+ 
+
+ 
+
+ 
+
+Sistemas de Informação (BSI) e extensionistas do Projeto de Extensão Inclusão Digital 
+vinculado  a  Universidade  Federal  Rural  de  Pernambuco  –  Unidade  Acadêmica  de 
+Serra  Talhada  (UFRPE/UAST),  sendo  as  aulas  de  robótica  ministradas  por  três  dos 
+extensionistas  deste  projeto.  Dois  são  responsáveis  pela  aula  e  o  outro  é  responsável 
+por  analisar  e  documentar  o  desempenho  dos  usuários  utilizando  um  formulário 
+elaborado  pelos  extensionistas  e  que  foi  validado  pela  coordenadora  do  projeto  de 
+extensão  e  pela  equipe  pedagógica  da  UFRPE/UAST.  Além  disso,  os  extensionistas 
+participaram  de  oficinas  formativas  com  a  equipe  pedagógica,  já  que  todos  são 
+estudantes de bacharelado, curso sem foco na formação de educadores, como é no caso 
+das licenciaturas. 
+
+3.2. Público alvo 
+
+A  APAE/ST  tem  como  missão  contribuir  para  autonomia  e  qualidade  de  vida  de 
+trezentos e setenta PcDI, através de uma equipe interdisciplinar com a participação de 
+pais  e  amigos.  Desses  usuários,  cento  e  vinte  participam  das  aulas  de  Letramento 
+Digital  e  são  divididos  em  seis  turmas  do  Atendimento  Educacional  Especializado 
+(AEE) de diferentes faixas etárias. São elas: 
+
+●  AEE II A (manhã) e B (tarde) – 11 a 17 anos. 
+●  AEE III A (manhã) e B (tarde) – 18 a 30 anos. 
+●  AEE IV A (manhã) e B (tarde) – 31 a 60 anos. 
+
+ 
+Para que de fato as aulas pudessem ser ministradas com participação de todos, 
+fez-se  necessário  realizar  primeiro  um  estudo  para  verificar  quais  as  deficiências  que 
+cada  usuário  possui  para  que  fosse  possível  ofertar  uma  aula  que  realmente  incluísse 
+todos os participantes do projeto. Verificou-se que o público é muito heterogêneo, além 
+da DI, existem usuários no grupo com Autismo, Epilepsia, Hidrocefalia, Síndrome de 
+Down e Paralisia Cerebral, juntamente com deficiência física. 
+
+3.3. KIT de Robótica 
+O  KIT  de  robótica  escolhido  para  as  aulas  é  o  KIT  Lego  Boost®,  o  qual  possui  847 
+peças  de  montagem,  incluindo  um  move  hub,  peça  principal  do  KIT  que  utiliza  seis 
+pilhas AAA, um sensor de cor e distância e um motor interativo. Com o KIT é possível 
+montar  diversos  tipos  de  robôs,  porém,  a  própria  LEGO  disponibiliza  manuais  com 
+detalhes  para  construção  de  cinco  robôs,  sendo  eles:  o  Vernie,  Frankie,  Guitar  4000, 
+M.I.R.  4  e  Auto  Builder.  O  KIT  também  oferece  um  software  que  permite  uma 
+programação visual e está disponível nas seguintes plataformas:  Apple iOS, Microsoft 
+Windows  e  Google  Android.  Dessa  forma,  este  KIT  foi  escolhido  por  oferecer  várias 
+opções de montagens e por ser composto por muitas peças, sendo elas em sua maioria 
+pequenas,  tendo  em  vista  que  muitos  dos  usuários  da  APAE/ST  possuem  uma 
+motricidade fina comprometida. 
+
+3.4. Organização das Aulas 
+
+3.4.1. Processo de Construção das aulas 
+O  processo  de  construção  das  aulas  segue  um  padrão  composto  por  quatro  etapas. 
+Planejamento da aula: nesta etapa, é definido o conteúdo que será ministrado na aula, 
+a  parte  do  robô  que  será  construída  pelos  usuários,  como  também  a  sequência  dos 
+assuntos que será apresentada à  turma  e a maneira  como serão dispostas as etapas de 
+build,  code  e  play.  Preparação  da  aula:  nessa  etapa,  são  elaborados  os  recursos  que 
+
+ 
+
+ 
+
+ 
+
+serão  necessários  para  as  aulas  como  pistas,  montagem  de  uma  parte  do  robô, 
+adaptações  necessárias  para  atividades.  Validação:  a  aula  é  avaliada  pela  equipe 
+pedagógica e pela coordenadora do projeto de extensão, nessa etapa também é sugerido 
+o que é possível melhorar, é verificado se a aula inclui todos os usuários, é necessária 
+essa  verificação  devido  a  grande  heterogeneidade  das  turmas.  Também,  é  discutido  a 
+respeito dos pontos positivos e negativos das aulas anteriores. E por fim, a ministração 
+da aula. 
+ 
+
+Figura 1. Método adotado para Construção das Aulas 
+Fonte: Elaborada pelos Autores (2019) 
+
+3.4.2. Build, Code e Play 
+
+A  primeira  etapa  da  aula,  que  é  a  construção  do  robô  (BUILD)  além  de  exercitar  a 
+coordenação  motora,  também  ajuda  na  capacidade  de  abstração  e  imaginação,  pois 
+para  essa  etapa  os  usuários  precisam  analisar  as  sequências  e  regras  do  manual  para 
+conseguir  construir  as  partes  faltantes  do  robô.  Na  segunda  etapa  (CODE),  faz-se 
+necessário  o  reconhecimento  dos  blocos  de  comando  assim  como  o  uso  da  lógica  e 
+sequências de ações para que o robô execute-as. Por fim, a etapa (PLAY) consiste em 
+montar  e  executar  os  comandos  da  etapa  anterior  nos  tablets  e  analisar  se  o  robô 
+executou  de  maneira  correta  os  problemas  apresentados  em  sala  de  aula.  A 
+programação é rápida e fácil, já que não é necessário escrever linhas de código, utiliza-
+se  apenas  o  método  arrastar  e  soltar  (drag  and  drop)  blocos  de  forma  sequencial, 
+permitindo que usuários não alfabetizados participem das aulas sem prejuízos. 
+
+ 
+
+ 
+
+Figura 2. Método proposto pelo KIT Lego Boost® e adotado neste trabalho  
+Fonte: Adaptada de The LEGO Boost 
+
+3.4.3. Conteúdo Planejado 
+
+Além  do  desenvolvimento  do  pensamento  computacional,  a  RE  proporciona  a 
+multidisciplinaridade,  já  que  pode  ser  utilizada  para  abordar  diversos  conteúdos  e  até 
+mesmo melhorar as relações sociais e promover a inclusão (Morais II et al. (2018)). 
+
+Aulas 
+Aula 01 – 
+Aprendendo a 
+montar e 
+programar 
+Aula 02 – Tudo 
+limpo 
+
+Aula 03 – 
+Lateralidade 
+
+Aula 04 – 
+Vendendo e 
+lucrando 
+
+ 
+Além  do  KIT  Lego  Boost®,  utilizamos  recursos  que  facilitam  a  compreensão 
+dos  assuntos  abordados  e  que  tornam  as  aulas  mais  atrativas,  como  por  exemplo,  a 
+computação  desplugada  (Bell  et  al.  (2011)),  método  utilizado  para  o  ensino  do 
+pensamento  computacional  sem  o  uso  de  recursos  digitais,  e  também  a  utilização  de 
+pistas  para  movimentação  do  robô  confeccionada  pelos  próprios  extensionistas,  com 
+sua utilização foi  constatado que é um bom método, levando  em consideração que as 
+PcD intelectual  têm uma pequena capacidade de abstração, dificultando a imaginação 
+de um cenário para resolução dos desafios propostos durante as aulas, sendo assim, as 
+pistas contribuem no desenvolvimento cognitivo dos participantes. 
+
+Quadro 2. Planejamento das aulas 
+
+Temas 
+Montagem e 
+programação. 
+
+Atividades desenvolvidas 
+Em equipe: montagem das partes faltosas do 
+M.I.R. 4 e programação para o robô se 
+movimentar na pista para os locais solicitados. 
+
+Materiais utilizados 
+KIT Lego Boost®, tablets e 
+pista para movimentação do 
+robô. 
+
+Comandos básicos 
+de ação e higiene 
+pessoal. 
+
+Computação 
+desplugada e 
+orientação espacial. 
+Comandos básicos 
+de ação e voz, e 
+educação 
+Financeira. 
+
+Em equipe: montagem das partes faltosas do 
+Vernie e programação para o robô se movimentar 
+na pista para coletar materiais espalhados de 
+higiene pessoal. 
+Atividades práticas para aprendizagem de 
+lateralidade. 
+
+Cada equipe recebia um valor em dinheiro fictício 
+e deveria colocar um preço nas peças do robô que 
+não iriam utilizar e comprar à outra equipe as 
+peças que faltam para concluir a montagem.  
+
+Aula 05 –
+Colorindo 
+
+Aula 06 – 
+Vernie Tagarela 
+
+Aula 07 – 
+Aprendendo a 
+andar 
+
+Explorando o 
+sensor de cor e 
+noção de cores 
+Explorando o 
+sensor de cor, 
+blocos de voz e 
+sinais de trânsito. 
+Montagem e 
+programação. 
+
+Aula 08 - Coleta  Montagem e 
+programação. 
+
+Gincana. 
+
+Aula 09 – 
+Gincana 
+
+Aula 10 – 
+Reciclando 
+
+Cada equipe deve programar o robô para 
+reconhecer as cores e executar as ações 
+determinadas pelos professores. 
+Cada equipe deve criar um cenário real de trânsito 
+e explorar o sensor de cor, blocos de voz para 
+resolver os desafios propostos. 
+
+Em equipe: montagem das partes faltosas do 
+M.I.R. 4 e programação para o robô se 
+movimentar na pista obedecendo às instruções dos 
+professores. 
+Em equipe: montagem das partes que faltam do 
+M.I.R. 4 e programação para o robô se 
+movimentar na pista e coletar o que estiver 
+espalhado nela. 
+Atividades lúdicas explorando os conceitos 
+aprendidos nas aulas anteriores. 
+
+Reciclagem. 
+
+Montagem de robôs com material reciclado. 
+
+KIT Lego Boost®, tablets, 
+pista para movimentação do 
+robô e imagens de materiais 
+de higiene pessoal. 
+Fitas coloridas, bambolês, 
+atividades  
+Impressas. 
+KIT Lego Boost®, tablets, 
+pista para movimentação do 
+robô e imagens de todas as 
+notas de dinheiro e de 
+barracas, para representar cada 
+equipe. 
+KIT Lego Boost®, tablets e 
+pista para movimentação do 
+robô. 
+KIT Lego Boost®, tablets e 
+pista para movimentação do 
+robô. 
+
+KIT Lego Boost®, tablets e 
+pista para movimentação do 
+robô. 
+
+KIT Lego Boost®, tablets e 
+pista para movimentação do 
+robô. 
+
+KIT Lego Boost®, tablets e 
+pista para movimentação do 
+robô. 
+Material reciclado. 
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborada pelos Autores (2019) 
+
+Os  Resultados  serão  divididos  em  três  Subseções,  denominadas  Aulas  Realizadas, 
+Entrevista e Discussões, a fim de detalhar cada uma. 
+
+4. Resultados 
+
+4.1. Aulas Realizadas 
+
+Dos conteúdos apresentados no Quadro 2, foram ministradas as aulas de um a quatro. 
+Vale  ressaltar  que  esses  conteúdos  podem  sofrer  alterações  de  acordo  com  a 
+necessidade de cada turma. Por questão de espaço, nesta Seção serão apresentadas com 
+detalhes as aulas dois e três. 
+
+ 
+Na  aula  02  foi  executada  a  etapa  BUILD.  Foram  montados  os  cones  e  aliens, 
+devido  ao  curto  tempo  das  aulas  não  é  possível  montar  todo  o  robô.  Foram 
+apresentados para os usuários os primeiros blocos de programação, etapa CODE, sendo 
+eles: MOVER PARA FRENTE, MOVER PARA TRÁS, MOVER PARA A DIREITA 
+E MOVER PARA A ESQUERDA. Para a parte prática (PLAY), utilizamos os tablets e 
+uma  pista  confeccionada  pelos  próprios  extensionistas.  Os  usuários  divididos  em 
+equipes  tinham  que  fazer  com  que  o  robô  se  movimentasse  na  pista  para  coletar 
+materiais espalhados de higiene pessoal, de acordo com uma história. 
+
+ 
+Nesta  aula  foi  possível  identificar  que  os  usuários  apresentavam  grandes 
+dificuldades  relacionadas  à  orientação  espacial,  levando  eles  a  errar  várias  vezes  o 
+trajeto  que  o  robô  deveria  percorrer,  quando  deveria  ir  para  a  esquerda  girava  para  a 
+direita,  por  exemplo.  Mesmo  diante  desse  problema,  após  várias  tentativas  e  com  o 
+auxílio dos extensionistas os usuários conseguiram solucionar os desafios.                                                        
+
+Figura 3. Registros da Aula 02 
+Fonte: Elaborada pelos autores (2019) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Quando discutido com  a coordenadora e equipe pedagógica a respeito da aula 
+02,  concluiu-se  que  seria  necessária  uma  aula  para  reforçar  conceitos  de  orientação 
+espacial devido à dificuldade dos usuários, tornando-se o tema da aula 03. Nesta aula, 
+foram  desenvolvidas  atividades  com  foco  no  ensino  da  lateralidade.  Quando  os 
+usuários entravam no laboratório para a aula, os extensionistas já colocavam no pulso 
+esquerdo deles uma fita verde e no direito uma amarela. Logo, depois de explicarmos 
+as sentidos, sendo elas: DIREITA, ESQUERDA, FRENTE e TRÁS, entregamos uma 
+folha impressa com a  imagem de um robô e  mais dois lápis, um verde e um amarelo 
+para  cada  usuário,  para  que  eles  pudessem  associar  a  cor  com  o  sentido  e  pintar  os 
+braços  e  pernas  do  robô  com  a  cor  correspondente  a  fita  do  pulso.  Concluída  essa 
+atividade,  foram  distribuídos  seis  bambolês  pelo  chão  da  sala  para  que  de  forma 
+individual  pudessemos  mais  uma  vez  trabalhar  a  lateralidade.  A  pedido  dos 
+extensionistas, os usuários se locomoviam entres os bambolês. 
+
+ 
+Pelo fato das turmas serem bem heterogêneas, então adaptamos a dinâmica aos 
+usuários que possuem deficiência física utilizando um tabuleiro (desenho em forma de 
+jogo da velha), no qual os usuários teriam que mover a peça para os sentidos indicados 
+ao  invés  de  locomover  seu  corpo  nos  bambolês.  Para  finalizar  esta  aula,  entregamos 
+imagens  impressas  dos  blocos  para  programação  do  robô  ensinados  na Aula  01  e  02, 
+para que eles pudessem colocá-los no local correto. 
+
+Figura 4. Registros da Aula 03 
+Fonte: Elaborada pelos autores (2019) 
+
+ 
+
+4.2. Entrevista 
+
+Após  a  ministração  das  quatro  primeiras  aulas,  foi  realizada  uma  entrevista  com  os 
+usuários e professores do AEE, que também acompanham os usuários durante as aulas. 
+Foi  possível  identificar  alguns  resultados  positivos  com  relação  ao  método  de  ensino 
+proposto.  Ao  entrevistar  os  usuários,  91%  afirmaram  que  gostam  das  aulas,  77% 
+afirmaram  nunca  ter  contato  com  a  robótica  antes  do  início  do  projeto,  mais  de  80% 
+considera que o KIT é fácil de ser montado e programado. Porém, apenas 60% diz que 
+consegue montar com facilidade e 80% afirma conseguir programar com facilidade. Ao 
+entrevistar  os  professores,  100%  afirmaram  que  a  robótica  trabalhada  de  forma 
+multidisciplinar é uma vantagem, que os conteúdos são adequados ao público, e que a 
+pista  de  movimentação  do  robô  é  uma  boa  opção  para  as  aulas;  83%  consideram  as 
+
+ 
+
+ 
+
+ 
+
+aulas  de  Letramento  Digital  relevantes  para  a  formação  dos  usuários  e  66%  afirmam 
+que  é  possível  notar  uma  evolução  dos  participantes  com  relação  ao  pensamento 
+computacional. Foi escolhida a entrevista ao invés de um questionário porque a grande 
+maioria dos participantes não é alfabetizada. 
+
+4.3. Discussão 
+
+Ao  longo  das  aulas,  foi  possível  identificar  uma  evolução  significativa  por  parte  da 
+maioria dos usuários na etapa BUILD, comprovando que o KIT Lego Boost® auxilia no 
+processo  de  aprimoramento  da  motricidade  fina  dos  participantes.  Na  etapa  CODE, 
+alguns  já  conseguem  desenvolver  a  programação  para  resolução  dos  problemas 
+propostos  pelos  extensionistas  sem  ajuda,  e  outros  usuários  ainda  apresentam 
+dificuldades,  confundem  a  função  dos  blocos  ou  até  mesmo  os  sentidos  (frente,  trás, 
+direita e esquerda). 
+
+ 
+Durante as aulas, verificamos que um dos participantes se sobressaía diante dos 
+demais em todas as aulas, sempre liderava seu grupo e resolvia os exercícios propostos 
+com  muita  facilidade.  Diante  disso,  na  reunião  de  validação  das  aulas  foi  discutido 
+sobre  o  seu  bom  desempenho  e  foi  sugerido  que  ele  fosse  monitor  nas  aulas  de 
+Robótica  para  melhor  integração  dele  com  os  alunos  de  todas  as  turmas  da  APAE  e 
+para adquirir experiência com o ensino. O usuário aceitou e vem apresentando um bom 
+desempenho como monitor. 
+
+ 
+A  RE  auxilia  no  desenvolvimento  de  habilidades  como  o  raciocínio  lógico,  a 
+criatividade  e  inclusão  social.  Ressaltamos  a  grande  evolução  dos  participantes  do 
+projeto quanto à interação social, evidenciada em todas as etapas da aula (build, code, 
+play).  Nota-se  que  os  usuários  sempre  interagem  com  os  extensionistas  de  forma 
+positiva  e  também  se  ajudam  mutuamente,  como  apresenta  a  Figura  3,  tornando-se 
+agentes ativos na construção do conhecimento em sala de aula. 
+
+5. Conclusão 
+
+O  trabalho  descrito  relata  a  experiência  da  utilização  da  robótica  na  APAE/ST  como 
+ferramenta  educacional  para  PcD  intelectual  e  múltipla,  evidenciando-se  como  um 
+método  bastante  eficaz  que  contribui  para  o  processo  de  inclusão  sociodigital  dessas 
+pessoas  de  forma  lúdica,  criativa  e  multidisciplinar,  além  de  proporcionar  a 
+participação  de  todos  os  envolvidos  no  processo  de  ensino-aprendizagem.  É  possível 
+identificar que o trabalho proposto ainda está em andamento, no entanto é perceptível 
+que todos os objetivos previamente traçados foram alcançados. 
+
+Segundo  Morais  II  et  al.  (2018),  o  estudo  da  robótica  é,  certamente,  uma 
+ 
+ferramenta  notável  de  motivação  de  jovens.  É  fácil  encontrar  aqueles  que  se  sintam 
+curiosos  ou  motivados  pela  área.  Sendo  assim,  o  KIT  Lego  Boost®  torna-se  uma 
+excelente opção diante do método de ensino proposto neste trabalho pela facilidade de 
+montagem  de  robôs  devido  ao  manual  intuitivo,  pela  facilidade  no  processo  de 
+programação. 
+
+ 
+Além  do  aprendizado  e  experiência  que  os  usuários  adquiriram,  vale  ressaltar 
+que os extensionistas aprenderam e se desenvolveram bastante, principalmente por ser 
+a  primeira  vez  que  estiveram  exercendo  o  papel  de  professores  com  um  público 
+diferente  da  realidade  vivida  por  cada  um.  Sendo  necessário  participar  de  oficinas 
+
+formativas para saber como proceder nas aulas e com incluir todos os participantes. É 
+necessário  considerar  que  todos  são  estudantes  de  bacharelado,  fato  já  supracitado. 
+Além  disso,  os  extensionistas  se  sentem  felizes  e  realizados  por  contribuírem  para  o 
+desenvolvimento e autonomia de cada participante. 
+
+ 
+Sendo assim, para trabalhos futuros, serão ministradas no próximo semestre, o 
+restante das aulas já planejadas, será analisado o desempenho das turmas e verificado a 
+necessidade  de  mudanças  no  cronograma,  além  do  desenvolvimento  de  novas 
+possibilidades para melhorar o ensino de robótica. 
+
+Referências 
+
+BELL, T.; WITTEN, I. H.; FELLOWS, M. Computer Science Unplugged. 2011. 
+
+MORAIS II, M. J. O.; DANTAS, K. A.; SENA, R. A. S.; NASCIMENTO, V. K. D. 
+Inclusão Digital de Crianças e Adolescentes por meio da Robótica Educacional. In: 
+Anais do III Congresso sobre Tecnologias na Educação (CTRL+E-2018). 
+
+CONCHINHA, C.; DE FREITAS, J. C. Robots & Necessidades Educativas Especiais: 
+a  Robótica  Educativa  Aplicada  a  Alunos  Autistas.  In:  Atas  da  IX  Conferência 
+Internacional de TIC na Educação, p. 21-35, maio de 2015. 
+
+LOPES, LÍDIA; DOS SANTOS, L. M. M.; DE SOUZA, L. F. F.; BARROSO, M. F. 
+S.;  DA  SILVA,  C.  V.;  SERPA,  B.  R.;  PEREIRA,  E.  B..  A  Robótica  Educacional 
+Como Ferramenta Multidisciplinar: Um Estudo de Caso Para a Formação e Inclusão 
+de Pessoas com Deficiência. In: Revista Educação Especial, v. 28, n. 53, p. 735-750, 
+set./dez. 2015. 
+
+SOUZA,  I.  M.  L.;  SAMPAIO,  L.  M.  R.;  ANDRADE,  W.  L.  Explorando  o  Uso  da 
+Robotica  na  Educação  Básica:  um  estudo  sobre  ações  práticas  que  estimulam  o 
+Pensamento Computacional. In: Anais dos Workshops do VII Congresso Brasileiro 
+de Informática na Educação (WCBIE 2018). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

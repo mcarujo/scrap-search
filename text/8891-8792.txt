@@ -1,0 +1,686 @@
+ 
+
+ 
+
+Desenvolvimento Profissional, Tecnologia Digital e Conceitos 
+Estatísticos na Formação de Professores que Ensinam 
+Matemática 
+
+Carmélia Regina Silva Xavier, Dennys Leite Maia 
+
+Instituto Metrópole Digital – Universidade Federal do Rio Grande do Norte (UFRN) 
+Av. Sen. Salgado Filho, 3000 – Lagoa Nova, CEP: 59.078-970 – Natal – RN – Brasil 
+
+carmeliaxavierxavier@gmail.com, dennys@imd.ufrn.br
+
+Abstract.  This  article  presents  a  review  of  the  literature  in  search  of 
+academic  papers  about  the  use  of  digital  technology  in  the  training  of 
+teachers  who  teach  mathematics,  in  the  perspective  of  professional 
+development  and  through  work  with  statistical  thinking.  The  search  took 
+place in the Google Academic and Periodical Platforms of the Coordination 
+of  Improvement  of  Higher  Education  Personnel  (CAPES)  on  the  area  of 
+Mathematics Education, from 2014 to 2019. The results showed that the use 
+of  this  technology  is  a  constant  in  teacher  training  of  middle  and  higher 
+levels, but it is still scarce in the formations for teachers of Early Childhood 
+and Elementary Education. 
+
+Resumo.  Este  artigo  apresenta  uma  revisão  de  literatura  sobre  trabalhos 
+acadêmicos acerca do uso de tecnologia digital na formação de professores 
+que  ensinam  Matemática  sobre  pensamento  estatístico,  na  perspectiva  do 
+desenvolvimento  profissional.  A  busca  aconteceu  nas  Plataformas  Google 
+Acadêmico e Periódicos da Coordenação de Aperfeiçoamento de Pessoal de 
+Nível Superior (CAPES) sobre a área de Educação Matemática, no período 
+de 2014 a 2019. Os resultados demonstraram que o uso dessa tecnologia é 
+comum nas formações de professores que atuam nos níveis de Ensino Médio 
+e Educação Superior, mas ainda é tímida nas formações para docentes da 
+Educação Infantil e Ensino Fundamental.  
+
+1. Introdução 
+
+A discussão sobre formação de professores ganhou destaque com a promulgação da Lei 
+de Diretrizes e Bases da Educação Nacional (LDBEN - Lei N° 9394/96) [Brasil 1996] e, 
+mais  recentemente,  do  Plano  Nacional  de  Educação  (PNE)  (Lei  N°  13.005/2014). 
+Enquanto o inciso II do parágrafo único do artigo 61 da LDBEN enfatiza a associação 
+entre teorias e práticas, mediante estágios supervisionados  e capacitação em serviço, a 
+meta 12 do PNE em sua quarta estratégia fomenta a oferta de Educação Superior pública 
+e gratuita, prioritariamente, para a formação de professores e professoras para a Educação 
+Básica, sobretudo nas áreas de Ciências e Matemática. 
+
+ 
+Historicamente a Matemática é vista com temor por estudantes, assim como por 
+professores  que  ensinam  Matemática  nos  anos  iniciais  do  Ensino  Fundamental.  Tais 
+docentes, formados prioritariamente em Pedagogia, muitas vezes escolhem este curso de 
+Licenciatura  para  fugir  da  Matemática,  sem  perceberem  que  serão  professores  desta 
+disciplina,  exatamente,  numa  das  fases  mais  importantes  da  aprendizagem  discente.  A 
+
+ 
+
+ 
+
+fuga se justifica pelas lacunas que os mesmos possuem em seu processo formativo até 
+chegarem  às  universidades  [Barreto  2007;  Nacarato,  Passos  &  Mengali  2010;  Maia 
+2012]. As dificuldades apresentadas dizem respeito não só aos conteúdos matemáticos, 
+mas  também  quanto  à  metodologia,  ou  seja,  à  didática  utilizada  por  esses  docentes 
+durante suas aulas [Barreto 2007; Silva et al. 2018]. 
+
+Dentre as dificuldades apresentadas pelos professores estão aquelas que envolvem 
+ 
+os conceitos estatísticos [Cazorla et al. 2010], apesar de a leitura e interpretação de dados 
+estarem fortemente relacionadas com temas sociais emergentes. Ensinar o aluno a saber 
+entender informações apresentadas em  tabelas, gráficos e em forma de percentuais, ou 
+até  mesmo,  ensiná-lo a realizar uma pesquisa desde a coleta até a  análise dos dados  é 
+fundamental para o desenvolvimento de um cidadão com olhar crítico e reflexivo. 
+
+ 
+A relevância e importância de se trabalhar os conceitos estatísticos já era tratada 
+no bloco de conteúdo Tratamento da Informação, segundo a organização para o ensino 
+de Matemática nos Parâmetros Curriculares Nacionais (PCN) [Brasil 1997] e agora, vinte 
+anos  depois,  é  reforçada  pela  unidade  temática  Probabilidade  e  Estatística,  da  Base 
+Nacional Comum Curricular (BNCC) [Brasil 2017]. Esta última, inclusive, alinhando-se 
+ao crescimento e influência das tecnologias digitais na sociedade, enfatiza a necessidade 
+de explorar tais ferramentas no ensino e aprendizagem da Matemática e, especificamente, 
+dos conceitos estatísticos. Segundo a BNCC, esta unidade temática [Brasil 2017, p.272]: 
+
+(...) propõe a abordagem de conceitos, fatos e procedimentos presentes 
+em  muitas  situações-problema  da  vida  cotidiana,  das  ciências  e  da 
+tecnologia. Assim, todos os cidadãos precisam desenvolver habilidades 
+para coletar, organizar, representar, interpretar e analisar dados em uma 
+variedade  de  contextos,  de  maneira  a  fazer  julgamentos  bem 
+fundamentados e tomar as decisões adequadas. Isso inclui raciocinar e 
+utilizar conceitos, representações e índices estatísticos para descrever, 
+explicar e predizer fenômenos [Brasil 2017, p.272]. 
+
+ 
+Por  razões  diversas,  a  formação  docente  inicial  dificilmente  contemplará  na 
+totalidade  as  demandas  formativas  dos  professores  e  os  avanços  e  demandas  da 
+sociedade, principalmente por estar demarcada em tempo histórico. Por isso a formação 
+continuada de professores, na perspectiva do desenvolvimento profissional [Ponte 1998], 
+tem relevância e é estratégica por proporcionar reflexão docente ao longo de, e alinhada, 
+à sua prática profissional. 
+
+ 
+Nesse  contexto,  as  tecnologias  digitais  podem  surgir  tanto  como  elemento  da 
+formação,  quanto  meio  para  a  sua  realização  ou  ampliação.  O  uso  de  recursos 
+tecnológicos permite que os professores, enquanto aprendizes, ampliem o repertório de 
+recursos  didáticos  a  serem  utilizados  em  suas  aulas,  fazendo  uso  de  ferramentas  e 
+linguagens  inerentes  ao  atual  contexto  [Almeida;  Valente  2011].  Assim,  a  tecnologia 
+digital  aparece  como  uma  possibilidade  com  grande  potencial,  mas  que  precisa  ser 
+observada  como  vem  sendo  usada    pelos  docentes  nas  formações  continuadas  e  em 
+serviços dos professores que ensinam Matemática. 
+
+ 
+Diante dessa realidade, este trabalho é um recorte de uma pesquisa de mestrado, 
+em  desenvolvimento,  relacionada  à  formação  de  professores  que  ensinam  Matemática 
+nos  anos  iniciais  do  Ensino  Fundamental  acerca  de  conceitos  estatísticos  numa 
+perspectiva do desenvolvimento profissional com suporte de tecnologias digitais. A partir 
+
+de uma revisão bibliográfica, queremos responder a seguinte questão: Como a tecnologia 
+digital  e  os  conceitos  estatísticos  são  explorados  nas  formações  continuadas  de 
+professores que ensinam Matemática nos anos iniciais do Ensino Fundamental? 
+
+ 
+Para  isso,  buscamos  trabalhos  acadêmicos  registrados  nas  Plataformas  Google 
+Acadêmico  e  Periódicos  da  Coordenação  de  Aperfeiçoamento  de  Pessoal  de  Nível 
+Superior (CAPES) sobre a área de Educação Matemática, no período entre os anos 2014 
+e 2019. Além desta introdução, o presente artigo trará uma fundamentação teórica sobre 
+os itens de interesse, a metodologia utilizada para realização da revisão bibliográfica, os 
+resultados encontrados, as considerações finais e as referências consultadas. 
+
+2. Fundamentação Teórica 
+
+O  professor  que  ensina  Matemática  nos  anos  inicias  do  Ensino  Fundamental  tem 
+responsabilidade no desenvolvimento do raciocínio lógico das crianças com idade entre 
+seis  e  dez  anos.  Além  da  importância  imediata  para  a  vida  do  educando,  os  PCN 
+preconizam que um bom ensino de Matemática, nesse período, forma uma base para os 
+anos posteriores e dá apoio à construção de outras áreas, pois “(...) interfere fortemente 
+na formação de capacidades intelectuais, na estruturação do pensamento e na agilização 
+do raciocínio dedutivo do aluno” [Brasil 1998, p. 15]. 
+
+ 
+Afirmações  como  essas  nos  fazem  refletir  sobre  como  devemos  pensar  as 
+formações de professores. Os baixos resultados apresentados pelas avaliações externas 
+como a Prova Brasil, por  exemplo, vem se repetindo por muitos anos, provavelmente, 
+pelo fato de que, na vida, costumamos reproduzir aquilo que vivenciamos e portanto, não 
+parece ser diferente na escola. Se o docente não teve uma boa formação escolar, no que 
+diz respeito ao ensino de Matemática, provavelmente, isto se repetirá na sua sala de aula. 
+Transformar  essa  realidade  requer  repensar  quais  fatores  corroboram  para  o 
+desencadeamento  desse  insucesso.  Dentre  esses  fatores  está  o  modelo  de  formação 
+docente  continuada  e  em  serviço  que  é  oferecido  aos  professores  que  ensinam 
+Matemática, no que diz respeito à sua condução  e  à integração de tecnologias digitais 
+como sugestão metodológica para ampliar as possibilidades pedagógicas. 
+
+Em relação ao tipo de formação continuada e em serviço, é necessário pensar num 
+ 
+formato  em  que  o  foco  não  seja  a  exposição  de  conteúdos  traçados  pelo  formador  e 
+apresentados ao professor, durante os encontros formativos. Apesar das autoras Nacarato, 
+Mengali  e Passos (2009) afirmarem que as  lacunas  também são de cunho  conteudista, 
+essa formação precisa ser planejada a partir da necessidade do professor e da realidade 
+em  que  atua,  pensando  nos  desafios  do  seu  contexto  e  no  seu  desenvolvimento 
+profissional. 
+
+De acordo com Ponte (1998), o termo desenvolvimento profissional emergiu na 
+ 
+literatura educacional como forma de demarcar uma diferenciação entre seu princípio de 
+formação  e  aquele  chamado  tradicional.  Iniciativas  tradicionais  não  se  demonstram 
+contínuas na formação docente, porque geralmente são associadas a cursos, capacitações 
+e  treinamentos,  os  quais  caracterizam  um  movimento  de  “fora  para  dentro”,  já  que  as 
+necessidades formativas são estabelecidas pelo formador e, por vezes, não correspondem 
+àquelas presentes na sala de aula e na prática dos professores. 
+
+Ao  optar  por  trabalhar  a  formação  continuada  e  em  serviço,  na  perspectiva  do 
+ 
+desenvolvimento  profissional,  ações  como  apresentar  e  utilizar  tecnologias  digitais 
+
+ 
+
+ 
+
+ 
+
+ 
+
+durante  os  encontros  formativos  permitirão  que  os  professores,  enquanto  aprendizes, 
+trabalhem colaborativamente e ampliem o repertório de recursos didáticos que poderão 
+fazer uso  em suas  aulas [Maia; Castro-Filho 2016]. Neste sentido, a tecnologia digital 
+apresenta grande potencial, mas seu uso precisa ser observado. 
+
+ 
+Nesse  sentido,  Ponte  (1997)  ainda  ressalta  a  possibilidade  que  as  tecnologias 
+digitais se apresentam como ferramenta de trabalho e como fonte de ideias e de inspiração 
+no  sentido  de  minimizar  as  lacunas  formativas  acerca  do  ensino  e  aprendizagem 
+matemáticos. Porém, para que isso aconteça, se faz necessário pensar se esses recursos 
+estão chegando em sala de  aula e como acontece seu uso pedagógico. De acordo com 
+Maia e Barreto (2014), estudantes de Pedagogia, por exemplo,  possuem reduzido espaço 
+formativo  para  o  ensino  da  Matemática  com  uso  de  tecnologias  digitais  e  essa 
+especificidade,  caracteriza  os  professores  dos  anos  iniciais  do  Ensino  Fundamental, 
+público-alvo deste trabalho. 
+
+ 
+Para os referidos autores, tal déficit acarreta numa visão limitada de estratégias 
+do  uso  desses  recursos,  cada  vez  mais  presentes  na  escola,  na  disciplina  com  maiores 
+índices  de  dificuldade  durante  a  Educação  Básica.  A  formação  continuada  tem  uma 
+importante  função,  pois  para  essa  tecnologia  trazer  alterações  positivas  no  processo 
+educativo, elas precisam ser compreendidas e incorporadas pedagogicamente para poder 
+garantir que o seu uso, realmente, faça a diferença [Kenski 2007]. 
+
+ 
+Na  BNCC,  a  tecnologia  digital  está  presente  em  todos  os  componentes 
+curriculares, inclusive na Matemática e em muitas das habilidades, nas diversas unidades 
+temáticas.  Considerada  como  um  potencial  recurso  educacional  compõe  a  quinta 
+competência geral do documento afirmando a importância de: 
+
+Compreender,  utilizar  e  criar  tecnologias  digitais  de  informação  e 
+comunicação  de  forma  crítica,  significativa,  reflexiva  e  ética  nas 
+diversas  práticas  sociais  (incluindo  as  escolares)  para  se  comunicar, 
+acessar  e  disseminar  informações,  produzir  conhecimentos,  resolver 
+problemas e exercer protagonismo e autoria na vida pessoal e coletiva 
+[Brasil 2017, p.9]. 
+
+ 
+Além de compor uma competência geral da BNCC, a tecnologia digital também 
+aparece  como  uma  das  competências  específicas  da  Matemática  defendendo  a 
+necessidade de “(...) utilizar processos e ferramentas matemáticas, inclusive tecnologias 
+digitais  disponíveis,  para  modelar  e  resolver  problemas  cotidianos,  sociais  e  de  outras 
+áreas de conhecimento, validando estratégias e resultados” [Brasil 2017, p.265]. 
+
+ 
+Apesar  da  importância  do  tema,  já  existem  pesquisas  que  apontam  uma  menor 
+produção de recursos educativos digitais referentes às unidades temáticas  Probabilidade 
+e  Estatística  e  Grandezas  e  Medidas,  em  detrimento  de  outras  unidades  que  utilizam 
+algoritmos  básicos  para  a  resolução  de  exercícios  e  o  raciocínio  lógico-matemático 
+[Melo,  Costa  &  Maia  2017].  O  menor  número  de  produção  dos  recursos  educativos 
+digitais não diminui a importância de se trabalhar com o tema, pelo contrário, demonstra 
+a necessidade de investir nessa temática, inclusive na formação de professores. Ademais, 
+todas essas habilidades indicadas para os alunos, devem contemplar também o professor, 
+como aprendiz, durante sua formação. Considerando que a formação inicial não é capaz 
+de  abarcar  em  sua  totalidade,  a  formação  continuada  e  em  serviço  deve  trabalhar  tais 
+habilidades na perspectiva do desenvolvimento profissional. 
+
+ 
+
+ 
+
+3. Percurso Metodológico da Revisão Bibliográfica 
+
+A pesquisa bibliográfica se constitui num procedimento metodológico utilizado na busca 
+de soluções para um problema de pesquisa. Lima  e Mioto (2007) salientam que nessa 
+abordagem é necessária a escolha do método de pesquisa empregado, expor a maneira 
+como ocorreu a  construção do desenho metodológico e a escolha pelos procedimentos 
+utilizados. O levantamento inicial permite ao pesquisador a  elaboração de ensaios que 
+favorecem  a  contextualização,  problematização  e  uma  primeira  validação  do  quadro 
+teórico a ser utilizado na investigação. O aprofundamento dessa  análise pode se constituir 
+em estudo do tipo Estado da Arte que Gil (2002) denomina como sendo a  identificação 
+das fontes ligadas ao objeto de estudo. O autor identifica esta etapa do trabalho como uma 
+procura  de  fontes  capazes  de  fornecer  as  respostas  adequadas  à  solução  do  problema 
+proposto  que  tem  como  objetivo  realizar  levantamentos  do  que  se  conhece  sobre  um 
+determinado assunto a partir das pesquisas realizadas em uma determinada área e tempo. 
+
+ 
+Baseado  nesses  conceitos,  este  artigo  tem  caráter  teórico  e  foi  guiado  por  uma 
+combinação de elementos de duas abordagens metodológicas - pesquisa bibliográfica e 
+estado da arte - com vistas a compreender o contexto do objeto de estudo e identificar 
+experiências  semelhantes  realizadas.  A  busca  teve  como  foco  identificar  como  as 
+tecnologias digitais e conceitos estatísticos são abordados nas formações de professores 
+que  ensinam  Matemática  nos  anos  iniciais  do  Ensino  Fundamental  na  perspectiva  de 
+desenvolvimento profissional. 
+
+ 
+O procedimento de busca de trabalhos acadêmicos foi realizado nas Plataforma 
+Google  Acadêmico1  e  Periódicos  da  Coordenação  de  Aperfeiçoamento  de  Pessoal  de 
+Nível Superior (CAPES), no período entre os anos 2014 e 2019. Em ambas plataformas, 
+foram  utilizadas  as  seguintes  palavras  de  busca:  “tecnologia  digital”;  “conceitos 
+estatísticos”; “professores que ensinam Matemática”; “desenvolvimento profissional” e 
+“formação  docente”.    A  busca  foi  realizada  no  modo  avançado  e  foram  consideradas, 
+apenas, resultados em Língua Portuguesa como uma forma de conhecer, especificamente, 
+o  Estado  da  Arte  em  nosso  País  sobre  a  temática  em  discussão.  Assim,  trabalhos  em 
+Português,  mas  realizados  em  contextos  fora  do  Brasil  foram  descartados.  Em  estudo 
+futuro, a busca será ampliada, inclusive, para outras línguas estrangeiras. 
+
+ 
+Como  este  estudo  é  um  recorte  de  uma  dissertação  de  mestrado,  optamos  pela 
+busca  que  considerava,  pelo  menos,  um  dos  aspectos  para  analisar,  futuramente, 
+diferentes  contribuições  metodológicas  a  respeito  de  cada  uma  categorias  de  análise. 
+Assim, a partir das palavras de busca foram encontrados 74 (setenta e quatro) trabalhos 
+em Educação Matemática que relacionavam, pelo menos, uma das nossas categorias de 
+análise, quais sejam: desenvolvimento profissional, conceitos estatísticos e utilização de 
+tecnologias  digitais.  Um  primeiro  recorte  foi  feito  a  partir  da  leitura  do  título  e  dos 
+resumos  com  o  intuito  de  analisar  a  relevância  dos  trabalhos  para  nosso  interesse  de 
+pesquisa.  Ao  final  deste  procedimento,  restaram  apenas  17  (dezessete)  trabalhos  que 
+foram categorizados e protocolados também por etapas de ensino, quais sejam: Educação 
+Infantil (EI); Ensino Fundamental I e II (EF I e EF II, respectivamente); Ensino Médio 
+(EM) e Ensino Superior (ES). 
+
+ 
+1Disponível em:  https://scholar.google.com.br/. Acesso em: 08 mai. 2019 
+
+ 
+
+ 
+
+ 
+Após  essa  classificação,  identificamos  que  a  maior  parte  dos  trabalhos  se 
+concentra no mesmo público deste estudo. Isso porque 8 (oito) trabalhos, que representam 
+47,05%, tratavam sobre professores que atuam na Educação Infantil  e anos iniciais do 
+Ensino  Fundamental,  portanto,  professores  formados,  prioritariamente,  nos  cursos  de 
+Licenciatura em Pedagogia. Os demais trabalhos, 3 (quatro) - 17,65% -  focaram os anos 
+finais do Ensino Fundamental2 e o Ensino Médio, portanto, Licenciados em Matemática, 
+e seis (35,30%) falavam do contexto da Educação Superior, sem precisar ou especificar 
+qual curso de graduação ou licenciatura estavam analisando. 
+
+Ao  final,  dos  17  (dezessete)  trabalhos,  apenas  3  (três)  abordavam  as  três 
+ 
+categorias relacionadas a este estudo, quais sejam: Desenvolvimento Profissional (DP), 
+Conceitos Estatísticos (EST) e Adoção de  Tecnologias Digitais (TD). Deste montante, 
+apenas um abordou, de forma específica, professores que ensinam Matemática nos anos 
+iniciais,  ou  seja,  egressos  dos  cursos  de  Licenciatura  em  Pedagogia.  O  quadro  01 
+apresenta a sistematização desses três trabalhos selecionados. 
+
+Nº 
+
+Autor 
+
+Ano 
+
+Título 
+
+Plataforma  Nível  DP 
+
+EST 
+
+TD 
+
+Quadro 1. Trabalhos acadêmicos selecionados. 
+
+ 
+ 
+1 
+
+ 
+ 
+Araújo, M. 
+
+ 
+ 
+2017 
+
+Google 
+Acadêmico 
+
+ 
+ 
+EF I 
+
+ 
+ 
+Sim 
+
+ 
+ 
+Sim 
+
+ 
+ 
+Sim 
+
+2 
+
+Berlikowski, M.  2018 
+
+Google 
+Acadêmico 
+
+ES 
+
+ 
+ 
+Sim 
+
+ 
+ 
+Sim 
+
+ 
+ 
+Sim 
+
+3 
+
+Silva, N. 
+
+2018 
+
+ES 
+
+Sim 
+
+Sim 
+
+Sim 
+
+Níveis de Letramento 
+Estatístico em um curso de 
+formação continuada 
+
+Google 
+Acadêmico 
+
+Fonte: elaborado pelos autores. 
+
+Na  seção  seguinte,  cada  um  desses  trabalhos  serão  analisados  e  apresentados 
+
+ 
+como as três categorias de análise foram exploradas. 
+
+4. Resultados e discussões 
+
+Discorrendo sobre os trabalhos os quais as três categorias de análise foram contempladas, 
+Araújo (2017), na condição de professora, formadora e pesquisadora, tinha como objetivo 
+investigar  o  ensino  sobre  Tratamento  da  Informação,  utilizando  WebQuest,  uma 
+metodologia de ensino que privilegia uma pesquisa orientada utilizando a internet como 
+principal fonte de informação, com o intuito de propor práticas investigativas com o uso 
+de  tecnologias  digitais.  Nessa  pesquisa  o  recurso  digital  foi  apresentado    como  uma 
+possibilidade  de  promover  a  (auto)formação,  o  letramento  estatístico  e  o  ensino 
+qualitativamente  positivo  sobre  tratamento  da  informação  para  os  primeiros  anos 
+
+2  Um  trabalho  contemplava  professores  tanto  dos  anos  iniciais,  quanto  dos  anos  finais  do  Ensino 
+Fundamental. 
+
+ 
+
+Práticas investigativas e 
+webquest: construindo 
+interfaces para o ensino sobre 
+Tratamento da Informação 
+para além do paradigma do 
+exercício 
+
+As abordagens metodológicas 
+e o perfil dos professores que 
+lecionam Estatística no Ensino 
+Superior 
+
+escolares. 
+
+Essa  pesquisa  sobre  formação  de  professores  ocorreu  no  município  de  Marabá 
+ 
+/PA, onde a WebQuest foi utilizada para  motivar os sujeitos envolvidos e apresentar o 
+tema  relativo  a  cada  encontro  formativo.  Além  disso,  por  meio  dessa  metodologia  foi 
+possível  disponibilizar  atividades  que  fossem  desafiadoras  e  tratassem  sobre  o 
+pensamento  estatístico,  fornecer  os  indicadores  qualitativos  e/ou  quantitativos  do 
+desempenho dos professores e por fim, concluir com um desfecho de forma clara, breve 
+e  simples,  relembrando  os  objetivos  da  atividade  e  deixando  pistas  para  pesquisas  ou 
+atividades  futuras  sobre  a  mesma  temática.  A  ideia  inicial  era  que  os  professores 
+participantes  dessa  pesquisa  vivenciasse  a  mesma  experiência  com  seus  alunos, 
+construindo uma  WebQuest para suas turmas e levando os relatos para serem socializados 
+durante a pesquisa, mas devido o tempo, não foi possível.  
+
+Mesmo assim, os professores avaliaram que a experiência formativa possibilitou 
+ 
+novas reflexões acerca do vivido, destacando a relevância das práticas investigativas na 
+promoção  de  atitudes  de  interação  e  valorização  dos  sujeitos  da  aprendizagem  no 
+ambiente  educativo,  e  portanto,  contribuindo  para  o  desenvolvimento  profissional  dos 
+envolvidos.  Um  dos  fatores  que  mais  contribuíram  para  esse  desenvolvimento 
+profissional foi o acesso a tecnologia digital, uma vez que os professores revelaram não 
+conhecer tal ferramenta e não ter muito domínio tecnológico, apesar de trabalharem com 
+alunos denominados nativos digitais [Prensky 2001].  
+
+ 
+O trabalho de Araújo (2017) foi o que mais se assemelhou às características da 
+pesquisa  a  qual  essa  revisão  bibliográfica  se  propõe  a  contribuir,  pois  trata-se  de  uma 
+experiência  vivenciada  com  docentes  dos  anos  iniciais  do  Ensino  Fundamental,  numa 
+pesquisa  realizada  no  ambiente  de  trabalho  desses  docente.  Além  disso,    a  autora  do 
+trabalho  analisado  dialoga  com  o  pensamento  dos  autores  apresentados  nessa  revisão 
+quando,  por  exemplo,  acredita  que  a  ação  pedagógica  docente  está  diretamente 
+relacionada com a formação do professor e sua experiência em toda sua história escolar, 
+seja como aluno ou docente.  
+
+ 
+Berlikowski  (2018)  em  sua  tese  teve  como  objetivo  analisar  as  concepções  da 
+Educação e caracterizar os professores de Estatística que atuam na  Educação Superior. 
+Para isso, realizou sua pesquisa com 14 docentes com o intuito de verificar de que forma 
+esses profissionais ressignificam e moldam as suas práticas pedagógicas. Os professores 
+selecionados, pertenciam à uma instituição pública (5) e uma privada (9) do Rio Grande 
+do Sul e responderam questões sobre formação inicial e continuada, aspectos pedagógicos 
+e metodológicos de suas trajetórias enquanto docentes de Estatística. Ao final da pesquisa,  
+percebeu-se que o ensino de Estatística na Educação Superior, independe da sua formação 
+inicial dos seus docentes, pois as deficiências deixadas tanto na licenciatura quanto no 
+bacharelado  foram  sanadas  por  meio  de  formação  continuada  e  outras  estratégias  para 
+facilitar o entendimento e a aprendizagem dos seus alunos, a partir do desenvolvimento 
+profissional docente. 
+
+ 
+A  tecnologia  digital  nesta  pesquisa  foi  utilizada  como  um  facilitador  para 
+aprendizagem da Estatística, sendo percebida como um recurso que alunos e professores 
+podem utilizar tanto nos cálculos, quanto na construção manual dos gráficos, tornando-
+se mais fácil o trabalho com um número maior de dados e num período de tempo mais 
+curto. Para a autora da tese esse facilitador pode se apresentar por meio de computadores 
+
+ 
+
+ 
+
+portáteis, tablets, softwares e aparelhos celulares. 
+
+Embora a pesquisa de Berlikowski (2018) tenha sido direcionada para a Educação 
+ 
+Superior, o trabalho contribui com a revisão apresentada neste artigo quando reafirma a 
+importância da formação continuada e em serviço e quando reconhece que a formação 
+inicial, apenas, não é capaz de abarcar em sua totalidade todo o conhecimento necessário 
+para  a  ação  docente.  Além  disso,  ressaltou  a  importância  do  uso  da  tecnologia  digital 
+utilizada de forma pedagógica e a relevância de se trabalhar Estatística em todos os níveis 
+de ensino, por se tratar de um conhecimento necessário para a vida. 
+
+O terceiro e último trabalho selecionado, que apresentou todas as categorias de 
+ 
+análise,  foi  o  de  Silva  (2018)  que  tinha  como  objetivo  apresentar  os  conteúdos  e  a 
+abordagem utilizada no Ambiente Virtual de Aprendizagem (AVA) do curso de formação 
+continuada  de  Letramento  Estatístico  de  uma  universidade  privada,  bem  como  os 
+conteúdos de Estatística nos documentos oficiais de Brasil, EUA, França  e Espanha,  e 
+identificar  os  níveis  de  Letramento  Estatístico  apresentados  pelos  grupos  no  Trabalho 
+Final  do  Curso.  O  curso  Letramento  Estatístico  de  120  horas  foi  ofertado  para  os 
+funcionários-tutores da IES, com formação superior e pós-graduação,  em três módulos, 
+realizadas junto ao AVA. Cada um dos módulos contemplou conteúdos que abordaram o 
+Letramento Estatístico, para que os participantes pudessem vivenciar, analisar e utilizar 
+em seu cotidiano. 
+
+ 
+O  autor  conclui  a  pesquisa  afirmando  que  os  resultados  foram  positivos  em 
+relação ao Letramento Estatístico, pois 60% dos trabalhos concluídos obtiveram o Nível 
+Científico, logo estavam letrados estatisticamente. Afirma ainda que os cursistas possuem 
+as  habilidades  de  ler,  compreender,  analisar,  avaliar,  fazer  inferência,  bem  como 
+comunicar  de  forma  crítica  e  contextualizada  as  informações  submetidas  a  tratamento 
+estatístico,  habilidades  importantes  para  o  exercício  da  cidadania.  Para  o  autor,  a 
+tecnologia  aparece  no  ensino  da  Estatística  com  um  papel  de  descentralizador  do 
+conhecimento, de levar às pessoas, em suas rotinas, uma ferramenta que lhes possibilite 
+ter uma melhor compreensão do mundo. Apesar da conclusão positiva, o autor afirma a 
+necessidade da continuação da formação.  
+
+A pesquisa desse autor foi contemplada na revisão bibliográfica após o critério de 
+ 
+busca pelo fato de que o  tutor, apesar de não ser o  professor dos alunos com os quais 
+trabalha, é compreendido como um sujeito que ensina fazendo as vezes do docente em 
+cursos  ocorridos  em  AVA.  Com  os  resultados  deste  trabalho,  foi  possível  perceber  o 
+quanto  a  tecnologia  digital  pode  contribuir  no  processo  educacional,  independente  da 
+formação  adquirida  até  então  e  da  forma  como  essa  formação  é  realizada,  seja 
+presencialmente ou virtualmente. Demonstra ainda que, a necessidade de continuidade da 
+formação em serviço é importante em  toda faixa etária, nível de formação docente, ou 
+ambiente formativo. 
+
+5. Considerações 
+
+Ao concluir esta revisão bibliográfica foi possível perceber a importância e necessidade 
+das  formações  continuadas  em  serviço  contemplando  a  Estatística,  tendo  em  vista  a 
+obrigação da escola de promover um ensino matemático que oportunize ao aluno  a busca 
+por uma boa interpretação dos fatos sociais por meio da elaboração de problemas e temas 
+
+ 
+
+ 
+
+ 
+
+envolvendo o dia a dia. Essa obrigatoriedade é posta pelos documentos oficiais, como a 
+BNCC, e indicada pela revisão bibliográfica quando demonstrou a ausência da temática, 
+principalmente, nas formações de professores que ensinam Matemática nos anos iniciais 
+do Ensino Fundamental.  
+
+ 
+Algo semelhante ocorre com a tecnologia digital quando observa-se seu uso nas 
+formações de professores dessa mesma etapa de ensino. Nos trabalhos analisados durante 
+a revisão bibliográfica, a tecnologia digital foi muito mais presente quando a formação 
+envolvia professores dos anos finais do Ensino Fundamental, Ensino Médio e Educação 
+Superior.  Além  da  frequência  desse  recursos  nas  formações,  outro  fator  que  merece 
+futuras análises é o como essa tecnologia é utilizada, uma vez que nem sempre ela aparece 
+como recurso pedagógico. Apesar da relevância do trabalho com conceitos estatísticos 
+associado  a  tecnologia  digital  demonstrada  pelos  trabalhos  apresentados  no  quadro  1, 
+ainda é tímida a frequência desses dois componentes juntos nas formações continuadas 
+destinadas aos pedagogos, fato esse que ficou evidente não apenas nos três trabalhos que 
+contemplaram  as  categorias  de  análise  (conceitos  estatísticos,  tecnologia  digital  e 
+desenvolvimento  profissional)  dessa  revisão  bibliográfica,  mas  na  totalidade  dos 
+trabalhos lidos. 
+
+ 
+Diante do exposto esta revisão evidencia a necessidade de investir em formação 
+de  professores  que  ensinam  Matemática  nos  anos  iniciais  do  Ensino  Fundamental  de 
+modo a inserir, de fato, o trabalho com os conceitos estatísticos e a tecnologia digital, 
+tendo em vista a importância das duas temáticas para o desenvolvimento de habilidades 
+específicas  e,  consequentemente,  para  o  desenvolvimento  profissional  docente.  Assim 
+sendo,  conclui-se  a  relevância  da  pesquisa  a  qual  essa  revisão  se  propôs  a  contribuir 
+analisando trabalhos existentes dentro do escopo pesquisado.  
+
+Referências 
+ 
+Almeida, M. de; Valente, J. A. (2011) Tecnologias e currículo: trajetórias convergentes 
+
+ou divergentes. São Paulo: Paulus, v. 1, p. 93. 
+
+Araújo, M. et al. (2017). “Práticas investigativas e webquest: construindo interfaces para 
+o ensino sobre tratamento da informação para além do paradigma do exercício”. 
+
+Barreto, M. (2007). “Desafios aos pedagogos no ensino de Matemática”. In: Sales, J. et 
+
+al. Formação e Práticas Docentes. Fortaleza: EdUECE, p.243-254. 
+
+Berlikowski, M. et al. (2018). “As abordagens metodológicas e o perfil dos professores 
+
+que lecionam estatística no ensino superior”. 
+
+Brasil  (1996).  Lei  de  Diretrizes  e  Bases  da  Educação  Nacional  (LDBEN)  -  Lei  N° 
+
+9394/96. Poder Executivo: Brasília - DF. 
+
+_______.  (1999)  Ministério  da  Educação.  Parâmetros  Curriculares  Nacionais  para  o 
+
+Ensino Fundamental. Brasília. 
+
+_______.  (2014)  Plano  Nacional  de  Educação  (PNE)  -  Lei  N°  13.005/2014.  Poder 
+
+Executivo: Brasília - DF. 
+
+ 
+
+ 
+
+_______. (2016) Ministério da Educação. Secretaria da Educação Básica. Base Nacional 
+em:  
+
+Comum 
+<http://basenacionalcomum.mec.gov.br>. Acesso em: 10 abr. 2019. 
+
+Disponível 
+
+Curricular. 
+
+Brasília 
+
+DF. 
+
+- 
+
+Cazorla, I. M.; Santana, E. R. dos S.; Nagamine, C. M. L.; Vendramini, C. M. M.; Silva, 
+C. B.; Silva, E. D.; Hernandez, H.; Oliveira, M. S.; Utsumi, M. C.; Magina, S. M. P.; 
+Kataoka, V. Y. (2010) Do Tratamento da Informação ao Letramento Estatístico. In: 
+Cazorla,  I.;  Santana,  E.  (Orgs.).  Série  Alfabetização  Matemática,  Estatística  e 
+Científica. Itabuna: Via Litterarum. 
+
+Gil, A. (2002). “Como Elaborar Projetos de Pesquisa”. 4ª ed. São Paulo, Atlas. 
+
+Kenski, V. (2007). “Educação e Tecnologias: o novo ritmo da informação”. Campinas, 
+
+SP. Papirus. 
+
+Lima,  T.;  MIOTO,  R.  (2007).  “Procedimentos  metodológicos  na  construção  do 
+conhecimento científico: a pesquisa bibliográfica”. Katálysis, Florianópolis, v. 10, n. 
+esp, p. 37–45, abr. 
+
+Maia, D.; Barreto, M. C. (2014) “Ensinar Matemática com o uso de tecnologias digitais: 
+
+uma análise a partir da representação social de estudantes de Pedagogia”. 
+
+Maia,  D.;  Castro-Filho,  J.  (2016).  “Aprendizagem  colaborativa  apoiada  por  TDIC  na 
+Educação  Matemática  de  professores:  tecendo  argumentos  para  efetivação  de  uma 
+proposta”.  Anais  do  Congresso  Regional  sobre  Tecnologias  na  Educação  (Ctrl+E 
+2016). Natal: CEUR-WS. p. 461-471. 
+
+Melo,  E.;  Costa,  C.;  Maia,  D.  (2017).  “Recursos  educativos  digitais  para  Educação 
+Matemática: um levantamento para dispositivos móveis”, In: II Anais do Congresso 
+sobre Tecnologias na Educação (Ctrl+E 2017), Mamanguape/PB: CEUR-WS. 
+
+Nacarato, A.; Mengali, B.; Passos, C. (2009). “A Matemática nos anos iniciais do Ensino 
+Fundamental: tecendo fios do ensinar e do aprender”. Belo Horizonte: Autêntica. 
+
+Ponte, J. (1997). “As novas tecnologias e a educação”. Lisboa: Editora Texto. 
+
+Ponte, J. (1998). “Da formação ao desenvolvimento profissional”. Lisboa: APM. 
+
+Prensky, M. (2001) Nativos digitais, imigrantes digitais. On the horizon, v. 9, n. 5, p. 1-
+
+6. 
+
+Silva, N. (2018). Níveis de letramento estatístico em um curso de formação continuada. 
+
+ 
+
+ 
+
+

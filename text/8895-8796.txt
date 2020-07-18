@@ -1,0 +1,538 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Definição de Critérios Pedagógicos e Técnicos de um Recurso 
+Digital para Validação de Planos de Aula 
+
+Amanda Maria D. de Oliveira, Clésia Jordania N. da Costa, Ivanilka L. de 
+Azevedo, Vitor Henrique C. Bezerra, Dennys L. Maia 
+
+Instituto Metrópole Digital – Universidade Federal do Rio Grande do Norte (UFRN) 
+Lagoa Nova – 59.064-741 – Natal – RN – Brasil 
+
+{amandamariadomingos, clesiaj7, vitorhenrique908}@gmail.com, 
+
+{dennys, ivanilka.azevedo}@imd.ufrn.br
+
+Abstract.  This  document  presents  the  path  followed  by  two  working  groups 
+(Development  and  Pedagogical),  in  the  sense  of  outlining  a  systematic, 
+theoretical-pedagogical  reference  to  implement  a  validation  system  for  class 
+plans in the OBAMA platform, with the goal of disseminating among teachers 
+good pedagogical practices. 
+
+Resumo. Este artigo apresenta o percurso traçado por dois grupos de trabalho 
+(GT  de  Desenvolvimento  e  o  GT  Pedagógico),  no  sentido  de  elencar  um 
+referencial teórico-pedagógico e sistemático para implementar um sistema de 
+validação de planos de aulas na plataforma OBAMA, com o objetivo de difundir 
+entre professores boas práticas pedagógicas.  
+
+1. Introdução 
+
+A busca por sistemas computacionais para a educação mais completos provoca esforços 
+no  sentido  de  melhorar  e  oferecer  ao  professor  ferramentas  que  agilizem  e  facilitem  o 
+preparo de suas aulas, com garantia da coerência estrutural e propósitos pedagógicos que 
+um plano de aula (PA) ou sequência didática (SD) devem conter. De acordo com dados 
+do  Centro  Regional  de  Estudos  para  Desenvolvimento  da  Sociedade  da  Informação 
+(Cetic.br),  75%  dos  professores  brasileiros  admitem  usar  Internet  para  preparação  de 
+atividades didáticas com seus alunos. Dentre as ações mais realizadas estão a busca de 
+exemplos  de  planos  de  aula  (82%),  seguida  pelo  compartilhamento  de  conteúdos 
+educacionais com outros professores (78%) [Cetic.br 2017]. 
+
+Nesse sentido, plataformas on-line são desenvolvidas com vistas à colaborar com 
+ 
+a  prática  docente.  O  Portal  do  Professor,  por  exemplo,  trata-se  de  um  ambiente 
+desenvolvido pelo Ministério da Educação (MEC) em meados dos anos 2000 que possui 
+um  documento  no  qual  encontram-se:  “dicas  para  a  elaboração  de  planos  de  aula”, 
+elaborado  pela  Secretaria  de  Educação  Básica  do  MEC.  Esse  documento  socializa  ao 
+público  orientações  que  vão  desde  a  observação  da  estrutura  curricular,  como 
+possibilidade daquela aula ser aproveitada em mais de um nível de ensino, à explicação 
+do que vem a ser uma avaliação. Tais indicações oportunizam ao professor rememorar 
+aspectos de sua formação, além de refletir sobre suas concepções pedagógicas. 
+
+Especificamente para o ensino da Matemática, a Plataforma OBAMA intenciona 
+
+ 
+
+ 
+
+ 
+
+auxiliar na prática de docentes da Educação Básica  com a disponibilização de mais de 
+500 objetos de aprendizagem (OA), que exploram conceitos matemáticos, classificados 
+conforme  critérios  técnicos  e  pedagógicos,  e  uma  ferramenta  para  elaboração 
+colaborativa  e  compartilhamento  online  de  planos  de  aulas  [Batista  et  al  2017].  Os 
+primeiros PA produzidos na referida plataforma foram elaborados, em pouco mais de um 
+ano  de  seu  funcionamento,  em  formações  oferecidas  a  mais  de  300  professores  e  nas 
+pesquisas de mestrado desenvolvidas por membros da equipe. Como uma das etapas de 
+um dos atuais projetos de pesquisa é validar esses PA elaborados, em breve, eles estarão 
+disponíveis na OBAMA que, portanto, servirá como catalisadora de propostas de práticas 
+inovadoras  em  Matemática  acessíveis  na  internet  para  que  professores  utilizem  como 
+auxiliar em suas práticas. 
+
+ 
+Entretanto,  as  primeiras  análises  dos  PA  e  SD  produzidos  demonstram  que  os 
+professores têm dificuldades para desenvolver essa importante atividade docente, tanto 
+pelo aspecto tecnológico, quanto pedagógico e do conteúdo [Silva et al 2018]. Em razão 
+desta  realidade,  e  da  compreensão  que  essa  plataforma  pode  servir  como  ambiente  de 
+formação docente, demandou-se ajustes na funcionalidade de elaboração de PA para que 
+os professores tivessem suporte durante a sistematização de suas práticas de ensino em 
+Matemática. 
+
+ 
+A reflexão, inerente à elaboração dos PA ou SD, compreende todo o processo de 
+sistematização  do  conhecimento  desde  a  etapa  da  concepção,  desenvolvimento  e 
+aplicação  da  proposta  de  ensino  até  o  momento  da  avaliação,  instrumento  que  dará 
+suporte ao feedback dos processos de ensino e de aprendizagem. No sentido de dar suporte 
+ao professor no processo de elaboração de PA e SD, este trabalho apresenta a narrativa 
+da  implementação  de  um  sistema  de  validação  para  planos  de  aula  elaborados  na 
+Plataforma OBAMA. 
+
+ 
+O  presente  trabalho  se  organiza  em  cinco  seções  que  buscam  trazer  todo  o 
+processo  de  concepção  do  processo  de  validação  do  PA,  organizado  em:  introdução, 
+referencial  teórico,  metodologia,  resultados  e  discussões,  considerações  finais  e  uma 
+seção com os anexos deste artigo. 
+
+2. Referencial Teórico 
+
+Concebemos que os PA e as SD são instrumentos inerentes e essenciais à prática docente, 
+pois ao planejar sua aula o professor tem a oportunidade de organizar suas ações de ensino 
+em favor da aprendizagem discente e, inclusive, refletir sobre sua prática. Esse conjunto 
+de atitudes confere o caráter pedagógico do fazer docente, atribuindo a sua práxis uma 
+“ação consciente, intencional e planejada no processo da formação humana”, conforme 
+reitera Libâneo (1998, p.24). O PA trata-se, desse modo, em uma ferramenta didático-
+pedagógica  pois,  se  bem  elaborado,  se  constitui  em  um  documento  que  sistematiza  o 
+trabalho  pedagógico  do  professor  no  dia-a-dia  de  sala  de  aula,  aspecto  ressaltado  por 
+autores como: Oliveira (2011); Castro, Tucunduva e Arns (2008). Ademais, para autores 
+como Vasconcellos (2000), Libâneo (1998) e Mildner (1999) a reflexão sobre a prática 
+através do ato de planejar otimiza a intervenção sobre a realidade, possibilitando assim, 
+uma mudança na cultura pedagógica. 
+
+Na  Plataforma  OBAMA,  a  elaboração  de  um  PA  é  tratada,  também,  como  um 
+ 
+processo formativo para o docente que planeja utilizando os recursos da plataforma. Para 
+fins  didáticos,  esse  processo  é  dividido  em  três  etapas  visando  nortear  o  professor  no 
+curso  da  elaboração  do  planejamento  de  suas  aulas,  visto  que  algumas  vezes  os 
+
+ 
+
+ 
+
+ 
+
+professores  ainda  têm  dificuldade,  por  exemplo,  em  definir  os  objetivos  do  seu 
+planejamento com a finalidade de aprendizagem e não de ensino [Silva et al 2018]. Para 
+tanto, os rótulos dos campos a serem preenchidos no formulário de criação de plano de 
+aula são apresentados como questões a serem respondidas, como em um diálogo entre o 
+usuário  e  o  sistema,  “(...)  com  isso,  espera-se  que  o  usuário  compreenda  o  que  são  as 
+informações  necessárias  para  cadastrar  um  Plano  de  Aula  e  sinta-se  estimulado  em 
+concluir  a  atividade”  [Oliveira  et  al  2018,  p.  399].  Mais  que  a  conclusão  da  tarefa  de 
+planejar, é esperado que esse diálogo para criação do PA faça com que o professor reflita 
+sobre sua proposta de aula desde o  ínicio, quando é questionado sobre a instituição de 
+ensino  a  qual  é  destinada  sua  proposta  de  aula.  Essa  primeira  pergunta  apresenta  a 
+dimensão do contexto para o qual aquele planejamento se destina, permitindo verificar se 
+a  proposta  de  aula  está  alinhada  ao  público-alvo.  Na  última  etapa,  na  qual  é  possível 
+adicionar ou não Objetos de Aprendizagem (OA) ao seu PA, o professor é colocado  a 
+analisar  e  justificar  a  integração  de  tecnologias,  sejam  digitais  ou  analógicas,  em  sua 
+prática pedagógica [Oliveira et al, 2018]. 
+
+ 
+Diante disso, sentimos a necessidade de  aliar a concepção de uma boa referência 
+de PA ou SD à uma interface para o usuário responsável pela validação a partir de um 
+recurso digital integrado à plataforma, se fazendo  necessário, para tanto, iniciar com o 
+levantamento  de  requisitos.  Para  Bezerra  (2007,  p.23),  é  nesse  momento  que  “(...)  a 
+equipe  de  desenvolvimento  tenta  entender  o  domínio  que  deve  ser  automatizado  pelo 
+sistema de software”. Nesse contexto, de acordo com Bezerra (2007, p.23), o domínio 
+pode  ser  definido  como  “(...)  a  área  de  conhecimento  ou  de  atividade  específica 
+caracterizada  por  um  conjunto  de  conceitos  e  de  terminologia  compreendidos  por 
+especialista nessa área” . 
+
+ 
+O  autor  explica  que  o  levantamento  de  requisitos  é,  também,  um  momento  de 
+estudo  das  necessidades  dos  usuários  interessados  por  parte  dos  desenvolvedores,  que 
+antecede e justifica a necessidade de implementação do recurso [Bezerra 2007]. Por isso 
+é preciso que  esses estudos sejam documentados de forma que, em momentos futuros, 
+outros  desenvolvedores  possam  entender  as  motivações  para  o  desenvolvimento  de  tal 
+recurso. Essa documentação pode ser feita utilizando diagramas, descrições textuais ou 
+mesmo  esboços  e  registros  de  conversas  entre  equipe  de  desenvolvimento  e  usuários 
+(gravações de áudio, vídeo ou atas de reuniões, por exemplo). 
+
+ 
+Na seção seguinte, apresentamos como se deu o percurso metodológico adotado 
+no  desenvolvimento  deste  trabalho  que  culminou  na  sistematização  do  ambiente  de 
+validação de PA e SD da Plataforma OBAMA. 
+
+3. Metodologia  
+
+Este  trabalho  está  dividido  em  duas  partes  essenciais  para  o  desenvolvimento  de  um 
+recurso  digital  cuja  finalidade  é  pedagógica:  i)  a  concepção  e  definição  dos  aspectos 
+pedagógicos; e ii) a implementação do recursos digital em si. Por isso, foram utilizadas 
+metodologias distintas, embora integradas, para cada uma das etapas. 
+
+3.1 Definição dos critérios pedagógicos 
+
+ 
+Definido o processo de criação de PA dentro da Plataforma OBAMA, foi então 
+organizada,  na  equipe  de  colaboradores  da  Plataforma,  um  Grupo  de  Trabalho  (GT) 
+Pedagógico  para  elaborar  critérios  de  avaliação  de  cada  ponto  do  PA.  Esse  grupo, 
+portanto,  toma  como  base  as  teorias  e  trabalhos  que  apresentam  o  PA  como  uma 
+
+ 
+
+ 
+
+ 
+
+ferramenta de avaliação do aluno e de autoavaliação do professor, que toma esse esquema 
+como  o  roteiro  de  sua  prática  profissional.  Nesse  sentido,  foi  realizada  uma  revisão 
+bibliográfica que ocorreu de dezembro de 2018 a março de 2019, com vistas a subsidiar 
+a base teórica apresentada e assim garantir a constituição de um sistema de validação de 
+PA produzidos em uma plataforma virtual. Para cada ponto do PA, é feita uma análise do 
+que foi proposto e se atende ou não a especificidade de cada item. Esse e outros pontos 
+serão analisados com um olhar que busca enxergar a coerência entre a intenção do que se 
+quer ensinar e as estratégias, procedimentos e intervenções utilizadas para tal, mediante 
+o processo de avaliação adotada. 
+
+ 
+Como  a  avaliação  desses  planos  tem  por  finalidade  publicizar  boas  práticas 
+pedagógicas, proporcionando aos professores orientações sobre a elaboração de planos 
+de aula, a exemplo da Plataforma MEC de Recursos Educacionais Digitais (MEC RED)1 
+das demais plataformas educacionais, nos dispomos a usar uma metodologia de validação 
+que busca analisar cada um dos itens informados no PA ou SD elaborados pelo professor, 
+na busca da conexão desses pontos com o objetivo pedagógico daquele plano. Ao final, 
+foram listados oito critérios pedagógicos que congregam para propostas de boas práticas 
+para aulas em Educação Matemática. 
+
+ 
+A concepção do sistema de validação tem como marco a definição dos critérios 
+usados para avaliar cada  tópico dos PA submetidos na Plataforma OBAMA, discutido 
+pelo GT Pedagógico. Seguindo com a implementação do recurso digital para validação, 
+que foi iniciado com a elaboração do fluxo de navegação, e então realizada a prototipagem 
+das telas para poder ser implementado e testado. A elaboração de um diagrama de fluxo 
+de navegação auxiliou ao Grupo de Trabalho de Desenvolvimento (GT Devs) a entender 
+as demandas apontadas pelo GT Pedagógico. 
+
+3.2 Definição e implementação de critérios técnicos 
+
+O processo de desenvolvimento do recurso de avaliação de planos de aula foi iniciado 
+com  a  análise  das  demandas  pedagógicas  levantadas.  Para  tanto,  foi  elaborado  um 
+diagrama para representação do de fluxo de navegação (anexo: figura 1), o qual representa 
+os  passos  a  serem  dados  pelos  membros  da  equipe  de  avaliação  dentro  da  Plataforma 
+OBAMA para a realização da tarefa de validar um PA. A definição do fluxo foi feita a 
+partir da elaboração de um diagrama que apresenta os objetivos a serem alcançados para 
+a validação do PA e quem está realizando tal objetivo. O diagrama (anexo: figura 1) foi 
+elaborado em três etapas: i) definição dos objetivos a serem alcançados, em sequência, 
+para a revisão do PA; ii) Atribuição aos devidos atores (usuários e sistema) seus objetivos; 
+iii) Mapeamento dos fluxos alternativos (situações  em que há desvio do fluxo ideal no 
+processo de validação).  
+
+Após  análise  das  demandas,  foi  então  realizada  a  prototipagem  das  telas  do 
+ 
+recurso de validação de PA. Com a validação dos protótipos de tela apresentados pelo GT 
+Devs  para  o  GT  Pedagógico,  foi  então  implementado  o  recurso  de  validação.  Todo  o 
+processo de elaboração de diagramas e prototipagem das telas foi realizado com o editor 
+de  diagramas  Draw.io  integrado  ao  Google  Drive,  de  forma  a  possibilitar  o  trabalho 
+colaborativo  entre  os  membros  do  GT  Devs.  A  prototipagem  de  telas  representa  os 
+
+ 
+
+1 Criada em 2015 por meio de uma iniciativa do MEC, que traz dicas gerais para elaboração de planos de 
+aula estruturados e, também, disponibiliza recursos dos principais portais educativos do Brasil, além de 
+divulgar os planos de aulas de todas as disciplinas. 
+
+ 
+
+ 
+
+ 
+
+aspectos visuais (telas) e de interação que auxiliarão no alcance dos objetivos definidos a 
+partir da análise das demandas do GT Pedagógico. 
+
+ 
+O recurso de validação de PA foi implementado nas linguagens de programação 
+JavaScript, CSS, HTML e Java com o framework Model View Controller VRaptor. Essas 
+mesmas  linguagens  e  framework  são  utilizados  para  o  desenvolvimento  dos  demais 
+recursos da Plataforma OBAMA, sendo as três primeiras necessárias para a criação de 
+páginas dinâmicas em sistemas e sites da web e a última utilizada para a implementação 
+das regras de funcionamento da plataforma e comunicação com o banco de dados. 
+
+A  seguir  são  apresentados  os  critérios  definidos  para  validação  de  um  PA  na 
+
+ 
+Plataforma OBAMA e o recurso digital desenvolvido para a realização de tal tarefa. 
+
+4. Resultados e discussões 
+
+Diante do exposto, o GT Pedagógico considerou que para o PA ou SD ser considerado 
+como boa prática, e desse modo publicizado na plataforma, necessitaria  atender a sete 
+critérios considerados relevantes para sua coerência, são eles: i) público-alvo; ii)  tempo 
+adequado  ao  desenvolvimento  da  atividade;  iii)  descritor(es)  ou  habilidades  em 
+Matemática; iv) objetivo geral claro e focado no aluno; v) objetivos específicos claros e 
+relacionado a todas as etapas implícitas para o alcance do objetivo geral; vi) metodologia 
+conectada aos objetivos propostos; e vii) avaliação coerente com os objetivos. Definidos 
+os critérios para validação de PA na Plataforma OBAMA pelo GT Pedagógico, ao GT 
+Devs coube a responsabilidade de implementar o recurso digital que daria suporte a esta 
+tarefa.  O  início  da  implementação  de  um  software  ou  recurso  para  um  software  já 
+existente se dá com o estudo do que será implementado. Para isso, o GT Devs optou por 
+delinear o fluxo da navegação do usuário dentro sistema durante a validação de um PA. 
+
+ 
+Cada  objetivo  é  apresentado  no  diagrama  como  um  retângulo  que  contém  uma 
+sentença indicando o objetivo a ser alcançado. Todos os retângulos possuem ligações com 
+outros retângulos através de setas, cujas pontas indicam a tarefa precedente e a próxima 
+tarefa a ser realizada. Cada retângulo é indicado por uma cor que designa quem é o ator 
+responsável por aquele objetivo dentro do fluxo. É válida a regra da hierarquia entre os 
+perfis  de  usuários,  que  será  melhor  detalhada  posteriormente,  nesse  caso  o  que  é  o 
+indicado como uma tarefa do usuário autor, por exemplo, pode ser realizada também por 
+qualquer um dos outros perfis de usuário. 
+
+Inicialmente  era  previsto  que  um  PA  poderia  ser  submetido  para  validação  por 
+ 
+qualquer  usuário  cadastrado  na  plataforma.  Após  submetido,  este  PA  estaria 
+automaticamente  disponível  e  qualquer  um  dos  usuários  com  perfil  de  acesso  do  tipo 
+Revisor  poderia  iniciar  a  validação.  Porém,  se  feito  dessa  maneira,  o  processo  de 
+validação não preveniria situações em que dois revisores iniciem a revisão de um mesmo 
+PA,  ou  mesmo  que  a  revisão  seja  realizada  pelo  próprio  autor  do  PA,  caso  esse  tenha 
+perfil de Revisor. Com o estudo do fluxo definido, foi percebido que há mais que dois 
+usuários (autor e revisor) envolvidos na tarefa de validação de um PA. 
+
+ 
+Como  mostra  o  diagrama  de  caso  de  uso  das  principais  funcionalidades  da 
+Plataforma OBAMA (anexo: figura 2), os perfis dos usuários da plataforma respeitam a 
+uma  hierarquia,  cuja  menor  atribuição  de  funcionalidades  de  um  usuário  logado  é  do 
+usuário  com  perfil  do  tipo  Padrão  (Usuário).  Acima  deste  está  o  Revisor  que  tem  as 
+mesmas  atribuições  do  usuário  Padrão  com  o  adicional  de  acesso  à  funcionalidade  de 
+revisão  de  PA  e  habilitar  e  desabilitar  OA.  Por  fim,  está  o  usuário  com  perfil  de 
+
+ 
+
+ 
+
+ 
+
+Administrador  que  é  capaz  de,  além  de  tudo  que  é  atribuído  ao  Revisor,  habilitar  e 
+desabilitar um usuário e alterar o perfil dos demais usuários. 
+
+ 
+Quando  confrontados,  o  diagrama  de  caso  de  uso  inicialmente  proposto  e  o 
+diagrama de fluxo de navegação para validação de um PA, fez-se necessário definir outros 
+dois perfis de usuário que dariam conta de cobrir as lacunas deixadas pelo planejamento 
+inicial do caso de uso de validação de PA. Esses novos perfis são: Revisor-Pesquisador e 
+Revisor-Sênior. 
+
+ 
+Ao  Revisor-Pesquisador  é  dada  a  possibilidade  de  revisar  seus  PA  e  de  outros 
+autores. Esse perfil se fez necessário na medida em que a equipe de revisão é, também, a 
+equipe que organiza e faz a mediação nas formações sobre o uso da plataforma, sendo 
+portanto,  também,  coautores  dos  PA  elaborados  durante  as  formações.  Neste  caso,  é 
+atribuído  o  título  de  Pesquisador  a  este  perfil,  dada  sua  especificidade  no  trabalho  de 
+formar professores que desenvolvem boas práticas pedagógicas utilizando a Plataforma 
+OBAMA.  Enquanto  isso,  ao  Revisor-Sênior  é  atribuída  a  demanda  de  delegar  um 
+Revisor-Pesquisador para validar o PA e finalizar o processo de validação, verificando se 
+a  validação  do  Revisor-Pesquisador  foi  coerente  ao  proposto,  no  tocante  aos  aspectos 
+pedagógicos definidos. O Revisor-Sênior veio, também, para que a validação do PA se 
+desse em dois passos, reforçando a qualidade no processo de validação deste documento. 
+Para  tanto,  esse  papel  será  atribuído  apenas  aos  membros  do  GT  Pedagógico  que 
+detenham título de pós-graduação stricto sensu, prioritariamente, em nível de Doutorado. 
+
+ 
+Após definido o fluxo de navegação para realização da validação de um PA, o 
+diagrama foi apresentado ao GT Pedagógico que aprovou a proposta. Foi então realizada 
+a prototipagem das telas que são apresentadas aos usuários durante a validação do PA. A 
+primeira tela envolvida no processo de validação é a tela de cadastro de PA, dado que o 
+processo de validação é iniciado na escrita do PA quando o professor está respondendo 
+as  perguntas  que  compõem  o  formulário  de  cadastro  de  PA.  Neste  caso,  não  foram 
+necessárias mudanças no formulário de cadastro em si. No momento do envio do PA para 
+validação passou a ser exibida uma tela que apresenta o “Termo de consentimento com o 
+processo de validação e publicação de Planos de Aula da Plataforma OBAMA”, como 
+mostra a figura 3 (anexo). 
+
+ 
+Apresentar  os  termos  e  condições  para  validação  e  publicação  de  PA  na 
+Plataforma  OBAMA  se  faz  necessário  por  dois  motivos,  primeiro  porque  todas  a 
+publicações (de OA e PA) por meio da Plataforma terão a mesma licença livre atribuída 
+à plataforma (CC-BY-SA), ou seja, estarão sob uma licença criativa que garante o direito 
+de referência ao autor e suas réplicas e cópias devem se manter sob a mesma licença. O 
+segundo motivo é que a validação, enquanto processo avaliativo da proposta pedagógica, 
+se  constitui,  também,  etapa  do  processo  formativo  desse  profissional,  portanto,  devem 
+estar explícitos quais aspectos serão considerados durante a validação. 
+
+ 
+Além disso, foi preciso projetar uma tela que ainda não existia na plataforma, a 
+de  validação  de  PA.  Neste  caso,  foram  levadas  em  consideração  as  experiências  dos 
+membros  do  GT  Pedagógico  para  definição  do  layout  desta  tela.  Dado  que  todos  os 
+participantes  do  referido  GT  fazem  uso  constante  de  formulários  digitais  do  Google 
+Formulários, o primeiro protótipo foi construído pelo próprio GT Pedagógico utilizando 
+esta  ferramenta.  Esse  passo  se  fez  necessário  para  que  os  próprios  usuários  da 
+funcionalidade  e  proponentes  dessa  demanda  entendessem  quais  tipos  de  campos  de 
+entrada de informação seriam necessários no formulário. 
+
+ 
+
+ 
+
+ 
+
+ 
+Como  os  membros  do  GT  Pedagógico  já  estavam  elaborando  os  critérios  para 
+validação do PA, eles foram considerados os mais aptos para definir como esses critérios 
+seriam verificados. Com isso, foi definido que cada critério seria considerado como uma 
+questão objetiva de múltipla escolha e haveria, também, um campo de texto para a escrita 
+das  considerações  finais  do  revisor  (anexo:  figura  4).  No  topo  da  tela  há  um  link  que 
+permite ao revisor visualizar ou baixar um arquivo PDF com o conteúdo do PA. Por fim, 
+no  rodapé  do  formulário,  o  revisor  tem  dois  botões  que  representam  sua  decisão  em 
+relação ao próximo passo na validação do PA: Validar e Enviar para correção. 
+
+O GT Pedagógico descartou a hipótese de rejeição de um PA como veredito final 
+ 
+da validação, dada a intenção formativa do processo de validação de PA, cujo objetivo 
+não  é  elencar  boas  práticas  pedagógicas,  mas  incentivar  a  construção  de  PA  que 
+apresentem tal prática. Desta forma, após enviado para validação, o PA só sairá do fluxo 
+de  validação  quando  for  publicizado.  Para  tanto,  quando  necessário  ajustes,  todos  os 
+usuários-autores do PA serão notificados por e-mail com uma mensagem informando o 
+parecer do revisor e os critérios que o PA atendeu ou não. Todo o processo de validação 
+será  em  formato  de  blind  review,  ou  seja,  o  revisor  não  saberá  quem  são  os  autores. 
+Aplicou-se uma exceção aos casos já informados aqui, como o do Revisor-Pesquisador. 
+
+ 
+A  validação  final  do  Revisor-Sênior  é  realizada  em  uma  tela  semelhante  à  de 
+validação  de  PA.  Neste  caso,  se  diferencia  apenas  por  apresentar  as  informações  já 
+preenchidas e o botão Validar é substituído por Publicar. Caso o PA seja retornado aos 
+autores para correção, essa correção se dará na tela de edição do PA. Dada a semelhança  
+que as telas para estes dois objetivos têm com as telas para edição e validação de PA, seus 
+protótipos seguem o mesmo padrão apresentado nas figuras 3 e 4, respectivamente. 
+
+ 
+Após aprovação dos protótipos de telas, as atividades de desenvolvimento foram 
+prosseguidas com a implementação do sistema de validação. No momento da elaboração 
+deste artigo, a implementação estava em estágio de testes pelos membros do GT Devs, 
+responsáveis pela implementação, para então ser avaliada pelo GT Pedagógico e por fim 
+disponibilizada para os demais usuários da Plataforma OBAMA. 
+
+5. Considerações finais 
+
+Com  a  implementação  e  uso  efetivo  da  funcionalidade  de  elaboração  de  PA  de  forma 
+colaborativa  e  posteriormente  sua  publicação  na  plataforma,  mediante  avaliação, 
+esperamos  contribuir  com  a  ampliação  de  boas  práticas  de  ensino  de  Matemática  ao 
+propor  a  reflexão  por  ocasião  da  sistematização  dos  PA  e  SD.  Ressaltamos,  com  isso, 
+atenção aos critérios adotados, para promoção da reflexão e aperfeiçoamento das práticas 
+de  ensino  da  Matemática  mediante  o  feedback  do  material  submetido  à  Plataforma 
+OBAMA e ainda ao nosso objetivo em difundir e reconhecer publicamente em ambiente 
+virtual tais referências de boas práticas de ensino.  
+
+ 
+Durante o desenvolvimento do recurso aqui apresentado, toda a equipe envolvida 
+pôde  consolidar  a  compreensão  da  importância  de  uma  equipe  multidisciplinar  para  a 
+concepção e implementação de um recurso digital com fins pedagógicos. Bem como, para 
+o GT Devs, a melhor compreensão e implementação do recurso de validação de PA foi 
+viabilizada a partir de documentos e registros realizados pelos idealizadores das versões 
+iniciais de tal recurso, por meio de diagramas, protótipos e artigos científicos. Enquanto 
+para  o  GT  pedagógico,  enumerar  os  critérios  de  validação  e  conceber  um  sistema  de 
+validação consistente na idealização de um PA coerente nos aspectos pedagógicos, só foi 
+
+instituído  a  partir  da  busca  e  estudo  do  referencial  teórico  e  da  discussão  entre  os 
+colaboradores, o que garantiu a versão atual do sistema.    
+Referências 
+
+Batista, S.; Brito, D; Melo, E; Oliveira, A.; Oliveira, N.; Maia, D. (2017). “Reconstrução 
+de  um  repositório  de  objetos  de  aprendizagem  para  Matemática”.  In:  Anais  do  II 
+Congresso sobre Tecnologias na Educação, Mamanguape/PB. 
+
+Bezerra, E. (2007). “Princípios da Análise e Projetos de Sistemas com UML”. Elsevier 
+
+Editora Ltda. São Paulo.  
+
+Castro, P.; Tucunduva, C.; Arns, E. (2008). “A Importância Do Planejamento das Aulas 
+Para Organização do Trabalho do Professor em sua Prática Docente”. Athena, Revista 
+Científica de Educação, v.10, n.10, Jan./Jun. 
+
+Cetic.Br. (2017). “Pesquisa sobre o uso das tecnologias de informação e comunicação nas 
+
+escolas brasileiras: TIC Educação”. Brasília: Cgi.Br/Nic.Br. 
+
+Fiorentini, D.; Lorenzato, S. (2006). “Investigação Em Educação Matemática: Percursos 
+
+Teóricos E Metodológicos”. Campinas, SP: Autores Associados, 2006. 
+
+Libâneo, J. (1998). “Didática”. 2ª Ed. São Paulo: Cortez. 
+
+Mildner, T. (1999). “Avaliação da aprendizagem escolar numa visão de articulação com 
+os processos de planejamento e de implementação de ensino-aprendizagem”. Estudos 
+em avaliação educacional. São Paulo: Fund. Carlos Chagas, n.20, p. 95-128. 
+
+Oliveira, A.; Oliveira, A.; Batista, S.; Nascimento, I.; Azevedo, D.; Lima, R.; Oliveira, 
+N.;  Maia,  D.  (2018).  “Processo  de  desenvolvimento  de  uma  ferramenta  destinada  à 
+elaboração de planos de aula de forma colaborativa”. In: Anais do III Congresso sobre 
+Tecnologias na Educação, p.392-403, Fortaleza/CE. 
+
+Oliveira,  M.  (2011).  “Plano  de  Aula:  ferramenta  pedagógica  da  prática  docente”. 
+
+Pergaminho. Patos de Minas, MG: Unipam, (2): 121-129. 
+
+Pereira, D.; Rocha, S.; Chaves, P. (2016). “O conceito de práxis e a formação docente 
+
+como Ciência da Educação”. Revista de Ciências Humanas, v.17, p.31-45. 
+
+Silva, A.; Silva, A.; Souza-Filho, M.; Melo, E.; Azevedo, I.; Maia, D. (2018) “Análise de 
+planos de aula para o  ensino de Matemática com uso de objetos de aprendizagem”. 
+Revista Tecnologias na Educação, v.26, p.135-155. 
+
+Vasconcellos,  C.  (2000).  “Planejamento:  projeto  de  ensino-aprendizagem  e  projeto 
+
+político pedagógico”. 9ed. São Paulo: Libertad. 
+
+Anexos 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 1. Diagrama de fluxo de navegação para validação de um PA na Plataforma OBAMA 
+
+ 
+
+ 
+Figura 2. Diagrama de Casos de Uso da Plataforma 
+OBAMA (Fonte: Batista et al 2017) 
+
+Figura 4. Protótipo de tela do formulário de validação 
+de PA 
+ 
+
+ 
+
+Figura 3. Finalização do cadastro de PA e Termo de consentimento com o processo de validação e 
+publicação de Planos de Aula da Plataforma OBAMA 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

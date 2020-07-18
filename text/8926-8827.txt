@@ -1,0 +1,342 @@
+Desenvolvimento de um Jogo Utilizando Robótica para o 
+Estímulo do Pensamento Computacional 
+
+Rodrigo C. L. Silva, Matheus L. U. Cavalcanti, Luama R. N. L. de Oliveira 
+
+Instituto Federal de Educação Ciências e Tecnologia de Pernambuco (IFPE) 
+Campus Paulista – Paulista – PE – Brasil 
+rodrigo.lira@paulista.ifpe.edu.br 
+
+Abstract.  This  work  presents  the  results  of  the  development  of  a  project  that 
+uses robotics to stimulate computational thinking among children from the 3rd 
+to the 5th year of elementary school. The purpose of the game is to stimulate 
+computational thinking in this age group, causing children to develop this skill 
+that  is  central  to  current  and  future  generations.  To  perform  the  game 
+missions, players need  to pre-define the steps (program) that the robot needs 
+to  perform  to  achieve  the  requested  goal.  In  its  initial  stage,  the  game  was 
+developed in Scratch and will be later developed in the Arduino. 
+
+Resumo.  Neste  artigo  é  apresentado  os 
+resultados  parciais  do 
+desenvolvimento de um jogo que utiliza robótica para estimular o pensamento 
+computacional  entre  crianças  dos  3  aos  5  anos  do  ensino  fundamental.  O 
+intuito  do  jogo  é  estimular  o  pensamento  computacional  nessa  faixa  etária, 
+fazendo com que as crianças desenvolvam essa habilidade que é fundamental 
+para  as  atuais  e  futuras  gerações.  Para  realizar  as  missões  do  jogo,  os 
+jogadores  necessitam  pré-definir  os  movimentos  (programa)  que  o  robô 
+precisa realizar para alcançar o objetivo solicitado. Na sua fase inicial, o jogo 
+foi desenvolvido em Scratch e será, posteriormente, desenvolvido no ambiente 
+de prototipação Arduino. 
+
+ 
+1. Introdução 
+O ser humano vive numa sociedade de constante transformação tecnológica onde cada 
+vez  mais  conhecimento  sobre  tecnologia  é  necessário.  Iniciativas  como  o  Code.org 
+[Code.org  2019]  apresentam  como  o  conhecimento  em  programação  são  necessários 
+para  as  atuais  e  futuras  gerações.  Por  isso,  cada  dia  mais  o  termo  “Pensamento 
+Computacional” vem sendo difundido entre professores e pesquisadores. 
+De acordo com Wing (2006), o pensamento computacional amplia competências 
+ 
+que  desenvolvem  e  aprimoram  nos  alunos  novas  habilidades  tais  como:  i)  Pensar  de 
+forma abstrata em vários níveis e  encontrar uma solução;  ii) Desenvolver um produto, 
+indo  além  do  programa,  pois  é  necessário  pensar  em  diferentes  níveis  de  abstração, 
+permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver 
+problemas com ou sem o computador; iv) Pensar ao  invés de deixar que os problemas 
+sejam  resolvidos  pelo  computador;  v)  Correlacionar  a  área  computacional  com  a 
+matemática e as engenharias. 
+O  pensamento  computacional  é  uma  habilidade  fundamental  para  todos,  não 
+ 
+somente  para  cientistas  da  computação.  Por  esse  motivo,  nos  últimos  anos,  vários 
+países,  incluindo  EUA  [Obama  White  House  2019]  e  Reino  Unido  [Guardian  2019], 
+
+ 
+
+incentivaram  a  adição  desses  conceitos  no  currículo  escolar  para  ajudar  a  criar  uma 
+nova  geração  de  “Mark  Zuckerberg’s”.  Nesse  sentido,  a  Sociedade  Brasileira  de 
+Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular 
+(BNCC), proposta que se baseou em destacar a importância desse conhecimento para os 
+estudantes serem capazes de solucionar desafios cotidianos [Fundação Telefônica Vivo 
+e Fundação Lemann 2018]. 
+ 
+Com o intuito de estimular o esse tipo de pensamento, este artigo irá apresentar 
+os primeiros resultados do desenvolvimento de um jogo utilizando robótica educacional 
+para  estímulo  do  pensamento  computacional.  Nele,  os  jogadores  precisaram  utilizar 
+conceitos de  lógica de programação para poder controlar  a  movimentação de um robô 
+em  um  mapa  que  será  o  tabuleiro  do  jogo.  Ao  final,  espera-se  criar  uma  solução 
+semelhante  ao  Cubetto  da  empresa  PrimoToys  [Primotoys  2019]  com  um  custo  mais 
+acessível e que se adeque a realidade de ensino brasileiro. 
+ 
+Esse  artigo  está  dividido  da  seguinte  forma:  na  Seção  2  são  apresentados  os 
+trabalhos relacionados. Na Seção 3 é apresentado a metodologia da construção do jogo. 
+Na  Seção  4  é  apresentado  a  descrição  do  jogo.  Na  Seção  5  são  apresentados  os 
+resultados parciais do desenvolvimento do jogo, e por fim, na Seção 6, é apresentado a 
+conclusão do artigo. 
+ 
+2. Fundamentação Teórica 
+
+Gomes et al. (2016) relataram a experiência do ensino de programação utilizando jogos 
+digitais para um grupo de crianças entre cinco e seis anos de uma escola. Neste trabalho 
+os  autores  utilizaram  os  jogos:  Code  Baymax,  Code  Monkey,  Code  Studio,  Lighbot, 
+Ninja  Shape  e  o  The  Foos.  Os  resultados  obtidos  sugeriram  que  os  jogos  eram  uma 
+forma de apoiar o ensino de programação para a faixa etária estudada por proverem uma 
+abordagem  lúdica.  No  entanto,  os  autores  perceberam  que  a  interface  dos  jogos  não 
+levava em consideração especificidades do público da experiência. 
+ 
+Martins et al. (2016) apresentaram os resultados de uma ação onde os alunos do 
+curso técnico do IFAM Campus Parintins auxiliaram os alunos do 5º, 6º e 7º ano de uma 
+escola  aplicando  e  ensinando  noções  básicas  de  lógica,  algoritmo  e  programação,  por 
+meio do site Racha Cuca, a ferramenta Scratch e o Lego Mindstorm® Education EV3. 
+Os autores relataram que de forma geral, os alunos começaram a despertar interesse pela 
+área de tecnologia da informação. 
+
+ 
+Santos  et  al.  (2018)  apresentaram  uma  investigação  sobre  o  ensino  de 
+programação e de princípios da robótica no Ensino Fundamental. O projeto concentrou-
+se em ensinar conceitos de robótica a crianças que estão na fase de alfabetização. Para 
+esse  objetivo  foi  construído  um  carrinho-robô  com  sensores  de  distâncias.  O  robô  foi 
+criado utilizando o kit de robótica AttoBox e foi programado para criar uma aula mais 
+interativa.  Os  alunos  foram  apresentados  ao  robô  e  incentivados  a  criar  seus  próprios 
+códigos nas plataformas ArduBlock e Scratch, onde controlaram um carro virtual. Com 
+isso,  o  projeto  buscou  mostrar  como  o  ensino  de  programação  e  de  robótica  pode  ser 
+inserido, por meio de sequências didáticas, no ciclo de alfabetização. 
+
+3. Metodologia 
+
+ 
+O  jogo  proposto  neste  trabalho  está  sendo  desenvolvido  em  duas  plataformas.  No 
+primeiro momento será construído em plataforma digital, usando a ferramenta Scratch, 
+e em seguida, fabricado utilizando a plataforma de prototipação Arduino. 
+Para  a  criação  do  jogo  digital  foi  escolhido  a  plataforma  Scratch  do  MIT  pela 
+ 
+sua  facilidade  de  criação  de  animações  e  jogos.  Esse  ambiente  será  um  local  onde  os 
+jogadores  poderão  se  familiarizar  com  o  jogo,  além  de  ser  uma  oportunidade  dos 
+
+ 
+
+ 
+
+ 
+
+criadores provarem conceitos que serão desenvolvidos com o Arduino. 
+ 
+Antes  da  sua  montagem  em  plataforma  Arduino,  o  sistema  será  testado  no 
+Tinkercard [Tinkercard 2019] para simular os dispositivos utilizados,  com o intuito de 
+encontrar falhas que não foram vistos na fase de concepção  e permitindo que  erros de 
+projetos sejam descobertos antes da montagem 
+ 
+O chassi do robô foi baseado no projeto do Otto with wheels (Otto com rodas) 
+(Figura  1)  que  está  disponível  no  site  Thingverse  [Thingiverse  2019].  Ele  consiste  de 
+um  robô  que  pode  ser  impresso  com  uma  impressora  3d,  em  que  as  suas  rodas  são 
+acionadas  através  de  servomotores  e  o  seu  controle  é  feito  através  de  um 
+microcontrolador. 
+
+Figura 1. Projeto em 3d do robô Otto que será utilizado na confecção do jogo. Fonte: Thingverse 
+
+O mapa ou o tabuleiro do jogo será confeccionado em formato de banners para 
+ 
+facilitar o transporte a criação de novos cenários. Os cenários serão definidos na fase de 
+implementação e apresentarão imagens lúdicas que estimulem os jogadores. 
+
+ 
+
+4. O Jogo 
+
+ 
+O  jogo  foi  idealizado  para  realizar  o  desenvolvimento  do  pensamento  computacional 
+através  da  apresentação  de  conceitos  simples  de  lógica  de  programação.  Seu  público-
+alvo  são  crianças  do  3º  e  5º  anos  do  ensino  fundamental  dos  anos  iniciais,  mas  nada 
+impede  sua  utilização  em  outras  idades  que  queiram  ter  esse  contato  com  lógica  de 
+programação. Como se trata de uma ferramenta que aborda comandos de programação 
+simples, servirá para a introdução à programação, integrada a conteúdos curriculares de 
+quaisquer disciplinas. 
+ 
+4.1. Jogabilidade 
+ 
+O  objetivo  do  jogo  é  fazer  com  que  o  robô  controlado  pelo  jogador  realize  os 
+movimentos  necessários  para  completar  a  missão  definida  na  rodada.  Cada  missão 
+estará diretamente relacionada ao tabuleiro (mapa) utilizado na rodada. Dependendo do 
+mapa, as missões podem envolver conhecimentos de matemática, inglês, português, etc. 
+Na  Figura  2  é  apresentado  um  protótipo  de  tela  do  jogo.  Nesse  mapa,  o  jogador 
+precisará ter conhecimentos das letras do alfabeto para conseguir alcançar o objetivo. 
+
+ 
+
+ 
+
+Figura 2. Protótipo de tela que utiliza um mapa com informações das letras do alfabeto. Fonte: 
+Próprio Autor 
+
+ 
+Os  exemplos  de  missões  que  podem  ser  estabelecidas  no  mapa  anterior  são: 
+“Percorra todas as vogais do mapa e volte para o inı́cio”,  “Encontre a terceira letra do 
+alfabeto”,  “Percorra  em  ordem  as  letras  que  formam  a  palavra  CHÁ”,  etc.  Em  outros 
+mapas, podem ser requisitados conhecimentos diferentes, como: “Encontre a capital do 
+estado de Pernambuco?”, “Encontre a tradução da palavra inglesa  house?” e o jogador 
+terá que responder com os comandos: direita, frente, esquerda e abaixo necessários para 
+o  robô  chegar  até  a  resposta.  Em  cada  uma  dessas  missões  a  forma  de  resolução  é  a 
+mesma,  o  jogador  deve  movimentar  o  robô  até  a  resposta  da  missão  utilizando  os 
+recursos de movimentação disponı́vel no jogo. 
+Para  realizar  as  missões,  os  jogadores  necessitam  pré-definir  os  movimentos 
+ 
+(programa) que o robô precisa realizar para alcançar o objetivo solicitado. Além disso, 
+eles  terão  que  relembrar  os  conhecimentos  adquiridos  nas  respectivas  matérias 
+envolvidas. 
+
+5. Resultados Parciais 
+
+ 
+O projeto  encontra-se na fase final do desenvolvimento do  jogo digital. Nos próximos 
+parágrafos  será  descrito  os  resultados  alcançados  nessa  fase  de  desenvolvimento  que 
+precede a fabricação do robô físico. 
+ 
+O  jogo  digital  possui  a  seguinte  jogabilidade:  ao  iniciá-lo,  o  jogador  é 
+apresentado a tela de escolha de mapa (Figura 3). Nela é possível escolher entre o Mapa 
+1 (Figura 4a), Mapa 2 (Figura 4b) e Mapa 3 (Figura 5). 
+
+ 
+Figura 3. Tela inicial do jogo. Fonte: Próprio Autor 
+ 
+
+(a) Mapa 1 
+
+(b) Mapa 2 
+
+ 
+
+ 
+
+Figura 4. Mapas desenvolvidos para o jogo educacional. Fonte: Próprio Autor 
+
+Após a escolha do mapa, o jogo sorteia aleatoriamente um objetivo que deve ser 
+
+ 
+
+ 
+
+alcançado  com  a  movimentação  do  personagem.  Os  objetivos  de  cada  mapa  são 
+diferentes, no Mapa 1 o jogador deve movimentar o personagem até o número sorteado, 
+enquanto  que  no  Mapa  2  o  movimento  deve  ser  realizado  até  o  animal  sorteado.  No 
+Mapa 3 são adicionados obstáculos ao longo do cenário do mapa. Nele, o personagem 
+precisa se movimentar até o castelo que é colocado em uma posição aleatória do mapa a 
+cada rodada. 
+
+Figura 5. Mapa 3 do jogo. Fonte: Próprio Autor. 
+
+ 
+
+ 
+Em cada mapa, se for alcançado o objetivo, o personagem parabeniza o jogador 
+e uma nova rodada se inicia (Figura 6a). Caso o jogador erre os movimentos necessários 
+para alcançar o objetivo, o personagem lhe informa que o objetivo não foi alcançado e 
+pede para ele tentar novamente (Figura 6b). 
+
+(a) 
+
+ 
+
+(b) 
+
+ 
+
+Figura 6. Informações após o fim da rodada. Fonte: Próprio Autor 
+
+Além dos comandos para a movimentação do robô, o jogador pode sair do mapa, 
+iniciar a movimentação do robô ou apagar a última movimentação escolhida através de 
+opções apresentadas na tela do jogo (Figura 7). 
+
+Figura 7. Ações disponı́veis ao jogador. Fonte: Próprio Autor 
+
+ 
+
+6. Conclusão 
+
+ 
+Neste  artigo  foi  apresentado  o  projeto  de  um  jogo  que  para  estímulo  do  pensamento 
+computacional utilizando robótica educacional. O jogo foi desenvolvido em plataforma 
+digital utilizando o Scratch e será desenvolvido de forma física utilizando Arduino e um 
+chassi impresso em impressora 3d.  
+
+ 
+
+ 
+
+O  objetivo  do  jogo  é  fazer  com  que  o  jogador  movimente  o  robô  ao  local 
+ 
+indicado  no  início  de  cada  rodada.  Para  alcançar  esse  objetivo,  o  jogador  precisa 
+programar  as  movimentações  (cima,  baixo,  direita  e  esquerda)  corretas  no  robô.  No 
+momento,  os  autores  estão  finalizando  o  desenvolvimento  do  jogo  digital  para  em 
+seguida iniciar a fabricação do robô utilizando a plataforma Arduino. 
+ 
+Após  a  fase  de  desenvolvimento  do  projeto,  espera-se  criar  oficinas  na 
+comunidade  interna  e  externas  do  campus.  Nessas  oficinas  serão  utilizados  os  dois 
+produtos, o jogo digital e robô educacional para estimular o pensamento computacional. 
+A expectativa é que esse tipo de exercício estimulem as crianças a pensarem de forma 
+lógica.  Com  isso  espera-se  despertar  o  interesse  das  crianças  e  adultos  para  a  área  de 
+computação e apresentar de forma divertida os conceitos de programação. 
+
+ 
+
+Referências 
+
+2019. 
+
+Code.org.  Site  do  code.org.  Disponível  em:  https://code.org/.  Último  acesso:  maio  de 
+
+da  S.  Martins,  L.  A.,  da  S.  Brelaz,  A.,  Nascimento,  G.  R.,  Alfaia,  R.  M.,  and  dos  S. 
+Martins, T. (2016). Ensinando lógica de programação aplicada à robótica para alunos 
+do  ensino  fundamental.  Anais  do  SBIE  2016  (Proceedings  of  the  SBIE  2016),  pp. 
+31– 41, 2016. 
+
+dos Santos, L. M., Basso, S. J. L., Freitas, L. K. M., and Tieppo, T. A. M.. Ensinando 
+programação  e  robótica  para  o  ensino  fundamental.  Anais  do  III  Congresso  sobre 
+Tecnologia na Educação (Ctrl+E 2018), pp. 314–322, 2018. 
+
+Fundação  Telefônica  Vivo  e  Fundação  Lemann.  Programaê:  Um  guia  para  construção 
+
+do pensamento computacional. 1 ed. 2018. 
+
+Gomes, T. C. S., de Melo, J. C. B., and Tedesco, P. C. A. R. Jogos digitais no ensino de 
+conceitos  de  programação  para  crianças.  Anais  do  SBIE  2016  (Proceedings  of  the 
+SBIE 2016), pp. 470–479, 2016. 
+
+Guardian,  T.  Coding  at  school:  a  parent’s  guide  to  england’s  new  computing 
+curriculum.  Disponı́vel 
+https://www.theguardian.com/technology/2014/ 
+sep/04/coding-school-computing-children-programming.  Último  acesso:  abril  de 
+2019. 
+
+em: 
+
+Obama  White  House.  Computer 
+
+all.  Disponível 
+https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all 
+Último acesso: abril de 2019. 
+
+Science 
+
+for 
+
+em: 
+. 
+
+Primotoys.  Site  do  primotoys.  Disponı́vel  em:  https://www.primotoys.com/.  Último 
+
+acesso: maio de 2019. 
+
+Thingiverse.  Thingiverse  otto  with  wheels.  Disponı́vel 
+thingiverse.com/thing:2503709. Último acesso: maio de 2019. 
+
+em:  https://www. 
+
+Tinkercad.  Site  do  AutoDesk  Tinkercad.  Disponível  em:  https://www.tinkercad.com/  . 
+
+Último acesso: agosto de 2019. 
+
+Wing,  J.  M.   Computational  thinking.  Commun  of  the  ACM,  ed.  49;  n.  3.  pp.  33–35, 
+
+2006. 
+
+ 
+
+

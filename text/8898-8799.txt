@@ -1,0 +1,662 @@
+ 
+
+ 
+
+ 
+
+A Relação entre a Ludicidade e a Cognição em um Jogo para 
+o Controle Inibitório 
+
+Ariane N. Rodrigues, Arianne S. Torcate, Claudimara C. Santos 
+
+Universidade de Pernambuco (UPE) – Garanhuns/PE  
+
+{ariane.rodrigues,claudimara.chiste}@upe.br,ariannesarmento0@gmail.com
+
+Abstract. The article presents a game to work on inhibitory control as one of 
+the components of executive functions important for learning. Associated with 
+a research of conclusion of a course of Degree in Computing, the game relates 
+the  perspectives  of  Psychology  and  Computing,  under  the  guidance  of 
+specialists of the areas. The article emphasizes the  importance of playfulness 
+with special events and its relation with the learning objectives of the game to 
+activate  appropriate  cognitive  processes  as  a  strategy  to  stimulate  behaviors 
+associated with this executive function. 
+
+Resumo.  O  artigo  apresenta  um  jogo  para  trabalhar  o  controle  inibitório, 
+como  um  dos  componentes  das  funções  executivas  importante  para  a 
+aprendizagem.  Associado  a  uma  pesquisa  de  conclusão  de  um  curso  de 
+Licenciatura em Computação, o jogo relaciona as perspectivas da Psicologia 
+e Computação, e foi desenvolvido sob orientação de especialistas das áreas. O 
+artigo  enfatiza  a  importância  da  ludicidade  com  eventos  especiais  e  sua 
+relação com os objetivos do jogo para ativar processos cognitivos adequados 
+como  estratégia  para  estimular  comportamentos  associados  a  esta  função 
+executiva durante a interação.  
+
+1. Introdução 
+
+Encontrar  formas  de  intervir  pedagogicamente  junto  a  crianças  e  adolescentes  com 
+dificuldade de aprendizagem é um desafio constante na área Educação. A formulação de 
+queixas  escolares  tem  aumentado  nos  últimos  anos,  incluindo  encaminhamentos  a 
+serviços especializados (CUNHA et al., 2016). Atividades lúdicas são potentes aliadas 
+na aprendizagem e pesquisas com jogos eletrônicos apontam para sua eficácia. Ramos e 
+Rocha (2016) realizaram uma intervenção com 50 crianças entre 8 e 11 anos utilizando 
+este  recurso  e  deduziram  que,  entre  os  participantes  investigados,  os  jogos  eletrônicos 
+favoreceram o exercício de habilidades cognitivas. 
+
+O escopo teórico deste trabalho é a Psicologia Cognitiva que, segundo Sternberg 
+ 
+(2000,  p.  22),  investiga  o  modo  “como  as  pessoas,  percebem,  aprendem,  recordam  e 
+pensam  sobre  a  informação”.  A  análise  dos  processos,  nesta  perspectiva,  não  se  dá 
+apenas em relação à entrada e saída das informações, mas inclui o papel das operações 
+mentais  complexas  e  é  chamado  de  processamento  da  informação.  Aliada  a  esta 
+epistemologia,  também  embasa  o  desenvolvimento  do  jogo  aqui  apresentado  a 
+
+  
+
+Neurociência Cognitiva, que é considerada como “[...] uma combinação de métodos de 
+uma variedade de campos  – biologia celular, neurociências da imagem, neuroimagem, 
+psicologia  cognitiva,  neurologia  comportamental  e  ciência  computacional”  (KANDEL 
+et al., 2003, p. 382). Para os autores, muitos comportamentos são aprendidos, mas nem 
+todos  são  benéficos  ao  ser  humano,  podendo  ser  disfuncionais  ou  proporcionar 
+alterações  psicológicas  pouco  saudáveis.  O  desenvolvimento  de  jogos,  desta  forma, 
+precisa ser realizado  considerando  as possíveis influências nos processos psicológicos. 
+Baum e Maraschin (2017), por exemplo, apresentam evidências sobre as aprendizagens 
+possíveis relacionadas a videogames, direcionando o olhar para a interação entre o jogo 
+e o sujeito que joga. 
+
+ 
+Dentre  todas  as  possibilidades  que  a  Psicologia  Cognitiva  e  a  Neurociência 
+Cognitiva  apresentam, o recorte utilizado para o desenvolvimento do jogo se situa nos 
+estudos das Funções Executivas (FE) que, para Malloy-Diniz et al. (2012), possibilitam 
+ao  indivíduo  integrar  processos  cognitivos  de  forma  a  direcionar  comportamentos  a 
+metas,  avaliando e adequando conforme o contexto. Não há um consenso na  literatura 
+sobre quais são as principais FE. Para Cerqueira et al. (2018), as FE referem-se ao grupo 
+inter-relacionado  de  habilidades  cognitivas  que  servem  para  regular  e  controlar  o 
+comportamento humano. 
+
+ 
+Na presente pesquisa, será utilizada a classificação  de Seabra et al. (2014), que 
+elencam  entre  as  mais  gerais  a  memória  de  trabalho,  planejamento,  flexibilidade 
+cognitiva  e  controle  inibitório.  Segundo  Malloy-Diniz  (2010),  déficits  nas  FE  são 
+frequentemente  verificados  em  indivíduos  com  comprometimentos  nos  circuitos 
+neurológicos  pré-frontais.  Segundo  os  autores,  dificuldades  nestes  domínios  podem 
+ocasionar problemas em relação à adaptação social, à organização de atividades diárias 
+e ao controle emocional. Alterações nessas funções estão relacionadas a distúrbios como 
+o Transtorno de Déficit de Atenção e Hiperatividade (TDAH). Entender as alterações no 
+funcionamento executivo das crianças com TDAH, na aprendizagem é um aspecto que 
+merece  ser  mais  discutido,  pois,  a  maioria  das  pesquisas  destacam  aspectos 
+comportamentais. Sob a perspectiva da concepção de jogos para este contexto, entende-
+se  que  conhecer  as  funções  executivas  é  uma  maneira  de  conhecer  as  limitações  do 
+processo cognitivo.  
+
+ 
+Neste  contexto,  esta  pesquisa  destaca  o  jogo  “Candy  Night”  que  tem  como 
+objetivo  trabalhar  o  controle  inibitório.  O  controle  inibitório  pode  ser  definido  como 
+“...habilidade de controlar comportamentos inapropriados, assim como os processos de 
+atenção  e  os  pensamentos”  (SEABRA  et  al.,  2014,  p.  43).  O  jogo  aposta  em  eventos 
+especiais envolvendo situações de controle do personagem como “esperar e parar”. Esta 
+estratégia é uma forma de promover a ludicidade alinhado ao objetivo de fazer com que 
+o  jogador  consiga  controlar  os  impulsos,  planejar  e  executar  as  ações  adequadamente. 
+Para Araújo et al. (2016), a ludicidade deve favorecer o alcance dos objetivos do jogo, e 
+por  isso,  a  escolha  adequada  de  implicações  de  design  para  sua  interface  é  importante 
+porque contribui na ativação dos processos cognitivos. 
+
+ 
+Este artigo possui quatro seções e está estruturado da seguinte forma: a seção 2 
+apresenta  trabalhos  relacionados  ao  contexto  da  pesquisa,  a  Seção  3  e  seus subtópicos 
+apresentam  os  detalhes  do  jogo,  como  os  objetivos,  aspectos  lúdicos  e  os  processos 
+cognitivos. A Seção 4 descreve as considerações finais.  
+
+ 
+
+ 
+
+2. Trabalhos Relacionados 
+
+Esta  seção  apresenta  pesquisas  que  estão  diretamente  relacionadas  ao  contexto  do  uso 
+de  jogos  digitais  direcionados  ao  trabalho  das  funções  executivas.  A  revisão  da 
+literatura apresentada por Cerqueira et al. (2018), no intervalo de 2013 a 2018, destaca a 
+análise  de  jogos  digitais  voltados  para  funções  executivas.  A  pesquisa  filtra  e  destaca 
+cinco  jogos  (Focus  Pocus,  Braingame  Brian,  Dresden  Cruiser,  Avioncito  e  Fly  the 
+Plane). A aplicação deles se concentra em considerar o controle inibitório, memória de 
+trabalho,  flexibilidade  cognitiva  ou  para  a  suas  respectivas  estimulações.  Como 
+resultado,  Cerqueira  et  al.  (2018)  expõem  quais  foram  as  habilidades  cognitivas 
+trabalhadas  em  cada  jogo  juntamente  com  as  informações  necessárias  sobre  os 
+jogadores e o período de aplicação.  
+
+ 
+A pesquisa de Ramos e Anastácio (2018) destaca como os jogos digitais podem 
+contribuir  para  o  desenvolvimento  das  habilidades  cognitivas  no  contexto  escolar.  A 
+pesquisa  envolveu  50  crianças  de  duas  turmas  do  ensino  fundamental  e  apresenta  os 
+resultados da aplicação dos jogos Conectome, Genius e Joaninha, da Escola do Cérebro. 
+Com  cenários  e  desafios  diferentes,  cada  jogo  busca  maneiras  diversas  para  inserir  as 
+habilidades  cognitivas.  A  narrativa  das  crianças  e  os  desenhos  sobre  o  que  mais  foi 
+significativo  durante  o  uso  dos  jogos  foram  as  estratégias  consideradas  para  análise 
+desta  pesquisa.  Como  resultado,  Ramos  e  Anastácio  (2018),  expõem  que  as  principais 
+habilidades cognitivas despertadas e trabalhadas com os jogos foram controle inibitório, 
+resolução de problemas, atenção e memória. 
+
+ 
+A  pesquisa  de  Freire  et  al.  (2018)  destaca  o  desenvolvimento  de  jogos  digitais 
+mobiles  para  TDAH,  Dislexia  e  Autismo  e  destaca  Digital  Game  Based  Learning 
+(DGBL)  como  estratégia  para  o  processo  de  aprendizado  que  também  favorece  no 
+tratamento. Os autores apresentam o desenvolvimento de dois jogos gratuitos. Um deles 
+é “As aventuras de Ifinho” que é composto por 4 jogos, sendo eles: “Soletrando com as 
+nuvens”  para  auxiliar  crianças  com  dislexia,  “Cuidado  com  o  caçador”  para  crianças 
+com TDAH, “Pegar lixo” com foco na atenção seletiva e “O que é isso?” para crianças 
+com dislexia. O segundo jogo, ainda em fase de desenvolvimento, chama-se “Dia-a-dia 
+com  Ifinho”  e  tem  como  objetivo  auxiliar  no  processo  de  aprendizagem  de  crianças 
+autistas.  Ele  também  é  composto  por  minigames:  “Objetos  Iguais”,  “Reconheça  o 
+Áudio”,  “Arraste  e  Preencha”,  “Reconheça  a  Emoção”,  “Cores  iguais”  e  “Quebra-
+Cabeça”. Estes  jogos  foram  disponibilizados  para  teste  para  verificar  sua  utilidade  e  a 
+aplicabilidade envolveu um grupo de crianças diagnosticadas com TDAH ou Dislexia.  
+
+ 
+As  pesquisas  apresentadas  reforçam  a  necessidade  e  importância  de  explorar 
+ainda  mais  este  contexto.  Sob  a  perspectiva  do  desenvolvimento  de  jogos,  acredita-se 
+que  deve  haver  rigor  ao  estabelecer  o  processo  de  concepção  com  testes  e  métodos 
+específicos  que  possam  comprovar  a  sua  eficácia.  A  exploração  livre  de  softwares 
+similares  é  uma  atividade  que  pode  contribuir  para  o  desenvolvimento  do  jogo 
+apresentado neste artigo. No entanto, o acesso aos jogos citados não pôde ser realizado 
+porque eles não foram localizados, nem disponibilizados pelos autores.  
+
+3. Jogo Candy Night 
+
+Esta seção descreve detalhes de um jogo, em desenvolvimento, que relaciona estratégias 
+para  inibir  comportamentos  associados  à  ausência  do  controle  inibitório,  um  dos 
+componentes  da  função  executiva.  O  desenvolvimento  do  jogo  é  orientado  por  duas 
+
+  
+
+ 
+
+ 
+
+profissionais  especializadas  nas  áreas  de  Computação  e Psicologia.  A  seção  3.1 
+apresenta  detalhes  do  jogo  como  cenário  e  personagens.  A  seção  3.2  apresenta  os 
+objetivos  do  jogo  que  dão  base  à  sua  concepção  e  a  relação  com  os  processos 
+cognitivos. E, a seção 3.3 apresenta a relação da ludicidade com eventos que favorecem 
+a ativação dos processos cognitivos. 
+
+3.1. O jogo 
+
+O  jogo1  está  sendo  desenvolvido  na  ferramenta  Construct  2  e  possui  o  formato  de 
+plataforma.  É  indicado  para  crianças  com  faixa  etária  a  partir  de  8  anos.  Ele  faz 
+referência ao Halloween, também conhecido como  Dia das Bruxas. Neste caso, todo o 
+cenário e os personagens remetem a data, a tradição de pegar doces, realizar travessuras, 
+e  assombrar  as  pessoas.  A  Figura  1  apresenta  o  cenário  do  jogo  e  alguns  de  seus 
+personagens.  
+
+ 
+
+Figura 1. Cenário do jogo 
+
+ 
+O  personagem  principal  é  uma  “cabeça  de  abóbora”.  Sua missão  é  recolher  os 
+doces  que  estão  espalhados  ao  longo  do  cenário  para  depositar  na  grande  abóbora  de 
+doces. Em relação aos inimigos, eles são representados por zumbis e bruxos, que tem a 
+missão  de  proteger  os  doces.  Os  inimigos  têm  o  poder  de  diminuir  as  vidas  do 
+personagem, caso os dois entrem em colisão. A principal motivação para o jogador é de 
+controlar  a  movimentação  do  personagem  principal  (como  andar,  pular  e  pegar), 
+considerando  a  necessidade  de  parar,  esperar  e  pensar  em  estratégias  que  o  ajude  na 
+coleta dos doces sob a ameaça dos inimigos e recursos do jogo. Essa dinâmica, quando 
+associada  ao  controle  inibitório,  considera  a  importância  do  jogador  desenvolver  a 
+capacidade de pensar, esperar ou inibir um comportamento antes de fazê-lo. A seção a 
+seguir apresenta os objetivos de aprendizagem planejados para o seu desenvolvimento.  
+
+3.2. Objetivos cognitivos do jogo 
+
+De acordo com Tchounikine (2011), toda solução educativa é desenvolvida para atender 
+objetivos.  Para  o  autor,  os  objetivos  de  aprendizagem,  também  definidos  como 
+(principal)  e  específicos 
+pedagógicos,  podem  ser  categorizados  em  central 
+(intermediários). Neste  contexto,  o  principal  objetivo  do  jogo  é  trabalhar  a  capacidade 
+cognitiva  de  crianças  que  possuem  inibição  baixa  ou  controle  inibitório,  como 
+
+1 Link para download do jogo: http://bit.ly/2YvhCqo 
+
+ 
+
+ 
+
+ 
+
+habilidade  cognitiva  que  obstrui  a  execução  adequada  das  funções  executivas.  Para 
+Lemes  e  Rossini  (2014)  o  processo  inibitório  se  caracteriza  como  a  supressão  de 
+pensamentos, ações e emoções.  
+
+ 
+Na  perspectiva  do  processo  de  aprendizagem,  atender  o  objetivo  principal  do 
+jogo requer considerar processos cognitivos como atenção, percepção e memória como 
+estratégia para 1) minimizar comportamentos e/ou pensamentos impulsivos e imediatos, 
+que  possam  atrapalhar  a  concentração  necessária  à  aprendizagem;  2)  inibir  condutas  e 
+estímulos  irrelevantes  em  situações  em  que  atenção  deve  ser  considerada  para  a 
+realização  de  uma  atividade;  e  3)  controlar  a  antecipação  das  ações  e  favorecer  o 
+planejamento  delas.  Isso  significa  que  a  proposta  do  jogo  é  promover  mecanismos 
+associados a ações como “parar, esperar e pensar” alinhado a eventos especiais do jogo 
+(mais  detalhes  sobre  os  eventos  são  apresentados  na  seção  3.2),  com  o  intuito  de 
+controlar os impulsos, planejar as ações e executá-las de maneira adequada em prol dos 
+objetivos a serem atingidos.  
+
+ 
+Os  objetivos  pedagógicos  do  jogo  refletem  processos  do  domínio  cognitivo.  A 
+cognição e seus processos cognitivos são amplamente discutidos nas áreas da Psicologia 
+e Computação. Sob a perspectiva da Psicologia Cognitiva, estes processos mentais são 
+ativados quando estamos realizando alguma atividade cotidiana (Barbosa e Silva, 2010), 
+inclusive  no  ato  de  jogar.  Na  Computação,  eles  são  discutidos  na  área  de  Interação 
+Humano Computador (IHC) para atender a necessidade de utilizar estratégias cognitivas 
+que proporcionem formas efetivas de aprendizagem e interação (Preece, Roger e Sharp, 
+2005).  A  Tabela  1  apresenta  a  descrição  dos  objetivos  do  jogo  e  sua  relação  com  os 
+processos cognitivos.  
+
+Tabela 1. Objetivos e processos cognitivos do jogo 
+
+Objetivos 
+cognitivos 
+(OC) 
+
+OC1 
+
+OC2 
+
+OC3 
+
+ 
+Descrição 
+
+Processos 
+Cognitivos 
+
+Atenção e 
+Memória 
+
+Lembrar  e  entender  que  os  doces  devem  ser  coletados  e  as 
+ações  do  personagem  principal  devem  ser  executadas 
+corretamente  reconhecendo  a  importância  de  esperar  o  tempo 
+certo para acioná-las.  
+
+Aplicar estratégia de parar e esperar executando o planejamento 
+de  movimentação  do  personagem  em  função  da  coleta  dos 
+doces. 
+
+Memória e 
+Percepção 
+
+Analisar  e  avaliar  a  situação  do  jogo  sob  a  perspectiva  dos 
+bloqueios que impedem a coleta dos doces atribuindo as ações 
+adequadas para a movimentação do personagem.  
+
+Atenção 
+
+ 
+Os  objetivos  foram  definidos  conforme  a  taxonomia  de  Bloom  revisada.  A 
+taxonomia  de  Bloom  revisada  é  um  esquema  classificatório  comumente  adotado  para 
+formular  e  classificar  os  objetivos  de  aprendizagem  de  natureza  intelectual  (Ferraz  e 
+Belhot,  2010).  Os  objetivos  são  estruturados  por  verbos  (de  ação  e  gerúndio)  e 
+substantivo proposta em Krathwohl (2002). Como a proposta do jogo não é trabalhar a 
+aprendizagem  de  conteúdo,  os  objetivos  refletem  comportamentos  como  ações 
+
+  
+
+3.3. Ludicidade 
+
+impulsivas  que  podem  ser  inibidas,  associadas  ao  controle  do  personagem  principal. 
+Detalhes da relação dos objetivos aos processos cognitivos é destacada na seção 3.4. 
+
+Para  Silva  e  Gomes  (2015),  a  ludicidade  é  um  fator  que  precisa  ser  considerado  em 
+jogos educativos porque estimula a aprendizagem. Nos jogos, a ludicidade representa “o 
+ato de brincar”  associados ao prazer e a diversão.  De acordo com Huizinga (2001), os 
+jogos  possuem  uma  representação  de  alguma  coisa  como  uma  realidade  paralela  ao 
+universo cotidiano. A ludicidade é, nesta perspectiva, um universo lúdico representado 
+como  um  “círculo  mágico”,  paralelo  ao  real,  onde  experiências  e  aprendizagens 
+significativas  podem  ser  consideradas.  Mastrocola  (2013)  defende  que  o  conceito  de 
+círculo  mágico  definido  por  Huizinga  representa  a  possibilidade  do  jogador  participar 
+de  um  universo  de  diversão  e  uma  vez  que  entra  no  círculo  experimenta  o  que  há  lá 
+dentro  em  termos  de  diversão,  desafios,  sonhos,  narrativa,  poderes,  além  da  carga  de 
+experiência  e  aprendizado  que  pode  carregar  ao  sair  do  jogo.  No  contexto  do  jogo,  a 
+ludicidade é representada pelos eventos especiais. Estes eventos representam eventos do 
+mundo  real  assumidos  de  uma  forma  lúdica,  no  sentido  de  manter  uma  representação 
+especial,  diferente  da  realidade.  A  Tabela  2  reúne  os  eventos  especiais  do  jogo, 
+relacionado o que o jogador pode executar e quais as consequências de suas escolhas. 
+
+Tabela 2. Detalhes dos eventos especiais do jogo 
+
+Propósito 
+
+Consequências 
+
+Coletar 
+doces  
+
+A  coleta  deve  ser  realizada  de  um 
+por um. 
+
+O  jogador  só  pode recolher  um  novo  doce 
+quando depositar o que está em mãos. 
+
+doces. 
+
+bloqueios 
+
+representam 
+Os 
+impedimentos para o jogador coletar 
+ser 
+os 
+Eles 
+representados 
+serras: 
+espalhadas  no  caminho;  b)  grades: 
+dispostas  em 
+fixos;  c) 
+inimigos como zumbis e bruxos.   
+ 
+
+lugares 
+
+podem 
+
+por: a) 
+
+a) O jogador deve esperar o momento certo 
+para  passar  a  plataforma  na  qual  a  serra 
+está localizada; 
+b) Para  poder  continuar  alguns  trajetos,  é 
+jogador  espere  as 
+necessário  que  o 
+plataformas aparecerem; 
+c) O  jogador  deve  esperar  o  zumbi  sumir 
+para 
+recolher  os  doces  que  estão 
+protegidos. Caso haja colisão entre eles, o 
+jogador perde vidas.  
+
+Para  garantir  os  poderes  o  jogador 
+deve esperar sobre a estrutura de cor 
+específica  ao  poder.  O  recurso  só  é 
+garantido  quando  o  jogador  aguarda 
+o  elemento  cair  sobre  ele:  a) 
+imunidade:  representado  por  uma 
+pipeta  com  antídoto  azul;  b)  sorte: 
+representada  por  trevos  de  quatro 
+folhas; 
+paralisar: 
+representada  por  um  antídoto  de  cor 
+vermelha; d) vidas: representada por 
+corações.  
+
+ação 
+
+c) 
+
+São recompensas que permitem ao jogador 
+realizar ações que o ajudam a combater os 
+inimigos e atingir o objetivo do jogo:  
+a) O  antídoto  azul  permite  que  o  jogador 
+fique  imune  dos  inimigos  durante  20 
+segundos; 
+b)  O  trevo  permite  que  o  jogador  possa 
+escolher  dois 
+inimigos  para  que  eles 
+desapareçam; 
+c) O  antídoto  vermelho  faz  com  que  os 
+inimigos 
+fiquem  paralisados  por  20 
+segundos; 
+
+Evento 
+Especial 
+
+Aguardar 
+Bloqueios  
+ 
+
+Ter 
+poderes 
+ 
+
+ 
+
+ 
+
+ 
+
+d)  O  coração  aumenta  a  barra  de  vida  do 
+jogador.  
+
+Quando o jogador leva a chave até a porta o 
+jogo é concluído. 
+
+Pegar 
+Chave 
+
+Essa chave aparece ao longo do 
+cenário quando todos os doces são 
+recolhidos. 
+
+Os principais eventos especiais do jogo voltados para o controle inibitório estão 
+associados  aos  bloqueios  e  no  processo  de  obtenção  dos  poderes. No  entanto,  para 
+garantir que os poderes possam ser usados, o jogador precisa entender a importância de 
+aguardar,  parar  e  inclusive  pensar,  planejando  suas  ações  de  movimentação  do 
+personagem  em  prol  do  alcance  do  objetivo.  Isso  significa  que  para  garantir  a 
+quantidade de doces, o jogador é “forçado” a aguardar os bloqueios como ações do jogo 
+que o impedem para tal.  
+
+3.4. Processos cognitivos 
+
+Para Araújo et al., processos cognitivos devem ser considerados no desenvolvimento de 
+jogos  educativos  e  podem  ser  ativados  quando  implicações  de  design  adequadas  são 
+aplicadas na interface e alinhadas aos objetivos pedagógicos. Como as interfaces lúdicas 
+promovem  aprendizagem  durante  a  interação,  ativar  os  processos  cognitivos  requer 
+aplicar  recursos  visuais  e  auditivos  que  possam  favorecer  a  percepção,  atenção  e 
+memória  do  usuário.  De  acordo  com  Preece,  Rogers  e  Sharp  (2005)  o  processo  de 
+atenção pode ser ativado com implicações de design que permitam que uma informação 
+seja visível de forma a promover a concentração do usuário por um determinado tempo. 
+A  percepção  pode  ser  favorecida  com  representações  visuais  claras  e  coerentes  ao 
+significado que deseja transmitir ao usuário. E, implicações para a memória, referem-se 
+a estratégias para que o usuário possa reconhecer sua função e agir adequadamente.  No 
+contexto  do  Candy  Night,  estes  três  processos  foram  considerados  para  contribuir  na 
+impulsividade. A Tabela 3 relaciona os processos cognitivos aos eventos especiais e as 
+implicações de design que favorecem sua ativação.  
+
+Tabela 3. Implicações de design para ativar processos cognitivos  
+
+Implicação de Design 
+
+Processos  Evento 
+Especial 
+
+Atenção e 
+Percepção 
+
+Coleta 
+dos 
+doces 
+
+O  som  “HAHAHA”  é  emitido  quando  o  jogador  deposita  o  doce  na 
+abóbora. O jogador pode perceber que a barra dos doces é alimentada e 
+assim considerar a quantidade restante de doces que precisa recolher. A 
+barra de doce sobe cada vez que um doce é entregue a abóbora, assim 
+ficando  perceptível  para  o  jogador  a  quantidade  de  doce  que  falta 
+recolher.  
+ 
+
+Memória   Ter 
+
+Poderes  
+
+Os signos da “Pipeta do antídoto, trevo de quatro folhas, serra, zumbis, 
+entre  outros  imagens favorecem  o  processo  de  recordação  sobre  sua 
+função  no  jogo.  Uma  vez  processada  e  memorizada  a  informação,  o 
+jogador consegue agir adequadamente.  
+
+Percepção  Tempo  A representação de um relógio é apresentada para ativar poderes em que 
+o  tempo  é  necessário.  Esta  representação  indica  a  duração  do  poder  e 
+
+  
+
+ 
+
+serve para o jogador se orientar e agir de forma estratégica. Os poderes 
+de tempo estão associados a imunidade.  
+
+ 
+As  imagens  que  compõem  o  cenário,  os  recursos  e  personagens  têm  impacto 
+direto  com  o  objetivo  do  jogo,  quando  classificadas  corretamente  em  relação  ao  seu 
+efeito  e  a  função.  De  acordo  com  Reategui  (2007),  as  ilustrações  em  interfaces 
+educativas  podem  manter  o  efeito  de  elaboração  ou  motivação,  além  das  funções 
+(decorativa,  representativa,  organizacional  e  explanatória)  como  estratégia  para 
+promover a aprendizagem. Estes fatores são importantes porque uma interface educativa 
+não atraente impacta diretamente no processo de interação e aprendizagem.  
+
+ 
+O  poder  explicativo  das  imagens  é  garantido  quando  efeitos  e  funções 
+associadas  a  elas  geram  aprendizagem,  favorecendo  a  percepção  e  interpretação  do 
+usuário  enquanto  joga.  Diante  deste  contexto,  entende-se  que  classificar  as  imagens 
+pode  ser  uma  alternativa  que  também  contribua  para  a  ativação  dos  processos 
+cognitivos. No geral, as imagens adotadas no jogo possuem o efeito de motivação. Este 
+efeito  define  que  a  imagem  incentiva  o  usuário  a  realizar  uma  ação  no  jogo  como  um 
+“impulso”.  No  jogo,  as  imagens  que  representam  este  efeito,  em  sua  maioria,  estão 
+relacionadas  aos  poderes.  A  Figura  2  destaca  que  os  elementos  antídoto,  pipeta 
+vermelha, trevo e cápsula de gelo possuem o efeito de motivação porque impulsionam o 
+jogador  a  permanecer  sobre  a  estrutura  para  conseguir  obtê-los  (a).  A  imagem  da 
+abóbora  também  possui  o  efeito  de  motivação  (b),  é  nela  que  os  doces  devem  ser 
+depositados para assim o jogador alcançar o objetivo.  
+
+Por sua vez, em relação à função, as imagens dos elementos possuem a função 
+explanatória. De acordo com Reategui (2007), esta função deve ser usada para explicar 
+o  funcionamento  de  um  sistema  dinâmico,  no  qual  a  variável  tempo  é  considerada. 
+Neste  caso,  obter  os  elementos  depende  do  jogador,  no  sentido  de  aguardar  que  o 
+recurso possa cair sobre sua cabeça. Foi definido que estes elementos teriam um tempo 
+para ser obtido e caso o jogador saia de cima da estrutura, o elemento a ser obtido para 
+de  cair  e  fica  inativo  até  que  ele  retorne  ao  posicionamento  da  estrutura  e  espere  o 
+elemento cair. 
+
+       Figura 2. Efeitos das imagens adotadas no jogo  
+
+ 
+
+4. Considerações Finais 
+
+Desenvolver  soluções  educativas  é  desafiador  porque  requer  um  processo  com  etapas 
+bem  definidas  e  uma  equipe  multidisciplinar  com  diferentes  perspectivas.  Para  a 
+Psicologia,  além  dos  transtornos  de  aprendizagem,  a  educação  precisa  considerar,  no 
+desenvolvimento humano, os aprimoramentos da FE para quaisquer pessoas, sob riscos 
+
+ 
+
+ 
+
+de se criar situações que estimulem o surgimento de dificuldades de aprendizagem. Por 
+sua vez, a Computação enxerga problemas como este para conceber soluções educativas 
+que possam melhorar o contexto da aprendizagem.  
+
+ 
+Mesmo que os jogos estão cada vez mais adotados para este contexto, percebeu-
+se que, jogos especificamente sobre o controle inibitório são poucos concebidos. Neste 
+caso,  esta  pesquisa  contribui  para  o  processo  de  desenvolvimento  de  jogos  sob  a 
+perspectiva de interação com ludicidade. A ideia é reforçar a importância das interfaces, 
+por  considerar  representações  e  implicações  adequadas  para  ativar  os  processos 
+cognitivos desejados. Como trabalhos futuros, espera-se planejar e  executar aplicações 
+do  jogo  em  situações  reais  para  verificar  sua  utilidade  sob  a  verificação  dos  objetivos 
+cognitivos. 
+
+Referências 
+
+Araújo,  D.;  Rodrigues,  A.;  Lacerda,  P.;  Dionísio,  M.;  Santos,  H.  (2016)  “Processo  de 
+desenvolvimento do jogo sério Missão Aedes: relações entre objetivos pedagógicos, 
+ludicidade e implicações de design”. Anais do SBIE. 
+
+Baum, C.; Maraschin, C. Level up! desenvolvimento cognitivo, aprendizagem enativa e 
+
+videogames. Psicol. Soc., Belo Horizonte,  v. 29,  e132334,    2017. 
+
+Barbosa,  S.  D.  J.;  Silva,  B.  S.  (2010)  “Interação  Humano-Computador”.  Editora 
+
+Campus-Elsevier.  
+
+Cerqueira, B. B.; Barbosa, D. N. F. e Mossmann, J. B. (2018). “Revisão Exploratória de 
+Literatura  em  Jogos  Digitais  voltados  para  estimulação  do  Controle  Inibitório  em 
+Crianças do Ensino Fundamental”. Revista Conhecimento Online.  Ed. especial: Out. 
+2018, a. 10 , v. 3. 
+
+Cunha, E. O., Dazzani, M. V. M., Santos, F. L. and Zucoloto, P. C. S. do V. (2016). “A 
+queixa escolar sob a ótica de diferentes atores: análise da dinâmica de sua produção”. 
+Estudos de Psicologia, Vol.33 no 2, 237-245. 
+
+Ferraz,  A.  P.  do  C.  M.;  Belhot,  R.  V.  (2010)  Taxonomia  de  Bloom:  revisão  teórica  e 
+instrumento  para  definição  de  objetivos 
+
+apresentação  das  adequações  do 
+instrucionais. Gest. Prod., São Carlos, v. 17, n. 2, p. 421-431, 2010. 
+
+Freire,  J.  V.  S.;  Costa,  A.  D.;  Silva,  A.  G.  F.  e  Kneipp,  R.  E.  (2018).  “Digital  Game 
+Based  Learning  e  transtornos  que  afetam  o  aprendizado”.  Sociedade  Brasileira  de 
+Computação (SBC) - Proceedings of SBGames 2018. 
+
+Huizinga, J. (2001) “Homo ludens”. São Paulo: Perspectiva. 
+
+Kandel, E.R; Schwartz, J.H.; Jessel, T.M. Princípios da neurociência. São Paulo:  
+
+Manole, 2003. 
+
+Krathwohl, D. R. (2002) “A Revision of Bloom's Taxonomy: An Overview. Theory into 
+
+Practice”, vol.4. College of Educacion, The Ohio State University. 
+
+Malloy-Diniz, L. F. et al. (2012). Neuropsicologia das funções executivas. In: Caixeta, 
+L.;  Ferreira,  S.B.  (Org.).  Manual  de  neuropsicologia:  dos  princípios  á  reabilitação. 
+São Paulo: Atheneu, p.27-44. 
+
+  
+
+ 
+
+Malloy-Diniz,  L.  F.,  Fuentes,  D.,  Mattos,  P.,  &  Abreu,  N.  (2010).  “Avaliação 
+
+Neuropsicológica”. Porto Alegre: Artmed. 
+
+Mastrocola,  V.  M.  (2013)  “Doses  lúdicas:  breves  textos  sobre  o  universo  dos  jogos  e 
+
+entretenimento”. / Vicente Martin Mastrocola. – São Paulo: Independente. 
+
+Preece, J.; Rogers,; Sharp, H. (2005) “Design de interação: além da  interação homem-
+
+computador”, Bookman. 
+
+Ramos,  D.  K.  e  Anastácio,  B.  S.  (2018).  “Habilidades  cognitivas  e  o  uso  de  jogos 
+digitais na escola: a percepção das crianças¹”. Revista: Educação Unisinos. Editora: 
+Universidade do Vale do Rio dos Sinos. 
+
+Ramos,  D.  K.  e  Rocha,  N.  L.  (2016).  “Avaliação  do  uso  de  jogos  eletrônicos  para  o 
+aprimoramento das funções executivas no contexto escolar”. Revista psicopedagogia, 
+vol.33 no.101 - São Paulo. 
+
+Reategui, E. (2007) “Interfaces para softwares educativos”. Revista Novas Tecnologias 
+
+na  Educação, v.5, n.1, pág. 1-10. 
+
+Seabra,  A.  G.;  Laros,  J.  A.;  Macedo,  E.  C.  and  Abreu,  N.  (2014).  “Inteligência  e 
+Funções  Executivas:  Avanços  e  Desafios  para  a  Avaliação  Neuropsicológica”.  São 
+Paulo: Memnon, p. 39-50. 2014.  
+
+Sternberg, R.J. Psicologia cognitiva. São Paulo: Cengage Learning, 2002. 
+
+Silva, A. C. B da; Gomes, A. S. (2015) Conheça e utilize software educativo: avaliação 
+básica  
+
+planejamento 
+
+educação 
+
+a 
+
+e 
+para 
+Série Professor Criativo — Volume 2.  
+
+Tchounikine,  P.  (2011)  “Computer  Science  and  Educational  Software  Design.  A 
+
+resource for Multidisciplinary Work in Technology Enhanced Learning”. 
+
+

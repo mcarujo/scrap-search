@@ -1,0 +1,630 @@
+ 
+
+ 
+
+As Metodologias Ativas e a Aprendizagem Significativa como 
+determinantes na produção de Tecnologias Educacionais 
+
+Signe D.C.M. Silva1, Ianca Sobrinho1, Késsia L. Dutra1, Tristan Lima1, William B. 
+Silva1 
+
+1 Departamento de Mídias Digitais – Universidade Federal da Paraíba (UFPB) 
+Campus Universitário I – João Pessoa – PB – Brazil 
+signedayse@yahoo.com.br; iancaasobriinho@gmail.com; 
+dutraissek@gmail.com; tristan.lima2@gmail.com; 
+williamresista@gmail.com  
+
+  
+
+Abstract.  This  is  a  report  of  triangular  teaching,  research  and  extension 
+practice that has as its objective the integral formation of students of the "X" 
+Course  of  the  Federal  University  of  "X"  and  which  has  been  under 
+development  for  five  years  with  significant  results.  The  action  aims  to 
+understand  the  dynamics  between  the  use  of  Active  Methodologies  and  their 
+interactions  with  the  production  of  Digital  Media  for  Education  based  on 
+Meaningful  Learning.  Three  students  were  followed  and  working  techniques 
+focused  on  Active  Methodologies  were  applied.  The  data  collected  and 
+processed  through  Content  Analysis  (Laurence  Bardim)  and  Triangulation 
+Analysis  (Augusto  Trivinos)  gives  us  assurance  of  objectives  and  goals 
+achieved. 
+
+Resumo.  Trata-se  de  um  relato  de  prática  triangular  de  ensino,  pesquisa  e 
+extensão  que  tem  por  objeto  a  formação  integral  de  estudantes  do  Curso  de 
+“X”  da  Universidade  Federal  de  “X”  e  que  já  está  em  desenvolvimento  há 
+cinco anos com resultados expressivos. A ação tem por objetivo compreender 
+as  dinâmicas  entre  o  uso  de  Metodologias  Ativas  e  suas  interações  com  a 
+produção  de  Mídias  Digitais  para  a  Educação  com  base  na  Aprendizagem 
+Significativa.  Três  estudantes  foram  acompanhados  e  a  eles  foram  aplicadas 
+técnicas  de  trabalho  com  foco  Metodologias  Ativas.  Os  dados  coletados  e 
+tratados  por  meio  da  Análise  de  Conteúdo  (Laurence  Bardim)  e  da  Análise 
+por  Triangulação  (Augusto  Trivinõs)  nos  dá  segurança  de  objetivos  e  metas 
+alcançadas. 
+
+ 
+
+1.  Motivações e propósitos 
+
+Há  anos  que  estudiosos  de  todo  o  mundo  tentam  encontrar  respostas  para  o  hiato 
+existente entre os altos investimentos em tecnologias para a facilitação da aprendizagem 
+e  os  resultados  pífios  alcançados  pela  grande  maioria  dos  investidores,  quer  sejam 
+instituições  de  ensino,  governos  ou  acionistas  de  grupos  educacionais.  No  Brasil  são 
+décadas  de  discussões  e  milhões  em  recursos  investidos  em  qualificação  de  docentes, 
+melhoria  da  infraestrutura  e  compra  de  tecnologias,  no  entanto,  as  estatísticas  e  as 
+provas de aferição internacional não confirmam que avançamos. No que diz respeito à 
+condição  do  professor  temos  pouco  a  dizer  neste  texto,  nosso  foco,  aqui,  é  a 
+aprendizagem do estudante por meio de práticas que estimulam sua vontade de estudar. 
+Em alguns casos a mobilização de recursos educacionais e de estímulo à aprendizagem, 
+
+ 
+sem custo algum, faz mais efeito do que qualquer outro recurso financeiro investido. 
+
+ 
+
+O Projeto DIAS – Design Instrucional para uma Aprendizagem Significativa, de 
+ensino, pesquisa e extensão é uma ação educativa triangular voltada ao desenvolvimento 
+e  a  produção  de  tecnologias  para  uso  em  processos  educacionais  em  vigência  desde 
+2015 no âmbito do Curso de Comunicação em Mídias Digitais da UFPB – Universidade 
+Federal  da  Paraíba.  Seu  posicionamento  e  ações  estratégicas  têm  por  objetivo  o 
+letramento digital e a produção de objetos de aprendizagem para o uso de professores e 
+estudantes  dos  diversos  nichos  educacionais,  assim  como  o  despertar  de  vocações  nas 
+áreas  de  Educação,  Comunicação  e  Design  Educacional  por  meio  das  bases  teórico-
+metodológicas  da  Teoria  da  Aprendizagem  Significativa  proposta  pelo  Psiquiatra 
+Americano David Ausubel. 
+
+ 
+
+Para  além  de  extensão  universitária,  no  eixo  do  ensino,  se  faz  presente  nas 
+disciplinas  de  Introdução  ao  Design  Instrucional  (Código  1414132)  e  Tecnologias  e 
+Educação  à  Distância  (Código  GDMDI0115)  e  no  eixo  de  pesquisa  está  vinculado  ao 
+Grupo  de  Pesquisa  UFPB/CNPq.  Comunicação,  Tecnologias  e  Multimídias  para  a 
+Educação  (Cinco  Publicações  em  2018)  tendo  como  objeto  de  estudos  as  dinâmicas 
+entre  as  tecnologias  em  Mídias  Digitais  e  as  Metodologias  Ativas  acreditadas  como 
+elemento  fundamental  para  uma  Aprendizagem  Significativa,  coletados  e  tratados  os 
+dados  por  meio  da  Análise  de  Conteúdo  (Laurence  Bardim)  e  da  Análise  por 
+Triangulação  (Augusto  Trivinõs).  Atualmente  o  projeto  possui  vínculo  com  três 
+pesquisadores  em  duas  Universidades  Portuguesas  e  escoa  sua  produção  em  dois 
+eventos:  o  Mídias  Pitch  (Segunda  Edição  em  2019)  e  a  Bit.Week  (Sétima  Edição  em 
+2019). 
+
+ 
+
+No  decorrer  dos  cinco  anos  de  prática  pedagógica  por  meio  da  pesquisa  e  a 
+extensão  e suas relações,  alguns elementos foram se agregando à proposta de trabalho 
+aqui  apresentada.  Por  um  lado  contamos  com  a  experiência  de  professores  líderes  de 
+extensão e pesquisa em educação e em práticas de trabalho inovativas que constituem-se 
+na  pedra  fundamental  e  de  sustentação  das  discussões  de  conceitos  e  teorias  caras  aos 
+envolvidos. Por outro lado, estudantes que nos procuram com o objetivo de redirecionar 
+suas  atividades  acadêmicas,  em  sua  maioria  sem  foco  ou  propósitos  definidos,  fato 
+desencadeador  de  desinteresse  e  desejo  de  abandono  do  curso  de  graduação  e  suas 
+possibilidades.  Para  o  presente  texto  pinçamos  três  experiências  exitosas  vivenciadas 
+por  estudantes  que  foram  “recuperados”  a  partir  de  conceitos  simples  e  que  com  o 
+decorrer do tempo chegaram a posição de bolsistas e pesquisadores. 
+
+2.  Alguns fundamentos para a discussão 
+
+Como todo movimento no âmbito da educação o primeiro passo dado foi o acolhimento 
+dos  interessados  e  a  compreensão  do  objeto  para  que  os  seus  fundamentos  teóricos 
+fossem  postos  em  construção  permanente  pelos  estudiosos  das  áreas  envolvidas. 
+Agrupamos  as  seguintes  categorias  de  análise:  Design  Instrucional,  Aprendizagem 
+Significativa, Formação por Competências e Metodologias Ativas: 
+
+Entendemos  por  Design  Instrucional  o  proposto  por  Filatro  (2004,  p.  64):  “A 
+ação 
+intencional  e  sistemática  de  ensino  que  envolve  o  planejamento,  o 
+desenvolvimento  e  a  utilização  de  métodos,  técnicas,  atividades,  materiais,  eventos  e 
+produtos  educacionais  em  situações  didáticas  específicas,  a  fim  de  facilitar  a 
+instrução 
+aprendizagem  humana  a  partir  dos  princípios  de  aprendizagem  e 
+conhecidos”. 
+
+Por Aprendizagem Significativa, acolhemos o que diz Ausubel (1978, p. 41 apud 
+Moreira,  2006,  p.  19):  “A  essência  do  processo  de  aprendizagem  significativa  é  que 
+ideias simbolicamente expressas sejam relacionadas, de maneira substantiva (não literal) 
+e  não  arbitrária,  ao  que  o  aprendiz  já  sabe,  ou  seja,  a  algum  aspecto  de  sua  estrutura 
+cognitiva especificamente relevante (isto é, um subsunçor) que pode ser, por exemplo, 
+
+ 
+
+ 
+
+ 
+uma imagem, um símbolo, um conceito ou uma proposição já significativas. 
+
+Na  perspectiva  da  Formação  por  Competências,  de  acordo  com  Perrenoud 
+ 
+(1999,  p.  69)  é  um  processo  de  aprendizagem  onde  “as  competências  são  construídas 
+somente  no  confronto  com  verdadeiros  obstáculos,  em  um  processo  de  projeto  ou 
+resolução de problemas”, ou seja, a partir de significados reais. 
+
+Entendemos  que  o  que  Móran  diz  sobre  Metodologias  Ativas  se  aproxima  de 
+nosso  objetivo  de  estudo  e  concepção  de  categoria  analítica:  Metodologias  Ativas  são 
+estratégias  de  ensino  centradas  na  participação  efetiva  dos  estudantes  na  construção 
+do  processo  de  aprendizagem,  de  forma  flexível,  interligada  e  híbrida.  Ou  seja,  o 
+estudante atua, desenvolve, pesquisa e propõe em seu processo de aprendizagem. 
+
+A  partir  destas  concepções  partimos  para  o  entendimento  de  que  existem  três 
+tipos de aprendizagem (Cognitiva, Afetiva e Psicomotora) e seguimos com conceitos de 
+Pedagogia, Heutagogia e Andragogia e das abordagens de ensino (Comportamentalista, 
+Cognitivista e Humanista) segundo Moreira (1999) e Kenski (2014). Posteriormente, o 
+problema abordado  ancora-se no pensamento de  Gomez, dado o fato de que o CCMD 
+tem  como  objetivo  formar  produtores  de  conteúdo  para  mídias  digitais,  o  que  em  sua 
+quase  totalidade  absorve  e  introduz  na  universidade  estudantes  com  intimidade  com  o 
+mundo  virtual.  De  acordo  com  a  autora:  “Estamos  caminhando  para  uma  fase  de 
+convergência  e  integração  das  mídias.  Tudo  começa  a  integrar-se  com  tudo,  a  falar 
+com  tudo  e  com  todos.  Tudo  pode  ser  divulgado  em  alguma  mídia.  Todos  podem  ser 
+produtores  e  consumidores  de  informação.  A  digitalização  traz  a  multiplicação  de 
+possibilidades  de  escolha,  de  interação.  A  mobilidade  e  a  virtualização  nos  libertam 
+dos espaços e tempos rígidos, previsíveis, determinados. O mundo físico se reproduz em 
+plataformas  digitais  e  todos  os  serviços  começam  a  poder  ser  realizados  física  ou 
+virtualmente.  Há  um  diálogo  crescente,  muito  novo  e  rico  entre  o  mundo  físico  e  o 
+chamado  mundo  digital,  com  suas  múltiplas  atividades  de  pesquisa,  lazer,  de 
+relacionamento  e  outros  serviços  e  possibilidades  de  integração  entre  ambos,  que 
+impactam profundamente a educação escolar e as formas de ensinar e aprender a que 
+estamos habituados. As mudanças que estão acontecendo na sociedade, mediadas pelas 
+tecnologias  em  rede,  são  de  tal  magnitude  que  implicam  –  a  médio  prazo  –  em 
+reinventar  a  educação  como  um  todo,  em  todos  os níveis  e  de  todas  as  formas.  [grifo 
+nosso]. (Gomez, 2010, p. 9). 
+
+É  inegável  que  o  “uso  da  internet  está  abrindo  um  caleidoscópio  de  modos  de 
+apropriação nos mais diversos âmbitos” (GOMEZ, 2010, p. 11), no entanto, a defesa de 
+um  conhecimento  significativo,  contextual,  tácito  e  vivencial,  é  um  caminho  ao 
+equilíbrio  nas  relações  entre  professor  e  aluno,  numa  era  em  que  o  aluno,  por 
+incontáveis  possibilidades  e  circunstâncias  ‘acessa’  a  informação  numa  velocidade 
+impossível  ao  professor  de  alcançar  e  manter  em  níveis  confortáveis.  Sobrariam  quais 
+caminhos para  a realização de uma formação que favorecesse o “aprender a conhecer, 
+aprender a fazer, aprender a viver juntos e aprender a ser”? (WERTHEIN, 2000, p. 22).  
+
+Preliminarmente  uma  perspectiva  metodológica  foi  pinçada  em  Cavalcanti 
+(1999)  que  recomenda  que  conceitos  “andragógicos”,  ou  seja,  fundadores  do 
+aprendizado de adultos sejam introduzidos ao ensino superior, favorecendo aos alunos o 
+desenvolvimento de métodos pessoais de estudo, levando-os a uma aprendizagem mais 
+significativa:  a)  tirando  proveito  da  experiência  acumulada  pelos  alunos;  b)  propondo 
+problemas,  novos  conhecimentos  e  situações  sincronizadas  com  a  vida  real;  c) 
+justificando a necessidade e utilidade de cada conhecimento; d)  envolvendo alunos no 
+planejamento  e  na  responsabilidade  pelo  aprendizado;  e)  estimulando  e  utilizando  a 
+motivação interna para o aprendizado; e, f) facilitando o acesso, os meios, o tempo e as 
+oportunidades. 
+
+Em  Ausubel  (apud  Moreira,  1999,  p.  153)  encontramos  que  a  aprendizagem 
+
+ 
+
+ 
+significativa  é  um  processo  por  meio  do  qual  uma  nova  informação  relaciona-se  com 
+um  aspecto  especificamente  relevante  da  estrutura  do  conhecimento  do  indivíduo,  ou 
+seja,  este  processo  envolve  a  interação  da  nova  informação  com  uma  estrutura  de 
+conhecimento  específica  existente.  Assim,  a  aprendizagem  significativa  pode  ser 
+alcançada a partir de uma proposta educacional de caráter andragógico, considerando-se 
+as particularidades do aprendizado de adultos-universitários. 
+
+Finalmente,  Perrenoud  (1999,  p.  69)  trouxe-nos  que  “as  competências  são 
+construídas  somente  no  confronto  com  verdadeiros  obstáculos,  em  um  processo  de 
+projeto ou resolução de problemas”, ou seja, a partir de significados reais. Assim, outra 
+possibilidade  de  dar  sentido  e  significado  à  aprendizagem  é  o  estabelecimento  de 
+conhecimentos,  habilidades  e  atitudes  ‘úteis’  ou  de  real  significação  à  solução  de 
+problemas concretos. Neste caminho, Küller e Rodrigo (2013, p. 75) sugerem 07 (sete) 
+passos  metodológicos  para  uma  aprendizagem  voltada  ao  desenvolvimento  de 
+competências:  a)  contextualização  e  mobilização;  b)  definição  da  atividade  de 
+aprendizagem;  c)  organização  da  atividade  de  aprendizagem;  d)  coordenação  e 
+acompanhamento;  e)  análise  a  avaliação  das  atividades  de  aprendizagem;  f)  acesso  a 
+outras referências; e, g) síntese e aplicação. 
+
+Bases  teóricas  acolhidas,  procedimentos  metodológicos  foram  construídos  em 
+Santos (2008, p. 73) que defende que não há mais espaço para a repetição automática, 
+descontextualizada  e  sem  significação.  Ele  enfatiza  que  a  aprendizagem  significativa 
+pressupõe sete atitudes que podem favorecer a postura de quem queira adotar o modelo 
+proposto  por  Ausubel,  e  assim  fizemos:  a)  Dê  sentido  ao  conteúdo,  pois  toda 
+aprendizagem  parte  de  um  significado  contextual  e  emocional  (usando  organizadores 
+prévios  –  infográficos);  b)  Especifique,  depois  da  contextualização,  levando  o  aluno  a 
+perceber as características específicas do que está sendo estudado (análise do currículo 
+do curso); c) Favoreça a compreensão, que levará à construção do conceito que poderá 
+ser utilizado em diversos contextos (escolha do eixo de atuação); d) Leve à definição, de 
+forma  clara  e  através  das  palavras  do  próprio  aluno,  dos  conceitos  que  foram 
+construídos  (construção  em  grupos);  e)  Provoque  a  argumentação,  após  a  definição, 
+através do relacionamento lógico dos diversos conceitos (via  linhas de  argumentação); 
+f)  Viabilize  a  discussão,  incentivando  o  raciocínio  através  dos  argumentos  e  dos 
+conceitos  construídos  (aplicação  de  enquetes  através  dos  Questionários  Google);  g) 
+Leve o conhecimento para a vida, do aluno, através da possibilidade de intervenção em 
+sua  realidade  e  da  transformação  da  mesma  (associação  aos  disparos  de  notícias 
+publicadas no Facebook). Sem esse propósito, qualquer aprendizagem seria inócua. 
+
+Conceitos  básicos  e  introdutórios  postos,  o  Problema  encontrado  foi:  em  que 
+medida  o  desenvolvimento  de  Objetos  de  Aprendizagem  é  potencializado  com  a 
+aplicação  de  Metodologias  Ativas  garantindo-se  efetivamente  uma  Aprendizagem 
+Significativa? 
+
+Por  Hipótese  inicial  acreditamos  que  as  dinâmicas  e  interações  adequadas, 
+propostas  pelas  chamadas  Metodologias  Ativas,  possibilitam  uma  maior  e  melhor 
+produtividade  na  construção  de  Objetos  de  Aprendizagem  favorecendo  uma  real  e 
+efetiva Aprendizagem Significativa. 
+
+ 
+O  Objetivo  Geral  é  “Compreender  as  dinâmicas  entre  o  uso  de  Metodologias 
+Ativas e suas interações com a produção de Mídias Digitais para a Educação com base 
+na Aprendizagem Significativa” 
+ 
+Já  os  Objetivos  Específicos:  Conhecer  e  compreender  as  características 
+específicas,  usos,  aplicações  e  resultados  pretendidos  das  chamadas  Metodologias 
+Ativas; Testar e analisar as dinâmicas entre o uso de Metodologias Ativas e a produção 
+de Objetos de Aprendizagem no âmbito do Curso de Comunicação em Mídias Digitais 
+da  UFPB  e  do  Projeto  DIAS  de  Pesquisa  e  Extensão;  Propor  a  aplicação  de 
+Metodologias Ativas à produção de Objetos de Aprendizagem segundo as aproximações 
+
+ 
+
+ 
+mais compatíveis entre teoria e prática. 
+
+ 
+
+3.  Os Marcos Metodológicos Iniciais: como fazemos? 
+
+Em primeiro lugar é importante dizer que todas as ações que a equipe do Projeto DIAS 
+desenvolve  são  fruto  do  desejo  de  seus  articuladores.  Nenhum  movimento  é  feito  sem 
+que  propósitos  claros  estejam  associados.  Estamos  organizados  como  um  projeto 
+multifuncional onde o ensino, a pesquisa e a extensão se entrelaçam mas as escolhas e 
+propósitos dos articuladores são determinantes e determinados em suas ações.  
+
+ 
+Considerando-se a multidisciplinaridade no desenvolvimento de Mídias Digitais 
+(pré-produção, produção e pós-produção) a relação  ensino-pesquisa-extensão é sempre 
+bem-vinda  e  favorável  a  uma  formação  integral  do  estudante.  Em  nossa  realidade  as 
+práticas de Ensino estão contempladas na aquisição de conhecimentos teóricos por meio 
+das  disciplinas  do  currículo  do  Curso  de  Bacharelado  em  Comunicação  em  Mídias 
+Digitais:  de  Metodologia  do  Trabalho  Científico  em  Mídias  Digitais,  de  Imagens 
+Digitais  I,  II  e  III,  de  Infografia  I  e  II,  de  Internet  I  e  II,  de  Edição  de  Vídeo  I  e  II, 
+Editoração  I  e  II,  de  Áudio  I  e  II,  que  compõem  o  alicerce  ‘básico’  para  a  realização 
+deste projeto além das disciplinas Tecnologias e Educação à Distância  e a Optativa de 
+Tecnologias e Educação à Distância. A produção desenvolvida nas referidas disciplinas 
+é escoada por meio do evento anual intitulado Mídias Pitch, onde os projetos de objetos 
+para a aprendizagem são validados publicamente. 
+
+As atividades de pesquisa  estão diretamente relacionadas aos objetos de estudo 
+de  cada  docente  e  cada  discente  que  se  agregam  ao  Projeto  DIAS.  São  estabelecidos 
+marcos  referenciais  que  permeiam  todas  as  pesquisas  e  são  definidas  as  estratégias  de 
+desenvolvimento  dos  temas  e  objetos.  Atualmente  as  categorias  são  as  já  anunciadas: 
+Design Instrucional ou Design Educacional, Aprendizagem Significativa, Metodologias 
+Ativas  e  Pedagogias  do  Afeto.  Em  2019  agregamos  as  Inteligências  Múltiplas  aos 
+nossos estudos. 
+
+A ação de Extensão já está consolidada por meio de um projeto premiado e em 
+funcionamento há 5 (cinco) anos. Sua principal linha de ação é o multiletramento digital 
+de docentes das Redes Públicas no Estado da Paraíba. No decorrer dos cinco anos foram 
+realizadas  oficinas,  palestras  e  workshops  com  uma  média  de  300  (trezentas)  pessoas 
+atendidas  por  ano.  Em  2018  foram  atendidas  500  (quinhentas)  pessoas  numa  profícua 
+parceria  com  o  Governo  do  Estado  da  Paraíba  por  meio  das  Escolas  Integrais  de 
+Educação Cidadã.  
+
+A proposta de Metodologia  contempla o  levantamento do ‘Estado da Arte’ das 
+Metodologias Ativas e das demais categorias que sedimentam este projeto, a construção 
+do conhecimento de forma coletiva, participativa e de abordagem construtivista, a partir 
+dos fundamentos da Aprendizagem Significativa, que no pensamento de Ausubel (1978 
+apud  Moreira  2006)  preconiza  que  “o  fator  mais  importante  que  influencia  a 
+aprendizagem, é aquilo que o aprendiz já sabe. Averigue isso e ensine-o de acordo”. As 
+técnicas  de  Análise  de  Conteúdo  (Bardin)  e  Triangulação  (Trivinõs)  serão  aplicadas 
+para a melhor compreensão dos dados levantados. 
+
+Segundo  Bardin  (1977,  p.  33-4)  “a  Análise  de  Conteúdo  é  um  conjunto  de 
+técnicas  análise  das  comunicações  e,  ainda,  pode  ser  uma  análise  dos  significados  (a 
+análise  temática),  embora  possa  ser  também  uma  análise  dos  significantes  (análise 
+léxica,  análise  dos  procedimentos)”.  Por  Técnica  de  Triangulação  de  Dados  Trivinõs 
+(1987,  p.  138-9)  entende-se  por  uma  análise  de  objeto  a  partir  de  três  perspectivas: 
+processos e produtos centrados no sujeito, elementos produzidos pelo meio do sujeito e, 
+finalmente,  processos  e  produtos  originados  pela  estrutura  sócio-econômica  e  cultural 
+no qual está inserido o sujeito. 
+
+ 
+
+Deste modo as ações foram cumpridas e as metas realizadas a partir da definição 
+do  estudante  de  seu  planejamento  pessoal,  incluindo-se  as  tarefas  planejadas/a  serem 
+realizadas por ele, a concepção de seus Mapas Mental e Conceitual e a definição de suas 
+estratégias de produção. 
+
+A  Avaliação  foi  mediadora  e  formativa,  a  cada  conclusão  de  módulo/ação,  ou 
+seja,  após  a  construção  e  vivência  do  processo  metodológico,  culminando  com  a 
+concepção  de  um  Objeto  de  Aprendizagem  e  a  análise  de  suas  interações  com 
+Metodologias  Ativas.  A  mesma  se  deu  junto  e  com  o  estudante,  a  partir  de  seu 
+planejamento pessoal em dois momentos: individualmente e coletivamente. 
+
+Todas as dinâmicas são tratadas por meio de um grupo de trabalho no WhatsApp 
+
+e um Grupo no Facebook: 
+
+ 
+
+ 
+
+ 
+Figura 1: Grupo de Trabalho no Facebook, 2015-2019. 
+
+4.  Os Três Casos Objeto Aqui 
+
+Foram  três  os  primeiros  casos  de  sucesso  e  que  aproximam-se  da  finalização  com 
+objetos  de  aprendizagem  consolidados.  Para  os  três  foram  aplicados  o  mesmo  modus 
+operandi de organização de tarefas, a partir das respostas às seguintes perguntas: 
+
+1. O que você mais gostou/gosta de fazer em sua trajetória acadêmica? O que te 
+
+instiga e motiva? 
+
+2.  Em  quais  autores  ou  teorias  você  fundamentou  seus  interesses?  Quais  as 
+categorias  analíticas  você  definiu  para  seu  trabalho  e  como  organizou  sua  agenda  de 
+trabalho? 
+
+3.  O  que  te  estimularia  a  desenvolver  com  extremo  interesse  e  prazer?  Qual  o 
+
+seu objetivo e propósito ao desenvolver esse projeto? 
+
+Respondidas  as  perguntas  e  compreendidas  as  dinâmicas  intelectuais  do 
+
+estudante passamos a conhecer melhor seu perfil, quais sejam: 
+
+Primeiro:  Caso  A,  estudante  do  sexo  feminino  que  vamos  chamar  de  Maria  e 
+
+ 
+
+ 
+
+ 
+tem  23  anos.  Apenas  estuda  e  é  sua  primeira  graduação.  Casada,  sem  filhos,  30%  do 
+curso em andamento. Procurou a equipe para desabafar sobre a falta de objetivos, foco e 
+propósitos  não  estabelecidos  com  a  escolha  do  Curso  de  Graduação.  Possui 
+competências pessoais como o domínio da leitura e da escrita, autonomia e bom trânsito 
+com tecnologias em mídias digitais. Reconhece-se como detentora de competências do 
+que  chama  de  “autoeducação”,  que  consiste  em  saber:  o  que  estudar,  como  estudar, 
+como organizar e sistematizar os estudos, como ler em variados níveis e diferentes tipos 
+de  livros,  como  fazer  anotações  do  percurso  de  aprendizagem  para  se  autoavaliar  na 
+perspectiva do que já sabe e do que ainda precisa aprender. Interesse especial por áudio 
+e confecção de Podcast. Sonha em ter sua própria plataforma de EaD. 
+
+Segundo: Caso B, estudante do sexo masculino que chamaremos de Pedro, 30 
+anos, segunda graduação. É formado em Letras Inglês-Português e é concursado como 
+Professor  do  Governo  do  Estado  da  Paraíba.  Solteiro,  sem  filhos,  40%  do  curso  em 
+andamento.  Chegou  no  projeto  aos  prantos  por  ter  sido  vítima  de  assédio  moral  por 
+parte de um docente. Extrema dificuldade com códigos de programação o que o coloca 
+em  posição  de  vulnerabilidade  com  alguns  docentes.  É  um  apaixonado  por  cinema  e 
+domina todas as ferramentas para a produção de argumento, roteiro, captação, edição e 
+distribuição  de  vídeos,  com  os  quais  aprimorou  seus  conhecimentos  e  conteúdos  no 
+curso  de  Mídias  Digitais,  todavia  não  sabia  como  ampliar  esses  conhecimentos  e 
+colocá-los em prática em seu projeto de Cinema  Educativo  sui generis na escola onde 
+trabalha.  
+
+Terceiro:  Caso  C,  estudante  do  sexo  feminino,  chamaremos  de  Lia.  Tem  25 
+anos e trabalha com o pai em um negócio da família. Está na primeira graduação mas 
+passou por uma escola técnica federal e possui boas noções na área. Chegou ao grupo 
+desmotivada  e  com  reprovações  sucessivas  em  uma  disciplina  de  baixa  complexidade 
+por  conta  de  faltas  excessivas.  Possui  grande  apreço  pela  arte  e  é  protagonista  de 
+movimentos  de  empoderamento  da  mulher  negra.  Tem  redação  própria  e  é  exímia 
+fotógrafa. Desenvolveu um método próprio de fotografia e tem interesse em dar cursos e 
+publicar um livro. 
+
+ 
+Os três casos chegaram no grupo com problemas de aceitação, autoestima e com 
+estresse  pós  desentendimento  com  docentes  do  curso.  Os  três  demonstraram  interesse 
+em  trancar  ou  abandonar  o  curso.  Os  três  possuíam  ideias  interessantes  e  algumas 
+intervenções em andamento. Com o acolhimento passamos ao processo de compreensão 
+de suas histórias e reestabelecemos os propósitos dos mesmos. 
+
+Posteriormente ao primeiro  contato e com a equipe as estratégias de  trabalho e 
+ 
+pesquisa foram estabelecidas e as leituras e itinerários formativos definidos em conjunto 
+com os mesmos, tendo como norte as categorias de análise que sustentam as ações do 
+Projeto  DIAS:  Design  Instrucional  a  partir  da  obra  de  Andréa  Filatro,  Aprendizagem 
+Significativa a partir da obra de David Ausubel, Formação por Competências a partir da 
+obra de Philippe  Perrenoud e Metodologias Ativas a partir da obra de José Moran. 
+
+Para  além  dos  autores  pré-estabelecidos  elencamos  os  autores  que 
+
+já 
+sedimentavam  os  interesses  dos  três  estudantes  e  suas  categorias  de  trabalho:  Henry 
+Wallon  e  sua  pedagogia  do  afeto,  Baruch  Espinosa  e  o  desejo,  a  alegria  e  a  tristeza, 
+finalizando com os princípios da autoeducação de Olavo de Carvalho.  
+
+5.  Resultados Preliminares 
+
+Até  o  momento  deste  evento  os  resultados  apresentados  pelos  três  estudantes  são  os 
+seguintes: 
+
+ 
+Primeiro: Caso A, após dois anos de estudos desenvolveu um curso online para 
+ser feito a distância sobre Introdução à Autoeducação, a partir de práticas pedagógicas 
+
+ 
+
+ 
+
+ 
+clássicas  de  educação  que  formaram  intelectuais  durante  séculos  no  Ocidente. 
+Disponibilizou  o  curso  no  Ambiente  Virtual  de  Aprendizagem  Moodle  Cloud  e  está 
+com  35  (trinta  e  cinco)  inscritos  com  a  formação  em  andamento.  Cursou  algumas 
+disciplinas em Educação e Design Instrucional e vivenciou a extensão universitária, que 
+contribuiu  para  o  desenvolvimento  da  sua  personalidade  e  o  seu  amadurecimento 
+intelectual, principalmente no que diz respeito a sua forma de interação com públicos. 
+No  momento  encontra-se  na  fase  final  de  construção  do  Trabalho  de  Conclusão  de 
+Curso.  Já  publicou  três  trabalhos  em  congressos  nacionais  e  internacionais  sobre  a 
+história  das  tecnologias  educacionais  e  descrevendo  o  processo  de  produção  do  curso 
+online sobre autoeducação. 
+
+ 
+Segundo:  Caso  B,  após  um  ano  de  estudos  redimensionou  sua  atuação  no 
+Projeto  de  Cinema  Educativo  com  a  produção  concomitante  de  uma  cartilha  com 
+abordagem  na  construção  de  narrativas  ficcionais.  Seu  objetivo  é  auxiliar  a  outros 
+professores  do  ensino  básico  com  estratégias  de  ensino  via  Plataforma  Moodle  e  um 
+Ambiente  Virtual  no  Facebook,  além  de  um  canal  no  Youtube.  Buscou  associar  as 
+disciplinas  e  conteúdos  estudados  no  curso  com  obras  clássicas  voltadas  e  também  a 
+usar  o  que  aprendeu  nas  disciplinas  de  argumento,  roteiro,  ensino  à  distância,  e  no 
+projeto Dias, o discente usou as metodologias aplicadas nessas disciplinas e no projeto 
+Dias  para  fortalecer  seu  projeto  de  cinema  na  escola,  trazendo  aprendizagem 
+significativa  para  seu  trabalho  e  ambiente  acadêmico,  assim,  devido  a  estas 
+metodologias  o  aluno  conseguiu  se  manter  no  curso  e  agora  o  mesmo  encontra-se  na 
+fase  e  finalização  do  Trabalho  de  Conclusão  de  Curso,  o  qual  usa  da  aprendizagem 
+significativa um dos pilares para se manter no curso e usar  isso para outras atividades 
+profissionais.  
+
+ 
+Terceiro:  Caso  C,  a  mais  nova  do  grupo  tem  seis  meses  de  atuação.  É  uma 
+brilhante  fotógrafa  e  possui  sensibilidade  notável  com  o  que  chama  de  “Fotografia 
+Afetiva”. Desenvolveu uma técnica própria que possui narrativas e atos no processo de 
+construção  da  imagem  fotográfica.  No  momento  está  pesquisando  seus  referenciais 
+teóricos  em  fotografia,  design,  afetividade  e  imaginário.  Também  está  economizando 
+recursos  para  um  estágio  residência  com  um  dos  grandes  nomes  a  fotografia  nos 
+Estados Unidos da América. 
+
+ 
+
+6.  Palavras Norteadoras de Possíveis Conclusões 
+
+Todo  o  trabalho  desenvolvido  está  relacionado  apenas  a  fazer  com  que  os  estudantes 
+reestabeleçam  novos  valores  e  propósitos  em  sua  vida  e  trajetória  acadêmica.  O 
+estabelecimento  de  itinerários  formativos  é  um  elemento  facilitador  dos  caminhos  a 
+serem traçados e vivenciados e o encontro da literatura que fundamenta as suas ações. O 
+Design Instrucional é a estratégia encontrada para a estimulação de uma Aprendizagem 
+Significativa.  As  discussões  sobre  a  afetividade  são  realizadas  com  o  objetivo  de 
+ressignificar relações desgastadas e promover uma convivência mais suportável com os 
+agressores. 
+
+No momento todos os envolvidos estão trabalhando na melhoria dos Ambientes 
+de  Trabalho  no  Moodle  e  na  replicação  em  comunidades  de  suas  experiências.  Temos 
+muito  o  que  aprender  mas  acima  de  tudo  muito  a  compartilhar  sobre  uma  pedagogia 
+voltada  ao  fortalecimento  das  interações  humanas  sem  que  se  perca  o  foco  da 
+produtividade, o desenvolvimento e a criação de novos produtos educacionais. 
+
+Acreditamos  na  formação  integral  do  estudante,  mesmo  o  do  ensino  superior. 
+Suas  aflições,  medos  e  inseguranças  são  motivos  para  intervenção  e  faz  parte  do 
+trabalho  do  educador.  A  experiência  de  acompanhamento  dos  três  estudantes  aqui 
+apresentados  nos  dá  certezas  em  relação  à  necessidade  de  se  estabelecer  confiança, 
+respeito  e  afeto  no  decorrer  do  amadurecimento  de  sua  capacidade  intelectual, 
+
+ 
+
+Cremos  numa  Aprendizagem  Significativa  como  mote  a  uma  vida  cheia  de 
+
+ 
+habilidades e atitudes.  
+
+propósitos. 
+
+ 
+
+Referências 
+
+Laurence, B. (1977). Análise de Conteúdo. Lisboa: Edições 70. 
+
+William B. N. (2014). Aprendizagem baseada em projetos. Educação diferenciada para 
+
+o século XXI. Porto Alegre: Penso. 
+
+Jonathan.  B.  (2018).  Aprendizagem  invertida:  para  resolver  o  problema  do  dever  dE 
+
+casa. Porto Alegre: Penso. 
+
+Tony.  B.  (2009).  Mapas  Mentais:  métodos  criativos  para  estimular  o  raciocínio  e  usar 
+
+ao máximo o potencial de seu cérebro. Rio de Janeiro: Sextante. 
+
+Fausto, C.; Thuinie, D. (2018). A sala de aula inovadora: estratégias pedagógicas para 
+
+fomentar o aprendizado ativo. Porto Alegre: Penso. 
+
+Roberto  de  A.  C.  (1999).  Andragogia:  a  aprendizagem  nos  adultos.  In:  Revista  de 
+
+Clínica Cirúrgica da Paraíba. N° 6, Ano 4, (Julho). 
+
+Pedro. D. (2015). Aprender como autor. São Paulo: Atlas. 
+
+Andrea,  F.  (2004).  Design  instrucional  contextualizado:  educação  e  tecnologia.  São 
+
+Paulo: Editora SENAC São Paulo. 
+
+______. (2008). Design instrucional na prática. São Paulo: Pearson-Prentice Hall, 2008. 
+
+______;  Sabrina,  C.  (2015).  Produção  de  conteúdos  educacionais.  São  Paulo:  SP, 
+
+Saraiva. 
+
+______. (2018). Como preparar conteúdos para EaD. São Paulo: Saraiva Educação. 
+
+______;  Carolina,  C.  C.  (2018).  Metodologias  INOV-ativas  na  educação  presencial,  à 
+
+distância e corporativa. São Paulo: Saraiva Educação. 
+
+FIRJAN. Horizon Report (2012). Panorama Tecnológico para o Ensino   Fundamental 
+
+e Médio Brasileiro. New Media Consortium (NMC) e Sistema  FIRJAN. 
+
+Ricardo, F. (2019). Método Trezentos: aprendizagem ativa e colaborativa para além do 
+
+conteúdo. Porto Alegre: Penso. 
+
+professores. Brasília: Líberlivro. 
+
+Margarita V. G. (2010). Cibercultura, formação e atuação docente em rede: guia  para 
+
+Luiz,  F.  M.  G.;  Ana  C.  C.  P.  (2015).  A  Psicologia  e  o  processo  educativo:  teoria  e 
+
+prática docente. São Paulo: Edições Loyola. 
+
+Vani,  K.  (2014).  Teorias  e  abordagens  pedagógicas.  São  Paulo:  Centro  Universitário 
+
+SENAC São Paulo – Educação Superior a Distância. 
+
+José,  A.  K.;  Natália,  F.  R.  (2013).  Metodologia  de  desenvolvimento  de  competências. 
+
+Rio de Janeiro: SENAC Nacional. 
+
+Maria  C.  S.  M.;  Suely,  F.  D.  R.  G.  (2007).  Pesquisa  Social:  teoria,  método  e 
+
+criatividade. 25ª ed. revista e atualizada. Petrópolis: RJ, Vozes. 
+
+Angélica,  M.;  J.  António,  M.;  Ana  C.  A.  (2012).  Educação  On-Line:  pedagogia  e 
+aprendizagem  em  plataformas  digitais.  Santo  Tirso:  De  Facto  Editores,  Portugal. 
+[Coleção Formare Guias Práticos]. 
+
+Marco, A. M. (1999). Teorias de aprendizagem. São Paulo: EPU. 
+
+ 
+
+ 
+______.  (2006).  A  teoria  da  aprendizagem  significativa  e  sua  implementação  em 
+
+ 
+
+sala de aula. Brasília: Editora da Universidade de Brasília, 2006. 
+
+______. (2010). Mapas conceituais e aprendizagem significativa. São Paulo:  Centauro, 
+
+2010. 
+
+Médicas Sul. 
+
+Philippe,  P.  (1999).  Construir  as  competências  desde  a  escola.  Porto  Alegre:  Artes 
+
+Andréia,  F.  R.;  Priscila  K.  P.  S.  (2006).  A  contribuição  do  Design  Instrucional  das 
+Dimensões  da  Educação  para  o  desenvolvimento  de  Objetos  de  Aprendizagem.  In: 
+ANAIS do XXVI Congresso da SBC, 14 a 20/07/2006, Campo Grande, MS. 
+
+Júlio  C.  F.  S.  (2011).  Aprendizagem  Significativa:  modalidade  de  aprendizagem  e  o 
+
+papel do professor. 4ª ed. Porto Alegre: Editora Mediação. 
+
+Sammya, F. T. (2014). Desenvolvimento de projetos educacionais: mídias e tecnologias. 
+
+São Paulo: Érica/Saraiva. 
+
+Augusto  N.  S.  T.  (1987).  Introdução  à  pesquisa  em  Ciências  Sociais:  a  pesquisa 
+
+qualitativa em educação. São Paulo: Atlas. 
+
+Jorge  A.  V.;  Marco  A.  M.  (2009).  A  Teoria  da  Aprendizagem  Significativa.  Sua 
+
+fundamentação e implementação. Coimbra, Portugal: Edições Almeidina S/A. 
+
+Jorge, W. (2000). Fundamentos da nova educação. Brasília: UNESCO. 
+
+Fausto,  Z.  (2016).  Contra  a  escola:  ensaio  sobre  literatura,  ensino  e  educação  liberal. 
+
+Campinas: SP, Vide Editorial. 
+
+ 
+
+

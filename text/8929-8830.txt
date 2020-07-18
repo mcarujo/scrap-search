@@ -1,0 +1,356 @@
+ 
+
+ 
+
+Ensino e Aprendizagem de História através da Construção 
+Colaborativa de Podcast 
+
+Julia M.W. Neves, Taciano L. Amorim, José Alexandre, Rodrigo Lins Rodrigues 
+
+Instituto de Informática – Universidade Federal Rural de Pernambuco (UFRPE) 
+Rua Dom Manuel de Medeiros, s/n, Dois Irmãos 
+52. 171-900 – Recife – PE – Brazil 
+
+{juwcontato, tacianolamorim, zealexandrejulio}@gmail.com, 
+rodrigo.linsrodrigues@ufrpe.br 
+
+Abstract.  The  traditionalist  practices  still  applied  in  many  schools  become 
+uninteresting for students who were born immersed in the use of TIC’s. Using 
+these  technologies  in  the  classroom  can  help  with  self-learning,  often 
+creatively.  Podcasting  is  a  tool  that  can  be  used  to  make  teaching  more 
+attractive.  According  to  a  diagnosis  made  at  an  ETE,  it  was  difficult  for  the 
+second  year  to  understand  the  subject  of  Brazilian  History.  To  make  the 
+subject  more  attractive  and  improve  comprehension,  it  was  proposed  to 
+students  to  create  podcast  addressing  existing  characters  in  this  period.  In 
+order  to  verify  if  the  use  of  TIC’s  helps  in  the  absorption  of  the  approached 
+content. 
+
+Resumo.  As  práticas  tradicionalistas  ainda  aplicado  em  muitas  escolas,  se 
+tornam desinteressantes para alunos que nasceram imersos no uso das TICs. 
+O uso dessas tecnologias em sala de aula pode auxiliar no autoaprendizado, 
+muitas  vezes  de  forma  criativa.  O  podcast  é  uma  ferramenta  que  pode  ser 
+utilizada  para  tornar  o  ensino  mais  atrativo.  Segundo  um  diagnóstico  feito 
+numa  ETE,  viu-se  a  dificuldade  do  segundo  ano  compreender  o  assunto  da 
+História  do  Brasil.  Para  tornar  a  matéria  mais  atrativa  e  melhorar  a 
+compreensão,  foi  proposto  aos  alunos  a  criação  de  podcast  abordando 
+personagens  existentes  nesse  período.  Com  o  intuito  de  verificar  se  a 
+utilização das TICs auxilia na absorção do conteúdo abordado. 
+
+1.  Introdução 
+
+1.1.  TICs na educação 
+
+A  nova  geração  de  alunos  já  nasce  imersa  no  uso  cotidiano  das  tecnologias  da 
+informação e comunicação (TICs), refletindo em sua forma de interagir com o mundo. 
+As práticas de ensino tradicionalistas, ainda aplicada em muitas escolas, e o não uso das 
+TICs  tornam  as  aulas  tediosas  e  muitas  vezes  ineficazes.  Gill  (2016)  diz  que  ao 
+contrário de “quando os recursos utilizados são quadro e giz”, a utilização das TICs em 
+sala  de  aula  são  vistas  como  renovadoras  pois  seus  usos  atraem  a  atenção  dos  jovens.  
+Leite (2011) corrobora informando que essas deverão prender a atenção do aluno “[...] o 
+que  auxilia  no  aprendizado  de  conceitos,  conteúdos  e  habilidades  embutidos  nesta 
+utilização, pois, estimulam a autoaprendizagem, a descoberta, despertam a curiosidade, 
+
+incorporam a fantasia e o desafio.” [Leite 2011] 
+
+1.2.  Uso do Podcast no Ensino 
+
+Entre  as  várias  TICs  que  ampliam  o  escopo  do  processo  de  ensino  aprendizagem, 
+destaca-se o uso de podcasts. 
+
+Segundo  Moura  e  Carvalho  (2006),  o  desenvolvimento  do  podcast  surgiu  em 
+2004,  quando  Adam  Curry  e  Dave  Winer  criaram  um  programa  de  rádio  que  permitia 
+ser descarregado na internet, diretamente para os seus iPods. 
+
+Sousa e Leite (2013) nos fala que os professores começaram a gravar e distribuir 
+suas  aulas  em  podcast  por  conta  da  facilidade  de  criação  e  distribuição  online  dessa 
+mídia. A construção do conhecimento pelos podcast se dá por meio de diversas formas 
+de  linguagens  simultâneas,  acontecendo  “[...]  de  forma  mais  aberta,  integrada  e 
+multissensorial,  o  que  torna  sem  dúvida,  o  processo  de  ensino  e  aprendizagem  muito 
+mais atraente e complexa”. [Sousa e Leite 2013] 
+
+Numa pesquisa realizada em artigos sobre o uso de podcast no âmbito escolar, a 
+criação  de  podcast  por  alunos  são  geralmente  associados  a  matérias  de  linguísticas, 
+como,  por  exemplo,  os  artigos  dos  autores  [Leite,  Aranha  e  Leite  2017],  [Moura  e 
+Carvalho  2006],  [Gill  2016].  Possivelmente,  essa  associação  entre  a  produção  dos 
+podcast  e  as  disciplinas  de  linguagem,  tenha  relação  com  as  atividades  de  oralidade, 
+algo  muito  requerido  aos  estudos  de  línguas.  Quando  o  podcast  não  está  associado  à 
+criação  e  sim  a  utilização,  ele  abrange  mais  matérias  e  se  compõe  em  sua  maioria  de 
+resumos  de  assuntos  a  serem  estudados  de  forma  complementar,  geralmente 
+desenvolvido pelo professor, como em [Carvalho 2009]. 
+
+Em ambas situações citadas foram alcançados bons resultados. Mas, levando em 
+consideração  a  possibilidade  da  criação  do  podcast,  poderia  gerar  uma  atividade  que 
+influenciasse  os  alunos  na  autoaprendizagem,  através  da  descoberta,  incorporando 
+elementos  de  criatividade  e  fantasia,  tornando  a  atividade  divertida  com  impactos 
+positivos no ponto de vista do aluno, mesmo que a atividade de criação de podcast não 
+esteja associado a uma matéria de linguística? 
+
+ 
+
+2.  Metodologia 
+
+Segundo  o  Relatório  de  Rendimento  Geral  do  primeiro  semestre  de  2018  e  entrevista 
+com  o  professor  da  matéria,  foi  diagnosticado  uma  deficiência  histórica  na 
+aprendizagem  dos  alunos  do  2º  ano  do  ensino  médio,  nos  assuntos  abordados  sobre  o 
+Brasil Colonial na Escola Técnica Estadual (ETE) pesquisada. Foi decidido trabalhar a 
+criação  dos  podcasts  sobre  esse  tema,  sendo  uma  entrevista  com  um  personagem 
+histórico,  pré-selecionado  pelo  professor,  cujo  objetivo  era    fazer  com  que  os  alunos 
+realizassem pesquisas sobre o  contexto histórico social sob o ponto de vista em que o 
+personagem  está  inserido,  dessa  forma,  estimulando  a  autoaprendizagem  de  forma 
+criativa. 
+
+2.1.  Conteúdos Selecionados 
+
+A criação dos podcasts foram elaborados para a matéria de História do Brasil Colonial. 
+Esse projeto envolveu uma turma do segundo ano com 33 alunos. 
+
+ Foram  selecionados  16  personagens  históricos  do  período  colonial,  sendo 
+sorteado  entre  as  equipes,  formado  por  15  duplas  e  um  trio.  Os  personagens  foram:  
+Indígena das missões de aldeamento,   O cristão novo, o Sr. de  Engenho, o escravo de 
+ganho urbano x o escravo de campo rural (personagens que ficou com o trio), o jesuíta, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o  bandeirante,  o  mestre  do  açúcar,    o  capitão  do  mato,  o  feitor,  Zumbi  dos  Palmares, 
+Duarte Coelho Pereira,  Maurício de Nassau, a sinhazinha , o capoeira,  André Vidal de 
+Negreiros e  a mucama.  
+
+O  podcast  deveria  simular  uma  entrevista  com  o  personagem  selecionado, 
+devendo  atender  aos  seguintes  requisitos:  apresentação  do  personagem,  expor  o  ponto 
+de  vista  do  personagem  sobre  o  período  histórico  no  qual  ele  estava  inserido  e  falar 
+sobre a história dele neste período.  
+
+O objetivo dessa atividade seria que no final, o aluno compreendesse o período 
+histórico  ao qual o personagem estava inserido, entendendo melhor o período colonial 
+do  Brasil  ao  precisar  adaptar  esse  período  para  o  ponto  de  vista  desses  personagens, 
+dessa forma, desenvolvendo a autoaprendizagem de forma “divertida e criativa”. 
+
+2.2.  Construção de Roteiros e Podcasts 
+
+O projeto foi dividido em três momentos. O primeiro tratou-se da primeira entrega do 
+roteiro,  no  qual  foi  corrigido  e  orientado  pelo  professor  e  membros  da  equipe  de 
+pesquisa. No segundo momento houve a entrega final do roteiro e no terceiro a entrega 
+do áudio. Os roteiros e os áudios foram acomodados no Google Drive (GD). 
+
+Foi compartilhado com os alunos uma pasta no GD contendo um arquivo onde 
+eles  deveriam  descrever  o  roteiro.  Após  o  prazo  para  entrega  foram  retiradas  as 
+permissões  de  edição    dos  alunos.  Iniciando  assim,  a  fase  de  criação  e  edição  dos 
+arquivos de áudio. 
+
+Para  a  edição  dos  áudios  foi  recomendado  o  uso  do  software  livre  Audacity, 
+onde foi disponibilizado tutoriais em slides e em vídeos de terceiros sobre o programa 
+referido. Os áudios deveriam ter de 3 a 5 minutos e serem entregues no formato mp3. 
+
+Por  fim,  foi  realizado  um  questionário  através  do  Google  Forms  sobre  a 
+
+experiência da criação dos podcasts.  
+
+2.3.  Questionário Aplicado 
+
+O  questionário  foi  dividido  em  seções,  nas  quais  estavam:  “Conhecimento  pré 
+adquirido”,  cujo  objetivo  era  verificar  a  proximidade  do  aluno  com  a  construção  de 
+trabalhos compartilhados no GD, no “Sobre a criação do roteiro”, foram feitas perguntas 
+cujo objetivo era verificar a eficiência da parte avaliativa dos roteiros pelos professores, 
+assim  como  a  impressão  desse  aluno  sobre  as  possíveis  benefícios  da  criação  desse 
+material.  Na  seção  “Sobre  os  áudios”,  verificamos  as  dificuldades  enfrentadas  pelos 
+alunos  na  edição  dos  mesmos,  assim  como  o  impacto  do  roteiro  nessa  edição  e  se  os 
+materiais disponibilizados sobre audacity foram utilizados. Em “Perguntas gerais sobre 
+o  trabalho”,  tentamos  captar  as  impressões  dos  alunos  sobre  o  ato  de  ter  criado  esse 
+produto, buscando elementos de autoaprendizagem, de interesse, gratificação pessoal. 
+
+3.  Resultados e Discussões 
+
+Foram entregues pelos alunos, 16 roteiros, correspondente às 16 equipes, onde um deles 
+se encontrava incompleto no momento da entrega final do roteiro. Dos 16 personagens, 
+foram  entregues  14  áudios  correspondentes.  Após  a  entrega,  foi  feito  um  questionário 
+pelo  Google  Forms  e  disponibilizados  aos  alunos  sobre  a  experiência  da  criação  dos 
+áudios. Dos 33 alunos envolvidos no projeto, 24 responderam o questionário.  
+
+3.1.  Construção Colaborativa de Podcasts  
+
+Sobre  a  experiência  de  fazer  trabalhos  de  forma  compartilhada  pelo  GD,  91,7%  dos 
+
+ 
+
+ 
+
+alunos informaram que haviam feito. Averiguamos que os professores das matérias do 
+técnico dessa ETE, costumam trabalhar com as ferramentas do Google.   58,3% 
+dos 
+entrevistados  afirmaram  nunca  terem  editado  um  áudio  anteriormente.  Essa  falta  de 
+experiência  se  demonstrou  como    um  obstáculo  para  alguns  alunos  envolvidos  no 
+projeto.  
+
+ 
+Questionados  sobre  o  podcast  ser  uma  entrevista  de  um  personagem  histórico 
+predefinido  e  79,2%  dos  entrevistados  responderam  que  acharam  bom  e  12,5%  não 
+deram opinião. Demonstrando que o  modelo proposto foi bem aceito pela  maioria dos 
+alunos.  
+
+ 
+Sobre  os  feedbacks  de  correção  dos  roteiros  “pelos  professores”,  75%  dos 
+entrevistados  disseram  que  foi  satisfatório  e  66%  acharam  que  foi  em  tempo  hábil. 
+Sobre  as  correções  no  roteiro  segundo  o  feedback  oferecido,  50%  relataram  que 
+atenderam todas as correções e 50% disseram que atenderam mais ou menos. 87,5% dos 
+alunos  entrevistados  disseram  que  essas  correções  tornaram  seus  áudios  melhores. 
+Sobre  a  edição  dos  áudios,  apesar  da  sugestão  de  se  utilizar  o  Audacity,  apenas  dez 
+alunos entrevistados relataram ter utilizado o Audacity na edição do áudio. 
+
+ 
+Apenas 37,5% acharam que o material disponibilizado sobre edição do áudio no 
+Audacity  facilitou  no  momento  da  edição,  todos  estes  produziram  seus  áudios  em 
+Audacity. 54,1% dos alunos que afirmaram que não fizeram uso desse material, que não 
+ajudou  ou  sem  opinião,  utilizaram  outros  programas  para  editarem  seus  áudios.  De 
+todos  os  alunos  que  responderam  a  entrevista  e  entregaram  o  áudio,  100%  afirmaram 
+que a utilização do roteiro facilitou no momento da gravação do áudio e 66,7% acharam 
+que o roteiro auxiliou no momento da edição dos áudios. 
+
+ 
+Sobre  as  dificuldades  enfrentadas  na  edição  desses  áudios,  as  principais 
+dificuldades  citadas  se  tratavam  da  falta  de  experiência  na  utilização  de  programas  de 
+edição  de  áudio  e  o  fato  de  gravarem  os  áudios  em  lugares  distintos  pelo  whatsapp, 
+ocasionou  dois  problemas:  equiparar  o  tom  de  voz  de  todos  os  participantes  de  forma 
+que  tornasse  a  conversa  mais  natural  e  a  conversão  dos  áudios  do  whatsapp  em  mp3. 
+Foram citados outros problemas como mudança de voz, efeitos sonoros e outros.  
+
+3.2.  Aprendizagem de História por Podcasts 
+
+Na  pergunta  sobre  se  o  personagem  histórico  ajudou  o  aluno  a  entender  mais  sobre  o 
+período  colonial,  54,2%  responderam  que  sim  e  45,8%  disseram  que  mais  ou  menos. 
+Sobre  considerar  o  podcast  como  um  complemento  à  aula,  75%  dos  alunos  disseram 
+que sim e 12,5% dos alunos disseram mais ou menos.  Podemos ver assim que, segundo 
+a visão dos alunos, a criação do podcast teve impacto significativo no seu processo de 
+autoaprendizagem,  já  que  até  o  momento  da  finalização  dos  podcasts,  os  assuntos 
+abordados não haviam sido dado em sala de aula.  
+
+Sobre  o  podcast  estimular  o  trabalho  em  equipe,  62,5%  dos  entrevistados 
+ 
+disseram que sim, 12,5% disseram mais ou menos e 8,3% disseram que não. Sobre o ato 
+de  produzir  o  podcast,  58,3%  dos  entrevistados  afirmaram  que  gostaram  de  ter 
+produzido, 25% disseram que gostaram mais ou menos. Ao serem questionados do por 
+quê da opinião anterior, muitos dos que responderam mais ou menos, se referiram como 
+ato negativo a dificuldade que encontraram na edição dos áudios.  
+
+ 
+Considerando  a  nuvem  de  palavras  geradas  a  partir  das  respostas  dadas  pelos 
+alunos  sobre  o  porquê  terem  gostado  ou  não  de  fazer  o  podcast  (figura  1),  podemos 
+perceber  que  palavras  como  criatividade,  divertido,  interessante,  ajudou  e  aprender, 
+foram  mais  citados  que  palavras  como  dificuldade,  estressante,  complicado.    Dessa 
+forma,  podemos  verificar  que  os  alunos  se  sentiram  satisfeitos  com  o  resultado  e  que 
+
+eles consideram como uma atividade criativa e divertida. 
+
+ 
+
+Figura  1.  Nuvem  de  palavras  geradas  a  partir  das  respostas  dadas  pelos  alunos 
+sobre o porquê terem gostado ou não de fazer o podcast. 
+
+Aproximadamente,  41%  dos  alunos  acharam  o  trabalho  gratificante  enquanto 
+41,7% mais ou menos gratificante. 54,2% dos entrevistados acharam divertido produzir 
+o podcast, 25% disseram que foi mais ou menos divertido. 66,7% dos alunos gostaram 
+de ter o podcast como meio avaliativo e 20,8% gostaram mais ou menos.  
+
+ 
+Também  fizemos  uma  pergunta  comparativa  sobre  o  empenho  da  criação  do 
+podcast com o trabalho escolar. 37,5% dos alunos afirmaram que se empenharam mais 
+em  construir  o  podcast  do  que  se  empenharia  em  fazer  um  trabalho  escrito  sobre  o 
+mesmo tema, 33,3% responderam mais ou menos. Isso deve-se dar pois, para construir a 
+história  do  personagem  em  seu  contexto  histórico,  o  aluno  teve  que  entender  esse 
+conteúdo e reinterpretá-lo para criar o diálogo para  o personagem, além da gravação  e 
+edição  do  áudio.  Esse  processo  se  torna  mais  complexo  do  que  sintetizar  um  texto 
+escrito,  baseado  em  referências  provavelmente  do  mesmo  modelo.  Por  último,  foi 
+perguntado aos alunos se eles gostaram de pesquisar um assunto que ainda está para ser 
+dado em sala de aula. 83,3% dos alunos entrevistados responderam que sim. 
+
+4.  Considerações Finais 
+
+As TICs, quando bem utilizadas na educação, podem proporcionar resultados positivos 
+no  processo  de  ensino-aprendizagem.  Podemos  verificar  também  que  a  criação  de 
+podcast pelos alunos, utilizados de forma “criativa”, se adaptam a outras disciplinas não 
+referente  a  área  de  linguística,  obtendo  resultados  relevantes  no  processo  de  a 
+autoaprendizagem. Se mostrando uma atividade divertida e prazerosa, por mais que seja 
+trabalhosa. Acreditamos que a oficina prévia de edição de áudio para os alunos, podem 
+aumentar o nível de satisfação na criação do podcast, pois esse foi um dos pontos mais 
+cansativos e estressantes para eles. 
+
+ 
+A criação do roteiro colaborativo foi considerado algo positivo por permitir que 
+a  equipe  compartilhasse  a    edição  do  texto,  quebrando  a  barreira  da  distância.  A 
+possibilidade  do  professor  e  a  equipe  de  pesquisa  poderem  sugerir  correções  e 
+comentarem o roteiro via GD, foi visto como positivo pelos alunos, e que veio a somar 
+na qualidade do resultado final. Um problema que enfrentamos nesse período foi o não 
+
+ 
+
+ 
+
+ 
+
+planejamento de um período  mais  longo para correção dos roteiros, pois  esta  correção 
+demanda um tempo que muitas vezes o professor não tem disponível. No ponto de vista 
+do aluno, segundo a pesquisa, podemos concluir que a fase de elaboração e criação dos 
+artefatos  do  projeto,  foi  bem  aceita,  atingindo  os  propósitos  de  autoaprendizagem,  de 
+forma criativa e divertida, como explicado por Leite (2011) sobre o uso das TICs. 
+
+Referências 
+
+Carvalho, C. J. (2009). “O Uso de Podcasts no Ensino e na Aprendizagem das Ciências 
+Naturais:  um  estudo  com  alunos  de  9º  ano  sobre  temas  do  Corpo  Humano/Saúde”, 
+In: Reista Eletrônica Ozarfaxinars, N.8 , Podcast no Ensino. Centro de Formação da 
+Associação  das  Escolas  de  Matozinho.  https://www.cfaematosinhos.eu/O  Uso  de 
+Podcasts no Ensino e na Aprendizagem_08.pdf.  
+
+Gill, C. F. (2016) “Uma Experiência de Pesquisa Sobre Podcast no Ensino e Literatura”, 
+In: Ciclo Revista: Experiências em Formação no IF Goiano. Anais do II Encontro de 
+(ELPED). 
+Licenciaturas 
+https://www.ifgoiano.edu.br/periodicos/index.php/ciclo/article/view/262/175 
+
+Pesquisas 
+
+Educação 
+
+em 
+
+e 
+
+Leite,  B.  S.  (2011)  “  O  uso  das  tecnologias  no  Ensino  de  Ciências:  A  web  2.0  como 
+ferramenta de aprendizagem”. 286 f. Dissertação (Mestrado em Ensino de Ciências)-
+Curso  de  Pós-graduação  em  Ensino  de  Ciências,  Universidade  Federal  Rural  de 
+Pernambuco, 
+http://www.tede2.ufrpe.br:8080/tede/ 
+bitstream/tede2/5813/2/Bruno Silva Leite.pdf 
+
+Recife, 
+
+2011. 
+
+Leite,  Q.  S.  S.  ,  Aranha,  S.D.G.  e  Leite,  B.S.  (2017)  “A  Produção  de  Podcasts  por 
+Estudantes do Ensino Médio Sobre a  Língua Portuguesa e a Comunicação Verbal”, 
+In: Revista Eletrônica Debates em Educação, Vitória - Espírito Santo, v.7 n.2, p 44-
+64.  https://www.researchgate.net/publication/322730372  _A_producao_de_podcasts 
+_por_estudantes_do_ensino_medio_sobre_a_lingua_portuguesa_e_a_comunicacao_
+verbal 
+
+Moura,  A.  e  Carvalho,  A.  A.  A.  (2006)  “Podcast:  Potencialidades  na  Educação”  ,  In: 
+Revista  Prisma.com,  n.3,  f.  88-110    http://ojs.letras.up.pt/index.php/prismacom 
+/article/view/2112/1945 
+
+Souza,  Q.  D.  S.  e  Leite,  B.  S.(2013)  “A  Linguística  na  produção  de  Podcast  em 
+Química”  In:  5º  Simpósio  Hipertexto  e  Tecnologias  na  Educação.  1º  Colóquio 
+Internacional de Educação com Tecnologias: Aprendizagem Móvel Dentro e Fora da 
+Escola.  http://nehte.com.br/simposio/anais/Anais-Hipertexto-2013/A%20Lingu%C3 
+%ADstica%20na%20produ%C3%A7%C3%A3o%20de%20Podcast%20em%20Qu
+%C3%ADmica.pdf 
+
+ 
+
+ 
+
+

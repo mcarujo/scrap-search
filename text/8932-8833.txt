@@ -1,0 +1,368 @@
+ 
+ 
+
+ 
+
+Intervenção em Turmas de Jovens e Adultos numa Escola da 
+Rede Pública do Recife, Multidisciplinaridade e Uso da 
+Ferramenta Blockly Games - Um Relato de Experiência. 
+
+Marcela Portela S. de Figueiredo1, Elidiene Gomes de Oliveira Lima2, Gilberto 
+Amado de Azevedo Cysneiros Filho3 
+
+1Programa de Pós-graduação em Biometria e Estatística Aplicada – Universidade 
+Federal Rural de Pernambuco (UFRPE)– Recife – PE – Brazil 
+
+2Escola Municipal Senador José Ermírio de Moraes 
+
+3Departamento de Estatística e Informática- 
+Universidade Federal Rural de Pernambuco (UFRPE) – Recife, PE – Brazil 
+
+portela.marcela.producao@gmail.com, elidienegomes@hotmail.com, 
+g.cysneiros@gmail.com 
+
+Abstract. Digital games are increasingly applied as teaching tool support. How 
+to use digital games in the educational environment is still a research area. This 
+paper  describes  an  experience  of  development  of  a  game  adapted  of  Blockly 
+Games and applied with students of classes of Education of Young and Adults. 
+The goal of the game is to teach subjects related to Mathematics, Environment 
+Educational and Programming. The result of the experiment was that 43,75% 
+of  the  students  were  satisfied  or  very  satisfied  with  the  game.  In  relation  to 
+learning  perception,  81,25%  believe  that  they  learned  mathematics,  87,5% 
+believe that they learned logic and 93% believe they learned recycling notions. 
+
+Resumo.  Jogos  digitais  são  cada  vez  mais  aplicados  como  ferramentas  de 
+suporte ao ensino. Como aplicar jogos digitais no ambiente educacional ainda 
+é  uma  área  de  pesquisa.  Esse  artigo  descreve  uma  experiência  de 
+desenvolvimento de um jogo adaptado do Blockly Games e aplicá-lo com alunos 
+de turmas de Educação de Jovens e Adultos (EJA). O objetivo do jogo é ensinar 
+assuntos relacionados a Matemática, Educação Ambiental e Programação. O 
+resultado  do  experimento  foi  que  43,75%  dos  estudantes  se  mostraram 
+satisfeitos  ou  muito  satisfeitos  com  o  jogo.  Em  relação  à  percepção  de 
+aprendizado, 81,25% acreditam terem aprendido matemática, 87,5% acreditam 
+terem aprendido lógica e 93% acreditam ter aprendido noções de reciclagem.  
+
+1. Introdução 
+
+A gamificação pode ser definida, segundo Cavadas  et al. (2017) como a aprendizagem 
+que  utiliza  a  mecânica  de  design  de  jogos.  Seu  uso  tem  demonstrado  indícios  que  sua 
+utilização no ambiente educacional promove o processo de ensino, gerando motivação e 
+prendendo a atenção dos estudantes em sala de aula [Souza Junior et al. 2018].  Segundo 
+González, Gómez e Echeverri (2017) os elementos de jogos aumentam o espírito criativo 
+do educando, sua motivação, concentração, esforço, lealdade e incentivam o trabalho em 
+equipe.  A  ludicidade  assim,  seria  uma  maneira  de  motivar  o  aluno  no  contexto  da 
+
+educação  virtual  [GONZÁLEZ,  GÓMEZ  E  ECHEVERRI  2017].  A  utilização  da 
+programação de blocos, utilizando elementos de jogos poderia, desta maneira, motivar o 
+ensino de programação entre jovens e adultos.  Estudos vem sendo realizados nesta linha 
+com crianças e adolescentes [GLUSHKOVAL 2016], porém existe uma literatura escassa 
+em  relação  ao  estudo  do  ensino  de  Jovens  e  Adultos  e  a  Gamificação,  em  particular 
+programação em blocos, no Brasil.  
+
+ 
+O Blockly é uma programação visual, classificada como programação em blocos. 
+Ela é uma biblioteca JavaScript, um projeto aberto da Google. Seu uso na educação tem 
+demonstrado  que  utilizando-se  os  blocos,  os  erros  de  sintaxe  da  linguagem  de 
+programação  tradicional  são  evitados  e  permitem  que  o  aluno  esteja  mais  focado  na 
+implementação  dos  algoritmos  e  cenários,  deixando  um  maior  espaço  para  o 
+desenvolvimento  do  pensamento  computacional.  Ele  também  possibilita  a  inserção  de 
+alunos  de  diferentes  níveis  de  conhecimento  e  experiência  em  programação 
+[GLUSHKOVAL 2016], sendo assim mais adequado para o uso na Educação de Jovens 
+e Adultos. Existem outras programações em bloco  disponíveis no mercado, tais como: 
+Scratch, Snap, Stencyl, MIT App Inventor, Alice, porém o Blockly é descrito na literatura 
+como o mais intuitivo para empilhar os blocos [FRASER 2015],  utiliza pop-ups que não 
+podem  ser  fechados  para  monitorar  as  ações  do  aluno  e  prescrever  ações  a  serem 
+realizadas  [FRASER  2015],  o  que  o  torna  uma  ferramenta  melhor  para  o  ensino  de 
+programação. Assim, as vantagens em utilizar a programação em blocos para o ensino de 
+programação  são:  estilo  de  programação  fácil  sem  erros  de  sintaxe,  resultado  rápido, 
+trabalho  em  linguagem  natural,  blocos  coloridos  diferentes,  modo  de  arrastar  e  soltar 
+possível,  muito  útil  para  tablets,  ambientes  de  programação  diferentes  adequados  para 
+alunos de todas as idades e níveis de treinamento e permite o uso de todos os algoritmos 
+básicos em programação [GLUSHKOVAL 2016].  
+
+ 
+O Blockly Games é uma série de jogos educativos que ensinam programação. Ele 
+foi  projetado  para  pessoas  que  não  tiveram  experiência  anterior  com  programação,  é 
+especificamente projetado para ser autodidata, ou seja, nenhum professor ou plano de aula 
+é  necessário  para  a  dinâmica  educacional  [FRASER  2015].  No  final  da  sequência  de 
+jogos:  Puzzle,  Maze,  Bird,  Turtle,  entre  outros,  os  jogadores  estão  prontos  para  usar 
+linguagens  convencionais baseadas  em  texto [GOOGLE 2019]. O presente  trabalho se 
+utilizou do jogo Bird, do Blockly Games, modificando-o para a nova proposta temática 
+do projeto que seria o ensino de matemática, educação ambiental (reciclagem), lógica e 
+programação  que  foram  aplicados  ao  ensino  de  Jovens  e  Adultos,  de  forma  a  incutir 
+valores  que  promovam  a  manutenção  de  cidades  limpas  no  estado  de  PE,  além  de  
+familiarizar  o  educando  com  ferramentas  e  linguagens  de  programação,  ensinar 
+matemática de maneira lúdica de forma a fazer com que aprendê-la seja prazeroso. No 
+contexto da educação de jovens e adultos essa temática se torna importante pois se tratam 
+de estudantes que podem possuir dificuldades de aprendizagem [MEC 2006], problemas 
+de permanência escolar [MEC 2006], idade destoante do ambiente escolar [MEC 2006] 
+o que faz com que o educando se sinta envergonhado [MEC 2006], ou com dificuldades 
+de aprendizagem por trabalhar bastante [MEC 2006], ou por ter filhos [MEC 2006], além 
+das diferenças de gerações e de integrações tecnológicas e de técnicas de aprendizagem, 
+advinda dessa diferença de idade [MEC 2006], o que faz com que trabalhar com turmas 
+de  jovens  e  adultos  seja  uma  tarefa  desafiadora  tanto  para  o  professor,  quanto  para  a 
+direção da escola e da família do educando. Vale salientar da necessidade da produção de 
+literatura  que  aborde  a  educação  de  jovens  e  adultos  no  Brasil,  “não  são  muitos  os 
+
+ 
+ 
+
+ 
+
+subsídios  escritos  destinados  a  responder  às  necessidades  pedagógicas  dos  educadores 
+que atuam nas salas de aula da educação de jovens e adultos” [MEC, 2006], justificando 
+sua escolha como público alvo.  
+
+1.1 Trabalhos Relacionados 
+
+Wildner,  Franzen  e  Gomes  (2018)  desenvolveram  uma  ferramenta  web  chamada 
+HelpBlock com o objetivo de ensinar algoritmos em turmas de graduação de faculdades 
+de computação. O HelpBlock utiliza a biblioteca Blockly. Essa ferramenta obteve altos 
+índices  de  satisfação  pelos  discentes  além  de  promover  a  motivação  dos  educandos, 
+porém  o  público-alvo  se  trata  de  estudantes  de  graduação  e  não  da  turma  de  Jovens  e 
+Adutos brasileiros, público-alvo do presente artigo. Já Leitão e Castro (2018) utilizaram 
+o Scratch em uma oficina, onde os participantes (estudantes dos cursos de  Pedagogia e 
+de  Matemática,  professores  da  Educação  Básica  e  alunos  da  Pós-Graduação) 
+desenvolveram  jogos  com  o  intuito  de  ensinar  matemática,  tais  como  o  “Jogo  da 
+Multiplicação” e  “Pokémon e as operações” (trata  da soma, subtração, multiplicação e 
+divisão), ambos utilizado programação em blocos [LEITÃO e CASTRO 2018]. Hein et 
+al. (2015) exploraram a temática da robótica e desenvolveram uma camada de interface 
+implementada  com  a  biblioteca  Blockly,  que  por  sua  vez  passa  informações  para  o 
+microcontrolador Raspberry Pi que controla o modelo robótico. Embora utilize a temática 
+multidisciplinar  para  o  ensino  de  Geografia  e  reciclagem  de  lixo  eletrônio  através  da 
+programação em blocos, o público-alvo do estudo foi diferente, se tratando de estudantes 
+de terceira e quarta série em escolas de Faro, Portugal.   
+
+ 
+ Silva, Sales e Castro (2018) estudaram o efeito da gamificação com auxílio do 
+ambiente Moodle Help Class Online na aprendizagem de física por estudantes do segundo 
+ano do Ensino Médio dos cursos de Técnico Integrado do Instituto Federal de Educação, 
+Ciência  e  Tecnologia  do  Ceará  (IFCE).  Os  autores  concluíram  que  a  gamificação 
+promoveu a motivação nos estudantes e a melhora na aprendizagem [Silva, Sales e Castro 
+2018]. Matos e Matos (2017) relataram que a gamificação proporcionou maior interesse 
+dos estudantes na matéria de Português em turmas do curso profissionalizante de Técnico 
+em  Informática  do  IF  Goiano,  nas  turmas  de  segundo  e  terceiro  anos.  Freitas,  Maio  e 
+Basílio (2018) construíram uma ferramenta de ensino de matemática chamada ProGame 
+direcionada aos alunos do primeiro ano do ensino  médio, ou seja, não foi  aplicado em 
+turmas de Jovens e Adultos. Como resultados encontraram que os alunos se sentiram à 
+vontade com os recursos e que pretendem utilizar o ambiente gamificado com frequência 
+[Freitas, Maio e Basílio 2018].  
+
+ 
+Paganini e Bolzan (2016) elaboraram um jogo de ensino de física voltado para a 
+Educação de Jovens e Adultos, público escolhido pelo presente trabalho. A ferramenta 
+desenvolvida  pelos  autores  se  mostrou  bastante  promissora,  porém  não  utiliza  a 
+programação  em  blocos.  Já  Oliveira,  Bitencourt  e  Monteiro  (2016)  dizem  utilizar  a 
+gamificação em turma de jovens e adultos, porém em um contexto diferente, pois se trata 
+do  ensino  médio  integrado  ao  nível  técnico,  além  de  não  utilizar  a  programação  em 
+blocos.  A  proposta  deste  trabalho,  é  a  utilização  de  uma  ferramenta  para  ensino 
+multidisciplinar (matemática, lógica, programação e educação ambiental) com o uso da 
+programação  em  blocos  de  forma  gamificada  e  sua  aplicação  na  sala  de  aula  para 
+identificar indícios da sua eficácia na aprendizagem e motivação na turma de Jovens e 
+Adultos – EJA, a qual será melhor explicada na secção de metodologia.  
+
+ 
+ 
+
+ 
+
+2. Metodologia 
+
+Em  um  primeiro  momento  foi  criada  uma  página  personalizada  para  o  projeto,  com  o 
+objetivo  de  apresentar  o  projeto,  e  hospedar  o  jogo,  personalizado  para  o  Colégio.  A 
+página foi desenvolvida  em HTML e CSS. Em seguida foi realizada a modificação do 
+jogo Bird, do Blockly Games personalizando-o para a aplicação no colégio e modificando 
+a temática do jogo, o personagem principal do jogo e seu objetivo final. O jogo é dividido 
+em 10 fases em que cada uma requer um conhecimento mais avançado de matemática e 
+programação,  além  de  desenvolver  a  consciência  ambiental.  O  jogo  é  codificado  em 
+JavaScript  e  utiliza  o  Closure  compile  da  Google.  Após  essa  etapa,  foi  realizada  a 
+instrução de uso do  jogo para  a professora, que consistiu em um papel de ambientar  a 
+professora  do  colégio  com  a  proposta  do  projeto  e  do  jogo,  assim  como  utilizá-lo  e 
+combinar ideias da maneira de se utilizar essa ferramenta em sala de aula. Após isso, foi 
+aplicado o jogo em sala de aula. A professora efetiva do colégio ficou responsável por 
+administrar a sala de aula, retirando qualquer viés na pesquisa que poderia trazer se um 
+outro profissional fosse responsável por ministrar a aula para turma. Antes de cada fase 
+do  jogo  foi  apresentado  o  conteúdo  necessário  para  sua  execução  (ex.:  círculo 
+trigonométrico e plano cartesiano). Por último, aplicação de questionário de satisfação do 
+aluno e do professor. 
+
+3. Análise dos Resultados 
+
+A turma do EJA módulo 5 foi acompanhada pela professora que utilizou o data-show para 
+ensinar  como  jogá-lo,  enquanto  um  aluno  ficou  em  um  computador  programando  em 
+blocos de acordo com a direção (ângulo) que os colegas da turma diziam para ele jogar, 
+ou seja, foi feita uma atividade coletiva em que todos os alunos davam suas opiniões e 
+discutiam entre eles e viam no data-show o resultado das escolhas. Segundo a professora, 
+os  estudantes  ficaram  animados  por  verem  os  acertos  que  realizavam  com  relação  ao 
+conteúdo de matemática no jogo realizado coletivamente. Eles chegaram ao nível 4. Já na 
+turma módulo 4, que teve aula depois desse dia, foi possível a utilização dos tablets com 
+o modem pessoal, sendo a  turma dividida em grupos de 3 a 4 pessoas por  tablet, para 
+resolver o jogo, porém a  maior parte dos grupos não passou da primeira fase devido a 
+velocidade da internet wi-fi que estava lenta devido a problemas na ocasião.  No fim da 
+aula, quando a maioria dos estudantes haviam se retirado, um grupo continuou o jogo e 
+os estudantes dessa turma conseguiram chegar até o nível 4, pois a velocidade da internet 
+melhorou porque poucas pessoas estavam usando a internet. Em seguida veio a época das 
+avaliações  de  fim  de  ano,  e  não  se  pode  mais  repetir  a  aplicação  do  jogo,  embora  os 
+estudantes o queiram e a professora também. Vale salientar que antes que o jogo fosse 
+introduzido,  foram  realizadas  aulas  sobre  o  conteúdo  matemático  necessário  para  a 
+compreensão  dos  estudantes  para  cada  fase  do  jogo.  A  professora  também  fez  uma 
+atividade com o jogo impresso no papel nas primeiras fases. A familiarização realizada 
+pela  pesquisadora  sobre  o  jogo  Preservando  a  Natureza  para  a  professora  se  mostrou 
+fundamental para a apropriação da ferramenta computacional pela mesma, influenciando 
+o planejamento de aula da professora.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+3.1 Análise descritiva dos dados 
+
+O estudo foi composto por 2 turmas de Jovens e Adultos, módulo 4 e módulo 5, 
+ 
+em um universo de 53 estudantes, 16 estudantes foram selecionados por conveniência, 
+por comparecerem ao estabelecimento de ensino nos dias do experimento. 30,19% dos 
+estudantes,  participaram  do  experimento  de  uma  maneira  global  (turma  4  e  5 
+conjuntamente).  Destes 53 alunos, 60,38% dos estudantes são mulheres e os estudantes 
+estão distribuídos em uma faixa de idade de 16 a 76 anos. 35% dos estudantes estão na 
+faixa etária de 16 a 26 anos. A média de idade foi de 34 anos, com desvio padrão de 15 
+anos. Em relação à amostra, 62,50% dos estudantes são mulheres. Ela está distribuída em 
+uma faixa de 17 a 67 anos de idade, onde 75,00% dos estudantes se encontram numa faixa 
+etária  entre  17  e  46  anos,  e  uma  média  de  36  anos  e  desvio  padrão  de  14  anos 
+aproximadamente. 
+
+4. Discussão 
+
+100% dos estudantes da amostra selecionada responderam ao questionário de satisfação. 
+43,75%  dos  estudantes  se  mostraram  satisfeitos  ou  muito  satisfeitos  com  o  jogo 
+Preservando  à  Natureza,  enquanto  que  50%  se  mostraram  indiferentes.  Em  relação  à 
+percepção de  aprendizado, 81,25% dos estudantes acreditam  ter aprendido  matemática 
+através do jogo, 87,5% creem terem aprendido lógica, 93% dos estudantes acreditam ter 
+aprendido noções de meio ambiente (reciclagem), porém 75% dos estudantes não creem 
+ter aprendido programação. Provavelmente a velocidade da internet pode ter influenciado 
+os  resultados,  pelo  fato  dos  estudantes  terem  dificuldade  de  passar  de  fase,  e  assim 
+treinarem  pouco  a  programação  em  blocos  em  pequenos  grupos,  porém  se  deixa  em 
+aberto para um próximo estudo mais aprofundado. 75,00% dos estudantes chegaram ao 
+nível 4, porém o restante não passou do nível 1, devido à internet. 81,25% acharam o jogo 
+difícil, porém 100% dos estudantes gostariam de repetir a experiência com jogos.  
+
+ 
+Também  foram  incluídas  perguntas  sobre  a  familiarização  dos  educandos  com 
+relação aos aparatos tecnológicos que poderiam ser utilizados na sala de aula para jogar 
+Preservando a Natureza. Apenas 50% dos estudantes dizem saber utilizar o computador, 
+enquanto  que  31,25%  dos  discentes  sabem  utilizar  tablet  e  56,25%  sabem  utilizar  o 
+smartphone, o que pode ser uma barreira para o aprendizado utilizando novas tecnologias, 
+e  mostra  indícios  que  os  estudantes  do  EJA  ainda  precisam  se  familiarizar  com  tais 
+tecnologias.  Os  dados  também  evidenciaram  que  os  estudantes  que  possuíam  os 
+dispositivos em casa constituem em sua maior parte dos estudantes que sabem utilizar os 
+respectivos  aparelhos,  o  que  mostra  indícios  que  os  estudantes  precisam  de  maior 
+acessibilidade a tablets, computadores e smartphones, em suas próprias residências, para 
+uma maior facilidade de uso em sala de aula.  
+
+Obteve-se como resposta do questionário de satisfação do professor, que a docente 
+ 
+está  satisfeita  em  relação  ao  jogo  Preservando  a  Natureza.  Segundo  a  mesma,  os 
+estudantes estiveram motivados durante a utilização do jogo.  Com relação ao ensino de 
+programação  proposto  pelo  jogo,  ela  se  descreveu  satisfeita,  e  acrescentou  que  o  jogo 
+necessita  de  um  tutorial  falando  sobre  a  programação  em  blocos  e  como  utilizá-la,  o 
+significado da linguagem e dos símbolos. Em relação às maiores dificuldades encontradas 
+
+ 
+ 
+
+ 
+
+em utilizar o jogo na sala de aula, o motivo apontado por ela foi a internet. Já as maiores 
+dificuldades  dos  seus  alunos  segundo  a  mesma  foi  a  internet    e  que  os  estudantes 
+necessitavam de muita intervenção nas aulas para revisar o conteúdo antes das fases do 
+jogo e de como jogá-lo, o que vai de encontro ao descrito na literatura por Fraser (2015), 
+que afirma ser um tipo de jogo autodidata. Questionada em relação aos pontos positivos 
+do  jogo,  ela  comenta  que  os  estudantes  se  sentiram  bastante  valorizados  quando 
+conseguiam passar de nível com a ajuda coletiva da turma para executar os comandos de 
+programação em blocos e estudo dos ângulos.  
+
+5. Conclusões 
+
+ 
+O jogo Preservando a Natureza se mostrou adequado para o ensino de matemática, 
+educação  ambiental  e  lógica  para  discentes  da  turma  de  Jovens  e  Adultos,  na  amostra 
+selecionada. Os estudantes demonstraram necessitar de muita intervenção nas aulas para 
+revisar  o  conteúdo  antes  do  início  das  fases  do  jogo  e  de  como  jogá-lo,  o  que  vai  de 
+encontro ao descrito na literatura por Fraser (2015), o que traz indícios que a utilização 
+desse tipo de jogo de forma autodidata necessita de estudos detalhados, em particular em 
+relação  ao  público  de  jovens,  adultos  e  idosos.  O  jogo  promoveu  a  satisfação  dos 
+estudantes  e  todos  os  discentes  que  participaram  do  estudo  gostariam  de  repetir  a 
+experiência com jogos em sala de aula.  
+
+Referências 
+
+Workshop, 2015. 
+
+FRASER,  N.  Ten  Things  We’ve  Learned  from  Blockly.  IEEE  Blocks  and  Beyond 
+
+FREITAS,  F.A.  DA,  MAIA,  P.H.M.,  BASÍLIO,  J.O.  PROGAME  –  Ambiente 
+educacional  gamificado  com  elementos  dos  descritores  de  matemática  do  sistema 
+permanente de avaliação da educação básica do Ceará. VII Congresso Brasileiro de 
+Informática  na  Educação  (CBIE),  2018.GLUSHKOVAL,  T.  Application  of  Block 
+programming  and  Game-Based  Learning  to  Enhance  Interest  in  Computer  Science. 
+Journal of innovations and Sustainability. n.1, p. 21-32, 2016. 
+
+GONZÁLES, L; GOMEZ,M.C.; ECHEVERRI, J. A. Motivation and Virtual Education 
+in  computer  science:  case  universidad  de  Medellín-Colombia.  1176  IEEE  Látin 
+America Transactions, v. 15, n. 6, junho 2017.GOOGLE, Blockly Games. Disponível 
+em: <https://blockly-games.appspot.com/about?lang=en> Acesso em 02 de janeiro de 
+2019.  
+
+HEIN, E., MASCHIO, E., MARCZAL, D., FILHO, P.L. RASPIBLOCOS: Ambiente de 
+Programação  Didático  Baseado  em  Raspberry  Pi  e  Blockly.  Simpósio  Brasileiro  de 
+Informática na Educação (SBIE), 2015.  
+
+LEITÃO, D.A., CASTRO, J.B.DE.A Construção de Recursos Digitais de Matemática: 
+uma experiência de autoria com o Scratch. VII Congresso Brasileiro de Informática na 
+Educação (CBIE), 2018.  
+
+MATOS, J.S.C., MATOS, F.B. O uso da Gamificação no projeto “Português Divertido”, 
+uma proposta de interdisciplinaridade. II Congresso sobre Tecnologias na Educação 
+(Ctrl+E), 2017. 
+
+MEC, Trabalhando com a Educação de Jovens e Adultos :Alunos e Alunas do EJA. 2006. 
+
+ 
+ 
+
+ 
+
+OLIVEIRA,  T.M  de,    BITENCOURT,    R.,  MONTEIRO,  W.M.  Experiências  com 
+Gamificação  no  Ensino  de  Computação  para  Jovens  e  Adultos  no  Sertão 
+Pernambucano. Proceedings of SBGames 2016, 2016. 
+
+PAGANI,  E.R,  BOLZAN.,  M.  de  S.  Ensinando  Física  através  da  Gamificação.VII 
+
+Encontro Científico de Física Aplicada, 2016. 
+
+SILVA, J.B.DA, SALES, G.L., CASTRO, J.B. Gamificação de uma sequência didática 
+como  estratégia  para  motivar  a  atitude  potencialmente  significativa  dos  alunos  no 
+ensino  de  óptica  geométrica.  VII  Congresso  Brasileiro  de  Informática  na  Educação 
+(CBIE), 2018. 
+
+SOUZA JUNIOR, J. C. de ; FIGUEIREDO, M. P.S. de ; MONTEIRO, Y.; CYSNEIROS, 
+G. A. de A. .Realidade Virtual,  Gamificação e Interdisciplinaridade, os norteadores 
+para inovar a aula de História e de Geografia-Uma experiência vivenciada no Colégio 
+CBV. V Congresso Nacional de Educação – CONEDU, 2018. 
+
+WILDSON, M.C., FRANZEN, E., GOMES, E.R. HELPBLOCK: uma ferramenta web 
+baseada na biblioteca Blockly para apoio ao ensino de algoritmos. Revista Tecnologias 
+na Educação , v. 25, 2018 
+
+ 
+ 
+
+ 
+
+ 
+
+

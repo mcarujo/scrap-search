@@ -1,0 +1,596 @@
+ 
+ 
+
+ 
+
+Robótica Educacional e Pensamento Computacional: uma 
+Avaliação da Percepção dos Alunos sobre o Tema 
+
+Ana Beatriz T. B. Dornelles1, Cristhyan A. Cruz2, Elizabet M.  S. Medeiros3,  
+João Victor A. Araújo1, Kely D. V. Villacorta3, Lorena C. L. Buriti1 
+
+1Graduando em Ciência da Computação 
+2 Graduando em Matemática Computacional  
+3Departamento de Computação Científica 
+Centro de Informática-Universidade Federal da Paraíba (UFPB)  
+João Pessoa – PB – Brasil 
+
+biadornelles.2011@gmail.com, cristhyan.cruz@mat.ci.ufpb.br, 
+elizabet@ci.ufpb.br, johnalcoforado@gmail.com, kelydvv@ci.ufpb.br, 
+lorenaburiti@cc.ci.ufpb.br 
+
+Resumo.  O  ensino  da  Robótica  Educacional  tem  se  mostrado  desafiador 
+principalmente no quesito da compreensão dos conceitos da programação. As 
+técnicas  de  Computação  Desplugada  aliadas  ao  Pensamento  Computacional 
+tem se mostrado um meio eficaz para auxiliar os alunos de Escolas Estaduais 
+na utilização, implementação, montagem e programação dos Kits de Robótica 
+Educacional. Este trabalho mostra alguns métodos utilizados para trabalhar a 
+resolução de problemas, a projeção de sistemas e vários outros conceitos da 
+ciência da computação, e a percepção dos alunos do 1º Ano do Ensino Médio 
+após 4 meses de implantação do projeto. 
+
+Abstract.  Teaching  Educational  Robotics  is  a  challenging  mainly  because  of 
+programming  concepts.  The  techniques  of  Unplugged  Computing  allied  to 
+Computational  Thinking  have  proven  to  be  an  effective  means  to  assist  State 
+School  students  in  the  use,  implementation,  assembly  and  programming  of 
+Educational Robotics Kits. This work shows some methods used to work with 
+problem  solving,  systems  projection  and  several  other  concepts  of  computer 
+science,  and  the  students'  perception  of  the  1st  year  of  high  school  after  4 
+months of project implementation. 
+
+1. Introdução 
+
+O projeto Robótica Educacional e Pensamento Computacional é um projeto de extensão 
+(Edital  PROBEX  2019)  com  vigência  de  10  meses  e  início  em  março  de  2019.  Esse 
+projeto visa auxiliar os alunos e professores na utilização, implementação, montagem e 
+programação  dos  Kits  de  Robótica,  recebidos  através  do  Projeto  de  Robótica 
+Educacional  do  Governo  da  Paraíba.  O  uso  do  pensamento  computacional  foi 
+incorporado  para  facilitar  a  resolução  de  problemas,  projeção  de  sistemas  e 
+compreensão  do  comportamento  humano,  através  da  extração  de  conceitos 
+fundamentais da ciência da computação [Wing 2006]. Esse projeto está sendo realizado 
+com os alunos do 1º ano do ensino médio da Escola Cidadã Integral Mons. Pedro Anísio 
+Bezerra Dantas, em João Pessoa-PB. 
+
+ 
+ 
+O  uso  de  uma  metodologia  própria  de  ensino,  lúdica  e  ao  mesmo  tempo 
+ 
+didática,  baseada  nos  conceitos  de  computação  desplugada  [Bell  2011]  e  pensamento 
+computacional  [Oliveira  2016],  mostrou-se  eficaz  para  o  desenvolvimento  das 
+competências  necessárias  à  robótica  educacional.  Procura-se  fazer  com  que  os  alunos 
+pensem  de  forma  crítica,  lógica  e  sistemática  para  resolução  de  problemas  [Bordini 
+2017].  Além  disso,  a  montagem  dos  kits  de  robótica  permite  aos  alunos  o 
+desenvolvimento cognitivo, a experiência do trabalho em equipe e da divisão de tarefas 
+[Oliveira 2016]. 
+
+ 
+Todas  as  atividades  propostas  foram  desenvolvidas  visando  os  4  pilares  do 
+pensamento  computacional  [Wing  2006]:  Decomposição-onde  os  alunos  tinham  que 
+identificar  um  problema  complexo  e  quebrá-lo  em  pedaços  menores  e  mais  fáceis  de 
+gerenciar;  Reconhecimento  de  padrões-  através  da  análise  individual  dos  problemas 
+menores  com  maior  profundidade,  se  pode  identificar  problemas  parecidos,  que  já 
+foram  solucionados  anteriormente;  Abstração-  foco  apenas  nos  detalhes  que  são 
+importantes,  enquanto  informações  irrelevantes  são  ignoradas;  Algoritmo-  Passos  ou 
+regras  simples  que  podem  ser  criados  para  resolver  cada  um  dos  subproblemas 
+encontrados. 
+
+Foram  desenvolvidos  diversos  materiais  didáticos  para  às  aulas  de  pensamento 
+ 
+computacional e utilizados os kits de robótica da  Fischertechnik (2019) disponíveis na 
+escola.  Também  foram  incorporadas  aulas  com  o  software  de  programação  visual  em 
+blocos,  Code.org,  para  estabelecer  a  relação  entre  o  pensamento  computacional  e  a 
+programação dos robôs. 
+
+ 
+A  ideia  principal  é  fazer  como  sugere  Blikstein  (2008),  introduzir  a  tecnologia 
+como um Cavalo de Tróia, usando ferramentas familiares, práticas e atividades lúdicas, 
+mediadas  por  professores,  com  potencial  de  causar  mudança  afetiva  e  conceitual.  De 
+forma que, “quando os estudantes apropriam-se da tecnologia de Tróia ... são capazes de 
+realizar investigações e construções autênticas” [Blikstein 2008]. Repassando de forma 
+sutil os conceitos da Ciência da Computação [Bundy 2007]. 
+
+2. Materiais e Métodos 
+
+O Projeto PROBEX é realizado por uma equipe de 2 alunos e 2 alunas coordenados por 
+2  professoras  do  Centro  de  Informática  da  UFPB.  O  planejamento  das  atividades  é 
+realizado  em  reuniões  semanais  e  leva  em  consideração  os  resultados  obtidos  nas 
+atividades anteriores. A  escola  disponibilizou  dois  laboratórios  para  execução  do 
+PROBEX, um de Robótica (Figura 1) e outro de Informática (Figura 2). 
+
+         
+
+ 
+
+Figura 1. Laboratório de Robótica                          Figura 2. Laboratório de Informática 
+
+A  metodologia  aplicada  nas  aulas  foi:  mediante  o  uso  de  dinâmicas,  trazer  de 
+ 
+forma  lúdica  os  conceitos  de  pensamento  computacional  e  de  programação  de  robôs. 
+
+ 
+
+Desta forma foram trabalhados, por exemplo, conceitos de criptografia (Figura 3) e de 
+algoritmo de busca binária (Figura 4). 
+
+        Figura 3. Cifra de Cesar                                  Figura 4. Fita métrica 
+
+                    
+
+ 
+
+ 
+A programação foi exercitada por intermédio do site Code.org (2015), aonde os 
+alunos  utilizaram  determinados  jogos  para  exercitar  e  fixar  o  uso  da  lógica  de 
+programação  na  solução  dos  problemas  apresentados.  Desta  forma,  foram  trabalhados 
+os conceitos de programação em blocos, condicionais e laços de repetição. 
+
+ 
+
+Segundo Zilli (2002) o ensino da robótica nas escolas tem como objetivo 
+
+desenvolver o raciocínio lógico do aluno, facilitar o uso de conceitos 
+aprendidos  em  outras  áreas  de  conhecimento  para  desenvolver 
+projetos,  trabalhar  conceitos  de  desenho,  física,  álgebra  e  geometria, 
+estimular a utilização de teorias em atividades concretas [Zilli 2002]. 
+
+Os 
+
+ 
+indicadores  deste  projeto  foram  baseados  nos  resultados  de  dois 
+questionários  elaborados  pela  equipe  do  PROBEX  sobre  o  tema  do  projeto,  usando 
+perguntas diretas, de múltipla escolha e de fácil entendimento. Os questionários foram 
+aplicados no início do projeto e após quatro meses de projeto. 
+
+Tabela 1. Comparativo entre dados do Questionário Inicial e do Questionário 
+aplicado após 4 meses de Projeto, com relação ao GÊNERO dos estudantes 
+
+Participantes Gênero 
+
+Questionário Inicial 
+Freq.  
+
+Quest. Após quatro meses de projeto. 
+Freq. 
+
+3. Resultados 
+
+Masculino 
+
+Feminino 
+
+Outro 
+
+49% 
+
+49% 
+
+2% 
+
+ 
+
+45% 
+
+55% 
+
+0% 
+
+Tabela 2. Comparativo das respostas dos estudantes sobre o nível de 
+dificuldade em resolver problemas 
+
+Questionário Inicial 
+
+Questionário após quatro meses de projeto 
+
+Perguntas 
+
+Respostas 
+
+Freq. 
+
+Perguntas 
+
+Respostas 
+
+Freq. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Sente dificuldade 
+em resolver 
+problemas de 
+lógica 
+
+Sente dificuldade 
+em resolver 
+problemas de 
+matemática 
+
+Sempre / Quase sempre  38% 
+
+Nunca / Quase Nunca 
+
+14% 
+
+Na maioria das vezes 
+
+41% 
+
+Na maioria das vezes 
+
+36% 
+
+Nunca / Quase Nunca 
+
+21% 
+
+Sempre / Quase Sempre 
+
+50% 
+
+Sempre / Quase sempre  46%  Consegue 
+
+Nunca / Quase Nunca 
+
+14% 
+
+Na maioria das vezes 
+
+24% 
+
+Na maioria das vezes 
+
+41% 
+
+Consegue 
+visualizar melhor 
+a resolução de 
+problemas de 
+lógica 
+
+perceber como 
+aplicar, na 
+prática, os 
+conteúdos vistos 
+durante o projeto 
+
+Nunca  /  Quase  Nunca 
+/Não respondeu 
+
+30% 
+
+Sempre / Quase Sempre 
+
+46% 
+
+Tabela 3. Comparativo sobre a percepção dos estudantes, sobre robótica 
+educacional e pensamento computacional 
+
+Perguntas 
+
+Respostas 
+
+Questionário Inicial      
+
+Freq. 
+
+Quest. após quatro meses 
+de projeto - Freq. 
+
+Você sabe o que é 
+Robótica 
+educacional? 
+
+Claro que sei / Sei 
+
+Acho que sei 
+
+Não sei 
+
+Claro que sei / Sei 
+
+Você já sabe o que é 
+um Algoritmo? 
+
+Acho que sei 
+
+Você já sabe o que é 
+Pensamento 
+Computacional? 
+
+Não sei / Não respondeu 
+
+Claro que sei / Sei 
+
+Acho que sei 
+
+Não sei / Não respondeu 
+
+16% 
+
+24% 
+
+59% 
+
+14% 
+
+16% 
+
+71% 
+
+5% 
+
+38% 
+
+57% 
+
+Tabela 4. Comparativo sobre o interesse inicial dos estudantes em participar 
+do projeto e a motivação em permanecer no projeto após 4 meses 
+
+Questionário Inicial 
+
+Respostas 
+
+Freq. 
+
+Quest. após 4 meses 
+de Projeto 
+
+Muito alto / Alto 
+
+25% 
+
+Interesse em participar do 
+projeto de robótica 
+educacional e pensamento 
+computacional. 
+
+Moderado 
+
+Baixo 
+
+Motivação em 
+permanecer no 
+projeto 
+
+57% 
+
+19% 
+
+ 
+
+ 
+
+91% 
+
+9% 
+
+0% 
+
+68% 
+
+18% 
+
+14% 
+
+45% 
+
+41% 
+
+14% 
+
+Freq. 
+
+68% 
+
+18% 
+
+14% 
+
+ 
+
+ 
+
+Tabela 5. Comparativo sobre o interesse dos estudantes nas atividades 
+realizadas durante o projeto, aplicado após quatro meses de projeto 
+
+Interesse nas Atividades realizadas 
+
+Moderada Freq.  Baixa   Freq. 
+
+Muito alta / Alta 
+Freq. 
+
+Utilização do Code.Org 
+
+Utilização dos Kits de Robótica 
+
+Aula temática 
+
+Aula teórica 
+
+4. Discussão 
+
+73% 
+
+77% 
+
+81% 
+
+59% 
+
+23% 
+
+18% 
+
+14% 
+
+41% 
+
+14% 
+
+5% 
+
+5% 
+
+0% 
+
+O  total  de  alunos  que  responderam  ao  Questionário  Inicial  foi  de  37  estudantes  e  o 
+Questionário  aplicado após 4 meses de projeto  obteve 22 respostas. A faixa  etária dos 
+entrevistados variou de 14 a 15 anos, em 2 turmas do 1º ano do ensino médio. A Tabela 
+1 mostra a declaração de  gênero dos entrevistados  e revela que houve um aumento no 
+interesse  dos  estudantes  do  gênero  feminino  de  45%  para  55%  após  quatro  meses  de 
+atividades do projeto.  
+
+ 
+A robótica educacional é uma área multidisciplinar que integra disciplinas como: 
+matemática, engenharia mecânica, inteligência artificial, inglês, história, entre outras. É 
+um  instrumento  que  permite  ao  professor  demonstrar  na  prática  conteúdos  abordados 
+teoricamente,  tornando  o  ensino  motivador  ao  aluno  e  melhorando  sua  capacidade  de 
+aprendizado  [Zilli  2004].  A  introdução  de  tecnologias  como  método  didático  pode 
+colaborar com o aumento da procura pelo conhecimento e o desenvolvimento de muitas 
+outras habilidades necessárias ao aluno. 
+
+ 
+Os  alunos  entrevistados  foram  indagados  sobre  o  nível  de  dificuldades  em 
+resolver problemas e foi possível observar os resultados na Tabela 2, onde 38% sempre 
+ou  quase  sempre  relatam  dificuldade  em  resolver  problemas  de  lógica  e  que  46% 
+sempre ou quase sempre sente dificuldade em resolver problemas de matemática. Após 
+quatro  meses  de  atividades  do  projeto  pôde-se  observar  que  estes  números  já 
+melhoraram  pois  agora  apenas  14%  ainda  não  consegue  visualizar  como  resolver 
+problemas  de  lógica  e  nem  perceber  como  aplicar,  na  prática,  os  conteúdos  vistos 
+durante  o  projeto.  Foi  perceptível  também  observar  que  antes  21%  não  sentia 
+dificuldades com lógica e, após 4 meses de projeto, 50% afirma que consegue visualizar 
+como resolver problemas de lógica sempre ou quase sempre. O importante foi verificar 
+que 46% (sempre ou quase sempre) e que 41% (na maioria das vezes) dos entrevistados 
+afirmam que conseguem perceber como aplicar, na prática, os conteúdos vistos durante 
+o projeto. 
+
+ 
+A  Tabela  3  apresenta  a  percepção  dos  alunos  no  início  e  após  4  meses,  com 
+relação  aos  conhecimentos  base  do  projeto.  É  possível  verificar  que  no  início  apenas 
+16%  afirmava  saber  o  que  é  robótica  educacional,  agora  são  91%.  O  pensamento 
+computacional  foi  assimilado  por  45%,  contra  5%  no  início  do  projeto.  O  conceito  de 
+algoritmo  que  no  inicio  71%  afirmava  que  não  sabia  ou  não  respondeu  foi  assimilado 
+completamente por 68% dos estudantes. 
+
+ 
+O  interesse  dos  estudantes  em  participar  do  projeto  e  a  motivação  em 
+permanecer  no  projeto  após  4  meses  pode  ser  visto  na  Tabela  4.  Demonstrando  que 
+
+ 
+ 
+
+ 
+
+ 
+ 
+antes  de  saber  do  que  se  tratava  o  projeto  somente  25%  dos  estudantes  tinham 
+interesse, mas depois de quatro meses participando efetivamente do projeto, 68% afirma 
+interesse e motivação em permanecer participando. 
+
+Foi verificado também qual o tipo de atividade havia sido mais interessante do 
+ 
+ponto  de  vista  de  aprendizado  para  os  estudantes.  A  Tabela  5  apresenta  a  seguinte 
+classificação  com  relação  ao  interesse  dos  estudantes:  Aula  temática  com  81%, 
+Utilização dos Kits de Robótica com 77%, Utilização do Code.Org com 73% e as Aulas 
+Teóricas com 59%. 
+
+5. Conclusão 
+
+Os  resultados,  embora  parciais,  pois  ainda  faltam  5  meses  para  o  fim  do  Projeto,  já 
+indicam pontos de avanço significativos como a compreensão dos conceitos básicos do 
+projeto,  vistos  na  Tabela  3,  pensamento  computacional,  robótica  educacional  e 
+algoritmos não são mais palavras incompreensíveis.  
+
+ 
+A  mudança  na  relação  dos  alunos  com  o  projeto,  (Tabela  4),  onde  68% 
+demonstra  interesse  e  motivação  para  continuar  participando,  foi  também  observada 
+pela equipe do projeto durante as aulas,  a cada aula os alunos demonstravam cada vez 
+mais  interesse  e  evolução  tanto  no  raciocínio  logico  quanto  no  pensamento 
+computacional,  realizando  as  atividades  cada  vez  mais  rapidamente.  E  isso  também 
+pôde  ser  verificado  pelos  resultados  da  Tabela  2,  onde  50%  sempre  ou  quase  sempre 
+consegue  visualizar  melhor  a  resolução  de  problemas  de  lógica  e  36%  consegue  na 
+maioria das vezes. 
+
+ 
+Foi possível identificar  as atividades que mais  prenderam a atenção dos alunos 
+(Tabela  5),  classificando-as  e  permitindo  à  equipe  confirmar  que  atividades  mais 
+lúdicas, com temas que relacionam a teoria à prática, são a melhor forma de repassar o 
+conhecimento de pensamento computacional e robótica educacional. 
+
+ 
+Finalmente notou-se que, na percepção dos alunos, os assuntos deste projeto são 
+refletidos em outras  matérias, de tal forma que eles estão utilizando os conhecimentos 
+aprendidos  para  agregar  em  outras  disciplinas.  Conforme  pode  ser  visto  na  Tabela  2, 
+onde  46%  sempre  ou  quase  sempre  consegue  perceber  como  aplicar,  na  prática,  os 
+conteúdos vistos durante o projeto e 41% consegue na maioria das vezes. 
+
+Referências 
+
+Bell,  T.; Witten, I. H.;  Fellows (2011) M. “Computer Science Unplugged - Ensinando 
+sem  o  uso  do  computador”,  Disponível  em: 
+
+Ciência  da  Computação 
+https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-
+portuguese-brazil-feb-2011.pdf, Acesso em: 04 de maio de 2017. 
+
+Blikstein,  P.  in  Noguera,  P.  &  Silva,  C.  A.(2008)  “Freire  and  the  Possible  Dream”, 
+TRAVELS  IN  TROY  WITH  FREIRE  -  Technology  as  an  Agent  of  Emancipation, 
+Sense  Publishers,  Rotterdam,  Disponível  em:  http://www.blikstein.com/paulo/ 
+documents/books/Blikstein-TravelsInTroyWithFreire.pdf,  Acesso  em:  15  de  junho 
+de 2019. 
+
+Bordini, Adriana et al. (2017) “Pensamento Computacional nos Ensinos Fundamental e 
+Médio:  uma  revisão  sistemática”,  In:  Brazilian  Symposium  on  Computers  in 
+Education (Simpósio Brasileiro de Informática na Educação-SBIE), p. 123. 
+
+ 
+
+Brackmann, Christian et al. (2017) “Pensamento Computacional Desplugado: Ensino e 
+Avaliação  na  Educação  Primária  Espanhola”,  In:  Anais  dos  Workshops  do 
+Congresso Brasileiro de Informática na Educação, p. 982. 
+
+Bundy  A.  (2007)  “Computational  Thinking  Is  Pervasive”,  Journal  of  Scientific  and 
+
+Practical Computing, vol. 1, n. 2, pp. 67-69. 
+
+Code.org (2013) What is Code.org? [S.l.], Disponível em: http://Code.org, Acesso em: 
+
+10 de novembro de 2016.  
+
+de junho de 2019. 
+
+FischerTechnik (2019) Disponível em: http://www.fischerbrasil.com.br. Acesso em: 15 
+
+Oliveira,  E.  J.  S.  de.  (2016),  “Pensamento  computacional  e  robótica:  um  estudo  sobre 
+habilidades desenvolvidas em oficinas de robótica educacional”. Monografia. UFPB. 
+Disponível  em:  http://rei.biblioteca.ufpb.br:8080/jspui/bitstream/123456789/2857/1/ 
+EJSO21062016.pdf, Acesso em: 15 de junho de 2019. 
+
+Wing, J. M. (2006). “Computational thinking”. Commun. ACM, 49(3):33–35. 
+
+Zilli,  Silvana  do  Rocio  (2004)  “A  Robótica  Educacional  no  Ensino  Fundamental: 
+Perspectivas 
+em: 
+https://repositorio.ufsc.br/bitstream/handle/123456789/86930/224814.pdf?sequence=
+1, Acesso em: 15 de junho de 2019. 
+
+de  Mestrado,  Disponível 
+
+Prática”,  Dissertação 
+
+e 
+
+ 
+ 
+
+ 
+
+
